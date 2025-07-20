@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MBTI Personality Types</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+
+        <!-- Trang danh sách MBTI -->
+        <div id="list">
+
+            <!-- Giới thiệu MBTI Opposite -->
+            <div id="opposite" class="list-page">
+                <div id="opposite-list" class="list-layout">
+                    <div id="header-opposite">
+                        <h1>Cách MBTI phân loại 16 nhóm tính cách</h1>
+                        <p>
+                            Trắc nghiệm MBTI dùng một chuỗi các câu hỏi trắc nghiệm liên quan đến những vấn đề cơ bản trong cuộc sống với các đáp án sẵn có để bạn lựa chọn. Tổng kết bài trắc nghiệm sẽ cho ra kết quả đánh giá bạn là người có tính cách như thế nào thông qua phương pháp phân loại.
+                            <br>
+                            Sự phân loại này dựa trên 4 nhóm tính cách cơ bản, mỗi nhóm là một cặp lưỡng phân của 8 yếu tố chức năng, nhận thức sau:
+                        </p>
+                    </div>
+                    <div id="grid-opposite">
+                        <!-- Nội dung sẽ được tạo bằng JavaScript -->
+                    </div>
+                </div>
+            </div>
+
+            <!-- Trang danh sách MBTI Grid -->
+            <div id="list-page" class="list-page">
+                <button class="nav-arrow left-arrow">&#10094;</button>
+                <div class="list-layout">
+                    <div class="header">
+                        <h1>16 Nhóm Tính Cách MBTI</h1>
+                        <p>Khám phá tính cách của bạn qua hệ thống phân loại MBTI</p>
+                    </div>
+                    <div class="carousel-container">
+                        <div id="mbti-grid" class="mbti-grid">
+                            <!-- Nội dung JS sẽ render -->
+                        </div>
+                    </div>
+                    <div class="dots-container" id="dots-container">
+                        <!-- Dot pagination -->
+                    </div>
+                </div>
+                <button class="nav-arrow right-arrow">&#10095;</button>
+            </div>
+
+        </div>
+
+        <!-- Trang chi tiết MBTI -->
+        <div id="detail-page" class="detail-page">
+            <div class="list-layout detail-layout">
+
+                <div class="detail-header">
+                    <div class="top-header">
+                        <button class="back-btn" onclick="showListPage()">← Quay lại danh sách</button>
+                        <div id="detail-code" class="detail-code"></div>
+                    </div>
+                    <img id="detail-image" class="detail-image" />
+                    <div class="bottom-header">
+                        <div id="detail-description" class="detail-description"></div>
+                        <button class="test-btn">Khám phá tính cách của bạn</button>
+                    </div>
+                </div>
+
+                <div id="detail-container" class="detail-container">
+                    <div class="left-detail-container">
+                        <div class="tableofcontents">
+                            <div class="tableofcontents-header" id="tableofcontents-header"></div>
+                            <!-- Đề mục JS render -->
+                        </div>
+                    </div>
+                    <div class="right-detail-container">
+                        <div class="right-detail-header" id="right-detail-header"></div>
+                        <!-- Nội dung chi tiết JS render -->
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="btn-nav">
+                <img class="menu" src="./img/menu.png" />
+            </div>
+        </div>
+
+    </div>
+
+    <script type="module" src="script.js"></script>
+</body>
+</html>
