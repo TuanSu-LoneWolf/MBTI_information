@@ -446,7 +446,7 @@ export const mbtiData = {
         },
         {
             "code": "ISFP",
-            "name": "Nhà phiêu lưu",
+            "name": "Người nghệ sĩ",
             "description": "Ẩn dưới vẻ ngoài trầm lặng, ISFP sở hữu một trái tim tràn đầy nhiệt huyết của người nghệ sĩ. Họ vừa hướng nội vừa hướng ngoại, dễ vui dễ buồn, khó đoán và tự phát. ISFP cũng là người yêu tự do và đam mê trải nghiệm, biết lắng nghe và quan tâm đến những người xung quanh.",
             "image": "./img/isfp.png",
             "details": [

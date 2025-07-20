@@ -430,6 +430,10 @@ body {
   color: #263a4d;
 }
 
+.section-div.active span {
+  color: #1d4ed8;
+}
+
 .section-div:hover span,
 .section-div.active span {
   transform: translateX(0px);
