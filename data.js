@@ -1830,7 +1830,7 @@ export const mbtiData = {
                         },
                         {
                             "title": "INFJ là viết tắt của những chữ cái gì?",
-                            "content": "● ● <b>I - Hướng nội:</b> Đối với những người thuộc nhóm tính cách INFJ, thế giới ẩn sâu bên trong mỗi chúng ta mới là thế giới thật. Ngược lại, thế giới bên ngoài là nơi thuộc về những người E - Hướng ngoại.\n\n● <b>N - Trực giác:</b> Bạn tập trung vào ý nghĩa của sự vật, sự việc, khác với những người có tính cách S - Giác quan sử dụng cả năm giác quan thị giác, thính giác, khứu giác, vị giác, cảm giác để nhìn nhận và đánh giá.\n\n● <b>F - Cảm xúc:</b> Bạn đưa ra quyết định chủ yếu dựa trên cảm nhận cá nhân. Ngược lại, những người có tính cách T - Lý trí lại đưa ra quyết định dựa vào số liệu và đo lường chính xác.\n\n● <b>J - Nguyên tắc:</b> Bạn dựa vào cấu trúc sẵn có để thoải mái đưa ra quan điểm mà không phải mất công suy xét nhiều. Trong khi đó, những người thiên về tính cách P - Linh hoạt lại thích môi trường tự do và họ sẽ tự sắp đặt quy tắc bên trong cho mình."
+                            "content": "● <b>I - Hướng nội:</b> Đối với những người thuộc nhóm tính cách INFJ, thế giới ẩn sâu bên trong mỗi chúng ta mới là thế giới thật. Ngược lại, thế giới bên ngoài là nơi thuộc về những người E - Hướng ngoại.\n\n● <b>N - Trực giác:</b> Bạn tập trung vào ý nghĩa của sự vật, sự việc, khác với những người có tính cách S - Giác quan sử dụng cả năm giác quan thị giác, thính giác, khứu giác, vị giác, cảm giác để nhìn nhận và đánh giá.\n\n● <b>F - Cảm xúc:</b> Bạn đưa ra quyết định chủ yếu dựa trên cảm nhận cá nhân. Ngược lại, những người có tính cách T - Lý trí lại đưa ra quyết định dựa vào số liệu và đo lường chính xác.\n\n● <b>J - Nguyên tắc:</b> Bạn dựa vào cấu trúc sẵn có để thoải mái đưa ra quan điểm mà không phải mất công suy xét nhiều. Trong khi đó, những người thiên về tính cách P - Linh hoạt lại thích môi trường tự do và họ sẽ tự sắp đặt quy tắc bên trong cho mình."
                         },
                         {
                             "title": "Trực giác mạnh",
@@ -2061,17 +2061,48 @@ export const mbtiData = {
             ]
         },
         {
-            "code": "ENTJ",
-            "name": "Nhà lãnh đạo",
-            "description": "Quyết đoán, logic và có tầm nhìn xa",
-            "image": "/images/mbti/entj.png",
+            "code": "INTP",
+            "name": "Nhà tư duy",
+            "description": "INTP là những người yêu thích tìm tòi về thế giới xung quanh, về nhân sinh và vũ trụ. Giống với nhóm ISTP, các INTP cũng đánh giá sự vật sự việc và ra quyết định dựa trên tư duy logic thay vì cảm xúc hay ý kiến chủ quan. Những Nhà tư duy có khả năng tập trung cao độ và thích một mình tìm tòi về thế giới, họ muốn hoàn thiện bản thân ở tất cả những lĩnh vực mà mình yêu thích.",
+            "image": "./img/intp.png",
             "details": [
                 {
                     "section": "Tổng quan",
                     "items": [
                         {
-                            "title": "Giới thiệu",
-                            "content": "ENTJ là nhà lãnh đạo bẩm sinh với khả năng tổ chức và ra quyết định nhanh chóng. Họ có tầm nhìn xa và luôn hướng tới mục tiêu. Những người này thường rất tự tin, có khả năng truyền cảm hứng cho người khác và không ngại đối mặt với thử thách."
+                            "content": "<b>INTP (Nhà tư duy)</b> là những người yêu thích tìm tòi về thế giới xung quanh, về nhân sinh và vũ trụ. Giống với nhóm ISTP, các INTP cũng đánh giá sự vật sự việc và ra quyết định dựa trên tư duy logic thay vì cảm xúc hay ý kiến chủ quan. Những Nhà tư duy có khả năng tập trung cao độ và thích một mình tìm tòi về thế giới, họ muốn hoàn thiện bản thân ở tất cả những lĩnh vực mà mình yêu thích."
+                        },
+                        {
+                            "title": "INTP là viết tắt của những chữ cái gì?",
+                            "content": "● <b>I - Hướng nội:</b> Đối với những người thuộc nhóm tính cách INTP, thế giới ẩn sâu bên trong mỗi chúng ta mới là thế giới thật. Ngược lại, thế giới bên ngoài là nơi thuộc về những người E - Hướng ngoại. \n\n● <b>N - Trực giác:</b> Bạn tập trung vào ý nghĩa của sự vật, sự việc, khác với những người có tính cách S - Giác quan sử dụng cả năm giác quan thị giác, thính giác, khứu giác, vị giác, cảm giác để nhìn nhận và đánh giá. \n\n● <b>T - Lý trí:</b> Bạn đưa ra quyết định dựa trên góc nhìn thực tế bằng số liệu và đo lường chính xác. Ngược lại, các F - Tình cảm ưu tiên đưa ra quyết định dựa trên cảm nhận cá nhân. \n\n● <b>P - Linh hoạt:</b> Bạn thỏa thích vẫy vùng trong thế giới của riêng mình với những quy tắc ngầm được bạn tự tay sắp xếp. Trái lại, những người thuộc nhóm J - Nguyên tắc lại cảm thấy ổn khi được áp cho những luật lệ được sắp đặt sẵn."
+                        },
+                        {
+                            "title": "Cuộc sống thu mình",
+                            "content": 'Những người thuộc nhóm tính cách INTP sống trong vòng tròn của riêng mình, nơi họ tìm kiếm lời giải đáp cho những vấn đề cá nhân (thường là mang tính học thuật) mặc cho thế giới ngoài kia đang xoay vần ra sao.',
+                        },
+                        {
+                            "title": "Tri thức là tất cả",
+                            "content": "Các INTP đánh giá cao tri thức hơn mọi thứ. Bộ não của họ liên tục hoạt động để tạo nên những lý thuyết mới và chứng minh cũng như phản biện những lý thuyết sẵn có. Đối với những Nhà tư duy, không có quy luật gì là bất biến, chỉ có logic là trường tồn. Họ sẵn sàng dành hàng giờ cho sự nghiệp học tập của mình, đắm chìm trong sách vở và tri thức. Là một người đam mê học hỏi như vậy nên các INTP cũng rất thích kết giao với những người bạn có thể cùng họ bàn luận về những lý thuyết kể trên."
+                        },
+                        {
+                            "title": 'Linh hoạt trong giới hạn',
+                            "content": "Các INTP không thích chỉ đạo người khác, cũng không thích thúc ép người khác theo ý mình. Trong hầu hết các tình huống, họ đều rất kiên nhẫn và linh hoạt, trừ khi bạn chạm tới “vảy ngược” là những lý thuyết mà họ đã dày công nghiên cứu, khi ấy các INTP có thể trở nên rất cố chấp."
+                        },
+                        {
+                            "title": "Đề cao tính logic",
+                            "content": "Là một người yêu sự logic, các INTP không đánh giá những kết luận được đưa ra dựa trên tình cảm hoặc bị chi phối quá nhiều bởi cảm xúc.\n\nCác INTP cũng không phải là người dễ đồng cảm và thấu hiểu cảm xúc của những người xung quanh, tuy nhiên đây cũng là một điểm yếu cần khắc phục của họ. Việc thiếu tinh tế trong nhìn nhận về mặt cảm xúc sẽ khiến mối quan hệ giữa người và người trở nên khô khan, không có sự hỗ trợ lẫn nhau, thậm chí đôi khi các INTP có thể vô tình đưa ra những lời đánh giá có phần tiêu cực và làm tổn thương người khác."
+                        },
+                        {
+                            "title": "Không giỏi diễn đạt bằng lời",
+                            "content": "Các INTP không phải là người có năng khiếu diễn giải bằng lời. Họ có thể khám phá ra vô vàn lý thuyết mới, học thêm được rất nhiều điều bổ ích, tuy nhiên lại chẳng thể cắt nghĩa những gì họ vừa tiếp thu được cho người khác. Sau khi đã một mình “chiến đấu” xong với mớ lý thuyết rối bòng bong, họ sẽ vô tư chuyển hẳn sang nghiên cứu một vấn đề khác mà không quan tâm xem người khác có hiểu được họ vừa làm gì hay không. Và sẽ thật đáng tiếc khi những tri thức chất lượng đó chỉ dành cho một người đúng không?"
+                        },
+                        {
+                            "title": "Độc lập và độc đáo",
+                            "content": "Các INTP thường rất độc lập và độc đáo trong lối tư duy. Họ luôn bị thu hút bởi những ý tưởng mới, vì vậy rất nhiều nghiên cứu khoa học đột phá trên thế giới được tìm ra bởi những người thuộc nhóm tính cách INTP."
+                        },
+                        {
+                            "title": "Những người nổi tiếng mang tính cách INTP",
+                            "content": "● Albert Einstein\n\n● Charles Darwin\n\n● Marie Curie\n\n● Abraham Lincoln\n\n● Larry Page\n\n● Kristen Stewart\n\n● SUGA (BTS)\n\n● Soyeon ((G)I-DLE)"
                         }
                     ]
                 },
@@ -2080,11 +2111,53 @@ export const mbtiData = {
                     "items": [
                         {
                             "title": "Điểm mạnh",
-                            "content": "• Khả năng lãnh đạo và quản lý xuất sắc\n• Tư duy logic và phân tích tốt\n• Quyết đoán và hành động nhanh chóng\n• Có tầm nhìn chiến lược dài hạn\n• Tự tin và truyền cảm hứng"
+                            "itemsChild": [
+                                {
+                                    "titleChild": "Giỏi phân tích",
+                                    "content": "Các INTP phân tích mọi điều mà họ bắt gặp, từ dữ liệu nghiên cứu đến hành vi của những người xung quanh. Điều này giúp họ có thể phát hiện ra những mối quan hệ và liên kết bất ngờ mà người khác vô tình bỏ qua.",
+                                },
+                                {
+                                    "titleChild": "Sáng tạo",
+                                    "content": "Nhờ trí tưởng tượng không ngừng nghỉ của mình, các INTP có thể đưa ra những ý tưởng sáng tạo độc đáo mà hầu hết mọi người sẽ không nghĩ đến. Tất nhiên, không phải tất cả những ý tưởng nào họ đưa ra đều khả thi nhưng cũng rất đáng ghi nhận để thực hiện sau này.",
+                                },
+                                {
+                                    "titleChild": "Tư duy cởi mở",
+                                    "content": "Với trí tò mò và khát khao học hỏi mãnh liệt, các INTP có xu hướng tiếp thu những ý tưởng và cách thức làm việc mới - miễn là những ý tưởng đó dựa trên lập luận có căn cứ.",
+                                },
+                                {
+                                    "titleChild": "Ham tìm tòi",
+                                    "content": "Các INTP luôn tìm kiếm những mục tiêu, sở thích và lĩnh vực nghiên cứu mới. Ví dụ tuần này họ say mê với vật lý thì tuần kế tiếp đã có thể chìm đắm trong các video về chế tạo đàn guitar rồi. Khi cảm hứng ập đến, các INTP sẽ đặt hết tâm trí vào mối quan tâm mới của họ và học hỏi mọi điều có thể.",
+                                },
+                                {
+                                    "titleChild": "Khách quan",
+                                    "content": 'Nhóm tính cách INTP chỉ quan tâm tới sự thật. Thay vì chỉ đơn giản chấp nhận những ý tưởng đã được định sẵn, họ sẽ đi tìm hiểu điều gì đang thật sự diễn ra ở phía sau. Họ cũng sẵn sàng đối mặt phản bác lại những quan điểm sai lệch mặc dù đôi khi điều đó là không dễ dàng. Đổi lại thì các INTP cũng mong muốn được người khác đối xử một cách công bằng như vậy.',
+                                },
+                            ],
                         },
                         {
                             "title": "Điểm yếu",
-                            "content": "• Có thể quá khắt khe với bản thân và người khác\n• Thiếu kiên nhẫn với những người chậm chạp\n• Có thể bỏ qua cảm xúc của người khác\n• Xu hướng kiểm soát quá mức"
+                            "itemsChild": [
+                                {
+                                    "titleChild": "Tách biệt",
+                                    "content": 'Ngay khi đang ở cùng những người khác thì các INTP cũng có thể đắm chìm trong suy nghĩ của chính mình. Đến khi họ tập trung trở lại thì nhận ra cuộc trò chuyện đã được đưa tới những chủ đề tận đẩu tận đâu. Điều này có thể khiến họ cảm thấy bị tách biệt với mọi người, đặc biệt là trong những cuộc tụ họp có quy mô lớn.',
+                                },
+                                {
+                                    "titleChild": "Thiếu tế nhị",
+                                    "content": "Các INTP coi lý trí là chìa khóa giải quyết mọi vấn đề trong cuộc đời, vì vậy họ có thể đánh giá thấp tầm quan trọng của những giá trị về mặt tình cảm như sự cảm thông, lòng trắc ẩn hay những quy tắc mang giá trị truyền thống. Do đó, đôi khi họ có thể vô tình bị đánh giá là thiếu tế nhị dù cho họ có ý định tốt.",
+                                },
+                                {
+                                    "titleChild": "Bất mãn",
+                                    "content": "Các INTP luôn cho rằng mọi chuyện đều có thể được cải thiện tốt hơn nhiều và nhiều nữa. Họ không ngừng tìm kiếm các vấn đề cần giải quyết, các chủ đề để tìm hiểu và những phương thức mới để tiếp cận. Tuy nhiên, nếu đi quá xa, lối tư duy này có thể khiến các INTP lãng phí công sức vào việc cải tổ những điều vốn đã rất tốt và bỏ bê những nhu cầu và trách nhiệm của mình.",
+                                },
+                                {
+                                    "titleChild": "Thiếu kiên nhẫn",
+                                    "content": "Các INTP tự hào với kiến thức và ý tưởng của họ, tuy nhiên, họ thường không đủ kiên nhẫn khi giải thích lập luận của mình cho người khác. Nếu đối phương có vẻ không hứng thú hoặc không thể theo kịp cuộc trò chuyện thì các INTP có thể từ bỏ luôn việc giải thích.",
+                                },
+                                {
+                                    "titleChild": "Quá cầu toàn",
+                                    "content": 'Mong muốn hoàn thành công việc của các INTP có thể bị cản trở bởi chính tính cầu toàn của họ. Đôi khi, họ có thể chìm đắm vào việc phân tích các lựa chọn và rồi không thể đi đến quyết định nào cả. Họ cũng có thể từ bỏ các dự án khi thấy chúng không phù hợp với tầm nhìn lý tưởng của mình.',
+                                }
+                            ],
                         }
                     ]
                 },
@@ -2092,30 +2165,452 @@ export const mbtiData = {
                     "section": "Mối quan hệ",
                     "items": [
                         {
-                            "title": "Phong cách trong mối quan hệ",
-                            "content": "ENTJ thường là người dẫn dắt trong các mối quan hệ. Họ trung thành và tận tâm với những người quan trọng, nhưng đôi khi có thể quá tập trung vào công việc mà bỏ qua nhu cầu cảm xúc của đối phương. Họ cần học cách lắng nghe và thể hiện sự quan tâm một cách tinh tế hơn."
+                            "content": 'Rất ít người có thể vượt qua sự am hiểu tường tận của các INTP, vì vậy thật sự không dễ dàng để kết giao với họ. Với một tâm trí luôn xoay quanh những ý tưởng mới, những đột phá mới, rất khó để các INTP có thể dành thời gian cho những mối quan hệ giữa người với người. Và kể cả khi đã trở thành bạn của các INTP thì cũng rất khó làm thân, trừ khi bạn có chung “tần sóng” với họ.\n\nCác INTP hầu như chỉ có một vòng tròn bạn bè nhỏ, những người có thể dành thời gian cùng họ trò chuyện, nghiên cứu, hỗ trợ về mặt tinh thần. Những người thuộc nhóm tính cách INTP thường bị thu hút bởi những người sở hữu tính đặc điểm NT trong tính cách, đây là những người bạn có thể cùng họ chia sẻ niềm đam mê thảo luận về lĩnh vực học thuật. Một khi đã trở nên thân thiết hơn với các INTP thì họ sẽ làm hết sức mình để mối quan hệ trở nên bền chặt hơn.\n\nCác INTP không phải những “chuyên gia tình cảm”. Nếu bạn gặp khó khăn, họ sẽ sẵn sàng giúp bạn nghĩ cách giải quyết một cách nhanh gọn nhất, nhưng đừng hy vọng rằng các INTP sẽ đồng cảm và thấu hiểu cho vấn đề của bạn. Không phải vì các INTP không có tình cảm, mà là tình cảm của họ đã bị chôn sâu dưới tầng tầng lớp lớp những không gian họ dành cho sự logic.\n\nTình bạn của các INTP luôn rất rõ ràng, kiên định, mạnh mẽ và chân thành. Họ không cố gắng kiểm soát bạn bè của mình cũng như không thích có những cảm xúc thái quá khi kết giao bạn bè. Những điều mà các INTP đánh giá cao trong quá trình xây dựng một tình bạn đẹp là sự trung thành, cùng nhau học hỏi, cùng nhau phát triển.\n\nNhìn chung, các INTP dành hầu hết thời gian để sống trong thế giới nội tâm của riêng mình, nơi luôn rộn ràng và náo nhiệt nhờ những ý tưởng mới và những suy nghĩ không ngừng nghỉ. Ngược lại, thế giới bên ngoài của các INTP lại khá nhẹ nhàng và ảm đạm. Họ không có nhu cầu kết giao thật nhiều mà chỉ cần những người mà họ thật sự quý trọng và ảnh hưởng nhiều đến họ. Tuy nhiên, một khi đã bước vào mối quan hệ thì các INTP là những người chân thành và chung thủy nhất, họ sẽ đối xử vô cùng tốt với bạn bè mình, đưa cho họ những lời khuyên tốt nhất, giúp họ giải quyết những phiền toái mà không ngại ngần gì.'
+                        },
+                        {
+                            "title": "INTP trong tình yêu",
+                            "itemsChild": [
+                                {
+                                    "content": "Những nét tính cách khác thường của các INTP sẽ tạo nên bất ngờ thú vị cho người yêu của họ. Bình thường họ là những người lý trí và dè dặt, nhưng một khi đã hạ lớp phòng thủ xuống, các INTP sẽ để lộ ra mặt tươi sáng của mình.\n\n<i>“Trong tình yêu, INTP có thể dùng khả năng sáng tạo của mình để làm mọi thứ luôn mới mẻ và tạo ra những bất ngờ nhỏ bé để khiến nửa kia cảm thấy đặc biệt.”</i>\n\nLà người hướng nội, các INTP thích ở một mình, nhưng điều đó không có nghĩa là họ không khao khát có người ở cạnh bên. Đối với những người thuộc kiểu tính cách này, một tình yêu lý tưởng không chỉ là người để cùng chia sẻ niềm vui, nỗi buồn mà còn là người có thể cùng họ thúc đẩy bản thân tiến bộ từng ngày.\n\n<i>“Các INTP muốn dành cả đời để theo đuổi tri thức, vì vậy họ hy vọng nửa kia của mình cũng có tầm nhìn tương tự.”</i>\n\nVới các INTP, việc tìm kiếm một đối tượng đáp ứng cùng lúc các tiêu chuẩn trên không phải điều dễ dàng. Họ có thể chần chừ khi bước ra ngoài thế giới và gặp gỡ mọi người. Ngay cả khi họ có hứng thú với ai đó, họ vẫn phải mất một khoảng thời gian để hạ quyết tâm chấp nhận rủi ro bị từ chối sau đó mới lấy hết can đảm để mời người đó đi chơi. Bởi vì trở thành trung tâm của sự chú ý khi bị từ chối tình cảm không phải là điều dễ dàng đối với bất kỳ ai, đặc biệt là đối với các INTP.",
+                                },
+                                {
+                                    "titleChild": "Sự gắn kết chân thực",
+                                    "content": "Các INTP rất nghiêm túc với mối quan hệ ngay từ khi bắt đầu, khi gặp được một người mà họ thật sự tôn trọng và thích ở bên.\n\nNgay từ những buổi hẹn hò đầu tiên, các INTP thường rất thẳng thắn, chân thành bày tỏ tình cảm của mình, và cũng khuyến khích đối phương mở lòng với họ. Họ có thể ít nói nhưng lại không hề nhút nhát. Đối với các INTP, việc thẳng thắn trong chuyện tình cảm sẽ giúp hai bên không xảy ra những hiểu lầm không đáng có.\n\nKhi yêu đương, nhu cầu của các INTP rất đơn giản. Họ không quan trọng quà cáp hay sự lãng mạn, không thích những lời tán dương ngọt ngào xã giao hay hỏi thăm hàng ngày như một thói quen. Vì vậy nếu bạn đã, đang và sẽ tiến tới mối quan hệ xa hơn với một INTP, hãy tập làm quen với điều đó.\n\nTuy nhiên, từ góc nhìn của chúng tôi, các INTP cần nỗ lực học hỏi cách thể hiện tình cảm với người yêu nếu bạn không muốn đối phương cảm thấy không được trân trọng và yêu thương.",
+                                },
+                                {
+                                    "titleChild": "Đối mặt với xung đột",
+                                    "content": "Các INTP không thích xung đột, họ có xu hướng né tránh khi phát sinh bất đồng về cảm xúc. Thay vì dành thời gian lắng nghe người yêu, các INTP sẽ sử dụng đầu óc logic của mình để chứng minh đối phương sai. Hoặc họ cũng có thể đưa ra các giải pháp đơn giản, hợp lý để giải quyết xung đột nhằm tránh việc phức tạp hóa vấn đề khiến mọi chuyện đi xa hơn.\n\n<i>“Khi xảy ra xung đột, các INTP có thể cố ý phớt lờ cảm xúc của đối phương cũng như chính mình trong một thời gian dài.”</i>\n\nKhi trưởng thành hơn, các INTP mới hiểu được rằng mọi người đều có nhu cầu về cảm xúc (kể cả họ) và đó là điều bình thường. Nhưng với những người sống duy lý như họ thì đây không hề là bài học dễ dàng, từ quá trình tiếp nhận tới công nhận vấn đề nằm ở chính mình. Song, việc nhận ra điều này có thể giúp các Nhà tư duy vượt qua những thách thức mà tất cả các mối quan hệ lâu dài đều gặp phải như kiểm soát cảm xúc.",
+                                },
+                                {
+                                    "titleChild": "Và con tim ta đã vui trở lại",
+                                    "content": "Các INTP có xu hướng sống trong thế giới nội tâm của riêng mình, nhưng rồi tình yêu ập đến kéo họ ra khỏi vùng an toàn của mình để tận hưởng niềm vui trọn vẹn.\n\nTrải nghiệm này có thể mang lại thay đổi lớn cho INTP, giúp họ phát hiện những điểm mạnh, những mặt thú vị tiềm ẩn mà chính họ cũng không nhận ra. Với trí tưởng tượng và sự sáng tạo vô hạn của mình, các INTP có thể trở thành những người yêu vô cùng nồng nhiệt và cống hiến hết mình cho tình yêu mà không đánh mất bản ngã của mình.",
+                                },
+                            ],
+                        },
+                        {
+                            "title": "INTP trong tình bạn",
+                            "itemsChild": [
+                                {
+                                    "content": "Giống như bất kỳ ai, các INTP tìm đến bạn bè để được sẻ chia về mặt tinh thần. Tuy nhiên ngoài chuyện kết bạn cho vui thì họ cũng cần những người bạn có hiểu biết, giàu tri thức để cùng bàn luận về những ý tưởng mà họ cho là thú vị. Không phải ai cũng đáp ứng được các tiêu chuẩn làm bạn của INTP, nhưng khi gặp người cùng “tần sóng” thì họ có thể trở nên thân thiết nhanh đến bất ngờ.",
+                                },
+                                {
+                                    "titleChild": "Kén cá chọn canh hay có chọn lọc?",
+                                    "content": "Các INTP là những người bạn hoạt bát, giàu trí tưởng tượng, luôn nói những điều thú vị hoặc bất ngờ. Bạn thân của các INTP thường có đam mê giống họ, nhất là trong chuyện học hỏi, tìm tòi những điều mới lạ. Tuy nhiên, việc kết giao bạn bè của các INTP cũng có ngoại lệ, đó là khi họ gặp được những người biết giữ vững lập trường và đấu tranh cho quan điểm của mình. Tính cách này vô cùng thu hút các INTP, những người thường xuyên “mềm không ăn, ăn cứng”.\n\nTình bạn của các INTP được xây dựng dựa trên nền tảng tri thức, được duy trì bằng cách trao đổi ý tưởng, lý thuyết và khái niệm. Những người không thể theo kịp nhịp độ sống của họ hoặc có sở thích khác biệt có thể bị họ phớt lờ hoặc gạt đi. Các INTP sẽ chỉ dành thời gian quý báu của mình để tiếp chuyện những người có cùng chí hướng.\n\n<i>“Phong cách sống của các INTP không áp dụng cho tất cả mọi người, nhưng không sao cả, đa số các INTP thích có vài người bạn tốt hơn là quá nhiều bạn xã giao.”</i>",
+                                },
+                                {
+                                    "titleChild": "Ý nghĩa của tình bạn",
+                                    "content": "Khi bạn bè gặp vấn đề khó xử, các INTP sẽ nhiệt tình giúp đỡ bằng cách đưa ra những lời khuyên và giải pháp hợp lý. Họ có thể biến những tình huống phức tạp nhất thành đơn giản, phân tích ưu và nhược điểm rõ ràng để giúp bạn bè cân nhắc.\n\nTuy nhiên, những vấn đề liên quan đến cảm xúc có thể vượt ngoài khả năng của các INTP. Đối với họ, bài học lớn nhất và khó nhất về tình bạn là: đôi khi mọi người không cần họ dạy cách giải quyết vấn đề, mà chỉ cần một người ở bên để bầu bạn và sẻ chia những buồn vui trong cuộc sống.\n\n<i>“Các INTP thường cho rằng ưu thế lớn nhất của họ là trí tuệ, nhưng tình bạn có thể giúp họ nhận ra họ có nhiều thứ hơn để cống hiến cho thế giới ngoài những ý tưởng sáng tạo và đột phá của mình, một trái tim nhân hậu chẳng hạn.”</i>\n\nDần dần, các INTP có thể nhận ra rằng những cuộc trò chuyện sôi nổi và những buổi brainstorm thâu đêm cũng thú vị đấy, nhưng không phải là tất cả. Các INTP sẽ bỏ qua những điều hiện hữu bên ngoài để đào sâu vào vẻ đẹp tâm hồn tiềm ẩn. Trong một thế giới nơi mọi người bị ám ảnh với việc phải ép mình hòa nhập với tập thể, thì các INTP xuất hiện như một làn gió mới, truyền cảm hứng cho mọi người thoát khỏi khuôn khổ và tìm được tiếng nói của riêng mình.",
+                                }
+                            ],
+                        },
+                        {
+                            "title": "INTP khi làm cha mẹ",
+                            "itemsChild": [
+                                {
+                                    "content": "Khi làm cha mẹ, các INTP cũng gặp thách thức lớn giống như trong các mối quan hệ khác, đó là khi họ bối rối trước những thay đổi về mặt tâm sinh lý của con cái. Rõ ràng là trẻ nhỏ chưa thể phát triển hết khả năng tự chủ và suy luận logic như họ được.\n\nTuy nhiên, vai trò làm cha mẹ vẫn rất có ý nghĩa đối với các INTP. Với bản tính tò mò, ham học hỏi, những bậc cha mẹ INTP có thể tìm thấy niềm vui lớn khi dạy con khám phá thế giới. Là kiểu người khoan dung và tư duy cởi mở nên các INTP khuyến khích con cái tư duy độc lập, khám phá tri thức mới cũng như biết bày tỏ và bảo vệ quan điểm của bản thân.",
+                                },
+                                {
+                                    "titleChild": "Sống thật với chính mình",
+                                    "content": "Các bậc cha mẹ INTP không quan tâm đến kỳ vọng của xã hội, họ cũng không bị ám ảnh bởi ý kiến của những người xung quanh về việc họ nên và không nên làm gì. Họ cũng không bắt con cái mình phải đi theo lộ trình sống cơ bản như đi học > đi làm > kết hôn > mua nhà > sinh con > nghỉ hưu. Họ sẽ trao cho chúng quyền tự do làm chủ cuộc đời mình, miễn là trong khuôn khổ của những phép tắc cơ bản.\n\n<i>“Các INTP không thích kiểm soát con cái mà khuyến khích chúng xây dựng các nguyên tắc và quan điểm sống riêng. Đôi khi họ sẽ xuất hiện và đưa ra những gợi ý nho nhỏ để bọn trẻ có thêm góc nhìn về cuộc sống.”</i>\n\nSong, điều này không có nghĩa là INTP không có kỳ vọng nào với con cái. Họ luôn mong mỏi rằng những đứa trẻ có thể học được cách tự chủ và độc lập. Và khi chúng đủ lớn, bọn trẻ sẽ có khả năng tư duy phản biện cần thiết để đi theo tiếng gọi của con tim trên hành trình mình đã chọn.",
+                                },
+                                {
+                                    "titleChild": "Món quà của tự do",
+                                    "content": "Các INTP khuyến khích tính tò mò ở con cái, cho phép chúng tự do tiếp thu kiến thức và mở rộng vốn hiểu biết. Họ thường có cách giáo dục con cái khá thoải mái, thay vì áp đặt các quy tắc không cần thiết hoặc áp dụng thời gian biểu nghiêm ngặt, các bậc phụ huynh INTP sẽ tạo ra một môi trường an toàn và lành mạnh để những đứa trẻ tự do khám phá xung quanh.\n\nVới các INTP, để con cái tự lập là một sự tôn trọng. Nhưng với nhiều trẻ nhỏ (thậm chí thanh thiếu niên), sự tự do (đôi khi là quá mức) này cũng không phải điều tốt. Nếu trong gia đình không có những giới hạn hợp lý và chỉ dẫn của cha mẹ thì chúng có thể cảm thấy mình bị bỏ rơi, bơ vơ, phải tự mình khám phá thế giới, tự mình đặt ra câu hỏi và trả lời những câu hỏi ấy.\n\n<i>“Có một nghịch lý là, một gia đình với các quy tắc hợp lý và sự động viên của cha mẹ có thể chính là điều mà con cái của các INTP cần để trở thành một công dân tự lập.”</i>\n\nMay mắn thay, các INTP có đủ tư duy linh hoạt để hiểu rằng họ có thể khuyến khích con cái tự lập mà không cần buông tay quá mức. Họ có thể thiết lập lại sự cân bằng bằng cách đưa ra lời khuyên và có mặt để hỗ trợ bất cứ khi nào chúng cần. Họ cũng có thể đặt ra các giới hạn, quy tắc và hình phạt hợp lý với những hành vi sai trái để giúp con cái định hướng cuộc sống mà không cần dựa hoàn toàn vào khả năng tự chủ chưa hoàn thiện của bản thân chúng.",
+                                },
+                                {
+                                    "titleChild": "Một thử thách xứng tầm",
+                                    "content": "Bên cạnh đó, việc hỗ trợ con cái về mặt tinh thần cũng là một trong những thách thức lớn nhất với các phụ huynh INTP.\n\nCác INTP muốn trao quyền cho con cái tự giải quyết vấn đề và đáp ứng nhu cầu của chính chúng. Đây là điều tốt, nhưng trẻ cũng cần nền tảng động viên, hỗ trợ ổn định - cùng với các quy tắc và giới hạn như đã đề cập ở trên - trước khi có thể tự mình giải quyết mọi việc. Để tạo dựng nền tảng này, các cha mẹ INTP sẽ cần ở bên để động viên và cổ vũ chúng thường xuyên.\n\n<i>“Việc thể hiện tình cảm có thể khiến các INTP lý trí cảm thấy ngại ngùng, tuy nhiên những lời nói và hành động này sẽ giúp đứa trẻ cảm thấy được yêu thương và an toàn trong vòng tay thân thuộc của cha mẹ.”</i>",
+                                }
+                            ],
+                        },
+                    ]
+                },
+                {
+                    "section": "Làm sao để thân thiết với INTP",
+                    "items": [
+                        {
+                            "content": "INTP là người hướng nội, không giỏi thể hiện cảm xúc nhưng sâu sắc, vì vậy để thân thiết với họ bạn cần thực sự hiểu họ, tin tưởng, chân thành, thẳng thắn và rõ ràng trong mọi vấn đề.\n\nĐối với INTP, việc có những cuộc trò chuyện sâu sắc và phức tạp thực sự rất thú vị và họ thích ở gần những người có thể khơi dậy khả năng sáng tạo của họ.\n\nMột số điều bạn cần lưu ý khi tiếp xúc với INTP:\n\n●    <b>Đừng cố tỏ ra thân thiện trong lần gặp mặt đầu tiên.</b> Nếu bạn muốn kết thân với INTP thì trong lần gặp đầu tiên đừng cố gắng tỏ ra thân thiện hay nhiệt tình thái quá, hãy cư xử một cách bình thường, nếu không họ sẽ cho rằng bạn là người giả tạo.\n\n●    <b>Hãy khơi gợi được sự hiếu kỳ hay tham vọng của INTP.</b> INTP không hứng thú với những người tiếp cận mình bằng tình cảm. Ngược lại họ tỏ ra hào hứng với những người khơi gợi được tham vọng tri thức. INTP sẽ thích kết thân với những người có cùng “tần sóng” về sự hiểu biết, giàu tri thức để cùng bàn luận về những điều mới mẻ mà họ cho là thú vị. Đó có thể là cùng nhau giải câu đố, chơi cờ, hoặc thậm chí là thảo luận những vấn đề khó nhằn mà chẳng ứng dụng được gì trong cuộc sống.\n\n●    <b>Hãy đặt câu hỏi về lĩnh vực mà INTP quan tâm, tự tin.</b> Ngoài việc trao đổi và tranh luận các ý tưởng mới với Nhà tư duy, bạn cũng có thể đặt câu hỏi về những lĩnh vực mà INTP tự tin nhất. Với tính cách là người có niềm đam mê trong việc chia sẻ về lĩnh vực học thuật, INTP sẽ hào hứng với việc giải thích và cho bạn câu trả lời vừa ý. Đừng quên chú ý lắng nghe và có lời khen ngợi INTP sau khi nhận được lời giải đáp.\n\n●    <b>Hãy khéo léo nhắc nhở họ.</b> Các INTP rất dễ quên nên khi đã là một thành phần trong vòng tròn kết giao của họ, bạn hãy khéo nhắc họ chú ý đồ đạc như túi xách, ví, điện thoại hay thậm chí là giờ hẹn.\n\n●    <b>INTP dễ dàng bị thu hút bởi những người biết giữ vững lập trường.</b> Có một ngoại lệ của INTP trong việc kết giao với mọi người là họ bị thu hút bởi những người biết giữ vững lập trường và đấu tranh cho quan điểm của mình. Nếu bạn là người có tính cách này thì dễ dàng nhận được cái gật đầu hứng thú từ INTP."
+                        },
+                    ],
+                },
+                {
+                    "section": "Con đường sự nghiệp",
+                    "items": [
+                        {
+                            "content": "Với tư tưởng theo đuổi sự tự do, các INTP có thể khó tìm kiếm công việc và sự nghiệp phù hợp với họ. Họ có tính cách khác thường, quan điểm độc đáo, nên rất ít môi trường làm việc có thể khớp với yêu cầu của họ.\n\nNhưng với kiến thức uyên bác của mình, các INTP có thể tìm được công việc giúp họ phát huy được thế mạnh của mình. Với những phẩm chất hiếm có, cộng thêm một chút nỗ lực, đôi khi là một chút may mắn, các INTP có thể trở thành ngôi sao sáng trong nhiều lĩnh vực."
+                        },
+                        {
+                            "title": "Khát khao khám phá",
+                            "content": "Các INTP khát khao khám phá, nhưng không phải theo những cách thông thường mà theo phương thức độc đáo của riêng họ. Họ bị cuốn hút vào vương quốc của những ý tưởng, thích đào sâu bản chất các sự vật, hiện tượng trong cuộc sống và nghiên cứu những bí ẩn của vũ trụ.\n\n<i>“Đối với các INTP, một ngày làm việc lý tưởng là được giải quyết những vấn đề tưởng như không thể giải quyết được.”</i>\n\nVới tính hiếu kỳ ngàn năm không đổi, các INTP có thể tìm thấy vẻ đẹp ẩn giấu trong những khái niệm mà người khác cảm thấy khô khan, nhàm chán. Tài năng phân tích và nghiên cứu của họ là điều vô giá trong hầu hết mọi lĩnh vực, và họ có đủ sự linh hoạt để tỏa sáng ở trong cả những lĩnh vực tưởng như không phù hợp với họ.\n\nBất kỳ công việc nào cho phép các INTP được thỏa thích phát huy sức sáng tạo của mình đều có thể khiến họ hài lòng vô tận."
+                        },
+                        {
+                            "title": "Thúc đẩy động lực",
+                            "content": "Đôi khi, đồng nghiệp của các INTP có thể thấy họ thật khó hiểu. Không giống như những nhóm tính cách khác, các INTP không cho rằng họ cần phải gây ấn tượng với cấp trên hay trở nên thân thiết với mọi đồng nghiệp. Trên thực tế, họ không hứng thú với những hoạt động sinh ra để tạo động lực trong công việc cho người khác như team-building, nói chuyện phiếm lúc giải lao, chương trình văn hóa văn nghệ trong công ty.\n\nThay vào đó, trong công việc, những người thuộc nhóm tính cách INTP thường được thúc đẩy bởi chính tính tò mò và cầu toàn của mình. Các INTP hiếm khi nào thỏa mãn với hai chữ “đủ tốt”, và họ rất ghét bị gọi là bình thường hoặc tệ hơn là tầm thường. Tuy vậy, không phải với công việc nào họ cũng dành sự nỗ lực và tập trung như nhau. Đôi khi họ có thể bỏ qua những công việc bàn giấy nhàm chán để theo đuổi những mục tiêu hấp dẫn hơn.\n\n<i>“Tất cả những gì các INTP thực sự muốn là đắm mình trong một nhiệm vụ đủ thú vị, đủ kích thích mà không bị bất cứ ai làm phiền và gián đoạn công việc.”</i>\n\nMôi trường làm việc phù hợp với các INTP là môi trường được phân tầng theo cấu trúc nằm ngang, nơi công việc được phân theo từng đội nhóm nhỏ và thực hiện trọn gói thay vì giao việc theo cấp độ từ cao xuống thấp.\n\nNhững công việc nghiên cứu trong phòng thí nghiệm, tư vấn viên hoặc freelancer rất phù hợp với tính cách của các INTP."
+                        },
+                        {
+                            "title": "Kỹ năng xã hội",
+                            "content": "Gần như mọi bài đăng tuyển dụng công việc hiện nay đều yêu cầu ứng viên có kỹ năng mềm tốt. Tuy nhiên đa số các INTP lại cho rằng kỹ năng mềm đang được đánh giá quá cao. Đây cũng có thể là một nhận định đúng khi các nhà tuyển dụng ngày càng cần những nhân sự giỏi về chuyên môn, hiểu được các hệ thống phức tạp và biết tư duy phản biện như INTP.\n\nCác INTP thường khó phát triển được tiềm năng của bản thân khi làm những công việc đòi hỏi phải chiều chuộng cảm xúc của khách hàng hoặc đối tác như nhân viên chăm sóc khách hàng, telesales. Trong trường hợp “dòng đời đưa đẩy” và buộc phải làm việc ở lĩnh vực này, các INTP sẽ có vô vàn ý tưởng hay ho để khiến công việc này trở nên thú vị hơn."
+                        },
+                        {
+                            "title": "Những nghề nghiệp phù hợp",
+                            "content": "Việc yêu thích nghiên cứu ở nhiều lĩnh vực khác nhau khiến các INTP trở thành những nhân tố xuất sắc khi làm việc tại vị trí nhà khoa học (đặc biệt trong lĩnh vực vật lý hoặc hóa học), nhà phân tích hệ thống, nhà toán học, nhà sáng tạo game, lập trình viên, kỹ sư.\n\nCác INTP có xu hướng độc lập trong công việc và luôn đặt tiêu chuẩn cao cho bản thân cũng như đồng nghiệp, vì vậy hiển nhiên họ cũng thuộc tuýp người không thích quản lý và bị quản lý. Họ như “con sói cô độc” tự mình lang thang giữa sa mạc và tìm ra câu trả lời cho mọi vấn đề của bản thân. Một số nghề nghiệp có thể đáp ứng mặt tính cách này của các INTP là pháp y, tư vấn viên hoặc các công việc liên quan đến pháp lý, điều tra.\n\nNgược lại, những công việc yêu cầu quá nhiều tương tác giữa người và người hay yêu cầu cần thể hiện cảm xúc quá nhiều sẽ không phải lựa chọn hàng đầu của các INTP.\n\nDưới đây là các công việc phù hợp với INTP mà bạn có thể tham khảo:\n\n●    Nhà khoa học (đặc biệt trong nghiên cứu vật lý, hóa học)\n\n●    Chiến lược gia\n\n●    Giáo sư đại học\n\n●    Nhà Toán học\n\n●    Nhiếp ảnh gia\n\n●    Chuyên viên thiết lập kỹ thuật\n\n●    Lập trình viên\n\n●    Chuyên viên phân tích dữ liệu\n\n●    Nhà sáng tạo game\n\n●    Thẩm phán\n\n●    Luật sư\n\n●    Kỹ sư\n\n●    Người bảo vệ pháp lý và viên kiểm lâm\n\n●    Pháp y"
                         }
                     ]
                 },
                 {
-                    "section": "Nghề nghiệp phù hợp",
+                    "section": "Thói quen nơi công sở",
                     "items": [
                         {
-                            "title": "Các nghề nghiệp đề xuất",
-                            "content": "ENTJ phù hợp với các vị trí lãnh đạo và quản lý:\n• Giám đốc điều hành (CEO)\n• Quản lý dự án, tư vấn chiến lược\n• Luật sư, thẩm phán\n• Doanh nhân, nhà đầu tư\n• Chính trị gia, nhà ngoại giao\n• Giảng viên, nghiên cứu viên"
-                        }
+                            "content": "Đối với các INTP, họ không mong đợi hay đòi hỏi quá nhiều ở môi trường làm việc lý tưởng, họ chỉ đơn giản cần một không gian cho phép mình được phát huy những thế mạnh vốn có, nếu công việc đó không cần phải tương tác quá nhiều với khách hàng, đối tác hay các phòng ban khác thì càng tốt vì họ không phải là người giỏi xã giao.\n\nTuy nhiên, là một người có đầu óc nhanh nhạy, luôn không ngừng nảy ra những ý tưởng mới, những phương pháp mới thì một người đồng hành trong công việc là rất quan trọng với những người thuộc nhóm tính cách INTP."
+                        },
+                        {
+                            "title": "INTP khi là nhân viên",
+                            "content": 'Khi được làm việc trong một môi trường làm việc cởi mở, linh hoạt, các nhân viên INTP sẽ phát huy được hết khả năng của mình, không ngừng sáng tạo và đổi mới. Ngược lại, nếu môi trường làm việc quá tù túng và kìm hãm thì những người thuộc nhóm tính cách INTP sẽ rất nhanh trở nên chán nản, thậm chí là bỏ bê công việc vì không có động lực để hoàn tất một cách chỉn chu nhất.\n\nTuy vậy, tin tốt đó là việc bắt đầu từ những vị trí thấp nhất trong nấc thang sự nghiệp sẽ có ích đối với các INTP. Những chức danh này giúp họ trau dồi những kỹ năng từ căn bản tới nâng cao để làm tiền đề cho những bước tiến xa hơn sau này.\n\nMặc dù các INTP có nhiều thế mạnh, nhưng họ vẫn có thể gặp khó khăn trong công việc, điển hình là khi gặp những vấn đề khó mà không thể giải quyết ngay lập tức. Song, các INTP hoàn toàn có thể tận dụng những thời khắc này để hoàn thiện bản thân về mặt chuyên môn và kinh nghiệm.'
+                        },
+                        {
+                            "title": "INTP khi là đồng nghiệp",
+                            "content": "Ngoài việc trò chuyện xã giao thường ngày và trao đổi một vài kiến thức chuyên ngành, phần lớn thời gian các INTP sẽ cảm thấy đồng nghiệp mình có chút phiền khi liên tục ngắt đoạn dòng suy nghĩ của họ khi đang tập trung làm việc. Tuy nhiên, điều đó không có nghĩa là các INTP không muốn làm việc cùng đồng nghiệp, bởi việc kết hợp nhiều cái đầu trong công việc sẽ giúp vấn đề được giải quyết nhanh gọn hơn.\n\nDù các INTP thích tập trung vào một công việc nhất định nhưng họ cũng thích trải nghiệm ở nhiều lĩnh vực khác nhau. Bằng cách xây dựng mối quan hệ tốt đẹp với đồng nghiệp, họ có thể sẽ được khai sáng ở nhiều khía cạnh mà chính các INTP cũng chưa bao giờ ngờ tới."
+                        },
+                        {
+                            "title": "INTP khi là cấp trên",
+                            "content": "Ở vị trí một nhà lãnh đạo, các INTP không quan tâm đến việc mình có bao nhiêu quyền hạn kiểm soát người khác. Thực tế, những vị sếp mang đặc điểm INTP thường giao nhiệm vụ căn bản cho cấp dưới, còn mình thì tập trung vào những đầu việc quan trọng và thú vị hơn.\n\nNhóm tính cách INTP thường sẽ là những vị cấp trên khá cởi mở và thoải mái, họ trao cho nhân viên của mình nhiều quyền tự quyết trong công việc. Tuy nhiên đừng vội mừng, vì những cấp trên INTP luôn đặt tiêu chuẩn cao trong công việc, cấp dưới của họ có thể làm bất cứ những gì mình thích miễn là hoàn thành một cách xuất sắc nếu không muốn bị phê bình thẳng tay.\n\nKhi dần tích lũy được kinh nghiệm, các cấp trên INTP có thể nhận ra rằng việc cân đối giữa phê bình và khích lệ sẽ nâng cao tinh thần cấp dưới để đạt kết quả tốt hơn."
+                        },
                     ]
                 },
                 {
-                    "section": "Lời khuyên dành cho ENTJ",
+                    "section": "So sánh INTP với ENTP, ISTP",
                     "items": [
                         {
-                            "title": "Gợi ý phát triển",
-                            "content": "Hãy học cách lắng nghe ý kiến của người khác và tôn trọng cảm xúc trong các quyết định. Đừng quên cân bằng giữa công việc và cuộc sống cá nhân. Phát triển kỹ năng giao tiếp để truyền đạt ý tưởng một cách dễ hiểu hơn. Kiên nhẫn hơn với những người có tốc độ làm việc khác biệt."
+                            "content": "Khi so sánh INTP (Nhà tư duy) với những nhóm tính cách có sự tương đồng (E<b>NTP</b> - Người nhìn xa, <b>I</b>S<b>TP</b> - Nhà kỹ thuật), bạn sẽ hiểu hơn về đặc điểm tính cách nhóm INTP"
+                        },
+                        {
+                            "title": "Điểm giống nhau",
+                            "content": 'T - Lý trí và P - Linh hoạt: Cả 3 nhóm tính cách này đều là những người lý trí, linh hoạt, có khả năng phân tích thông tin, xử lý logic, và hiệu quả trong cách tiếp cận và giải quyết vấn đề. Hơn nữa, cả INTP, ENTP, và ISTP đều có xu hướng làm việc độc lập và đưa ra quyết định dựa trên lý trí và kiến thức cá nhân.\n\nKhi đối chiếu INTP với ENTP, ISTP chúng tôi nhận thấy mỗi cặp sẽ có những điểm chung riêng như sau:\n\n●    I<b>NTP</b> và E<b>NTP</b>: Họ đều có xu hướng độc lập trong tư duy và suy nghĩ, nên thường giải quyết vấn đề theo cách riêng của mình, thay vì tuân theo quy tắc hay quan niệm xã hội chung.\n\n●    <b>I</b>N<b>TP</b> và <b>I</b>S<b>TP</b>: Họ không giỏi bộc lộ tình cảm, cảm xúc một cách chân thành trong các mối quan hệ.',
+                        },
+                        {
+                            "title": "Điểm khác nhau",
+                            "content": "INTP với ENTP, ISTP là những nhóm tính cách khác nhau, có những đặc điểm riêng biệt. Bạn sẽ thấy rõ điều này ở bảng dưới đây:" 
+                        },
+                    ],
+                    "tables": [
+                        {
+                            "headers": ["Đặc điểm", "ENTP", "INTP", "ISTP"],
+                            "rows": [
+                                ["Diễn giải chữ viết tắt", "<b>E - Hướng ngoại</b><br>N - Trực giác<br>T - Lý trí<br>P - Linh hoạt", "<b>I - Hướng nội</b><br><b>N - Trực giác</b><br>T - Lý trí<br>P - Linh hoạt", "I - Hướng nội<br><b>S - Cảnh giác</b><br>T - Lý trí<br>P - Linh hoạt"],
+                                ["Cách tiếp cận thông tin", "Dựa vào khả năng của bản thân để tự mình phân tích vấn đề từ nhiều góc độ và tìm ra giải pháp tối ưu", "Dựa trên những lập luận có căn cứ", "Dựa trên thông tin cụ thể, thực tế"],
+                                ["Trong các mối quan hệ", "- Không để ý đến việc kết giao, là người thoải mái, tự nhiên, có thể làm mọi người xung quanh vui vẻ<br>- Thích kết giao với những người thẳng thắn, trung thực, không vòng vo<br>- Đối với bạn bè thân thiết ENTP rất thích chọc ghẹo và mong chờ phản ứng từ đối phương", "- Không có nhu cầu kết giao, mà chỉ cần những người thật sự quý trọng và ảnh hưởng nhiều đến họ<br>- Thích kết giao với những người có chung sở thích và niềm đam mê<br>- Đối với INTP tình bạn đẹp là sự trung thành, cùng nhau học hỏi, cùng nhau phát triển", "- Thoải mái chấp nhận kết giao với cả những người có tính cách trái ngược bởi họ vốn cởi mở và thoải mái trong các mối quan hệ<br>- Thích kết giao với những người có chung sở thích<br>- Thích làm bạn với những người có tính cách năng động, sáng tạo"],
+                                ["Trong công việc", "- Là người có tính cách linh hoạt thích công việc như nhân viên kinh doanh, kỹ sư, diễn viên hoặc nhiếp ảnh gia<br>- Là người thích làm việc độc lập<br>- ENTP không thích phải lãnh đạo, dẫn dắt người khác mà muốn độc lập tự do", "- Thích công việc có tính sáng tạo như nghiên cứu trong phòng thí nghiệm, tư vấn viên hoặc freelancer<br>- Thích làm việc theo nhóm nhỏ<br>- Không phù hợp những công việc thiên về cảm xúc như nhân viên chăm sóc khách hàng, telesales", "- Tính tò mò, ưa tìm hiểu, thích tìm tòi phù hợp với những công việc như, thiết kế đồ họa hoặc pháp y<br>- Có khả năng làm việc độc lập<br>- Không hợp với những công việc mang hơi hướm truyền thống"]
+                            ]
+                        }
+                    ],
+                    "content": "Cả 3 nhóm INTP với ENTP, ISTP đều là những người có tư duy logic và khá thoải mái kết giao trong các mối quan hệ. Tuy nhiên, cách họ tiếp cận thông tin, tương tác và ra quyết định lại có sự khác biệt rõ rệt.\n\nTheo đó, ENTP thích dựa vào bản thân để tìm ra vấn đề, trong khi INTP thường xuất sắc trong việc phân tích và lập luận có căn cứ, còn ISTP lại chú trọng vào thông tin cụ thể thực tế, điều này ít nhiều ảnh hưởng đến tích cách, sự khác biệt trong các mối quan hệ và phát triển bản thân." 
+                },
+                {
+                    "section": "Lời khuyên dành cho INTP",
+                    "items": [
+                        {
+                            "title": "Trau dồi điểm mạnh và khắc phục điểm yếu",
+                            "content": "INTP có năng khiếu trong việc nắm vững các vấn đề logic, vì vậy bạn nên cho bản thân mình nhiều cơ hội để rèn luyện khả năng của mình. Bạn sẽ tìm được hạnh phúc thông qua những trải nghiệm đó.\n\nAi cũng có điểm yếu và các INTP cũng vậy. Hãy chấp nhận điểm yếu (mà không tự trách cứ bản thân) sẽ tạo cho bạn sức mạnh để thay đổi cuộc sống theo hướng tốt đẹp hơn."
+                        },
+                        {
+                            "title": "Bước ra khỏi vùng an toàn",
+                            "content": 'Cách duy nhất để INTP phát triển là cần ra khỏi vùng an toàn của mình, tập trung vào việc tiếp nhận càng nhiều thông tin càng tốt và cần cởi mở với bản thân để đón nhận những trải nghiệm mới, niềm vui mới.',
+                        },
+                        {
+                            "title": "Chịu trách nhiệm với chính bản thân mình",
+                            "content": "Đừng đổ lỗi cho người khác. Thay vào đó, hãy suy nghĩ về cách giải quyết, tìm kiếm giải pháp, và đưa ra quyết định có thể giúp bạn kiểm soát tốt hơn tình huống của mình, và ngày càng hoàn thiện phát triển bản thân. Bởi không ai có khả năng điều khiển cuộc sống của bạn hơn là chính bạn."
+                        },
+                        {
+                            "title": "Bày tỏ cảm xúc của mình",
+                            "content": "INTP thường gặp khó khăn trong việc hiểu cảm giác, cảm xúc về một người khác. Vì vậy để duy trì phát triển một mối quan hệ tốt đẹp, hãy nói cho họ biết mỗi lần bạn nghĩ đến điều gì, đồng thời chia sẻ rõ ràng, thẳng thắn vấn đề với họ. Đây là cách tốt nhất để họ cảm thấy an toàn khi ở cạnh bạn, và cũng là một cơ hội để mối quan hệ ngày càng bền vững."
+                        },
+                        {
+                            "title": "Học cách lắng nghe",
+                            "content": "Mỗi người đều có cuộc sống và quan điểm riêng. Vì vậy họ có quyền bày tỏ mong muốn nên INTP đừng gạt bỏ mọi thứ ngay lập tức, mà hãy để nó ngầm từ từ vào bạn, rồi từ đó hãy bắt đầu phán xét."
+                        },
+                        {
+                            "title": "Tôn trọng các nguyên tắc xã hội",
+                            "content": "Bạn nên chấp nhận rằng xã hội được bao hàm bởi những nguyên tắc cơ bản, và nó sẽ không thể phát triển nếu những nguyên tắc đó không được thừa nhận và ủng hộ.\n\nTrong nền dân chủ, người ta phải bỏ phiếu. Gặp đèn đỏ, người ta phải dừng xe. Nếu họ không bỏ phiếu chỉ vì đối với họ điều đó không quan trọng, vậy ai sẽ là người nắm quyền? Nếu họ không dừng xe lại khi gặp đèn đỏ bởi điều đó không nằm trong kế hoạch của họ, vậy thì làm sao chúng ta có thể lái xe an toàn? Những ưu tiên và kế hoạch của bạn rất quan trọng, nhưng bạn phải thừa nhận rằng những vấn đề của thế giới bên ngoài cũng quan trọng không kém. Đừng gạt bỏ tầm quan trọng của những nguyên tắc, dù cho chúng không có ảnh hưởng trực tiếp đến cuộc sống của bạn."
                         }
                     ]
-                }
+                },
             ]
-        }
+        },
+        {
+            "code": "ENFJ",
+            "name": "Nhà tư duy",
+            "description": "INTP là những người yêu thích tìm tòi về thế giới xung quanh, về nhân sinh và vũ trụ. Giống với nhóm ISTP, các INTP cũng đánh giá sự vật sự việc và ra quyết định dựa trên tư duy logic thay vì cảm xúc hay ý kiến chủ quan. Những Nhà tư duy có khả năng tập trung cao độ và thích một mình tìm tòi về thế giới, họ muốn hoàn thiện bản thân ở tất cả những lĩnh vực mà mình yêu thích.",
+            "image": "./img/intp.png",
+            "details": [
+                {
+                    "section": "Tổng quan",
+                    "items": [
+                        {
+                            "content": "<b>INTP (Nhà tư duy)</b> là những người yêu thích tìm tòi về thế giới xung quanh, về nhân sinh và vũ trụ. Giống với nhóm ISTP, các INTP cũng đánh giá sự vật sự việc và ra quyết định dựa trên tư duy logic thay vì cảm xúc hay ý kiến chủ quan. Những Nhà tư duy có khả năng tập trung cao độ và thích một mình tìm tòi về thế giới, họ muốn hoàn thiện bản thân ở tất cả những lĩnh vực mà mình yêu thích."
+                        },
+                        {
+                            "title": "INTP là viết tắt của những chữ cái gì?",
+                            "content": "● <b>I - Hướng nội:</b> Đối với những người thuộc nhóm tính cách INTP, thế giới ẩn sâu bên trong mỗi chúng ta mới là thế giới thật. Ngược lại, thế giới bên ngoài là nơi thuộc về những người E - Hướng ngoại. \n\n● <b>N - Trực giác:</b> Bạn tập trung vào ý nghĩa của sự vật, sự việc, khác với những người có tính cách S - Giác quan sử dụng cả năm giác quan thị giác, thính giác, khứu giác, vị giác, cảm giác để nhìn nhận và đánh giá. \n\n● <b>T - Lý trí:</b> Bạn đưa ra quyết định dựa trên góc nhìn thực tế bằng số liệu và đo lường chính xác. Ngược lại, các F - Tình cảm ưu tiên đưa ra quyết định dựa trên cảm nhận cá nhân. \n\n● <b>P - Linh hoạt:</b> Bạn thỏa thích vẫy vùng trong thế giới của riêng mình với những quy tắc ngầm được bạn tự tay sắp xếp. Trái lại, những người thuộc nhóm J - Nguyên tắc lại cảm thấy ổn khi được áp cho những luật lệ được sắp đặt sẵn."
+                        },
+                        {
+                            "title": "Cuộc sống thu mình",
+                            "content": 'Những người thuộc nhóm tính cách INTP sống trong vòng tròn của riêng mình, nơi họ tìm kiếm lời giải đáp cho những vấn đề cá nhân (thường là mang tính học thuật) mặc cho thế giới ngoài kia đang xoay vần ra sao.',
+                        },
+                        {
+                            "title": "Tri thức là tất cả",
+                            "content": "Các INTP đánh giá cao tri thức hơn mọi thứ. Bộ não của họ liên tục hoạt động để tạo nên những lý thuyết mới và chứng minh cũng như phản biện những lý thuyết sẵn có. Đối với những Nhà tư duy, không có quy luật gì là bất biến, chỉ có logic là trường tồn. Họ sẵn sàng dành hàng giờ cho sự nghiệp học tập của mình, đắm chìm trong sách vở và tri thức. Là một người đam mê học hỏi như vậy nên các INTP cũng rất thích kết giao với những người bạn có thể cùng họ bàn luận về những lý thuyết kể trên."
+                        },
+                        {
+                            "title": 'Linh hoạt trong giới hạn',
+                            "content": "Các INTP không thích chỉ đạo người khác, cũng không thích thúc ép người khác theo ý mình. Trong hầu hết các tình huống, họ đều rất kiên nhẫn và linh hoạt, trừ khi bạn chạm tới “vảy ngược” là những lý thuyết mà họ đã dày công nghiên cứu, khi ấy các INTP có thể trở nên rất cố chấp."
+                        },
+                        {
+                            "title": "Đề cao tính logic",
+                            "content": "Là một người yêu sự logic, các INTP không đánh giá những kết luận được đưa ra dựa trên tình cảm hoặc bị chi phối quá nhiều bởi cảm xúc.\n\nCác INTP cũng không phải là người dễ đồng cảm và thấu hiểu cảm xúc của những người xung quanh, tuy nhiên đây cũng là một điểm yếu cần khắc phục của họ. Việc thiếu tinh tế trong nhìn nhận về mặt cảm xúc sẽ khiến mối quan hệ giữa người và người trở nên khô khan, không có sự hỗ trợ lẫn nhau, thậm chí đôi khi các INTP có thể vô tình đưa ra những lời đánh giá có phần tiêu cực và làm tổn thương người khác."
+                        },
+                        {
+                            "title": "Không giỏi diễn đạt bằng lời",
+                            "content": "Các INTP không phải là người có năng khiếu diễn giải bằng lời. Họ có thể khám phá ra vô vàn lý thuyết mới, học thêm được rất nhiều điều bổ ích, tuy nhiên lại chẳng thể cắt nghĩa những gì họ vừa tiếp thu được cho người khác. Sau khi đã một mình “chiến đấu” xong với mớ lý thuyết rối bòng bong, họ sẽ vô tư chuyển hẳn sang nghiên cứu một vấn đề khác mà không quan tâm xem người khác có hiểu được họ vừa làm gì hay không. Và sẽ thật đáng tiếc khi những tri thức chất lượng đó chỉ dành cho một người đúng không?"
+                        },
+                        {
+                            "title": "Độc lập và độc đáo",
+                            "content": "Các INTP thường rất độc lập và độc đáo trong lối tư duy. Họ luôn bị thu hút bởi những ý tưởng mới, vì vậy rất nhiều nghiên cứu khoa học đột phá trên thế giới được tìm ra bởi những người thuộc nhóm tính cách INTP."
+                        },
+                        {
+                            "title": "Những người nổi tiếng mang tính cách INTP",
+                            "content": "● Albert Einstein\n\n● Charles Darwin\n\n● Marie Curie\n\n● Abraham Lincoln\n\n● Larry Page\n\n● Kristen Stewart\n\n● SUGA (BTS)\n\n● Soyeon ((G)I-DLE)"
+                        }
+                    ]
+                },
+                {
+                    "section": "Điểm mạnh và điểm yếu",
+                    "items": [
+                        {
+                            "title": "Điểm mạnh",
+                            "itemsChild": [
+                                {
+                                    "titleChild": "Giỏi phân tích",
+                                    "content": "Các INTP phân tích mọi điều mà họ bắt gặp, từ dữ liệu nghiên cứu đến hành vi của những người xung quanh. Điều này giúp họ có thể phát hiện ra những mối quan hệ và liên kết bất ngờ mà người khác vô tình bỏ qua.",
+                                },
+                                {
+                                    "titleChild": "Sáng tạo",
+                                    "content": "Nhờ trí tưởng tượng không ngừng nghỉ của mình, các INTP có thể đưa ra những ý tưởng sáng tạo độc đáo mà hầu hết mọi người sẽ không nghĩ đến. Tất nhiên, không phải tất cả những ý tưởng nào họ đưa ra đều khả thi nhưng cũng rất đáng ghi nhận để thực hiện sau này.",
+                                },
+                                {
+                                    "titleChild": "Tư duy cởi mở",
+                                    "content": "Với trí tò mò và khát khao học hỏi mãnh liệt, các INTP có xu hướng tiếp thu những ý tưởng và cách thức làm việc mới - miễn là những ý tưởng đó dựa trên lập luận có căn cứ.",
+                                },
+                                {
+                                    "titleChild": "Ham tìm tòi",
+                                    "content": "Các INTP luôn tìm kiếm những mục tiêu, sở thích và lĩnh vực nghiên cứu mới. Ví dụ tuần này họ say mê với vật lý thì tuần kế tiếp đã có thể chìm đắm trong các video về chế tạo đàn guitar rồi. Khi cảm hứng ập đến, các INTP sẽ đặt hết tâm trí vào mối quan tâm mới của họ và học hỏi mọi điều có thể.",
+                                },
+                                {
+                                    "titleChild": "Khách quan",
+                                    "content": 'Nhóm tính cách INTP chỉ quan tâm tới sự thật. Thay vì chỉ đơn giản chấp nhận những ý tưởng đã được định sẵn, họ sẽ đi tìm hiểu điều gì đang thật sự diễn ra ở phía sau. Họ cũng sẵn sàng đối mặt phản bác lại những quan điểm sai lệch mặc dù đôi khi điều đó là không dễ dàng. Đổi lại thì các INTP cũng mong muốn được người khác đối xử một cách công bằng như vậy.',
+                                },
+                            ],
+                        },
+                        {
+                            "title": "Điểm yếu",
+                            "itemsChild": [
+                                {
+                                    "titleChild": "Tách biệt",
+                                    "content": 'Ngay khi đang ở cùng những người khác thì các INTP cũng có thể đắm chìm trong suy nghĩ của chính mình. Đến khi họ tập trung trở lại thì nhận ra cuộc trò chuyện đã được đưa tới những chủ đề tận đẩu tận đâu. Điều này có thể khiến họ cảm thấy bị tách biệt với mọi người, đặc biệt là trong những cuộc tụ họp có quy mô lớn.',
+                                },
+                                {
+                                    "titleChild": "Thiếu tế nhị",
+                                    "content": "Các INTP coi lý trí là chìa khóa giải quyết mọi vấn đề trong cuộc đời, vì vậy họ có thể đánh giá thấp tầm quan trọng của những giá trị về mặt tình cảm như sự cảm thông, lòng trắc ẩn hay những quy tắc mang giá trị truyền thống. Do đó, đôi khi họ có thể vô tình bị đánh giá là thiếu tế nhị dù cho họ có ý định tốt.",
+                                },
+                                {
+                                    "titleChild": "Bất mãn",
+                                    "content": "Các INTP luôn cho rằng mọi chuyện đều có thể được cải thiện tốt hơn nhiều và nhiều nữa. Họ không ngừng tìm kiếm các vấn đề cần giải quyết, các chủ đề để tìm hiểu và những phương thức mới để tiếp cận. Tuy nhiên, nếu đi quá xa, lối tư duy này có thể khiến các INTP lãng phí công sức vào việc cải tổ những điều vốn đã rất tốt và bỏ bê những nhu cầu và trách nhiệm của mình.",
+                                },
+                                {
+                                    "titleChild": "Thiếu kiên nhẫn",
+                                    "content": "Các INTP tự hào với kiến thức và ý tưởng của họ, tuy nhiên, họ thường không đủ kiên nhẫn khi giải thích lập luận của mình cho người khác. Nếu đối phương có vẻ không hứng thú hoặc không thể theo kịp cuộc trò chuyện thì các INTP có thể từ bỏ luôn việc giải thích.",
+                                },
+                                {
+                                    "titleChild": "Quá cầu toàn",
+                                    "content": 'Mong muốn hoàn thành công việc của các INTP có thể bị cản trở bởi chính tính cầu toàn của họ. Đôi khi, họ có thể chìm đắm vào việc phân tích các lựa chọn và rồi không thể đi đến quyết định nào cả. Họ cũng có thể từ bỏ các dự án khi thấy chúng không phù hợp với tầm nhìn lý tưởng của mình.',
+                                }
+                            ],
+                        }
+                    ]
+                },
+                {
+                    "section": "Mối quan hệ",
+                    "items": [
+                        {
+                            "content": 'Rất ít người có thể vượt qua sự am hiểu tường tận của các INTP, vì vậy thật sự không dễ dàng để kết giao với họ. Với một tâm trí luôn xoay quanh những ý tưởng mới, những đột phá mới, rất khó để các INTP có thể dành thời gian cho những mối quan hệ giữa người với người. Và kể cả khi đã trở thành bạn của các INTP thì cũng rất khó làm thân, trừ khi bạn có chung “tần sóng” với họ.\n\nCác INTP hầu như chỉ có một vòng tròn bạn bè nhỏ, những người có thể dành thời gian cùng họ trò chuyện, nghiên cứu, hỗ trợ về mặt tinh thần. Những người thuộc nhóm tính cách INTP thường bị thu hút bởi những người sở hữu tính đặc điểm NT trong tính cách, đây là những người bạn có thể cùng họ chia sẻ niềm đam mê thảo luận về lĩnh vực học thuật. Một khi đã trở nên thân thiết hơn với các INTP thì họ sẽ làm hết sức mình để mối quan hệ trở nên bền chặt hơn.\n\nCác INTP không phải những “chuyên gia tình cảm”. Nếu bạn gặp khó khăn, họ sẽ sẵn sàng giúp bạn nghĩ cách giải quyết một cách nhanh gọn nhất, nhưng đừng hy vọng rằng các INTP sẽ đồng cảm và thấu hiểu cho vấn đề của bạn. Không phải vì các INTP không có tình cảm, mà là tình cảm của họ đã bị chôn sâu dưới tầng tầng lớp lớp những không gian họ dành cho sự logic.\n\nTình bạn của các INTP luôn rất rõ ràng, kiên định, mạnh mẽ và chân thành. Họ không cố gắng kiểm soát bạn bè của mình cũng như không thích có những cảm xúc thái quá khi kết giao bạn bè. Những điều mà các INTP đánh giá cao trong quá trình xây dựng một tình bạn đẹp là sự trung thành, cùng nhau học hỏi, cùng nhau phát triển.\n\nNhìn chung, các INTP dành hầu hết thời gian để sống trong thế giới nội tâm của riêng mình, nơi luôn rộn ràng và náo nhiệt nhờ những ý tưởng mới và những suy nghĩ không ngừng nghỉ. Ngược lại, thế giới bên ngoài của các INTP lại khá nhẹ nhàng và ảm đạm. Họ không có nhu cầu kết giao thật nhiều mà chỉ cần những người mà họ thật sự quý trọng và ảnh hưởng nhiều đến họ. Tuy nhiên, một khi đã bước vào mối quan hệ thì các INTP là những người chân thành và chung thủy nhất, họ sẽ đối xử vô cùng tốt với bạn bè mình, đưa cho họ những lời khuyên tốt nhất, giúp họ giải quyết những phiền toái mà không ngại ngần gì.'
+                        },
+                        {
+                            "title": "INTP trong tình yêu",
+                            "itemsChild": [
+                                {
+                                    "content": "Những nét tính cách khác thường của các INTP sẽ tạo nên bất ngờ thú vị cho người yêu của họ. Bình thường họ là những người lý trí và dè dặt, nhưng một khi đã hạ lớp phòng thủ xuống, các INTP sẽ để lộ ra mặt tươi sáng của mình.\n\n<i>“Trong tình yêu, INTP có thể dùng khả năng sáng tạo của mình để làm mọi thứ luôn mới mẻ và tạo ra những bất ngờ nhỏ bé để khiến nửa kia cảm thấy đặc biệt.”</i>\n\nLà người hướng nội, các INTP thích ở một mình, nhưng điều đó không có nghĩa là họ không khao khát có người ở cạnh bên. Đối với những người thuộc kiểu tính cách này, một tình yêu lý tưởng không chỉ là người để cùng chia sẻ niềm vui, nỗi buồn mà còn là người có thể cùng họ thúc đẩy bản thân tiến bộ từng ngày.\n\n<i>“Các INTP muốn dành cả đời để theo đuổi tri thức, vì vậy họ hy vọng nửa kia của mình cũng có tầm nhìn tương tự.”</i>\n\nVới các INTP, việc tìm kiếm một đối tượng đáp ứng cùng lúc các tiêu chuẩn trên không phải điều dễ dàng. Họ có thể chần chừ khi bước ra ngoài thế giới và gặp gỡ mọi người. Ngay cả khi họ có hứng thú với ai đó, họ vẫn phải mất một khoảng thời gian để hạ quyết tâm chấp nhận rủi ro bị từ chối sau đó mới lấy hết can đảm để mời người đó đi chơi. Bởi vì trở thành trung tâm của sự chú ý khi bị từ chối tình cảm không phải là điều dễ dàng đối với bất kỳ ai, đặc biệt là đối với các INTP.",
+                                },
+                                {
+                                    "titleChild": "Sự gắn kết chân thực",
+                                    "content": "Các INTP rất nghiêm túc với mối quan hệ ngay từ khi bắt đầu, khi gặp được một người mà họ thật sự tôn trọng và thích ở bên.\n\nNgay từ những buổi hẹn hò đầu tiên, các INTP thường rất thẳng thắn, chân thành bày tỏ tình cảm của mình, và cũng khuyến khích đối phương mở lòng với họ. Họ có thể ít nói nhưng lại không hề nhút nhát. Đối với các INTP, việc thẳng thắn trong chuyện tình cảm sẽ giúp hai bên không xảy ra những hiểu lầm không đáng có.\n\nKhi yêu đương, nhu cầu của các INTP rất đơn giản. Họ không quan trọng quà cáp hay sự lãng mạn, không thích những lời tán dương ngọt ngào xã giao hay hỏi thăm hàng ngày như một thói quen. Vì vậy nếu bạn đã, đang và sẽ tiến tới mối quan hệ xa hơn với một INTP, hãy tập làm quen với điều đó.\n\nTuy nhiên, từ góc nhìn của chúng tôi, các INTP cần nỗ lực học hỏi cách thể hiện tình cảm với người yêu nếu bạn không muốn đối phương cảm thấy không được trân trọng và yêu thương.",
+                                },
+                                {
+                                    "titleChild": "Đối mặt với xung đột",
+                                    "content": "Các INTP không thích xung đột, họ có xu hướng né tránh khi phát sinh bất đồng về cảm xúc. Thay vì dành thời gian lắng nghe người yêu, các INTP sẽ sử dụng đầu óc logic của mình để chứng minh đối phương sai. Hoặc họ cũng có thể đưa ra các giải pháp đơn giản, hợp lý để giải quyết xung đột nhằm tránh việc phức tạp hóa vấn đề khiến mọi chuyện đi xa hơn.\n\n<i>“Khi xảy ra xung đột, các INTP có thể cố ý phớt lờ cảm xúc của đối phương cũng như chính mình trong một thời gian dài.”</i>\n\nKhi trưởng thành hơn, các INTP mới hiểu được rằng mọi người đều có nhu cầu về cảm xúc (kể cả họ) và đó là điều bình thường. Nhưng với những người sống duy lý như họ thì đây không hề là bài học dễ dàng, từ quá trình tiếp nhận tới công nhận vấn đề nằm ở chính mình. Song, việc nhận ra điều này có thể giúp các Nhà tư duy vượt qua những thách thức mà tất cả các mối quan hệ lâu dài đều gặp phải như kiểm soát cảm xúc.",
+                                },
+                                {
+                                    "titleChild": "Và con tim ta đã vui trở lại",
+                                    "content": "Các INTP có xu hướng sống trong thế giới nội tâm của riêng mình, nhưng rồi tình yêu ập đến kéo họ ra khỏi vùng an toàn của mình để tận hưởng niềm vui trọn vẹn.\n\nTrải nghiệm này có thể mang lại thay đổi lớn cho INTP, giúp họ phát hiện những điểm mạnh, những mặt thú vị tiềm ẩn mà chính họ cũng không nhận ra. Với trí tưởng tượng và sự sáng tạo vô hạn của mình, các INTP có thể trở thành những người yêu vô cùng nồng nhiệt và cống hiến hết mình cho tình yêu mà không đánh mất bản ngã của mình.",
+                                },
+                            ],
+                        },
+                        {
+                            "title": "INTP trong tình bạn",
+                            "itemsChild": [
+                                {
+                                    "content": "Giống như bất kỳ ai, các INTP tìm đến bạn bè để được sẻ chia về mặt tinh thần. Tuy nhiên ngoài chuyện kết bạn cho vui thì họ cũng cần những người bạn có hiểu biết, giàu tri thức để cùng bàn luận về những ý tưởng mà họ cho là thú vị. Không phải ai cũng đáp ứng được các tiêu chuẩn làm bạn của INTP, nhưng khi gặp người cùng “tần sóng” thì họ có thể trở nên thân thiết nhanh đến bất ngờ.",
+                                },
+                                {
+                                    "titleChild": "Kén cá chọn canh hay có chọn lọc?",
+                                    "content": "Các INTP là những người bạn hoạt bát, giàu trí tưởng tượng, luôn nói những điều thú vị hoặc bất ngờ. Bạn thân của các INTP thường có đam mê giống họ, nhất là trong chuyện học hỏi, tìm tòi những điều mới lạ. Tuy nhiên, việc kết giao bạn bè của các INTP cũng có ngoại lệ, đó là khi họ gặp được những người biết giữ vững lập trường và đấu tranh cho quan điểm của mình. Tính cách này vô cùng thu hút các INTP, những người thường xuyên “mềm không ăn, ăn cứng”.\n\nTình bạn của các INTP được xây dựng dựa trên nền tảng tri thức, được duy trì bằng cách trao đổi ý tưởng, lý thuyết và khái niệm. Những người không thể theo kịp nhịp độ sống của họ hoặc có sở thích khác biệt có thể bị họ phớt lờ hoặc gạt đi. Các INTP sẽ chỉ dành thời gian quý báu của mình để tiếp chuyện những người có cùng chí hướng.\n\n<i>“Phong cách sống của các INTP không áp dụng cho tất cả mọi người, nhưng không sao cả, đa số các INTP thích có vài người bạn tốt hơn là quá nhiều bạn xã giao.”</i>",
+                                },
+                                {
+                                    "titleChild": "Ý nghĩa của tình bạn",
+                                    "content": "Khi bạn bè gặp vấn đề khó xử, các INTP sẽ nhiệt tình giúp đỡ bằng cách đưa ra những lời khuyên và giải pháp hợp lý. Họ có thể biến những tình huống phức tạp nhất thành đơn giản, phân tích ưu và nhược điểm rõ ràng để giúp bạn bè cân nhắc.\n\nTuy nhiên, những vấn đề liên quan đến cảm xúc có thể vượt ngoài khả năng của các INTP. Đối với họ, bài học lớn nhất và khó nhất về tình bạn là: đôi khi mọi người không cần họ dạy cách giải quyết vấn đề, mà chỉ cần một người ở bên để bầu bạn và sẻ chia những buồn vui trong cuộc sống.\n\n<i>“Các INTP thường cho rằng ưu thế lớn nhất của họ là trí tuệ, nhưng tình bạn có thể giúp họ nhận ra họ có nhiều thứ hơn để cống hiến cho thế giới ngoài những ý tưởng sáng tạo và đột phá của mình, một trái tim nhân hậu chẳng hạn.”</i>\n\nDần dần, các INTP có thể nhận ra rằng những cuộc trò chuyện sôi nổi và những buổi brainstorm thâu đêm cũng thú vị đấy, nhưng không phải là tất cả. Các INTP sẽ bỏ qua những điều hiện hữu bên ngoài để đào sâu vào vẻ đẹp tâm hồn tiềm ẩn. Trong một thế giới nơi mọi người bị ám ảnh với việc phải ép mình hòa nhập với tập thể, thì các INTP xuất hiện như một làn gió mới, truyền cảm hứng cho mọi người thoát khỏi khuôn khổ và tìm được tiếng nói của riêng mình.",
+                                }
+                            ],
+                        },
+                        {
+                            "title": "INTP khi làm cha mẹ",
+                            "itemsChild": [
+                                {
+                                    "content": "Khi làm cha mẹ, các INTP cũng gặp thách thức lớn giống như trong các mối quan hệ khác, đó là khi họ bối rối trước những thay đổi về mặt tâm sinh lý của con cái. Rõ ràng là trẻ nhỏ chưa thể phát triển hết khả năng tự chủ và suy luận logic như họ được.\n\nTuy nhiên, vai trò làm cha mẹ vẫn rất có ý nghĩa đối với các INTP. Với bản tính tò mò, ham học hỏi, những bậc cha mẹ INTP có thể tìm thấy niềm vui lớn khi dạy con khám phá thế giới. Là kiểu người khoan dung và tư duy cởi mở nên các INTP khuyến khích con cái tư duy độc lập, khám phá tri thức mới cũng như biết bày tỏ và bảo vệ quan điểm của bản thân.",
+                                },
+                                {
+                                    "titleChild": "Sống thật với chính mình",
+                                    "content": "Các bậc cha mẹ INTP không quan tâm đến kỳ vọng của xã hội, họ cũng không bị ám ảnh bởi ý kiến của những người xung quanh về việc họ nên và không nên làm gì. Họ cũng không bắt con cái mình phải đi theo lộ trình sống cơ bản như đi học > đi làm > kết hôn > mua nhà > sinh con > nghỉ hưu. Họ sẽ trao cho chúng quyền tự do làm chủ cuộc đời mình, miễn là trong khuôn khổ của những phép tắc cơ bản.\n\n<i>“Các INTP không thích kiểm soát con cái mà khuyến khích chúng xây dựng các nguyên tắc và quan điểm sống riêng. Đôi khi họ sẽ xuất hiện và đưa ra những gợi ý nho nhỏ để bọn trẻ có thêm góc nhìn về cuộc sống.”</i>\n\nSong, điều này không có nghĩa là INTP không có kỳ vọng nào với con cái. Họ luôn mong mỏi rằng những đứa trẻ có thể học được cách tự chủ và độc lập. Và khi chúng đủ lớn, bọn trẻ sẽ có khả năng tư duy phản biện cần thiết để đi theo tiếng gọi của con tim trên hành trình mình đã chọn.",
+                                },
+                                {
+                                    "titleChild": "Món quà của tự do",
+                                    "content": "Các INTP khuyến khích tính tò mò ở con cái, cho phép chúng tự do tiếp thu kiến thức và mở rộng vốn hiểu biết. Họ thường có cách giáo dục con cái khá thoải mái, thay vì áp đặt các quy tắc không cần thiết hoặc áp dụng thời gian biểu nghiêm ngặt, các bậc phụ huynh INTP sẽ tạo ra một môi trường an toàn và lành mạnh để những đứa trẻ tự do khám phá xung quanh.\n\nVới các INTP, để con cái tự lập là một sự tôn trọng. Nhưng với nhiều trẻ nhỏ (thậm chí thanh thiếu niên), sự tự do (đôi khi là quá mức) này cũng không phải điều tốt. Nếu trong gia đình không có những giới hạn hợp lý và chỉ dẫn của cha mẹ thì chúng có thể cảm thấy mình bị bỏ rơi, bơ vơ, phải tự mình khám phá thế giới, tự mình đặt ra câu hỏi và trả lời những câu hỏi ấy.\n\n<i>“Có một nghịch lý là, một gia đình với các quy tắc hợp lý và sự động viên của cha mẹ có thể chính là điều mà con cái của các INTP cần để trở thành một công dân tự lập.”</i>\n\nMay mắn thay, các INTP có đủ tư duy linh hoạt để hiểu rằng họ có thể khuyến khích con cái tự lập mà không cần buông tay quá mức. Họ có thể thiết lập lại sự cân bằng bằng cách đưa ra lời khuyên và có mặt để hỗ trợ bất cứ khi nào chúng cần. Họ cũng có thể đặt ra các giới hạn, quy tắc và hình phạt hợp lý với những hành vi sai trái để giúp con cái định hướng cuộc sống mà không cần dựa hoàn toàn vào khả năng tự chủ chưa hoàn thiện của bản thân chúng.",
+                                },
+                                {
+                                    "titleChild": "Một thử thách xứng tầm",
+                                    "content": "Bên cạnh đó, việc hỗ trợ con cái về mặt tinh thần cũng là một trong những thách thức lớn nhất với các phụ huynh INTP.\n\nCác INTP muốn trao quyền cho con cái tự giải quyết vấn đề và đáp ứng nhu cầu của chính chúng. Đây là điều tốt, nhưng trẻ cũng cần nền tảng động viên, hỗ trợ ổn định - cùng với các quy tắc và giới hạn như đã đề cập ở trên - trước khi có thể tự mình giải quyết mọi việc. Để tạo dựng nền tảng này, các cha mẹ INTP sẽ cần ở bên để động viên và cổ vũ chúng thường xuyên.\n\n<i>“Việc thể hiện tình cảm có thể khiến các INTP lý trí cảm thấy ngại ngùng, tuy nhiên những lời nói và hành động này sẽ giúp đứa trẻ cảm thấy được yêu thương và an toàn trong vòng tay thân thuộc của cha mẹ.”</i>",
+                                }
+                            ],
+                        },
+                    ]
+                },
+                {
+                    "section": "Làm sao để thân thiết với INTP",
+                    "items": [
+                        {
+                            "content": "INTP là người hướng nội, không giỏi thể hiện cảm xúc nhưng sâu sắc, vì vậy để thân thiết với họ bạn cần thực sự hiểu họ, tin tưởng, chân thành, thẳng thắn và rõ ràng trong mọi vấn đề.\n\nĐối với INTP, việc có những cuộc trò chuyện sâu sắc và phức tạp thực sự rất thú vị và họ thích ở gần những người có thể khơi dậy khả năng sáng tạo của họ.\n\nMột số điều bạn cần lưu ý khi tiếp xúc với INTP:\n\n●    <b>Đừng cố tỏ ra thân thiện trong lần gặp mặt đầu tiên.</b> Nếu bạn muốn kết thân với INTP thì trong lần gặp đầu tiên đừng cố gắng tỏ ra thân thiện hay nhiệt tình thái quá, hãy cư xử một cách bình thường, nếu không họ sẽ cho rằng bạn là người giả tạo.\n\n●    <b>Hãy khơi gợi được sự hiếu kỳ hay tham vọng của INTP.</b> INTP không hứng thú với những người tiếp cận mình bằng tình cảm. Ngược lại họ tỏ ra hào hứng với những người khơi gợi được tham vọng tri thức. INTP sẽ thích kết thân với những người có cùng “tần sóng” về sự hiểu biết, giàu tri thức để cùng bàn luận về những điều mới mẻ mà họ cho là thú vị. Đó có thể là cùng nhau giải câu đố, chơi cờ, hoặc thậm chí là thảo luận những vấn đề khó nhằn mà chẳng ứng dụng được gì trong cuộc sống.\n\n●    <b>Hãy đặt câu hỏi về lĩnh vực mà INTP quan tâm, tự tin.</b> Ngoài việc trao đổi và tranh luận các ý tưởng mới với Nhà tư duy, bạn cũng có thể đặt câu hỏi về những lĩnh vực mà INTP tự tin nhất. Với tính cách là người có niềm đam mê trong việc chia sẻ về lĩnh vực học thuật, INTP sẽ hào hứng với việc giải thích và cho bạn câu trả lời vừa ý. Đừng quên chú ý lắng nghe và có lời khen ngợi INTP sau khi nhận được lời giải đáp.\n\n●    <b>Hãy khéo léo nhắc nhở họ.</b> Các INTP rất dễ quên nên khi đã là một thành phần trong vòng tròn kết giao của họ, bạn hãy khéo nhắc họ chú ý đồ đạc như túi xách, ví, điện thoại hay thậm chí là giờ hẹn.\n\n●    <b>INTP dễ dàng bị thu hút bởi những người biết giữ vững lập trường.</b> Có một ngoại lệ của INTP trong việc kết giao với mọi người là họ bị thu hút bởi những người biết giữ vững lập trường và đấu tranh cho quan điểm của mình. Nếu bạn là người có tính cách này thì dễ dàng nhận được cái gật đầu hứng thú từ INTP."
+                        },
+                    ],
+                },
+                {
+                    "section": "Con đường sự nghiệp",
+                    "items": [
+                        {
+                            "content": "Với tư tưởng theo đuổi sự tự do, các INTP có thể khó tìm kiếm công việc và sự nghiệp phù hợp với họ. Họ có tính cách khác thường, quan điểm độc đáo, nên rất ít môi trường làm việc có thể khớp với yêu cầu của họ.\n\nNhưng với kiến thức uyên bác của mình, các INTP có thể tìm được công việc giúp họ phát huy được thế mạnh của mình. Với những phẩm chất hiếm có, cộng thêm một chút nỗ lực, đôi khi là một chút may mắn, các INTP có thể trở thành ngôi sao sáng trong nhiều lĩnh vực."
+                        },
+                        {
+                            "title": "Khát khao khám phá",
+                            "content": "Các INTP khát khao khám phá, nhưng không phải theo những cách thông thường mà theo phương thức độc đáo của riêng họ. Họ bị cuốn hút vào vương quốc của những ý tưởng, thích đào sâu bản chất các sự vật, hiện tượng trong cuộc sống và nghiên cứu những bí ẩn của vũ trụ.\n\n<i>“Đối với các INTP, một ngày làm việc lý tưởng là được giải quyết những vấn đề tưởng như không thể giải quyết được.”</i>\n\nVới tính hiếu kỳ ngàn năm không đổi, các INTP có thể tìm thấy vẻ đẹp ẩn giấu trong những khái niệm mà người khác cảm thấy khô khan, nhàm chán. Tài năng phân tích và nghiên cứu của họ là điều vô giá trong hầu hết mọi lĩnh vực, và họ có đủ sự linh hoạt để tỏa sáng ở trong cả những lĩnh vực tưởng như không phù hợp với họ.\n\nBất kỳ công việc nào cho phép các INTP được thỏa thích phát huy sức sáng tạo của mình đều có thể khiến họ hài lòng vô tận."
+                        },
+                        {
+                            "title": "Thúc đẩy động lực",
+                            "content": "Đôi khi, đồng nghiệp của các INTP có thể thấy họ thật khó hiểu. Không giống như những nhóm tính cách khác, các INTP không cho rằng họ cần phải gây ấn tượng với cấp trên hay trở nên thân thiết với mọi đồng nghiệp. Trên thực tế, họ không hứng thú với những hoạt động sinh ra để tạo động lực trong công việc cho người khác như team-building, nói chuyện phiếm lúc giải lao, chương trình văn hóa văn nghệ trong công ty.\n\nThay vào đó, trong công việc, những người thuộc nhóm tính cách INTP thường được thúc đẩy bởi chính tính tò mò và cầu toàn của mình. Các INTP hiếm khi nào thỏa mãn với hai chữ “đủ tốt”, và họ rất ghét bị gọi là bình thường hoặc tệ hơn là tầm thường. Tuy vậy, không phải với công việc nào họ cũng dành sự nỗ lực và tập trung như nhau. Đôi khi họ có thể bỏ qua những công việc bàn giấy nhàm chán để theo đuổi những mục tiêu hấp dẫn hơn.\n\n<i>“Tất cả những gì các INTP thực sự muốn là đắm mình trong một nhiệm vụ đủ thú vị, đủ kích thích mà không bị bất cứ ai làm phiền và gián đoạn công việc.”</i>\n\nMôi trường làm việc phù hợp với các INTP là môi trường được phân tầng theo cấu trúc nằm ngang, nơi công việc được phân theo từng đội nhóm nhỏ và thực hiện trọn gói thay vì giao việc theo cấp độ từ cao xuống thấp.\n\nNhững công việc nghiên cứu trong phòng thí nghiệm, tư vấn viên hoặc freelancer rất phù hợp với tính cách của các INTP."
+                        },
+                        {
+                            "title": "Kỹ năng xã hội",
+                            "content": "Gần như mọi bài đăng tuyển dụng công việc hiện nay đều yêu cầu ứng viên có kỹ năng mềm tốt. Tuy nhiên đa số các INTP lại cho rằng kỹ năng mềm đang được đánh giá quá cao. Đây cũng có thể là một nhận định đúng khi các nhà tuyển dụng ngày càng cần những nhân sự giỏi về chuyên môn, hiểu được các hệ thống phức tạp và biết tư duy phản biện như INTP.\n\nCác INTP thường khó phát triển được tiềm năng của bản thân khi làm những công việc đòi hỏi phải chiều chuộng cảm xúc của khách hàng hoặc đối tác như nhân viên chăm sóc khách hàng, telesales. Trong trường hợp “dòng đời đưa đẩy” và buộc phải làm việc ở lĩnh vực này, các INTP sẽ có vô vàn ý tưởng hay ho để khiến công việc này trở nên thú vị hơn."
+                        },
+                        {
+                            "title": "Những nghề nghiệp phù hợp",
+                            "content": "Việc yêu thích nghiên cứu ở nhiều lĩnh vực khác nhau khiến các INTP trở thành những nhân tố xuất sắc khi làm việc tại vị trí nhà khoa học (đặc biệt trong lĩnh vực vật lý hoặc hóa học), nhà phân tích hệ thống, nhà toán học, nhà sáng tạo game, lập trình viên, kỹ sư.\n\nCác INTP có xu hướng độc lập trong công việc và luôn đặt tiêu chuẩn cao cho bản thân cũng như đồng nghiệp, vì vậy hiển nhiên họ cũng thuộc tuýp người không thích quản lý và bị quản lý. Họ như “con sói cô độc” tự mình lang thang giữa sa mạc và tìm ra câu trả lời cho mọi vấn đề của bản thân. Một số nghề nghiệp có thể đáp ứng mặt tính cách này của các INTP là pháp y, tư vấn viên hoặc các công việc liên quan đến pháp lý, điều tra.\n\nNgược lại, những công việc yêu cầu quá nhiều tương tác giữa người và người hay yêu cầu cần thể hiện cảm xúc quá nhiều sẽ không phải lựa chọn hàng đầu của các INTP.\n\nDưới đây là các công việc phù hợp với INTP mà bạn có thể tham khảo:\n\n●    Nhà khoa học (đặc biệt trong nghiên cứu vật lý, hóa học)\n\n●    Chiến lược gia\n\n●    Giáo sư đại học\n\n●    Nhà Toán học\n\n●    Nhiếp ảnh gia\n\n●    Chuyên viên thiết lập kỹ thuật\n\n●    Lập trình viên\n\n●    Chuyên viên phân tích dữ liệu\n\n●    Nhà sáng tạo game\n\n●    Thẩm phán\n\n●    Luật sư\n\n●    Kỹ sư\n\n●    Người bảo vệ pháp lý và viên kiểm lâm\n\n●    Pháp y"
+                        }
+                    ]
+                },
+                {
+                    "section": "Thói quen nơi công sở",
+                    "items": [
+                        {
+                            "content": "Đối với các INTP, họ không mong đợi hay đòi hỏi quá nhiều ở môi trường làm việc lý tưởng, họ chỉ đơn giản cần một không gian cho phép mình được phát huy những thế mạnh vốn có, nếu công việc đó không cần phải tương tác quá nhiều với khách hàng, đối tác hay các phòng ban khác thì càng tốt vì họ không phải là người giỏi xã giao.\n\nTuy nhiên, là một người có đầu óc nhanh nhạy, luôn không ngừng nảy ra những ý tưởng mới, những phương pháp mới thì một người đồng hành trong công việc là rất quan trọng với những người thuộc nhóm tính cách INTP."
+                        },
+                        {
+                            "title": "INTP khi là nhân viên",
+                            "content": 'Khi được làm việc trong một môi trường làm việc cởi mở, linh hoạt, các nhân viên INTP sẽ phát huy được hết khả năng của mình, không ngừng sáng tạo và đổi mới. Ngược lại, nếu môi trường làm việc quá tù túng và kìm hãm thì những người thuộc nhóm tính cách INTP sẽ rất nhanh trở nên chán nản, thậm chí là bỏ bê công việc vì không có động lực để hoàn tất một cách chỉn chu nhất.\n\nTuy vậy, tin tốt đó là việc bắt đầu từ những vị trí thấp nhất trong nấc thang sự nghiệp sẽ có ích đối với các INTP. Những chức danh này giúp họ trau dồi những kỹ năng từ căn bản tới nâng cao để làm tiền đề cho những bước tiến xa hơn sau này.\n\nMặc dù các INTP có nhiều thế mạnh, nhưng họ vẫn có thể gặp khó khăn trong công việc, điển hình là khi gặp những vấn đề khó mà không thể giải quyết ngay lập tức. Song, các INTP hoàn toàn có thể tận dụng những thời khắc này để hoàn thiện bản thân về mặt chuyên môn và kinh nghiệm.'
+                        },
+                        {
+                            "title": "INTP khi là đồng nghiệp",
+                            "content": "Ngoài việc trò chuyện xã giao thường ngày và trao đổi một vài kiến thức chuyên ngành, phần lớn thời gian các INTP sẽ cảm thấy đồng nghiệp mình có chút phiền khi liên tục ngắt đoạn dòng suy nghĩ của họ khi đang tập trung làm việc. Tuy nhiên, điều đó không có nghĩa là các INTP không muốn làm việc cùng đồng nghiệp, bởi việc kết hợp nhiều cái đầu trong công việc sẽ giúp vấn đề được giải quyết nhanh gọn hơn.\n\nDù các INTP thích tập trung vào một công việc nhất định nhưng họ cũng thích trải nghiệm ở nhiều lĩnh vực khác nhau. Bằng cách xây dựng mối quan hệ tốt đẹp với đồng nghiệp, họ có thể sẽ được khai sáng ở nhiều khía cạnh mà chính các INTP cũng chưa bao giờ ngờ tới."
+                        },
+                        {
+                            "title": "INTP khi là cấp trên",
+                            "content": "Ở vị trí một nhà lãnh đạo, các INTP không quan tâm đến việc mình có bao nhiêu quyền hạn kiểm soát người khác. Thực tế, những vị sếp mang đặc điểm INTP thường giao nhiệm vụ căn bản cho cấp dưới, còn mình thì tập trung vào những đầu việc quan trọng và thú vị hơn.\n\nNhóm tính cách INTP thường sẽ là những vị cấp trên khá cởi mở và thoải mái, họ trao cho nhân viên của mình nhiều quyền tự quyết trong công việc. Tuy nhiên đừng vội mừng, vì những cấp trên INTP luôn đặt tiêu chuẩn cao trong công việc, cấp dưới của họ có thể làm bất cứ những gì mình thích miễn là hoàn thành một cách xuất sắc nếu không muốn bị phê bình thẳng tay.\n\nKhi dần tích lũy được kinh nghiệm, các cấp trên INTP có thể nhận ra rằng việc cân đối giữa phê bình và khích lệ sẽ nâng cao tinh thần cấp dưới để đạt kết quả tốt hơn."
+                        },
+                    ]
+                },
+                {
+                    "section": "So sánh INTP với ENTP, ISTP",
+                    "items": [
+                        {
+                            "content": "Khi so sánh INTP (Nhà tư duy) với những nhóm tính cách có sự tương đồng (E<b>NTP</b> - Người nhìn xa, <b>I</b>S<b>TP</b> - Nhà kỹ thuật), bạn sẽ hiểu hơn về đặc điểm tính cách nhóm INTP"
+                        },
+                        {
+                            "title": "Điểm giống nhau",
+                            "content": 'T - Lý trí và P - Linh hoạt: Cả 3 nhóm tính cách này đều là những người lý trí, linh hoạt, có khả năng phân tích thông tin, xử lý logic, và hiệu quả trong cách tiếp cận và giải quyết vấn đề. Hơn nữa, cả INTP, ENTP, và ISTP đều có xu hướng làm việc độc lập và đưa ra quyết định dựa trên lý trí và kiến thức cá nhân.\n\nKhi đối chiếu INTP với ENTP, ISTP chúng tôi nhận thấy mỗi cặp sẽ có những điểm chung riêng như sau:\n\n●    I<b>NTP</b> và E<b>NTP</b>: Họ đều có xu hướng độc lập trong tư duy và suy nghĩ, nên thường giải quyết vấn đề theo cách riêng của mình, thay vì tuân theo quy tắc hay quan niệm xã hội chung.\n\n●    <b>I</b>N<b>TP</b> và <b>I</b>S<b>TP</b>: Họ không giỏi bộc lộ tình cảm, cảm xúc một cách chân thành trong các mối quan hệ.',
+                        },
+                        {
+                            "title": "Điểm khác nhau",
+                            "content": "INTP với ENTP, ISTP là những nhóm tính cách khác nhau, có những đặc điểm riêng biệt. Bạn sẽ thấy rõ điều này ở bảng dưới đây:" 
+                        },
+                    ],
+                    "tables": [
+                        {
+                            "headers": ["Đặc điểm", "ENTP", "INTP", "ISTP"],
+                            "rows": [
+                                ["Diễn giải chữ viết tắt", "<b>E - Hướng ngoại</b><br>N - Trực giác<br>T - Lý trí<br>P - Linh hoạt", "<b>I - Hướng nội</b><br><b>N - Trực giác</b><br>T - Lý trí<br>P - Linh hoạt", "I - Hướng nội<br><b>S - Cảnh giác</b><br>T - Lý trí<br>P - Linh hoạt"],
+                                ["Cách tiếp cận thông tin", "Dựa vào khả năng của bản thân để tự mình phân tích vấn đề từ nhiều góc độ và tìm ra giải pháp tối ưu", "Dựa trên những lập luận có căn cứ", "Dựa trên thông tin cụ thể, thực tế"],
+                                ["Trong các mối quan hệ", "- Không để ý đến việc kết giao, là người thoải mái, tự nhiên, có thể làm mọi người xung quanh vui vẻ<br>- Thích kết giao với những người thẳng thắn, trung thực, không vòng vo<br>- Đối với bạn bè thân thiết ENTP rất thích chọc ghẹo và mong chờ phản ứng từ đối phương", "- Không có nhu cầu kết giao, mà chỉ cần những người thật sự quý trọng và ảnh hưởng nhiều đến họ<br>- Thích kết giao với những người có chung sở thích và niềm đam mê<br>- Đối với INTP tình bạn đẹp là sự trung thành, cùng nhau học hỏi, cùng nhau phát triển", "- Thoải mái chấp nhận kết giao với cả những người có tính cách trái ngược bởi họ vốn cởi mở và thoải mái trong các mối quan hệ<br>- Thích kết giao với những người có chung sở thích<br>- Thích làm bạn với những người có tính cách năng động, sáng tạo"],
+                                ["Trong công việc", "- Là người có tính cách linh hoạt thích công việc như nhân viên kinh doanh, kỹ sư, diễn viên hoặc nhiếp ảnh gia<br>- Là người thích làm việc độc lập<br>- ENTP không thích phải lãnh đạo, dẫn dắt người khác mà muốn độc lập tự do", "- Thích công việc có tính sáng tạo như nghiên cứu trong phòng thí nghiệm, tư vấn viên hoặc freelancer<br>- Thích làm việc theo nhóm nhỏ<br>- Không phù hợp những công việc thiên về cảm xúc như nhân viên chăm sóc khách hàng, telesales", "- Tính tò mò, ưa tìm hiểu, thích tìm tòi phù hợp với những công việc như, thiết kế đồ họa hoặc pháp y<br>- Có khả năng làm việc độc lập<br>- Không hợp với những công việc mang hơi hướm truyền thống"]
+                            ]
+                        }
+                    ],
+                    "content": "Cả 3 nhóm INTP với ENTP, ISTP đều là những người có tư duy logic và khá thoải mái kết giao trong các mối quan hệ. Tuy nhiên, cách họ tiếp cận thông tin, tương tác và ra quyết định lại có sự khác biệt rõ rệt.\n\nTheo đó, ENTP thích dựa vào bản thân để tìm ra vấn đề, trong khi INTP thường xuất sắc trong việc phân tích và lập luận có căn cứ, còn ISTP lại chú trọng vào thông tin cụ thể thực tế, điều này ít nhiều ảnh hưởng đến tích cách, sự khác biệt trong các mối quan hệ và phát triển bản thân." 
+                },
+                {
+                    "section": "Lời khuyên dành cho INTP",
+                    "items": [
+                        {
+                            "title": "Trau dồi điểm mạnh và khắc phục điểm yếu",
+                            "content": "INTP có năng khiếu trong việc nắm vững các vấn đề logic, vì vậy bạn nên cho bản thân mình nhiều cơ hội để rèn luyện khả năng của mình. Bạn sẽ tìm được hạnh phúc thông qua những trải nghiệm đó.\n\nAi cũng có điểm yếu và các INTP cũng vậy. Hãy chấp nhận điểm yếu (mà không tự trách cứ bản thân) sẽ tạo cho bạn sức mạnh để thay đổi cuộc sống theo hướng tốt đẹp hơn."
+                        },
+                        {
+                            "title": "Bước ra khỏi vùng an toàn",
+                            "content": 'Cách duy nhất để INTP phát triển là cần ra khỏi vùng an toàn của mình, tập trung vào việc tiếp nhận càng nhiều thông tin càng tốt và cần cởi mở với bản thân để đón nhận những trải nghiệm mới, niềm vui mới.',
+                        },
+                        {
+                            "title": "Chịu trách nhiệm với chính bản thân mình",
+                            "content": "Đừng đổ lỗi cho người khác. Thay vào đó, hãy suy nghĩ về cách giải quyết, tìm kiếm giải pháp, và đưa ra quyết định có thể giúp bạn kiểm soát tốt hơn tình huống của mình, và ngày càng hoàn thiện phát triển bản thân. Bởi không ai có khả năng điều khiển cuộc sống của bạn hơn là chính bạn."
+                        },
+                        {
+                            "title": "Bày tỏ cảm xúc của mình",
+                            "content": "INTP thường gặp khó khăn trong việc hiểu cảm giác, cảm xúc về một người khác. Vì vậy để duy trì phát triển một mối quan hệ tốt đẹp, hãy nói cho họ biết mỗi lần bạn nghĩ đến điều gì, đồng thời chia sẻ rõ ràng, thẳng thắn vấn đề với họ. Đây là cách tốt nhất để họ cảm thấy an toàn khi ở cạnh bạn, và cũng là một cơ hội để mối quan hệ ngày càng bền vững."
+                        },
+                        {
+                            "title": "Học cách lắng nghe",
+                            "content": "Mỗi người đều có cuộc sống và quan điểm riêng. Vì vậy họ có quyền bày tỏ mong muốn nên INTP đừng gạt bỏ mọi thứ ngay lập tức, mà hãy để nó ngầm từ từ vào bạn, rồi từ đó hãy bắt đầu phán xét."
+                        },
+                        {
+                            "title": "Tôn trọng các nguyên tắc xã hội",
+                            "content": "Bạn nên chấp nhận rằng xã hội được bao hàm bởi những nguyên tắc cơ bản, và nó sẽ không thể phát triển nếu những nguyên tắc đó không được thừa nhận và ủng hộ.\n\nTrong nền dân chủ, người ta phải bỏ phiếu. Gặp đèn đỏ, người ta phải dừng xe. Nếu họ không bỏ phiếu chỉ vì đối với họ điều đó không quan trọng, vậy ai sẽ là người nắm quyền? Nếu họ không dừng xe lại khi gặp đèn đỏ bởi điều đó không nằm trong kế hoạch của họ, vậy thì làm sao chúng ta có thể lái xe an toàn? Những ưu tiên và kế hoạch của bạn rất quan trọng, nhưng bạn phải thừa nhận rằng những vấn đề của thế giới bên ngoài cũng quan trọng không kém. Đừng gạt bỏ tầm quan trọng của những nguyên tắc, dù cho chúng không có ảnh hưởng trực tiếp đến cuộc sống của bạn."
+                        }
+                    ]
+                },
+            ]
+        },
     ]
 };
