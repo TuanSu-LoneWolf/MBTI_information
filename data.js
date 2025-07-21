@@ -1555,67 +1555,55 @@ export const mbtiData = {
         },
         {
             "code": "ISTP",
-            "name": "Người nuôi dưỡng",
-            "description": "ISFJ là nhóm tính cách phổ biến và đặc biệt toả sáng với lòng vị tha luôn đong đầy. Các ISFJ như những tấm khiên vững chắc nhất, sẵn sàng hi sinh vì những người mà họ yêu thương và trân quý. ISFJ đồng thời cũng có khả năng thấu cảm sâu sắc, có khả năng tạo nên một bầu không gian yên bình, ấm áp và an tâm tuyệt đối cho những người ở cạnh bên.",
-            "image": "./img/isfj.png",
+            "name": "Nhà kỹ thuật",
+            "description": "ISTP là nhóm tính cách tôn thờ sự logic. Họ dành nhiều thời gian để quan sát và đánh giá mọi vật mọi việc dựa trên bằng chứng và lý lẽ, kể cả trong chuyện tình cảm. ISTP cũng là tuýp người thiên về trường phái “làm nhiều hơn nói”, có khả năng ứng phó với những tình huống bất ngờ và xử lý khủng hoảng một cách xuất sắc.",
+            "image": "./img/istp.png",
             "details": [
                 {
                     "section": "Tổng quan",
                     "items": [
                         {
-                            "content": "Trong tất cả các loại tính cách thì <b>ISFJ (Người nuôi dưỡng)</b> là loại tính cách có lòng vị tha nhất, sẵn sàng hy sinh lợi ích của bản thân vì người khác. Các ISFJ cũng là những người rất trung thành với các quy định và nguyên tắc của mình."
+                            "content": "<b>ISTP (Nhà kỹ thuật)</b> là nhóm tính cách tôn thờ sự logic. Họ dành nhiều thời gian để quan sát và đánh giá mọi vật mọi việc dựa trên bằng chứng và lý lẽ, kể cả trong chuyện tình cảm. ISTP cũng là tuýp người thiên về trường phái “làm nhiều hơn nói”, có khả năng ứng phó với những tình huống bất ngờ và xử lý khủng hoảng một cách xuất sắc."
                         },
                         {
-                            "title": "ISFJ là viết tắt của những chữ cái gì?",
-                            "content": "● <b>I - Hướng nội:</b> Đối với những người thuộc nhóm tính cách ISFJ, thế giới ẩn sâu bên trong mỗi chúng ta mới là thế giới thật. Ngược lại, thế giới bên ngoài là nơi thuộc về những người E - Hướng ngoại. \n\n● <b>S - Giác quan:</b> Bạn tập trung vào những gì mình quan sát được bằng năm giác quan (thính giác, khứu giác, thị giác, vị giác, xúc giác). I - Trực giác (hay còn gọi là giác quan thứ sáu) sẽ được sử dụng để diễn giải ý nghĩa của sự vật, sự việc. \n\n● <b>F - Cảm xúc:</b> Những người thuộc nhóm tính cách ISFJ đánh giá dựa trên cảm nhận cá nhân. Ngược lại, những người có T (Lý trí) trong tính cách thì đánh giá dựa trên số liệu thực và những dữ liệu đã được chứng minh. \n\n● <b>J - Nguyên tắc:</b> Bạn dựa vào cấu trúc sẵn có để thoải mái đưa ra quan điểm mà không phải mất công suy xét nhiều. Trong khi đó, những người thiên về tính cách P - Linh hoạt lại thích môi trường tự do và họ sẽ tự sắp đặt cấu trúc bên trong cho mình."
+                            "title": "ISTP là viết tắt của những chữ cái gì?",
+                            "content": "● <b>I - Hướng nội:</b> Đối với những người thuộc nhóm tính cách ISTP, thế giới ẩn sâu bên trong mỗi chúng ta mới là thế giới thật.\n\nNgược lại, thế giới bên ngoài là nơi thuộc về những người E - Hướng ngoại.\n\n● <b>S - Giác quan:</b> Bạn tập trung vào những gì mình quan sát được bằng năm giác quan (thính giác, khứu giác, thị giác, vị giác, xúc giác).\n\nI - Trực giác (hay còn gọi là giác quan thứ sáu) sẽ được sử dụng để diễn giải ý nghĩa của sự vật, sự việc.\n\n● <b>T - Lý trí:</b> Bạn đưa ra quyết định dựa trên góc nhìn thực tế bằng số liệu và đo lường chính xác.\n\nNgược lại, các F - Cảm xúc ưu tiên đưa ra quyết định dựa trên cảm nhận cá nhân.\n\n● <b>P - Linh hoạt:</b> Bạn thỏa thích vẫy vùng trong thế giới của riêng mình với những quy tắc ngầm được bạn tự tay sắp xếp.\n\nTrái lại, những người thuộc nhóm J - Nguyên tắc lại cảm thấy ổn khi được áp cho những luật lệ được sắp đặt sẵn."
                         },
                         {
-                            "title": "Giàu lòng nhân ái",
-                            "content": 'ISFJ nổi tiếng là giàu lòng nhân ái. Các ISFJ thường hết sức quan tâm đến nhu cầu của mọi người xung quanh. Họ sẵn sàng dành thời gian cho bạn khi bạn cần đến họ. Nói cách khác, ISFJ có thể được coi là "phiên bản giàu tình cảm" của ISTJ.  Các ISFJ hết sức tận tâm và có tinh thần trách nhiệm cao. Khi được giao cho một nhiệm vụ nào đó, họ sẽ làm đến cùng mà không hề ngại khó.',
+                            "title": "Thích tìm hiểu cách vạn vật hoạt động",
+                            "content": 'Các ISTP thích tìm hiểu cách vạn vật hoạt động. Điều này xuất phát từ sự kết hợp thú vị của tính cách T (Lý trí) và P (Linh hoạt) bên trong họ. Họ là những người có suy nghĩ logic, giỏi phân tích và sẵn sàng áp dụng vào thực tế để giải quyết vấn đề. Các ISTP là những người nói chuyện bằng lý lẽ, mặc dù họ không quá tin tưởng vào các lý thuyết trừ khi được tự mình trải nghiệm và chứng minh.',
                         },
                         {
-                            "title": "Tin vào những điều tốt đẹp nhất",
-                            "content": "Các ISFJ luôn sống trong một thế giới ấm áp và đầy tình cảm. Họ rất nồng ấm và nhân hậu, luôn tin vào những điều tốt đẹp nhất của người khác. Họ tôn trọng sự hòa hợp và hợp tác giữa người với người, cũng rất biết cách đồng cảm với những người xung quanh. Họ đối xử với người khác rất ân cần và dịu dàng. Các ISFJ cũng rất tin vào phần tốt của con người, rằng trong mỗi chúng ta luôn tồn tại một phiên bản đẹp đẽ tốt đẹp đáng trân trọng."
+                            "title": "Hài hước",
+                            "content": "Các ISTP cũng là người có tính cách hài hước. Đôi khi họ sẽ tận dụng khả năng này để xoa dịu tình hình căng thẳng hay giải quyết một số tình huống khó xử. Tuy nhiên các ISTP cũng nên cẩn trọng với lời nói và hành động của mình để tránh gây tổn thương tinh thần tới những người xung quanh."
                         },
                         {
-                            "title": "Đề cao sự an toàn và ổn định",
-                            "content": "Các ISFJ là những người đánh giá cao sự an toàn và ổn định, vì vậy họ sẽ ưu tiên làm theo những quy định, nguyên tắc có sẵn. Những ý tưởng mới thường khiến họ hoài nghi không biết chúng có thực sự hiệu quả hay không, trừ khi có người giải thích cặn kẽ cho họ về những ý tưởng đó."
+                            "title": "Tâm hồn lãng du",
+                            "content": "Các ISTP có tâm hồn lãng du, họ bị thu hút bởi những sự vật dịch chuyển như mô tô, máy bay, ván lướt sóng, v.vv.. Các ISTP không tin tưởng cũng như không thích tuân theo luật lệ, quy tắc mà muốn làm theo cách của riêng họ. Những việc lặp đi lặp lại từ ngày này qua ngày khác một cách nhàm chán chỉ khiến họ ghét bỏ mà thôi."
                         },
                         {
-                            "title": "Hết mình vì mục tiêu chung",
-                            "content": "Các ISFJ cũng cực kỳ coi trọng việc hòa nhập với mọi người xung quanh trong cùng một tổ chức nhằm hướng đến mục tiêu chung. Họ thường đóng vai trò dẫn dắt, đảm bảo các thành viên mới tôn trọng và coi trọng những quy tắc và phong tục đã được thiết lập."
+                            "title": "Lập trường vững vàng",
+                            "content": "Các ISTP giữ vững niềm tin và quan điểm của mình, cũng như hy vọng mọi người cũng nên noi gương họ.\n\nMặc dù những người thuộc nhóm tính cách ISTP không thích các nguyên tắc và quy định cố hữu nhưng họ sẽ cố gắng tuân theo vì lợi ích chung của tập thể.\n\nCác ISTP thu thập thông tin từ những người xung quanh họ, bởi vậy, các ISTP rất cần thời gian và không gian riêng để cân bằng và sắp xếp lại những suy nghĩ ngổn ngang trong tâm trí."
                         },
                         {
-                            "title": "Thực tế",
-                            "content": "Người nuôi dưỡng học qua trải nghiệm thực tế tốt hơn học qua lý thuyết. Vậy nên các ISFJ rất ít làm việc trong lĩnh vực đòi hỏi phân tích các giả thiết, khái niệm. Họ luôn đề cao tính ứng dụng thực tế và luôn áp dụng những tính thực tiễn vào việc giải quyết vấn đề xung quanh."
+                            "title": "Thích hành động hơn lời nói",
+                            "content": "Các ISTP làm nhiều hơn nói, họ không thích hợp với những công việc chỉ ngồi cả ngày sau bàn giấy và vạch ra những kế hoạch dài hơi trong tương lai. Những người thuộc nhóm tính cách ISTP có thể đối phó với những tình huống bất ngờ nhất một cách linh hoạt. Trong mọi vấn đề, cách giải quyết của họ là tập trung vào chi tiết và hiệu quả thực tế, vì vậy mọi vấn đề khi qua tay các ISTP đều được xử lý nhanh chóng và hợp tình hợp lý."
                         },
                         {
-                            "title": "Cầu toàn",
-                            "content": "Các ISFJ cũng hết sức tỉ mỉ và cầu toàn. Trước khi bắt tay vào thực hiện một nhiệm vụ nào đó, những người thuộc nhóm tính cách ISFJ sẽ tính toán tới những khả năng có thể xảy ra để xác định phương thức thực hiện hợp lý nhất. Với các ISFJ, tốt nhất còn có thể tốt hơn nữa. Trong đời sống hằng ngày, họ không ngừng cố gắng để hoàn thiện và đạt kết quả vượt xa sự mong đợi."
+                            "title": "Công tâm",
+                            "content": "Các ISTP thường tránh đưa ra nhận định mang tính chủ quan. Họ luôn cố gắng đánh giá sự vật, sự việc từ nhiều khía cạnh một cách công bằng. Những người thuộc nhóm tính cách ISTP không quá để ý tới cảm xúc của người khác, thậm chí đôi khi còn không để ý tới cảm xúc của chính mình bởi họ khó có thể phân tách rạch ròi giữa ý kiến cá nhân và đánh giá khách quan. Điều đó khiến cho một thời điểm nào đó các ISTP có thể sẽ bùng nổ khi có quá nhiều điều muốn nói nhưng lại phải kìm nén bấy lâu."
                         },
                         {
-                            "title": "Sống nội tâm",
-                            "content": "ISFJ là người sống nội tâm vì vậy không dễ để đoán được cảm xúc của họ nếu chỉ nhìn vẻ bề ngoài. Họ thường quan sát và thu thập thông tin về con người, sự vật, sự việc quan trọng khác rồi ghi nhớ chúng bằng khối óc thiên tài của mình. Không có gì là ngạc nhiên nếu Người nuôi dưỡng có thể nhớ đến từng chi tiết biểu cảm đặc biệt trên nét mặt của một người sau nhiều năm không gặp nếu điều đó đã từng gây ấn tượng mạnh với họ."
+                            "title": "Có khả năng xử lí khủng hoảng tốt",
+                            "content": "Các ISTP là những người xử lý khủng hoảng xuất sắc. Họ có thể trở thành những vận động viên giỏi vì sở trường của họ là những hoạt động cần sự kết hợp của các giác quan. Các ISTP không gặp quá nhiều khó khăn khi ngồi trên ghế nhà trường bởi họ là những người hướng nội và rất logic, làm việc và học tập có bài bản."
                         },
                         {
-                            "title": "Tính thẩm mỹ cao",
-                            "content": "ISFJ có cảm nhận tốt về không gian và tính thẩm mỹ, vì vậy không gian sống và làm việc của các ISFJ luôn rất gọn gàng và ngăn nắp. Nhờ khả năng đặc biệt này, kết hợp với khả năng đồng cảm mạnh mẽ với cảm xúc của người khác, các ISFJ là những người rất giỏi trong việc khiến một ngày của bạn trở nên rực rỡ hơn bao giờ hết vì họ biết chính xác bạn đang cần gì, muốn gì, bằng phương thức nào."
+                            "title": "Tư duy logic",
+                            "content": "Các ISTP tỏa sáng trong các lĩnh vực có sự kết hợp giữa phân tích logic và kỹ năng kỹ thuật.\n\nHọ có xu hướng làm tốt ở các công việc như thám tử, lính cứu hỏa, cứu hộ, v.v..., những thế mạnh này xuất phát từ chính kinh nghiệm thực tế của họ.\n\nNhìn chung, các ISTP là những người lạc quan, luôn đầy tự tin và lý tưởng.\n\nHọ tin vào sự công bằng, nhất quán.\n\nCác ISTP cũng rất dễ tiếp thu để thấu hiểu người khác, cũng như sẵn sàng rộng lượng tha thứ, miễn là họ không bị đặt vào một khuôn khổ bí bách với đầy những quy định, quy tắc cần tuân thủ."
                         },
                         {
-                            "title": "Ít bộc lộ cảm xúc",
-                            "content": "Hơn tất cả những kiểu tính cách MBTI khác, những người thuộc nhóm tính cách ISFJ hiểu rất rõ tâm trạng của mình và tâm trạng của người khác, nhưng họ ít khi bộc lộ cảm xúc ra bên ngoài mà giấu ở trong lòng. Người nuôi dưỡng muốn che giấu cảm xúc của mình nên họ thường tạo ra vỏ bọc hoàn hảo để người khác không nhận biết họ đang thực sự nghĩ gì. Tuy nhiên, đôi khi họ cũng sẽ chủ động nói ra nếu nhận thấy việc đó có thể giúp san sẻ gánh nặng với người khác, cũng như trong trường hợp họ muốn những người xung quanh hiểu được cảm xúc của mình."
-                        },
-                        {
-                            "title": "Đề cao tinh thần trách nhiệm",
-                            "content": "ISFJ là người luôn đề cao trách nhiệm và nghĩa vụ của mình, nhất là khi được người khác tin tưởng nhờ vả. Tuy nhiên, việc luôn đặt nhu cầu của người khác lên trên nhu cầu bản thân có thể khiến các ISFJ “sập nguồn” bất cứ lúc nào khi cơ thể và tâm trí họ đạt tới giới hạn. Những người thuộc nhóm tính cách ISFJ cần học cách đánh giá và thể hiện nhu cầu của bản thân nếu như không muốn cả ngày của họ bị chìm nghỉm trong lời nhờ vả của người khác."
-                        },
-                        {
-                            "title": "Nhạy cảm với những lời phê bình",
-                            "content": "Người nuôi dưỡng cần những góp ý tích cực từ mọi người, bởi họ rất dễ nản lòng và chán nản nếu bị phê bình hay đánh giá thấp. Nếu bị ai đó phê bình, họ sẽ tưởng tượng ra 1001 viễn cảnh tồi tệ sau đó và kéo theo tâm trạng buồn bã cả ngày."
-                        },
-                        {
-                            "title": "Những người nổi tiếng mang tính cách ISFJ",
-                            "content": "● Jimmy Carter\n\n● Mother Teresa\n\n● Beyoncé Knowles\n\n● Kate Middleton (Vợ Hoàng tử William)\n\n● Selena Gomez\n\n● Daesung (BIGBANG)\n\n● Dr. Dre - Rapper\n\n● Anthony Hopkins\n\n● Vin Diesel\n\n● Anne Hathaway"
+                            "title": "Những người nổi tiếng mang tính cách ISTP",
+                            "content": "● Tom Cruise\n\n● Scarlett Johansson\n\n● Christian Bale\n\n● Bruce Lee\n\n● Demi Moore\n\n● Marshall Mathers (Eminem)\n\n● Snoop Dogg\n\n● Venus Williams"
                         },
                     ]
                 },
@@ -1626,28 +1614,32 @@ export const mbtiData = {
                             "title": "Điểm mạnh",
                             "itemsChild": [
                                 {
-                                    "titleChild": "Sẵn lòng hỗ trợ",
-                                    "content": "Những người thuộc nhóm tính cách ISFJ thường xuyên giúp đỡ những người xung quanh, họ rất sẵn lòng chia sẻ kiến thức, kinh nghiệm của mình cho bất cứ ai. Với bản năng thánh thiện như thiên thần, các ISFJ đề cao việc giúp người mà không hề đòi hỏi lại bất cứ điều gì.",
+                                    "titleChild": "Lạc quan và tràn đầy năng lượng",
+                                    "content": "Những người thuộc nhóm tính cách ISTP luôn nỗ lực trong mọi nhiệm vụ được giao. Với tính cách năng nổ, tích cực nhưng cũng rất nhanh nhạy, các ISTP hiếm khi gặp căng thẳng trong công việc và trong cuộc sống. Họ luôn giải quyết mọi vấn đề một cách trôi chảy, có bài bản.",
                                 },
                                 {
-                                    "titleChild": "Đáng tin cậy",
-                                    "content": "Đối với các ISFJ, chữ tín còn quý hơn vàng. Dù ở trong mối quan hệ công việc hay cá nhân, các ISFJ thường được tất cả mọi người tin tưởng, tín nhiệm. Thay vì làm việc một cách hời hợt, qua loa và khiến công việc không thể hoàn thành như mong muốn, những Người nuôi dưỡng làm việc rất cẩn thận và tỉ mỉ. Họ tiếp cận và xử lý vấn đề một cách kỹ lưỡng, vì vậy các nhiệm vụ của họ thường được hoàn thành với tiêu chuẩn chất lượng cao nhất, thậm chí đôi khi vượt xa mong đợi.",
+                                    "titleChild": "Sáng tạo và thực tế",
+                                    "content": "Những Nhà kỹ thuật có cơ hội bộc lộ sức sáng tạo của mình khi xử lý những công việc liên quan tới lĩnh vực kỹ thuật hoặc thủ công. Họ luôn tràn đầy ý tưởng và muốn được trực tiếp dùng đôi bàn tay mình thực hiện công việc một cách gọn gàng, nhanh chóng.",
                                 },
                                 {
-                                    "titleChild": "Giỏi quan sát",
-                                    "content": "Các ISFJ rất giỏi trong việc quan sát, đặc biệt là quan sát con người. Nhờ tính tỉ mỉ và tinh tế, các ISFJ thường ghi nhớ chi tiết về nhu cầu, cảm xúc và phản ứng của mọi người xung quanh, từ đó quan tâm kỹ hơn và đảm bảo từng cá nhân đều hài lòng. Sự ân cần, chu đáo của ISFJ luôn chạm đến trái tim của người khác, khiến mỗi người cảm thấy mình thật đặc biệt và được quan tâm chăm sóc cẩn thận.",
+                                    "titleChild": "Linh hoạt",
+                                    "content": "Các ISTP có thể kết hợp logic và tính cách linh hoạt của mình để thích nghi với mọi tình huống phát sinh một cách dễ dàng.",
                                 },
                                 {
-                                    "titleChild": "Nhiệt huyết",
-                                    "content": "Khi đã xác định được mục tiêu, những người thuộc nhóm tính cách ISFJ sẽ làm tất cả để khiến nó trở thành tác động tích cực, có thể thay đổi hoàn toàn cuộc sống của một hoặc một số người nào đó. Tác động đó có thể mang tính vĩ mô như sáng kiến giúp giảm tỷ lệ đói nghèo ở một địa phương, hoặc đơn giản là làm cho một vị khách trở nên vui vẻ.",
+                                    "titleChild": "Biết sắp xếp công việc",
+                                    "content": "Những người thuộc nhóm tính cách ISTP rất biết cách sắp xếp thứ tự ưu tiên trong công việc, họ cũng biết cách điều chỉnh phân chia thời gian và công sức cho những việc quan trọng hơn.",
                                 },
                                 {
-                                    "titleChild": "Chăm chỉ",
-                                    "content": 'Các ISFJ không chỉ làm việc một cách đơn thuần mà họ biến công việc thành niềm tự hào của họ. Việc gì họ cũng sẵn sàng làm đến nơi đến chốn dù có yêu cầu cao đến đâu. Họ có thể thực thi một khối lượng công việc mà đối với người khác là "quá tải". Các ISFJ sẽ còn có động lực hơn nữa nếu biết việc mà họ đang làm thực sự có ý nghĩa và có thể giúp ích cho mọi người. Vì vậy, những Người nuôi dưỡng thường gắn bó lâu dài với các dự án, tổ chức, và họ sẽ không nghỉ việc giữa chừng cho tới khi công việc được hoàn thành và đạt kết quả như mong đợi.',
+                                    "titleChild": "Đối mặt với khủng hoảng",
+                                    "content": 'Là những người có tính cách linh hoạt, các ISTP luôn biết cách vượt qua các khủng hoảng bất ngờ, kể cả khi họ phải chấp nhận những rủi ro có thể xảy tới ngay sau đó.',
                                 },
                                 {
-                                    "titleChild": "Tinh thần thực chiến cao",
-                                    "content": "Những người thuộc nhóm tính cách ISFJ thường mang trong mình cả lòng vị tha lẫn tính thực tiễn. Các ISFJ không chỉ hy vọng giúp đỡ được những người xung quanh mà còn bắt tay vào thực hiện chúng ngay khi có thể. Họ luôn sẵn lòng giúp đỡ bạn bè, người thân hoặc bất kỳ ai, và họ lấy đó làm niềm hạnh phúc của riêng mình.",
+                                    "titleChild": "Thư giãn",
+                                    "content": "ISTP là một nhóm tính cách khá yên tĩnh. Họ biết tận hưởng từng phút giây trong cuộc sống và để mọi thứ trôi qua nhẹ nhàng, cũng như không quá lo lắng về những chuyện có thể xảy tới trong tương lai.",
+                                },
+                                {
+                                    "titleChild": "Có khả năng tập trung cao độ",
+                                    "content": "So với các nhóm tính cách khác, các ISTP có khả năng tập trung cao độ và vượt trội. Sẽ không có gì ngạc nhiên khi họ thường ở vị trí cao nhất trong lĩnh vực chuyên môn của mình. Không nổi máu liều lao vào rủi ro và mạo hiểm, các ISTP biết rõ mình muốn gì và cần làm gì để đạt được điều họ muốn. Họ sẽ tập trung toàn lực vào việc bản thân đang làm cho đến khi đạt được kết quả như ý.",
                                 },
                             ],
                         },
@@ -1655,28 +1647,28 @@ export const mbtiData = {
                             "title": "Điểm yếu",
                             "itemsChild": [
                                 {
-                                    "titleChild": "Bảo thủ",
-                                    "content": 'Những người thuộc nhóm tính cách ISFJ là những người rất khó để thay đổi, bởi họ là những người coi trọng truyền thống và những quy định đã trở thành tiền lệ. Rất khó để các ISFJ mở lòng với các tiêu chuẩn, xu hướng mới. ISFJ có thể khá bảo thủ trong nhiều tình huống và họ cũng không thích phải bước ra khỏi "vùng an toàn".',
+                                    "titleChild": "Bướng bỉnh",
+                                    "content": 'Làm một người yên tĩnh muốn để mọi chuyện thuận theo dòng chảy và trôi đi, đôi khi các ISTP cũng sẽ bỏ qua nhiều vấn đề mà đáng lẽ họ nên quan tâm. Những Nhà kỹ thuật sẽ cảm thấy khó chịu nếu có người xuất hiện và cố gắng thay đổi thói quen, lối sống hoặc quan điểm của họ.',
                                 },
                                 {
-                                    "titleChild": "Quá khiêm tốn",
-                                    "content": "Những Người nuôi dưỡng thường quá để ý tới việc người khác nghĩ thế nào về mình, vì vậy họ thường không dám nói lên điểm cá nhân. Nếu được khen thưởng vì hoàn thành tốt việc gì thì họ cũng sẽ rất ngại ngùng. Các ISFJ cũng thường xuyên xem nhẹ công sức mình đã bỏ ra nếu biết rằng mình đã có thể đã làm tốt hơn thế.",
+                                    "titleChild": "Thiếu tinh tế",
+                                    "content": "Những Nhà kỹ thuật sẽ suy nghĩ dựa vào tính logic nhiều hơn là cảm xúc, và kể cả họ có cố gắng tiếp cận một ai đó bằng phương thức tình cảm thì quyết định cuối cùng cũng sẽ được đưa ra dựa theo phán đoán về mặt logic.",
                                 },
                                 {
-                                    "titleChild": "Dễ để bụng",
-                                    "content": "Cho dù đã cố gắng giấu đi tính cách ấy thì những những người xung quanh cũng có thể đoán ra rằng các ISFJ rất để tâm tới việc người khác nghĩ gì về mình, đặc biệt là những người có quan điểm trái ngược với họ. Khi phải đối mặt với những lời chỉ trích, dù là mang tính khách quan, thì các ISFJ cũng sẽ có cảm giác như họ đang bị công kích và thù ghét cá nhân, từ đó “ghim” vào lòng và nhớ mãi về sau.",
+                                    "titleChild": "Kín đáo",
+                                    "content": "Rất khó để hiểu tượng tận một người thuộc nhóm tính cách ISTP. Họ thực sự là tính cách điển hình của nhóm người hướng nội, luôn giữ mọi vấn đề lại trong tâm trí mà không nói ra.",
                                 },
                                 {
-                                    "titleChild": "Luôn kiềm nén cảm xúc",
-                                    "content": "Những người thuộc nhóm tính cách ISFJ có xu hướng che giấu và ít khi bộc lộ cảm xúc thực ra bên ngoài, tuy điều đó có thể gây ra hiểu lầm trong các mối quan hệ, vì bạn bè hoặc nửa kia của các ISFJ sẽ không thể hiểu được rằng họ đang nghĩ gì và muốn gì. Các ISFJ thường không nói ra cảm xúc thật để tránh xảy ra mâu thuẫn, bất hòa. Lâu ngày, những cảm xúc tức giận và ấm ức trong lòng bị kìm bấy lâu có thể bộc phát và gây ra những rắc rối không nhỏ cho các ISFJ.",
+                                    "titleChild": "Cả thèm chóng chán",
+                                    "content": "Những Nhà kỹ thuật thích tìm tòi những điều mới mẻ, tuy nhiên họ lại dễ buồn chán giữa chừng và không kiên trì theo đuổi lâu dài. Một khi đã vỡ lẽ ra vấn đề gì đó, họ sẽ lập tức bỏ dở và đi tìm kiếm những điều mới mẻ thú vị hơn.",
                                 },
                                 {
-                                    "titleChild": "Ôm đồm",
-                                    "content": 'Sự nghiêm túc quá mức của ISFJ dễ khiến họ bị quá tải trong công việc. Các ISFJ cũng thường không biết cách từ chối người khác nên khi ai nhờ vả gì họ đều sẵn sàng nhận giúp mà chưa biết chắc liệu có hoàn thành được không. Vì nghĩ bản thân "cân được hết" nên các ISFJ cũng rất hay cố gắng gồng mình chịu đựng tự giải quyết các vấn đề của mình, kể cả khi điều đó là bất khả thi và khiến họ tốn rất nhiều thời gian, công sức.',
+                                    "titleChild": "Không thích ràng buộc",
+                                    "content": 'Việc cam kết lâu dài không phải điều mà những người thuộc nhóm tính cách ISTP sẽ thích. Họ muốn giải quyết mọi việc luôn và ngay trong ngày nên việc bị bó buộc vào một việc nào đó sẽ khiến họ nảy sinh tâm lý chán chường. Điểm yếu này khiến các ISTP gặp rất nhiều khó khăn trong tình yêu, một mối quan hệ được xây dựng nên nhờ sự cam kết và gắn bó giữa hai tâm hồn.',
                                 },
                                 {
-                                    "titleChild": "Quá vị tha",
-                                    "content": "Bản chất hào phóng, không ngần ngại cho đi của những người thuộc nhóm ISFJ có thể khiến họ dễ bị những người có tâm cơ lợi dụng. Với bản tính dĩ hòa vi quý, khi bị đối xử bất công, các ISFJ cũng sẽ thường im lặng chịu thiệt thòi mà không dám vùng lên đấu tranh. Ngoài ra, việc dành thời gian chăm lo cho người khác quá nhiều cũng khiến họ không có thời gian cho bản thân, khiến các ISFJ dễ tủi thân và thất vọng.",
+                                    "titleChild": "Thích mạo hiểm",
+                                    "content": "Tính cách bướng bỉnh, luôn che giấu cảm xúc, chỉ tập trung vào thực tại và dễ chán nản sẽ khiến các ISTP đôi khi làm những việc quá giới hạn. Những Nhà kỹ thuật thường làm ra những hành động dễ gây hiểu nhầm và nguy hiểm chỉ để xem hậu quả là gì, và điều đó thực sự tai hại nếu họ mất đi kiểm soát về những việc mình đang làm.",
                                 },
                             ],
                         }
@@ -1686,13 +1678,13 @@ export const mbtiData = {
                     "section": "Mối quan hệ",
                     "items": [
                         {
-                            "content": "Trong mối quan hệ, các ISFJ cực kỳ ấm áp và vị tha. Họ không quá kén chọn khi kết giao, miễn là người khác sẵn sàng tiếp cận họ với mong muốn chân thành là trở thành một mảnh ghép không thể thiếu trong cuộc đời của nhau. Các ISFJ thường dựa vào bạn bè để được sự hỗ trợ về tinh thần, tư vấn, và trấn an, tạo cho cả hai người một cơ hội để thiết lập một mối quan hệ bền vững.\n\nTuy nhiên các ISFJ đôi khi cũng có thể gặp vấn đề với bạn bè của mình khi họ thường đặt nhu cầu của bạn bè lên trên nhu cầu của bản thân. Đây vốn là một tín hiệu tốt trong tình bạn với điều kiện đó là yêu cầu giúp đỡ hợp tình hợp lý, không lợi dụng lòng tốt của nhau, bởi như chúng ta đều biết, với tính cách mềm mỏng của mình thì những người thuộc nhóm tính cách ISFJ rất hiếm khi từ chối lời thỉnh cầu của bạn bè. Vì vậy, các ISFJ nên cân nhắc và suy nghĩ kỹ càng, tỉnh táo trước khi kết bạn và quyết định hy sinh thời gian, công sức của mình cho người khác.\n\nISFJ là những người sống hướng nội và không quá cởi mở. Các ISFJ không thích kết bạn với những người mang đặc điểm T (Lý trí) hay P (Linh hoạt), họ thích kết bạn với người mang đặc điểm F (Cảm xúc) hoặc J (Nguyên tắc). Thật ngạc nhiên khi ISFJ cũng có thể có một vài người bạn thuộc loại N (Trực giác), mặc dù họ có thể gặp khó khăn trong việc kết nối do sự khác biệt giữa loại S (Giác quan) và N (Trực giác).\n\nNhìn chung, Người nuôi dưỡng rất coi trọng các mối quan hệ cá nhân. Họ thường quan tâm và dành nhiều tình cảm cho người khác trước khi nghĩ đến bản thân mình. Họ tận tình và luôn hy vọng có thể duy trì được các mối quan hệ lâu dài. Các ISFJ là những người đáng tin cậy và luôn cố gắng hết mình để đảm bảo cho mọi việc diễn ra tốt đẹp. Họ cũng rất ít khi từ chối giúp đỡ người khác và xem việc giúp đỡ mọi người là điều hiển nhiên."
+                            "content": 'ISTP là những người bạn rất thú vị, họ luôn sống trọn từng khoảnh khắc ở thì hiện tại và chậm rãi tận hưởng niềm vui mà cuộc sống mang lại.\n\nPhương châm của họ là "vạn vật đều có thể thay đổi".\n\nLàm bạn với các ISTP giống như đi trên một chiếc tàu lượn siêu tốc: sáng nắng - chiều mưa, khi vui - khi buồn, khi bận rộn - khi thảnh thơi, khi giận dỗi - khi hòa hợp.\n\nVốn là một người không thích giam mình vào những mối quan hệ bó buộc, các ISTP đôi khi thay đổi tâm trạng như chong chóng khiến bạn bè mình không biết phải đối xử với họ ra sao.\n\nCác ISTP hiếm khi gặp khó khăn trong việc kết giao bởi họ là người có nhiều đam mê và sở thích, bạn sẽ tìm được nhiều điểm chung khi bắt chuyện với họ.\n\nCác ISTP có xu hướng bị thu hút bởi những người thiên về tính cách S (Giác quan), bởi bản thân họ cũng rất thích những hoạt động đòi hỏi sự kết hợp của các giác quan.\n\nNgược lại, các ISTP khó hòa hợp với những người thiên về nhóm N (Trực giác), vì đó là những người không quá thực tế và hay nói chuyện bằng những hình ảnh trừu tượng.\n\nTuy nhiên, các ISTP vẫn có thể thoải mái chấp nhận kết giao với cả những người có tính cách trái ngược bởi họ vốn cởi mở và thoải mái trong các mối quan hệ.\n\nNhìn chung, các ISTP có khả năng làm việc độc lập và hoàn thành tốt công việc ở những lĩnh vực mà họ đam mê.\n\nISTP là những người có tư tưởng thoải mái, thú vị và hấp dẫn.\n\nCác ISTP sống với lý tưởng YOLO - You Only Live Once, và họ sẽ tận hưởng từng phút giây hạnh phúc hiện tại thay vì lo lắng cho những điều có thể xảy đến trong tương lai.\n\nĐối với những người thuộc nhóm tính cách ISTP, không có gì là tuyệt đối, kể cả những điều được cho là bất biến giữa nhân gian vạn biến.\n\nHọ thích phát triển một mối quan hệ từ những điều nhỏ nhất, bước chậm rãi nhưng chắc chắn từng bước một thay vì hứa hẹn về một mối quan hệ lâu dài.\n\nNếu mối quan hệ làm họ cảm thấy hứng thú và xứng đáng thì các ISTP sẽ không ngừng vun đắp và hy sinh để giữ gìn.\n\nNgược lại, nếu họ cảm thấy đó là một mối quan hệ vô nghĩa không đi tới đâu thì các ISTP chọn cách bỏ qua và tìm kiếm mối quan hệ mới phù hợp hơn.'
                         },
                         {
-                            "title": "ISFJ trong tình yêu",
+                            "title": "ISTP trong tình yêu",
                             "itemsChild": [
                                 {
-                                    "content": "Trong tình yêu, những người thuộc nhóm tính cách ISFJ sẽ bộc lộ những khía cạnh vốn được ẩn giấu của bản thân. Dưới vẻ ngoài nhẹ nhàng, khiêm tốn là những tình cảm nồng nhiệt dành cho nửa kia mà chính họ cũng không ngờ tới, đặc biệt là khi các ISFJ bật “chế độ” chăm sóc và bảo vệ người yêu.\n\nTình yêu của những người thuộc nhóm tính cách ISFJ rất sâu sắc, sâu sắc đến mức họ không thể diễn tả bằng lời, nhưng họ sẽ thể hiện tình cảm của mình thông qua những hành động săn sóc, quan tâm thường ngày. Để người mình yêu có một cuộc sống vui vẻ, hạnh phúc, Người nuôi dưỡng có thể biến những điều nhỏ bé giản đơn như vào bếp nấu ăn hoặc lên kế hoạch cho chuyến dã ngoại cuối tuần trở nên thật đặc biệt và đáng nhớ.\n\nCác ISFJ rất khó để mở lời mời ai đó đi hẹn hò, bởi họ rất sợ bị từ chối hoặc sợ mình sẽ làm sai điều gì đó. Tuy rất muốn bắt đầu một mối quan hệ yêu đương nhưng lại không sẵn sàng là người chủ động ngỏ lời trước.\n\nKhi đã trong một mối quan hệ yêu đương, những người thuộc nhóm tính cách ISFJ sẽ cống hiến hết mình. Họ sẵn sàng chia sẻ thời gian, công sức và tình cảm với nửa kia một cách hào phóng và nhiệt tình. Các ISFJ tôn trọng mối quan hệ của mình và sẽ không từ bỏ kể cả khi phải đối mặt với nhiều khó khăn thử thách. Họ luôn mong muốn xây dựng một mối quan hệ lâu dài bền chặt, sẵn sàng làm bất cứ điều gì để duy trì mối quan hệ ấy.\n\n<i>“Các ISFJ cũng không phù hợp với tình đơn phương vì họ cho rằng kiểu tình yêu này thường không đi đến đâu cả. ISFJ cũng không phải kiểu người yêu cho vui mà đã yêu là sẽ xác định lâu bền và hướng đến hôn nhân.”</i>\n\nThật không may, những người thuộc nhóm ISFJ rất khó để dứt ra khỏi một mối quan hệ, kể cả khi đó là mối quan hệ không đi tới đâu. Lý do có thể là bởi họ đã đặt niềm tin vào nhầm người, do họ lo sợ phải thay đổi, hoặc do họ vẫn hy vọng có thể cứu vãn mối quan hệ bằng một cách nào đó.\n\nISFJ là tuýp tính cách cực kỳ chung thủy, yêu ai sẽ yêu đến cùng. Tuy nhiên, họ rất dễ bị lệ thuộc cảm xúc vào người yêu. Nếu mâu thuẫn xảy ra, các ISFJ thường có xu hướng im lặng không bộc bạch cảm xúc, khiến đối phương phải đoán ý, dễ dẫn đến hiểu lầm.\n\nỞ một khía cạnh khác, việc ISFJ luôn nhận hết việc về phía mình cũng khiến họ dễ cảm thấy mình là người duy nhất cố gắng trong mối quan hệ.\n\nDù vậy, trong thâm tâm, Người nuôi dưỡng vẫn luôn mong nửa kia của mình được hạnh phúc. Chỉ cần học cách cân bằng những mong muốn cá nhân và những nguyện vọng của đối phương, ISFJ sẽ xây dựng được mối quan hệ lâu dài, lành mạnh mà họ luôn mơ ước.",
+                                    "content": "Tình yêu đối với những người thuộc nhóm tính cách ISTP giống như một bản tango với những nốt trầm nốt bổng, khá phức tạp mà cũng rất thú vị.\n\nHọ lạnh lùng, nghiêm khắc nhưng cũng đầy nhiệt huyết và tận hưởng từng phút giây.\n\nTrong tình yêu của Nhà kỹ thuật, không có gì là ép buộc, tuy nhiên nếu để họ tự do làm những gì mình muốn thì các ISTP có thể tận hưởng hạnh phúc một cách trọn vẹn tới suốt đời.\n\nBước vào giai đoạn đầu của quá trình yêu đương, những người thuộc nhóm tính cách ISTP luôn rất bay bổng, họ sẽ liên tục tìm tòi để trải nghiệm và khám phá những điều mới mẻ cùng bạn đời.\n\nBởi vậy, nếu nửa kia của các ISTP không bắt kịp được nhịp độ của họ, các ISTP sẽ dễ dàng rời đi.\n\nKhi yêu, Nhà kỹ thuật cần nhiều không gian cả về vật chất lẫn tinh thần để sắp xếp lại những suy nghĩ ngổn ngang trong tâm trí, vậy nên nếu người bạn đời cố gắng ép buộc và kiểm soát cuộc sống của các ISTP, mối quan hệ giữa hai người sẽ dần trở nên tồi tệ.\n\nMặt khác, trong tình yêu, những người thuộc nhóm tính cách ISTP lại cố gắng thay đổi thói quen của nửa kia (theo cách tích cực) để giúp họ cảm thấy thoải mái và thư giãn hơn.\n\nKhi hẹn hò, các ISTP thường không để tâm tới các quan niệm khắt khe và cổ hủ, đổi lại, họ thường nghĩ đến việc làm chuyện người lớn từ sớm.\n\nNhững người thuộc nhóm tính cách ISTP coi việc giường chiếu là một khía cạnh mang tính nghệ thuật, nơi để họ thể hiện được sức hấp dẫn không thể chối từ của bản thân.\n\nKhi bước sâu vào quá trình yêu đương, nửa kia của những Nhà kỹ thuật sẽ nhận ra việc tiếp xúc thân mật là cách nhanh nhất để một cá nhân bộc lộ tình cảm, cảm xúc của mình.\n\nBởi các ISTP quá yên tĩnh, quá thầm lặng, họ giỏi giấu những suy nghĩ vào trong vì không biết phải bày tỏ như thế nào, kể cả với người mình yêu.\n\nBất kỳ nỗ lực dồn ép họ phải nói lên suy nghĩ của mình đều sẽ khiến các ISTP cảm thấy tức giận, cảm thấy thật kinh khủng như thể mình đang bị đẩy vào đường cùng.\n\n<i>“Nếu những người thuộc nhóm tính cách ISTP bước vào mối quan hệ dài lâu thậm chí là cả một đời, thì mối quan hệ đó cần được phát triển một cách tự nhiên và chậm rãi.”</i>\n\nCác ISTP là kiểu người chỉ sống ở hiện tại, trong một thế giới mà ở đó họ được tự do đam mê và cũng tự do được buông bỏ nếu họ không còn thích nữa, họ muốn sống và làm việc theo ý của riêng mình.\n\nNhững người có chung đặc điểm tính cách Quan sát (S) sẽ là những người hòa hợp nhất với các ISTP.\n\nHọ có thể cùng nhau khám phá thế giới ngay tại đây, ngay lúc này.\n\nBên cạnh đó, một vài đặc điểm tính cách đối lập cũng sẽ giúp họ có cơ hội khám phá những điều khác biệt ở nửa kia của mình.",
                                 },
                             ],
                         },
@@ -1700,45 +1692,33 @@ export const mbtiData = {
                             "title": "ISFJ trong tình bạn",
                             "itemsChild": [
                                 {
-                                    "content": "Rất nhiều người muốn kết bạn với những người thuộc nhóm tính cách ISFJ bởi họ là những ấm áp, hào phóng và luôn sẵn lòng giúp đỡ người khác. Tuy nhiên, dù có những người coi trọng và trân quý tình bạn giữa họ như vậy thì ISFJ vẫn không cảm thấy dễ gắn bó với bất kỳ ai.\n\nCác ISFJ là những người luôn muốn bảo vệ sự riêng tư của chính mình, vì vậy việc giao lưu kết thêm bạn mới có phần khó khăn đối với họ. Điều đó lý giải tại sao các ISFJ thường không kết bạn một cách tùy hứng mà họ xây dựng tình bạn dựa trên cảm giác an tâm và bền vững.\n\n<i>“Với bản tính thích quan tâm tới người khác, các ISFJ đối xử tốt với mọi người xung quanh như thế nào thì sẽ đối xử với bạn bè thân và người thân của họ tốt gấp mười lần như thế.”</i>",
+                                    "content": "Trong tình bạn, những người thuộc nhóm tính cách ISTP là những người dễ chơi cùng nhưng khó để hiểu tường tận. Các ISTP thường có vòng bạn bè khá rộng để chia sẻ những đam mê và sở thích chung ở nhiều lĩnh vực. Tuy nhiên để trở thành một người bạn thật sự thân thiết của Nhà kỹ thuật lại không hề dễ dàng vì không nhiều người có thể hiểu được suy nghĩ của họ.",
                                 },
                                 {
-                                    "titleChild": "Kết bạn",
-                                    "content": "Trong thâm tâm, các ISFJ luôn khao khát được người khác yêu thích và chấp nhận. Đó là một mong muốn dễ hiểu, và điều đó giải thích tại sao những người bạn ISFJ là những người thấu hiểu và đáng tin cậy.\n\n<i>“Những người thuộc nhóm ISFJ biết rằng cần nỗ lực hơn nữa để có một tình bạn đẹp, và họ sẽ nỗ lực hết mình vì tình bạn ấy.”</i>\n\nĐặc điểm ấy khiến Người nuôi dưỡng trở thành những người bạn đặc biệt, tuy nhiên về lâu dài sẽ khiến họ trở thành người luôn cố làm hài lòng người khác. Có những người luôn sẵn sàng thể hiện quan điểm nếu họ không hài lòng, hoặc đặt câu hỏi ngược lại nếu chưa thấy ổn. Nhưng ISFJ không phải người như vậy, họ sẽ không thể hiện điều đó ra ngoài. Kể cả khi họ muốn bạn bè trả nợ hoặc khi không ưng ý địa điểm mà mọi người lựa chọn cho bữa tối, họ cũng sẽ không nói ra.\n\nTính cách ấy chủ yếu tồn tại là vì các ISFJ không muốn bị từ chối. Họ hoàn toàn hài lòng với vòng bạn bè nhỏ bé nhưng khăng khít của mình nên không muốn làm phật lòng bất kỳ ai. Tuy vậy, việc liên tục phải làm hài lòng người khác sẽ khiến ISFJ mất đi ý thức về nhu cầu của bản thân, cũng như mất khả năng tự đưa ra quyết định.",
+                                    "titleChild": "Là người có tinh thần tự phát",
+                                    "content": "Những người bạn thuộc nhóm tính cách ISTP không muốn bị ràng buộc trong bất kỳ mối quan hệ nào.\n\nHọ sống trong thế giới của riêng mình, làm những điều mình thích và không nghĩ rằng mình cần thay đổi vì bất kỳ ai.\n\nNếu bạn không muốn tham gia vào những việc mà các ISTP đang làm, vậy bạn có thể thoải mái rời đi và làm những gì mình muốn thay vì kéo ISTP ra khỏi thế giới của họ.\n\nĐôi khi việc hành xử có phần ích kỷ như vậy của các ISTP sẽ khiến bạn bè phật ý.\n\nTuy nhiên, khi đối diện với châm ngôn “mọi thứ đều thay đổi, không có gì là bất biến” của họ thì tốt nhất bạn không nên áp đặt điều gì lên các ISTP nếu không muốn tình bạn giữa hai người chấm dứt mãi mãi.\n\nNếu cứ để mọi chuyện thuận theo tự nhiên, nước chảy mây trôi thì tình bạn của các ISTP sẽ kéo dài và ngày càng trở nên sâu sắc.\n\nNhững người thuộc kiểu tính cách ISTP rất thích những hoạt động cần sự kết hợp của các giác quan và có một chút tính cạnh tranh như câu cá hay làm đồ thủ công, và nếu có thêm bạn đồng hành thì còn tuyệt vời hơn nữa.\n\nSở thích của các ISTP rất đa dạng, vì vậy họ luôn có thể tìm ra những việc thú vị để chia sẻ cùng bạn bè.",
                                 },
                                 {
-                                    "titleChild": "Tìm kiếm sự cân bằng",
-                                    "content": "Người nuôi dưỡng mong muốn bạn bè có thể đồng hành cùng mình vượt qua giai đoạn khó khăn.\n\nNhững người thuộc nhóm tính cách ISFJ luôn sẵn sàng đưa ra lời khuyên, giúp đỡ và trấn an bạn bè khi họ gặp vấn đề.\n\nCác ISFJ cũng rất tự hào khi có người tìm tới họ khi cần giúp đỡ, điều đó khiến họ cảm thấy mình được tin tưởng và coi trọng.\n\n<i>“Người nuôi dưỡng trân trọng những người bạn của mình và cũng không ngần ngại thể hiện tình cảm của mình - tuy nhiên họ lại gặp khó khăn khi muốn tình cảm của mình được đáp lại.”</i>\n\nCác ISFJ cũng muốn được đáp lại sự trung thành, tôn trọng và công nhận những gì họ đã cho đi.\n\nTuy nhiên đôi khi, khi cần được giúp đỡ, những người thuộc nhóm ISFJ lại quá tự cao, họ không muốn mở lời để nhờ giúp đỡ, họ cảm thấy gượng ép khi nhờ vả bất kỳ ai.\n\nDù vậy, may mắn thay, sau một thời gian dài và trải qua vô số sự việc, những Người nuôi dưỡng sẽ nhận ra ai mới là người thật lòng đối đãi thật tâm với họ và ai mới là những người chỉ biết lợi dụng lòng tốt của người khác.",
-                                },
-                                {
-                                    "titleChild": "Mối ràng buộc đầy cảm hứng",
-                                    "content": "Các ISFJ luôn suy nghĩ về việc mọi việc sẽ diễn ra “như thế nào” trong tương lai. Trong tình bạn, họ tin rằng giữa bạn bè sẽ cần có lòng vị tha. Tuy vậy, nếu biết cách giảm bớt kỳ vọng và cân bằng mong muốn của cả hai bên thì tình bạn của họ sẽ còn gắn bó hơn nữa.",
-                                },
+                                    "titleChild": "Được mọi người yêu quý",
+                                    "content": "Những người bạn thuộc nhóm tính cách ISTP là những người có lý trí và rất chu đáo.\n\nVì là những người có tiềm năng sáng tạo vô hạn nên họ rất thích những ý tưởng mới và bắt tay vào hiện thực hóa những ý tưởng đó ngay lập tức.\n\nNgược lại, những cuộc thảo luận về vấn đề vĩ mô như kinh tế chính trị của một quốc gia nào đó sẽ không giữ chân được các ISTP lâu, họ sẽ nhanh chóng thấy chán chường và quay ra đặt tâm trí vào những chuyện thú vị hơn.\n\nĐiều này khiến các ISTP khó kết bạn với những người có tính cách thiên về Trực giác (N).\n\nNgược lại, những người thuộc nhóm tính cách Giác quan (S) là những người dễ hòa hợp với các Nhà kỹ thuật nhất.\n\nMiễn là họ có chung sở thích thì việc khác nhau trong thế giới quan là điều có thể chấp nhận được.\n\nChính những người thuộc nhóm tính cách ISTP cũng cảm thấy bất ngờ khi mình thực sự được yêu thích và chào đón như vậy.\n\nVới tính cách dễ gần, cởi mở, có nhiều sở thích thú vị thì rất nhiều người muốn làm bạn với các ISTP.",
+                                }
                             ],
                         },
                         {
                             "title": "ISFJ khi làm cha mẹ",
                             "itemsChild": [
                                 {
-                                    "content": "Là những người biết quan tâm và có tính cách kiên định, những Người nuôi dưỡng rất coi trọng thiên chức làm cha mẹ của mình.\n\nCác ISFJ cho rằng nhiệm vụ của mình là xây dựng cho con cái một môi trường sống an toàn và thoải mái để nuôi dưỡng những đứa trẻ nên người.\n\nVai trò làm cha mẹ của Người nuôi dưỡng không chỉ được thúc đẩy như một nghĩa vụ mà còn bởi tình yêu thương từ tận đáy lòng.\n\nRất nhiều Người nuôi dưỡng cho rằng việc làm cha mẹ không phải chỉ là nghĩa vụ mà còn là cơ hội để họ cho đi lòng vị tha, hào phóng và kiên nhẫn để mang một thiên thần mới tới với thế giới này.",
-                                },
-                                {
-                                    "titleChild": "Quá độc lập",
-                                    "content": "Các ISFJ là những người coi trọng những khái niệm truyền thống và quy định, vì vậy không ngạc nhiên khi họ có sự phân định rất rõ ràng giữa cha mẹ và con cái.\n\nThay vì đặt mình vào vị trí các con và coi mình như những người bạn thân của chúng, thì Người nuôi dưỡng sẽ hoàn tất vai trò của mình bằng cách chỉ dạy con cái những điều nên hoặc không nên, đúng hoặc sai trong cuộc sống một cách nhẹ nhàng nhưng đầy kiên quyết.\n\n<i>“Những Người nuôi dưỡng cống hiến hết mình để đảm bảo rằng con cái họ hiểu được tầm quan trọng của trách nhiệm và làm những điều đúng đắn, có ích.”</i>\n\nViệc trở thành cha mẹ là một thử thách lớn đối với những người thuộc nhóm tính cách ISFJ khi những đứa trẻ của họ liên tục từ chối sự giúp đỡ và hướng dẫn từ những người xung quanh vì chúng muốn khẳng định mình là một người độc lập.\n\nTrong quá trình trưởng thành, trẻ em thường muốn khám phá thế giới xung quanh, trải nghiệm những điều thú vị, làm những gì mình muốn, vì vậy đôi khi chúng sẽ phá vỡ nguyên tắc và làm trái điều cha mẹ đã dạy.\n\nNgười nuôi dưỡng sẽ rất khó để quản lý con cái họ trong những năm đầu tiên, tuy nhiên việc này sẽ càng khó hơn khi những đứa trẻ bước vào tuổi vị thành niên và có nhiều quyền quyết định hơn.\n\nNhững Người nuôi dưỡng đánh cao sự ổn định, vì vậy họ cũng khuyến khích con cái mình lớn lên ổn định về cả mặt tài chính lẫn sự nghiệp.\n\nVà nếu những đứa trẻ không đi theo định hướng của họ, các ISFJ sẽ rất thất vọng và thậm chí có thể bắt đầu kiểm soát chúng.",
-                                },
-                                {
-                                    "titleChild": "Đong đầy tình yêu",
-                                    "content": "May mắn thay, những người thuộc nhóm tính cách ISFJ luôn yêu thương con cái mình.\n\nĐôi lúc họ có thể hơi kiểm soát con cái và định hướng khắt khe cho những đứa trẻ, tuy nhiên kể cả chúng không nghe lời và quyết định làm những điều mình muốn, cha mẹ cũng sẽ không ngừng yêu thương chúng và giúp đỡ chúng tìm được hạnh phúc đích thực.\n\nTình yêu thương của những Người nuôi dưỡng đủ lớn để họ có thể chấp nhận và để những đứa trẻ lớn lên theo cách chúng muốn.\n\nSự thật là làm cha mẹ luôn là một thử thách vô cùng khó nhằn đối với bất kỳ nhóm tính cách nào, kể cả khi họ không làm sai chuyện gì.\n\nCác ISFJ có lợi thế vì họ không chỉ quan tâm mà còn rất thấu hiểu, vì vậy họ thường được coi là hình mẫu cha mẹ lý tưởng.",
+                                    "content": "Trong gia đình, những người thuộc nhóm tính cách ISTP sẽ trao cho con cái mình nhiều không gian tự do và cơ hội để làm những gì chúng muốn mà không đặt ra bất cứ giới hạn nào.\n\nNhìn chung, trong số các nhóm tính cách thì các ISTP là những người thoải mái trong phương diện nuôi dạy con cái nhất.\n\nHọ không muốn con cái cả ngày ở trong nhà và xem TV, thay vào đó họ khuyến khích những đứa trẻ bước ra ngoài và khám phá thế giới.\n\nLúc mới lớn, phương pháp nuôi dạy này của các ISTP là vô cùng hữu hiệu.\n\nKhi còn nhỏ, những đứa trẻ sẽ thấy rằng thế giới ngoài kia đang đợi chúng tới khám phá, tìm tòi, cảm nhận từng cơn gió len qua kẽ lá, cảm nhận từng tia nắng trải dài trên hàng mi.\n\nKhi những đứa trẻ lớn thêm chút nữa, các cha mẹ là ISTP sẽ cùng chúng xếp các viên gạch chồng lên nhau, và khi chúng lớn thêm chút nữa, họ sẽ dạy con mình cách sử dụng những viên gạch để xây dựng những vật dụng hoặc công trình thực sự.\n\nNếu con của những người thuộc nhóm tính cách cũng có những đam mê về mặt thể chất tương tự cha mẹ chúng, các ISTP sẽ rất sẵn lòng đồng hành cùng những đứa trẻ trong những hoạt động như thể thao, đi bộ đường dài.\n\nCác cha mẹ là ISTP cũng thấy không cần thiết phải ép buộc con cái vào quy tắc hay luật lệ nào, thay vào đó họ muốn chứng kiến con mình làm những gì chúng muốn.\n\n<i>“Việc đảm bảo những đứa trẻ nhận thức được trách nhiệm của mình và không làm điều gì liều lĩnh đôi khi là khá may rủi đối với các bậc cha mẹ ISTP.”</i>\n\nĐiều khó nhằn nhất đối với ISTP khi làm cha mẹ là việc gắn kết cảm xúc giữa hai thế hệ.\n\nNhững đứa trẻ của họ sẽ mất rất nhiều thời gian để học cách kiểm soát cảm xúc của mình, và trong thời gian chờ đợi con cái mình lớn lên thì các ISTP không biết giúp đỡ gì hơn bởi chính họ cũng là những người gặp khó khăn trong việc thể hiện cảm xúc.\n\nCác ISTP cần nỗ lực hơn nữa trong việc thấu hiểu và chia sẻ tình thương với con cái, hỗ trợ chúng nhiều hơn nữa về mặt tinh thần.",
                                 }
                             ],
                         },
                     ]
                 },
                 {
-                    "section": "Làm sao để thân thiết với ISFJ",
+                    "section": "Làm sao để thân thiết với ISTP",
                     "items": [
                         {
-                            "content": "Để xây dựng mối quan hệ tích cực và lâu dài với ISFJ thì việc gia tăng sự nhạy bén, khả năng lắng nghe và tôn trọng giá trị cá nhân của họ là rất quan trọng.\n\nNgười nuôi dưỡng thường có xu hướng đặt cảm nhận và nhu cầu của đối phương lên trên bản thân, vậy nên qua thời gian, dù không nói ra nhưng sâu trong thâm tâm họ cũng mong đợi sự đáp lại tương xứng.\n\nCũng vì lẽ đó, chìa khóa để trở nên thân thiết với ISFJ không gì khác ngoài hai chữ “chân thành”.\n\nĐừng sử dụng những mưu mẹo lắt léo và nghĩ rằng bạn có thể qua mắt họ, sự nhạy cảm của ISFJ sẽ ngay lập tức phát ra tín hiệu cảnh báo về những “biểu hiện giả” này, phá hủy hoàn toàn những ấn tượng tích cực mà ISFJ có thể dành cho bạn.\n\nMột số điều bạn cần chú ý khi tiếp xúc với ISFJ là:\n\n● <b>Hãy giữ phép lịch sự cơ bản.</b> ISFJ dễ bị phản cảm với những hành động thiếu ý thức và lời nói thô lỗ, vậy nên bạn hãy giữ một khoảng cách nhất định với họ trong giao tiếp hàng ngày, đặc biệt là khi hai người mới chỉ ở giai đoạn bắt đầu làm quen.\n\n● <b>Thể hiện sự quan tâm đến nhu cầu và mong muốn cá nhân của họ.</b> Vì luôn dành phần lớn thời gian chăm sóc mọi người xung quanh nên các ISFJ thường quên đi chính bản thân mình.\n\nDo đó khi nhận được sự quan tâm chân thành từ người khác, các ISFJ sẽ rất dễ cảm kích và có phần ngạc nhiên.\n\nĐể mối quan hệ trở nên thân tình hơn, khi trò chuyện, bạn hãy đào sâu vào các chủ đề mà ISFJ quan tâm, điều này sẽ tạo nên sự kết nối sâu sắc hơn giữa hai người.\n\n● <b>Khen ngợi và khích lệ thường xuyên.</b> Các ISFJ là những người vô cùng tốt bụng và sẵn sàng giúp đỡ mọi người, đổi lại, họ cũng hy vọng lòng tốt của mình được đón nhận và trân trọng, biết ơn.\n\nĐiều này thực sự có ý nghĩa khích lệ vô cùng to lớn với các ISFJ, cho họ thấy rằng họ đã đặt lòng tốt vào đúng người.\n\n● <b>Đừng vội vàng hối thúc.</b> Các ISFJ cần nhiều thời gian để thích ứng với thay đổi hay những sự kiện đột xuất.\n\nVì vậy nếu bạn muốn lên kế hoạch cùng ISFJ đi chơi xa hay tham gia một sự kiện lớn, hãy thông báo trước nhiều ngày để họ có thời gian sắp xếp, tránh ảnh hưởng đến lịch trình sinh hoạt của họ.\n\n● <b>Giúp ISFJ có không gian riêng.</b> Là một “I” điển hình, các ISFJ sẽ luôn cần thời gian và không gian riêng để khôi phục năng lượng sau một ngày dài hoạt động.\n\nDo đó nếu hai người sống chung, ISFJ sẽ rất biết ơn nếu bạn thay họ quán xuyến việc nhà, để họ có thời gian thư giãn và đắm mình vào sở thích cá nhân trong không gian riêng tư.\n\nPhải thừa nhận rằng, bản tính khép kín và khó mở lòng khiến ISFJ rất khó kết thân với người khác, nhưng một khi đã chạm được tới trái tim của Người nuôi dưỡng thì họ sẽ dành cho bạn tình cảm nồng hậu và sự quan tâm sâu sắc nhất.\n\nLúc này đây, bạn sẽ thực sự cảm nhận được “trái ngọt”, rằng mỗi một nỗ lực trước kia là đáng giá để có được một kết nối đặc biệt như ISFJ trong cuộc đời của mình."
+                            "content": "Do các ISTP luôn biết rõ họ muốn gì.\n\nVì vậy nếu bạn thực sự phù hợp với họ, họ sẽ chủ động làm quen và kết giao với bạn.\n\nĐể có sức hút và dễ dàng gây sự chú ý với ISTP, bạn hãy:\n\n● <b>Tỏ ra thú vị.</b> Có sở thích riêng, có cá tính rõ ràng, am hiểu về một lĩnh vực nào đó hay có những hoạt động thú vị là những điểm cộng để thu hút ISTP.\n\nCác ISTP rất ưa tìm tòi và khám phá nên các hoạt động thú vị mang tính chất tìm hiểu sẽ thực sự hấp dẫn đối với họ.\n\n● <b>Chân thành và trung thực.</b> Là hai đức tính mà các ISTP đề cao.\n\nĐừng lo lắng hay bối rối, hãy cứ là chính bạn, các ISTP sẽ cảm nhận được.\n\n● <b>Tạo ra năng lượng vui vẻ.</b> ISTP là người lạc quan và rất năng động, họ có xu hướng kết thân và biết ơn mọi người xung quanh có thể cùng họ làm những điều thú vị, mang đến năng lượng tích cực để họ có thể thỏa sức sáng tạo.\n\n● <b>Mang phong thái tự tin.</b> ISTP thích những người tự tin, ổn định về mặt cảm xúc và đáng tin cậy.\n\nHọ muốn biết sự quan tâm của bạn dành cho họ không phải là vì lợi ích cá nhân và bạn không phải là người mỏng manh.\n\nĐiều này sẽ giúp họ cảm thấy thoải mái khi ở bên bạn, đây là bước khởi đầu tuyệt vời để làm quen với ISTP.\n\nTóm lại, để làm thân với ISTP không khó, hãy luôn tôn trọng đời sống riêng tư của họ.\n\nDù có là người yêu của nhau thì cũng đừng quá bận tâm đến những ngày kỷ niệm, nếu bạn đủ quan trọng, ISTP chắc chắn sẽ nhớ."
                         },
                     ],
                 },
@@ -1746,23 +1726,15 @@ export const mbtiData = {
                     "section": "Con đường sự nghiệp",
                     "items": [
                         {
-                            "content": "Người nuôi dưỡng là “cánh tay đắc lực” chốn công sở bởi tác phong làm việc đáng tin cậy, chăm chỉ và luôn sẵn sàng giúp đỡ người khác. Đối với họ, việc hoàn thành tốt  công việc là ưu tiên hàng đầu, đồng thời họ cũng rất hiếm khi từ chối nhiệm vụ được giao."
+                            "content": "Nhóm tính cách ISTP là những người bí ẩn và khá khó đoán, nhất là trong việc lựa chọn cho sự nghiệp.\n\nVốn có tính cách linh hoạt và không dễ đoán trước, các ISTP không bao giờ đặt câu hỏi “kế hoạch của hôm nay là gì nhỉ?” mà họ thích “tới đâu hay tới đó“.\n\nCác ISTP bẩm sinh đã giỏi giải quyết vấn đề tập trung vào các khía cạnh thực tiễn.\n\nHọ thích chứng kiến cách mọi thứ xung quanh vận hành, cách người ta sử dụng các công cụ, cách người ta tìm ra sự thật để làm sáng tỏ một vấn đề nào đó.\n\nTính tò mò, ưa tìm hiểu, thích tìm tòi sẽ giúp các ISTP phù hợp với những công việc như cơ khí, kỹ sư, thiết kế đồ họa hoặc pháp y."
                         },
                         {
-                            "title": "Ngôi sao thầm lặng",
-                            "content": "Một trong những đam mê của những người thuộc nhóm tính cách ISFJ là giúp đỡ người khác. Thay vì tự tìm lấy “ánh hào quang” cho riêng mình thì họ lại lựa chọn ở phía sau giúp đỡ và động viên đồng nghiệp. Vì vậy, những Người nuôi dưỡng rất hợp với môi trường làm việc mang tính cộng tác cùng nhau đi lên thay vì cạnh tranh giữa từng cá nhân."
+                            "title": "Đặt trọng tâm vào sự thực tiễn",
+                            "content": "“Tính thực tiễn” là kim chỉ nam của nhóm tính cách ISTP trong công việc, nhưng họ lại không muốn giám sát mọi thứ dựa trên tinh thần thực tiễn, cứng nhắc mà thích sự đa dạng, linh hoạt.\n\nNhững môi trường làm việc được phân tầng kiến trúc từ thấp tới cao dễ làm các ISTP nhàm chán.\n\nNgược lại, những công việc tập trung vào việc đối phó trực tiếp với vấn đề quan trọng như lính cứu hỏa, nhân viên y tế, thám tử, phi công và cảnh sát dường như sinh ra dành cho những Nhà kỹ thuật.\n\nĐiều tối quan trọng trong việc lựa chọn nghề nghiệp đối với các ISTP là sự tự do.\n\nHọ muốn được tự do đi lại, được tự do làm những gì mình muốn và chịu trách nhiệm với chính bản thân mình.\n\nDo vậy, những người thuộc tính cách này sẽ không hợp với những công việc mang hơi hướm truyền thống nhưng lại là phẩm chất phù hợp trong lĩnh vực kinh doanh.\n\nGần như tất cả các kỹ năng hoặc sở thích liên quan tới óc sáng tạo đều có thể trở thành cơ sở để theo đuổi các công việc như freelance hoặc làm chủ doanh nghiệp, chủ blog, nhà phân tích hệ thống, vận động viên, bán đồ thủ công hoặc làm tài xế.\n\nNhững Nhà kỹ thuật cần cải thiện điểm yếu sống không theo kế hoạch của mình để chuẩn bị cho những gì sắp xảy tới trong tương lai.\n\nHọ cũng nên học cách sắp xếp ưu tiên những công việc quan trọng để xử lý trước tiên.\n\nNhững người thuộc nhóm tính cách ISTP có kỹ năng giải quyết vấn đề bẩm sinh, họ có đủ tự tin và biết tập trung vào kết quả cuối cùng.\n\nHọ cũng hiểu được trong công việc rủi ro có thể ập tới bất cứ lúc nào, nhưng nếu họ biết khắc phục tốt thì kết quả để lại sẽ là một thành tựu ngọt ngào."
                         },
                         {
-                            "title": "Nhạy bén, quan sát tốt",
-                            "content": "ISFJ cực kỳ nhạy bén, có đầu óc quan sát tốt. Đồng thời, họ rất để ý đến cảm xúc của mọi người xung quanh. Điều này giúp họ dễ dàng nắm bắt được mọi người xung quanh đang muốn hay cần gì. Kết hợp với đức tính tôn thờ quy tắc, tôn tri trật tự của tổ chức nhằm lên kế hoạch gây dựng môi trường lý tưởng cho tất cả mọi người."
-                        },
-                        {
-                            "title": "Có tính thẩm mỹ cao",
-                            "content": "Họ có khả năng xuất sắc trong cảm nhận về không gian xung quanh cùng nhận thức hết sức đặc biệt và không kém phần thực tế."
-                        },
-                        {
-                            "title": "Trí nhớ tốt",
-                            "content": "Các ISFJ thường có trí nhớ rất tốt cùng khả năng thực hiện khối lượng công việc lớn.\n\nVới tinh thần chăm chỉ, cống hiến, sẵn sàng hướng tới mục tiêu chung của tập thể.\n\nTrong công việc, dù khối lượng và độ khó có cao tới đâu thì họ vẫn sẽ làm cho đến khi xong việc mới cảm thấy mãn nguyện.\n\nVới những đặc điểm trên, ISFJ nên lựa chọn những công việc mà họ có thể phát huy khả năng quan sát con người đặc biệt của mình để xác định nhu cầu của người khác, và sử dụng khả năng tổ chức tuyệt vời để xây dựng môi trường làm việc hiệu quả.\n\nKhả năng quan sát thông qua không gian và thời gian cũng giúp họ có thể áp dụng gu thẩm mỹ cao vào thực tế, thích hợp với công việc như trang trí nội thất và thiết kế thời trang.\n\nDưới đây là các công việc phù hợp với Người nuôi dưỡng mà bạn có thể tham khảo:\n\n● Nhà thiết kế\n\n● Trang trí nội thất\n\n● Y tá\n\n● Công tác xã hội/ Cố vấn\n\n● Trợ lý giám đốc\n\n● Trưởng phòng\n\n● Quản lý hành chính\n\n● Quản lý cửa hàng\n\n● Bác sĩ tâm lý\n\n● Nhà tham vấn học đường\n\n● Dược sĩ\n\n● Kế toán/ Kiểm toán"
+                            "title": "Những nghề nghiệp phù hợp",
+                            "content": "Với sự tò mò, ham học hỏi, ham tìm tòi, thích áp dụng lý thuyết vào thực tiễn, vì vậy họ đặc biệt phù hợp với những ngành nghề liên quan tới thực hành như kỹ sư, kiến trúc sư, nhà thiết kế thời trang, pháp y, nhà khoa học, thợ sửa máy, các ngành nghề liên quan tới sáng tạo, v.vv..\n\nMôi trường làm việc lý tưởng của các ISTP là nơi họ được tự do làm theo cách của mình, được bày tỏ quan điểm và ý kiến, được lắng nghe và phản hồi.\n\nNhững người thuộc nhóm tính cách ISTP có kỹ năng xử lý tình huống tốt, khi đối mặt với một nan đề nào đó, họ không dễ dàng bị dao động hay rơi vào trạng thái hoảng loạn.\n\nCác ISTP trước tiên sẽ tập trung giải quyết vấn đề, sau đó mới quay lại bóc tách nguyên nhân và hướng khắc phục lâu dài.\n\nMột số nghề nghiệp phù hợp với khía cạnh tính cách này của các ISTP là lính cứu hỏa, nhân viên cứu hộ, thám tử, phi công, v.vv..\n\nDù không thích bị bó buộc trong một môi trường cố định nhưng không có nghĩa là các ISTP là những người “đứng núi này trông núi nọ”.\n\nTrong công việc, họ có thể cam kết thời gian gắn bó lâu dài miễn là môi trường ấy đáp ứng được các nhu cầu và nguyện vọng của họ.\n\nDưới đây là các công việc phù hợp với ISTP:\n\n● Pháp y\n\n● Cảnh sát/Thám tử\n\n● Kỹ sư\n\n● Nhà thiết kế thời trang/Thiết kế nội thất/kiến trúc sư\n\n● Lập trình viên/Chuyên gia phân tích hệ thống/Chuyên gia máy tính\n\n● Phi công/Tài xế/Vận động viên đua xe\n\n● Nhà thầu khoán\n\n● Vận động viên\n\n● Lính cứu hỏa"
                         },
                     ]
                 },
@@ -1770,72 +1742,338 @@ export const mbtiData = {
                     "section": "Thói quen nơi công sở",
                     "items": [
                         {
-                            "content": "Ở bất kỳ quá trình nào trên con đường phát triển sự nghiệp thì các ISFJ luôn có chung định hướng và đặt công việc lên trên tất cả.\n\nNhững người thuộc nhóm tính cách ISFJ luôn được tin tưởng giao nhiệm vụ nhờ lòng tốt và khả năng lắng nghe - thấu hiểu mọi tình huống sau đó tìm cách giải quyết chúng.\n\nHọ được coi là nhóm tính cách có khả năng tìm ra những phương án giải quyết thực tiễn và rõ ràng nhất.\n\nLà tuýp người khiêm tốn, các ISFJ luôn ưa chuộng những công việc có thể cho họ cơ hội phát triển bản thân, đồng thời có thể chữa lành và tạo niềm vui cho những người xung quanh.\n\nMột số công việc điển hình là giáo viên, ngôn ngữ trị liệu, vật lý trị liệu, y học, công tác xã hội.\n\nSự kiên nhẫn và bao bọc của họ sẽ giúp những người xung quanh cảm thấy tin tưởng và an tâm.\n\n<i>“Những Người nuôi dưỡng luôn có động lực và sự nhất quán trong công việc, nhất là những công việc cho phép họ giúp đỡ và mang lại niềm vui cho những người xung quanh.”</i>\n\nBất kể làm công việc gì thì những người thuộc nhóm tính cách ISFJ cũng đặt mục tiêu giúp đỡ người khác là ưu tiên hàng đầu.\n\nHọ giỏi lắng nghe, thấu hiểu và đưa ra lời khuyên cho người khác.\n\nNhững đặc điểm tính cách ấy cũng rất hợp với một số công việc như hành chính nhân sự, công nghệ thông tin, nhà hàng khách sạn, nhân viên bán lẻ, quản lý thư viện và hầu hết những vị trí giúp giải quyết thắc mắc, vấn đề của mọi người."
+                            "content": "Ở nơi làm việc, các ISTP là những người bí ẩn và khó đoán, điều này khiến mối quan hệ của những người thuộc nhóm tính cách ISTP rơi vào bế tắc, kể cả đối với những người thân quen như bạn bè hoặc người nhà chứ chưa nói tới những đồng nghiệp mà các ISTP làm việc cùng tại công ty.\n\nTuy nhiên, chỉ cần cho họ không gian và thời gian thì các ISTP có thể xử lý các đầu việc rất nhanh và hiệu quả.\n\nNgược lại, việc thúc ép các ISTP đi theo khuôn mẫu không phù hợp sẽ làm lãng phí tài năng và ảnh hưởng tiêu cực tới kết quả công việc."
                         },
                         {
-                            "title": "Luôn giữ phong độ",
-                            "content": "Khi phải làm những nhiệm vụ có phần tẻ nhạt và lặp đi lặp lại nhiều lần, đa phần mọi người sẽ cảm thấy chán nản và mất bình tĩnh, tuy nhiên những người thuộc nhóm ISFJ sẽ không.\n\nĐiểm mạnh của họ là luôn chú ý tới các chi tiết và hướng tới công việc thuộc các lĩnh vực luật, kế toán, phân tích dữ liệu hoặc nghiên cứu.\n\nDù vậy, các ISFJ vẫn luôn đặt sự quan tâm lên các khía cạnh con người và không bao giờ để các con số ảnh hưởng tới bản chất thật sự của vấn đề.\n\n<i>“Là những người tỉ mỉ và hướng tới tập thể, các ISFJ đối xử tốt với người khác, vì vậy họ rất giỏi trong việc kết nối khách hàng, củng cố các mối quan hệ kinh doanh hoặc đơn giản là khiến đồng nghiệp vui vẻ nhờ những hành động quan tâm ấm áp nho nhỏ.”</i>\n\nDù cống hiến và cho đi rất nhiều nhưng những người thuộc nhóm tính cách ISFJ không đòi hỏi sự công nhận hay yêu cầu thăng chức.\n\nHọ muốn để những thành tựu của mình tự nói lên giá trị của chúng và tin rằng cấp trên sẽ thăng chức cho họ vào thời điểm thích hợp.\n\nNhưng nếu như những cố gắng của họ liên tục bị gạt ra và không được đề cao thì các ISFJ sẽ rất thất vọng."
+                            "title": "ISTP khi là nhân viên",
+                            "content": 'Những Nhà kỹ thuật chỉ mong muốn có một không gian nho nhỏ cho riêng mình.\n\nNhờ tính cách thân thiện, dễ gần, các ISTP là những nhân viên vô cùng trung thành với điều kiện cấp trên không đưa xuống những “nhiệm vụ bất khả thi” vượt ra khỏi tầm với của họ.\n\nNgoài ra, những người thuộc nhóm tính cách ISTP cũng rất dễ nhàm chán khi phải làm việc trong môi trường tù túng, đơn điệu. Họ cũng sẽ trở nên khá ương ngạnh nếu bị buộc thay đổi thói quen và phương pháp làm việc vốn có của mình.\n\nNgược lại, các ISTP sẽ vô cùng hạnh phúc nếu ngẫu nhiên được giao cho một danh sách công việc cần xử lý, họ sẽ dành tất cả năng lượng và thời gian để hoàn thành một cách hoàn hảo nhất có thể.'
                         },
                         {
-                            "title": "ISFJ khi là nhân viên",
-                            "content": 'ISFJ là một nhân viên mạnh mẽ và khiêm tốn.\n\nHọ được tin tưởng và coi trọng nhờ sự nhẫn nại và hiệu suất làm việc cao, món quà tuyệt nhất mà Người nuôi dưỡng muốn nhận được trong công việc chính là việc họ đã giúp đỡ được ai đó, và nếu người đó thể hiện ra một chút lòng cảm kích thôi thì các ISFJ sẽ cảm thấy vô cùng hạnh phúc.\n\nVới tinh thần nhiệt huyết, cống hiến hết mình, các ISFJ sẽ cần mẫn và cặm cụi làm việc mà không hề có nhu cầu "kể công" hay khen thưởng.\n\nTrong các sự kiện tuyên dương hay ghi nhận, họ cũng có xu hướng lui về phía sau.\n\nVới họ, miễn công việc đem lại kết quả tốt là đủ để mãn nguyện rồi.\n\nTuy vậy, đôi khi đức tính khiêm tốn của các ISFJ sẽ kìm hãm sự phát triển của họ khi thường xuyên né tránh việc phô trương thành tích của chính mình để né tránh xung đột nơi làm việc.\n\nĐiều đó sẽ khiến cho cấp trên của các ISFJ bỏ qua họ khi xem xét các cơ hội thăng tiến trong tương lai.\n\n<i>“Sự khiêm tốn là một thế mạnh của những người thuộc nhóm tính cách ISFJ nhưng cũng khiến họ tuột mất những cơ hội thăng tiến mới.”</i>\n\nSự trung thành và độc lập của các ISFJ thường khiến họ bị đánh giá thấp trong mắt cấp trên.\n\nNhìn chung, những người thuộc nhóm tính cách ISFJ thường được tin tưởng giao nhiệm vụ và họ sẽ hoàn thành chúng một cách chính xác mà không phàn nàn gì.\n\nTuy nhiên khi gặp khó khăn, họ sẽ không dám nêu lên ý kiến hay tranh luận gì với cấp trên hoặc đồng nghiệp mình, mặc dù điều đó là cần thiết để tiết kiệm thời gian và công sức làm việc.\n\nTuy nhiên bạn đừng lo, vì về lâu dài, các ISFJ sẽ dần học được cách nêu ý kiến một cách khéo léo và kín đáo.'
+                            "title": "ISTP khi là đồng nghiệp",
+                            "content": "Các ISTP được đồng nghiệp quý mến hơn cả mong đợi.\n\nLà người có tính cách trầm lắng và khá dè dặt, Nhà kỹ thuật thường nép mình trong không gian riêng, nhưng đồng thời họ cũng rất tò mò muốn biết những người xung quanh đang làm gì.\n\nNhược điểm của họ khi làm việc là quá thẳng thắn, điều đó có thể dẫn đến những hiểu lầm không đáng có với đồng nghiệp.\n\nTuy nhiên, khiếu hài hước lại là một điểm mạnh của các ISTP giúp họ có thể dễ dàng hạn chế phát sinh xung đột ở công ty hoặc xoa dịu các cuộc cãi vã giữa đồng nghiệp."
                         },
                         {
-                            "title": "ISFJ khi là đồng nghiệp",
-                            "content": "Đối với những Người nuôi dưỡng, một môi trường làm việc hoàn hảo là nơi mà mọi người hợp tác làm việc hướng tới mục tiêu chung của công ty thay vì cạnh tranh lẫn nhau.\n\nHọ thích những đội ngũ làm việc có tình cảm khăng khít, hỗ trợ, tin tưởng lẫn nhau và giàu lòng vị tha.\n\n<i>“Các ISFJ xây dựng mối quan hệ với đồng nghiệp một cách tự nhiên, điều đó khiến mọi việc được vận hành một cách mượt mà, suôn sẻ.”</i>\n\nTuy nhiên điểm mạnh này của các ISFJ cũng có thể trở thành điểm yếu của họ, bởi việc né tránh hết sức những xung đột nơi công sở của họ có thể bị những người đồng nghiệp kém cẩn trọng hơn lợi dụng.\n\nHọ có thể liên tục nhờ vả các đồng nghiệp ISFJ bởi họ biết các ISFJ hầu như sẽ không bao giờ từ chối.\n\nNhững Người nuôi dưỡng nên biết cách xây dựng một “hàng rào bảo vệ” xung quanh để tránh bị người khác lợi dụng lòng tốt."
-                        },
-                        {
-                            "title": "ISFJ khi là cấp trên",
-                            "content": "Các ISFJ sẽ không chủ động tiến lên vị trí lãnh đạo, nhưng khả năng giao tiếp và những chuẩn mực trong công việc sẽ giúp họ rất nhiều trong việc quản lý nhân viên.\n\nLà một người cấp trên, những Người nuôi dưỡng luôn tìm cách đối đãi với nhân viên cấp dưới bằng tình cảm ấm áp, họ sẵn sàng giải đáp các thắc mắc và sẵn lòng giúp đỡ nếu cấp dưới gặp khó khăn.\n\nCác ISFJ không muốn thể hiện mình là kẻ bề trên mà đồng hành cùng nhân viên của họ trong công việc, giải quyết các nhiệm vụ một cách mượt mà và giảm thiểu tranh cãi xuống mức thấp nhất có thể.\n\n<i>“Những người thuộc nhóm tính cách ISFJ áp dụng tinh thần đồng đội vào công việc, nỗ lực truyền cảm hứng cho những nhân viên cấp dưới.”</i>\n\nCác ISFJ quan tâm tới hiệu suất và hiệu quả trong công việc, nhưng sẽ không vì thế mà đánh mất mối quan hệ tốt đẹp với nhân viên của mình.\n\nCác thay đổi trong công việc có thể là một thử thách đối với các quản lý là ISFJ, nhất là những thay đổi tiêu cực như việc họ buộc phải cho một người nào đó thôi việc.\n\nĐôi khi các ISFJ sẽ sẵn sàng đầu tư thêm thời gian và công sức để giúp đỡ một nhân viên làm chưa tốt, hơn là chọn cách sa thải họ."
+                            "title": "ISTP khi là cấp trên",
+                            "content": "Hạn chế giao tiếp và vượt quá giới hạn là cách mà các cấp trên ISTP quản lý nhân viên của mình, và đổi lại họ cũng muốn được đối xử theo cách tương tự. Nhân viên của những Nhà kỹ thuật có thể nghĩ sếp mình là một người lạnh lùng khó gần vì họ ít nói và ít thể hiện cảm xúc. Nhưng sự thật lại ngược lại, các ISTP ít khi đưa ra lời phê bình dù là khen ngợi hay chỉ trích, nhưng khi xảy ra vấn đề thì họ lại luôn lắng nghe và đưa ra lời khuyên, giải pháp thiết thực một cách công bằng và vô tư."
                         },
                     ]
                 },
                 {
-                    "section": "So sánh ISFJ với INFJ, ESFJ",
+                    "section": "So sánh ISTP với ISTJ, ESTP",
                     "items": [
                         {
-                            "content": "Khi so sánh ISFJ (Người nuôi dưỡng) với những nhóm tính cách khác có sự tương đồng (<b>I</b>N<b>FJ</b> - Người che chở, E<b>SFJ</b> - Người quan tâm), bạn sẽ hiểu rõ hơn về đặc tính của nhóm ISFJ."
+                            "content": "Khi so sánh ISTP (Nhà kỹ thuật) với những nhóm tính cách khác có sự tương đồng (E<b>STP</b> - Người thực thi, <b>IST</b>J - Người trách nhiệm), bạn sẽ hiểu rõ hơn về đặc tính của nhóm ISTP."
                         },
                         {
                             "title": "Điểm giống nhau",
-                            "content": 'F - Feeling (Cảm xúc): Cả ba nhóm tính cách này đều có xu hướng suy nghĩ và ra quyết định dựa trên cảm xúc. Họ đặt nhiều sự quan tâm đến người khác và sẵn sàng giúp đỡ đối phương như thể đó là vấn đề của chính mình. Khi đối chiếu ISFJ với từng nhóm INFJ, ESFJ, chúng tôi nhận thấy giữa mỗi cặp sẽ có những điểm chung riêng như sau:\n\n● <b>I</b>S<b>FJ</b> và <b>I</b>N<b>FJ</b>: Nhạy cảm, thường kìm nén cảm xúc và cố gắng né tránh xung đột. Phù hợp với những công việc ý nghĩa, mang lại giá trị cho con người và xã hội.\n\n● I<b>SFJ</b> và E<b>SFJ</b>: Truy cầu sự an toàn và ổn định, quan tâm nhiều đến việc chăm lo gia đình. Hướng đến môi trường có hệ thống phân cấp rõ ràng và yêu cầu tương tác xã hội.',
+                            "content": 'T - Lý trí và S - Giác quan: Cả ba nhóm tính cách này đều là những người lý trí, tập trung vào những gì mình quan sát được bằng giác quan.\n\nHọ thường đưa ra quyết định dựa trên góc nhìn thực tế và sự logic.\n\nKhi đối chiếu ISTP với từng nhóm ESTP, ISTJ, chúng tôi nhận thấy giữa mỗi cặp sẽ có những điểm chung riêng như sau:\n\n● ISTP và ESTP: Đều là người trân trọng những kinh nghiệm lẫn trải nghiệm mà họ từng đi qua.\n\nVới ISTP và ESTP, bạn chỉ sống một lần, do đó hãy sống hết mình để khi về già sẽ không có gì phải hối tiếc.\n\n● ISTP và ISTJ: Cả hai nhóm tính cách này đều có xu hướng hướng nội, lý trí và tập trung vào những gì mình quan sát được bằng giác quan bao gồm thính giác, khứu giác, thị giác, vị giác và xúc giác.',
                         },
                         {
                             "title": "Điểm khác nhau",
-                            "content": "Dù chỉ chênh nhau một chữ cái, song sự khác biệt giữa các nhóm này lại cách nhau cả dải ngân hà. Bạn có thể thấy rõ điều này tại bảng so sánh sau:" 
+                            "content": "Thoáng qua có thể thấy cả ba nhóm tính cách ISTP, ESTP và ISTJ có nhiều nét tương đồng, nhưng sự chênh lệch về một ký tự trong nhóm tính cách cũng khiến họ hoàn toàn đối nghịch nhau. Cụ thể:" 
                         },
                     ],
                     "tables": [
                         {
-                            "headers": ["Đặc điểm", "INFJ", "ISFJ", "ESFJ"],
+                            "headers": ["Đặc điểm", "ESTP", "ISTP", "ISTJ"],
                             "rows": [
-                                ["Diễn giải chữ viết tắt", "I - Hướng nội<br><b>N - Trực giác</b><br>F - Cảm xúc<br>J - Nguyên tắc", "<b>I - Hướng nội</b><br><b>S - Giác quan</b><br>F - Cảm xúc<br>J - Nguyên tắc", "<b>E - Hướng ngoại</b><br>S - Giác quan<br>F - Cảm xúc<br>J - Nguyên tắc"],
-                                ["Cách tiếp cận thông tin", "Dựa nhiều vào trực giác, tập trung xem xét ý nghĩa của từng sự vật, hiện tượng", "Cảm nhận bằng cả năm giác quan: thị giác, thính giác, vị giác, khứu giác và xúc giác", "Chú trọng vào thông tin thực tế, số liệu rõ ràng"],
-                                ["Trong các mối quan hệ", "- Có xu hướng lý tưởng hóa, chỉ chấp nhận mối quan hệ có sự kết nối sâu sắc về mặt tâm hồn<br>- Đặt tiêu chuẩn cao cho cả bản thân và đối phương, dễ cảm thấy thất vọng khi mọi chuyện diễn ra không như mong đợi<br>- Kỳ vọng vừa giúp đỡ được người khác, vừa phát triển bản thân", "- Dễ kết giao nhưng không chủ động và khó kết thân<br>- Khi đã thân thì sẽ có xu hướng đặt nhu cầu và mong muốn của đối phương lên trên bản thân<br>- Sẵn sàng cho đi không mong cầu đáp lại, song vẫn rất dễ cảm động và biết ơn khi nhận được sự quan tâm từ người khác", "- Quảng giao, chân thành và nồng nhiệt, chủ động trong việc mở rộng vòng tròn mối quan hệ<br>- Đặt ra nhiều nguyên tắc cụ thể và kế hoạch dài hạn<br>- Sẵn lòng cho đi nhưng cũng mong đợi được đền đáp"],
-                                ["Trong công việc", "- Phù hợp với công việc có sự tương đồng về giá trị quan, có thể sử dụng trực giác để ra quyết định<br>- Thích những việc cho phép họ vừa giúp đỡ được người khác, vừa phát triển các kỹ năng của bản thân<br>- Không phù hợp với môi trường có quy định cứng nhắc hoặc thiếu tính sáng tạo", "- Ưu tiên sự an toàn và ổn định<br>- Phù hợp với các công việc lặp đi lặp lại, cần dùng tới khả năng quan sát chi tiết, sắp xếp, tổ chức, hoặc yêu cầu tính thẩm mỹ cao", "- Phù hợp với môi trường được tiếp xúc với nhiều người, có hệ thống phân cấp rõ ràng<br>- Có thể trở thành nhà lãnh đạo và quản trị lý tưởng"]
+                                ["Diễn giải chữ viết tắt", "<b>E - Hướng ngoại</b><br>S - Giác quan<br>T - Lý trí<br>P - Linh hoạt", "<b>I - Hướng nội</b><br>S - Giác quan<br>T - Lý trí<br><b>P - Linh hoạt</b>", "I - Hướng nội<br>S - Giác quan<br>T - Lý trí<br><b>J - Nguyên tắc</b>"],
+                                ["Cách tiếp cận thông tin", "Tiếp cận thông tin một cách linh hoạt nhưng vẫn dựa vào các số liệu và đo lường chính xác dựa trên 5 giác quan", "Dựa trên lý lẽ và sự logic, từ trải nghiệm mà họ tự trải qua", "Chú trọng vào thông tin thực tế, sự phân tích dựa trên nhiều góc độ"],
+                                ["Trong các mối quan hệ", "- Hướng ngoại, dễ kết thân nhưng không sâu sắc<br>- Bên ngoài có khiếu hài hước nhưng bên trong họ là người thực tế và tin vào lợi ích. Do đó, họ sẽ rất phũ hay hành động dứt khoát với những ai làm họ tổn thương", "- Hướng tới sự độc lập, ISTP không mấy mặn mà với những mối quan hệ gắn bó<br>- Tuy nhiên, ISTP cũng là một người rất lý trí trong các mối quan hệ. Nếu mối quan hệ làm họ cảm thấy hứng thú và xứng đáng thì các ISTP sẽ không ngừng vun đắp và hy sinh để giữ gìn. Ngược lại, nếu họ cảm thấy đó là một mối quan hệ vô nghĩa không đi tới đâu thì các ISTP chọn cách bỏ qua và tìm kiếm mối quan hệ mới phù hợp hơn.", "- Trong các mối quan hệ, ISTJ thường không hay thể hiện tình cảm<br>- Họ không giỏi khen ngợi, cũng không lên tiếng trong các buổi tụ họp nhưng với sự trưởng thành, ISTJ chắc chắn sẽ là những người đáng tin cậy, thấu hiểu và đồng cảm với bạn"],
+                                ["Trong công việc", "- ESTP có khả năng suy nghĩ, phản ứng và quyết định nhanh chóng, do đó người thuộc nhóm tính cách này phù hợp với các công việc trong lĩnh vực kinh doanh như bán hàng, đàm phán kinh doanh, tiếp thị, thậm chí là diễn xuất<br>- Xu hướng thích những công việc thiếu ổn định nhưng thú vị thay vì công việc an toàn nhưng nhàm chán", "- ISTP hướng tới sự linh hoạt, nên việc tuân theo nguyên tắc là điều họ không mong muốn<br>- Thay vì quan tâm đến ánh nhìn của người khác, ISTP tôn trọng cái tôi của mình, họ sẽ tự quyết định thay vì làm những việc mà người khác yêu cầu, đặc biệt là những việc mà nhóm Nhà kỹ thuật này không thích<br>- Phù hợp với những công việc như cơ khí, kỹ sư, thiết kế đồ họa hoặc pháp y", "- Là những người vô cùng tuân thủ theo nguyên tắc<br>- ISTJ hướng tới những giá trị của tập thể nên dù là việc mình không thích thì họ cũng sẽ nhẫn nại làm và coi đó là việc phải làm"]
                             ]
                         }
                     ],
-                    "content": "Cả ba nhóm ISFJ, INFJ và ESFJ đều có điểm chung trong cách thể hiện sự quan tâm tới người khác và chú trọng vào các mối quan hệ xã hội.\n\nTuy nhiên, cách họ tiếp cận thông tin, tương tác và ra quyết định lại có sự khác biệt rõ rệt.\n\nISFJ dựa vào khả năng quan sát và tổ chức, INFJ sử dụng trực giác và sáng tạo, trong khi ESFJ hướng đến môi trường có hệ thống và tương tác xã hội.\n\nSự đa dạng này tạo nên những đặc điểm riêng biệt, thay đổi hoàn toàn cách họ xây dựng vòng tròn quan hệ cũng như định hình hướng đi trong cuộc đời." 
+                    "content": "Cả ba nhóm ISTP, ESTP và ISTJ đều hướng tới sự logic, họ thường đưa ra những quyết định dựa trên lý trí và sử dụng giác quan để phân tích với nhiều góc độ.\n\nCùng có nét tương đồng là thế, nhưng ISTP lại rất linh hoạt với những quy tắc ngầm. Trong khi với những người thuộc nhóm tính cách ESTP, thế giới bên ngoài mới là thế giới thực. Trái ngược với tính cách I - Hướng nội luôn đắm mình trong thế giới nội tâm của ISTJ.\n\nSự đa dạng trong tính cách sẽ giúp bạn hiểu thế nào là quy luật của cuộc sống. Trong chúng ta, không ai là hoàn hảo, ai cũng sẽ có ưu và nhược, nhưng cũng vì thế mà cuộc sống này trở nên đa dạng màu sắc hơn. Chính vì vậy đừng ngần ngại kết giao với một ai đó trong 15 nhóm tính cách ngoài kia nhé." 
                 },
                 {
-                    "section": "Lời khuyên dành cho ISFJ",
+                    "section": "Lời khuyên dành cho ISTP",
                     "items": [
                         {
-                            "title": "Hướng tới thế giới bên ngoài",
-                            "content": "Để có cuộc sống vui vẻ và có cơ hội phát triển bản thân tốt hơn, các ISFJ nên hướng ra thế giới bên ngoài nhiều hơn thay vì khư khư trong vỏ ốc của chính mình.\n\nDẫu biết rằng rất khó để các ISFJ thích ứng với các giá trị mới hoặc đi ngược lại với niềm tin, hệ quy chiếu cá nhân, nhưng hãy cứ cố gắng đón nhận những quan điểm, tư tưởng mới.\n\nBước ra khỏi vùng an toàn chính là một trong những cách hiệu quả để các ISFJ có thể phát triển tối đa năng lực bản thân."
+                            "content": "Ai có được người bạn như bạn thật sự là một may mắn. Bởi vì bạn là người khá thú vị và hài hước, lại không kiểm soát hay phụ thuộc vào bất kỳ ai. Nhưng đừng vì tính cách độc lập trong con người bạn mà quên đi những lưu ý sau:"
                         },
                         {
-                            "title": "Phát huy thế mạnh bình ổn và ôn hòa",
-                            "content": "Đừng vội phán xét mọi chuyện theo quan điểm cá nhân, bởi có thể bạn chỉ mới đang nhìn thấy bề nổi của vấn đề.\n\nHãy vận dụng thế mạnh của mình (Feeling - Cảm xúc) để thấu hiểu cảm xúc của người khác, đặt mình vào vị trí của họ để có cái nhìn tổng thể và cảm nhận đúng hơn về từng tình huống cụ thể.\n\nThấu hiểu mọi người xung quanh, đồng thời biết cách giữ mối quan hệ ôn hòa sẽ khiến các ISFJ hạnh phúc và đạt được mục đích sống."
+                            "title": "Nuôi dưỡng sức mạnh",
+                            "content": "Khuyến khích khả năng nghệ thuật tự nhiên và sự sáng tạo của bạn. Nhưng hãy tập trung nuôi dưỡng tinh thần của bạn và tìm cho mình cơ hội để giúp đỡ những người gặp khó khăn hoặc có hoàn cảnh khó khăn."
                         },
                         {
-                            "title": "Biết cách chăm sóc cho chính mình hơn",
-                            "content": 'Các ISFJ cũng đừng nên quá ôm đồm, hãy biết cách san sẻ công việc cho mọi người xung quanh.\n\nCho người khác cơ hội giúp đỡ bạn không chứng tỏ bạn lười biếng hay yếu đuối, mà sẽ giúp khẳng định vai trò của bạn và gắn kết các ISFJ với mọi người xung quanh hơn.\n\nDành quá nhiều thời gian để suy nghĩ, lo lắng cho người khác đồng nghĩa với việc các ISFJ thường không có đủ thời gian để chăm sóc chính mình.\n\nĐôi lúc hãy tự biết cách nuông chiều bản thân như đi du lịch, ăn một bữa thật ngon hay mua một bộ đồ mà bạn đã ao ước bấy lâu.',
+                            "title": "Đối mặt với điểm yếu",
+                            "content": 'Nhận ra và chấp nhận rằng một số đặc điểm là điểm mạnh và một số là điểm yếu chính là đang cho bản thân nhiều cơ hội để rèn luyện khả năng của chính mình. Đối mặt và giải quyết những điểm yếu không có nghĩa là bạn phải thay đổi con người thật, mà là bạn muốn trở thành người giỏi nhất có thể. Hay trải nghiệm những hoạt động mới, gặp gỡ những con người có quan điểm mới. Đừng tự cô lập mình trong một cuộc sống chật hẹp và cô đơn.',
                         },
                         {
-                            "title": "Đừng dồn nén cảm xúc",
-                            "content": "Cuối cùng, các ISFJ nên biết cách bộc bạch mong muốn của mình hơn. Hiểu mình hiểu người và cho người khác cơ hội để hiểu bạn sẽ giúp các mối quan hệ của các ISFJ được mượt mà hơn, hóa giải được hiểu lầm và dễ để kết bạn mới hơn."
+                            "title": "Học cách bày tỏ cảm xúc",
+                            "content": "Đừng để những cảm xúc không được bộc lộ tích tụ trong bạn. Nếu bạn có những cảm xúc không mấy hài lòng, hãy lựa chọn thời điểm thích hợp và bày tỏ chúng. Đừng để những cảm xúc tiêu cực tích tụ trong bạn đến mức không thể kiểm soát được.\n\nHãy lắng nghe mọi thứ. Cố gắng không loại bỏ bất cứ điều gì dù đó là chủ đề yêu thích hay không thích. Hãy kiên nhẫn lắng nghe và quan sát, sau đó đưa ra phán xét. Thảo luận về ý tưởng và nhận thức của bạn với người khác sẽ giúp bạn phát triển khả năng cảm nhận, phát triển sự hiểu biết của bạn về thế giới."
+                        },
+                        {
+                            "title": "Mỉm cười trước những lời chỉ trích",
+                            "content": "Hãy nhớ rằng không phải lúc nào mọi người cũng hiểu ý hay hài lòng về bạn, ngay cả khi họ đánh giá cao bạn. Hãy cố gắng xem sự bất đồng và chỉ trích là cơ hội để phát triển. Trên thực tế, nó chính xác là như vậy."
+                        },
+                        {
+                            "title": "Hãy ý thức về người khác",
+                            "content": "Hãy nhớ rằng ngoài kia còn có 15 loại tính cách khác, mỗi một tính cách sẽ có cái nhìn khác với bạn. Cố gắng xác định thực sự mọi người đến từ đâu, ý tưởng, suy nghĩ và ưu tiên của họ là gì? Họ có cái gì để cung cấp và trao đổi giá trị cho bạn? Hãy cố gắng xác định tính cách và hiểu quan điểm của họ."
+                        }
+                    ]
+                },
+            ]
+        },
+        {
+            "code": "ISTP",
+            "name": "Nhà kỹ thuật",
+            "description": "ISTP là nhóm tính cách tôn thờ sự logic. Họ dành nhiều thời gian để quan sát và đánh giá mọi vật mọi việc dựa trên bằng chứng và lý lẽ, kể cả trong chuyện tình cảm. ISTP cũng là tuýp người thiên về trường phái “làm nhiều hơn nói”, có khả năng ứng phó với những tình huống bất ngờ và xử lý khủng hoảng một cách xuất sắc.",
+            "image": "./img/istp.png",
+            "details": [
+                {
+                    "section": "Tổng quan",
+                    "items": [
+                        {
+                            "content": "<b>ISTP (Nhà kỹ thuật)</b> là nhóm tính cách tôn thờ sự logic. Họ dành nhiều thời gian để quan sát và đánh giá mọi vật mọi việc dựa trên bằng chứng và lý lẽ, kể cả trong chuyện tình cảm. ISTP cũng là tuýp người thiên về trường phái “làm nhiều hơn nói”, có khả năng ứng phó với những tình huống bất ngờ và xử lý khủng hoảng một cách xuất sắc."
+                        },
+                        {
+                            "title": "ISTP là viết tắt của những chữ cái gì?",
+                            "content": "● <b>I - Hướng nội:</b> Đối với những người thuộc nhóm tính cách ISTP, thế giới ẩn sâu bên trong mỗi chúng ta mới là thế giới thật.\n\nNgược lại, thế giới bên ngoài là nơi thuộc về những người E - Hướng ngoại.\n\n● <b>S - Giác quan:</b> Bạn tập trung vào những gì mình quan sát được bằng năm giác quan (thính giác, khứu giác, thị giác, vị giác, xúc giác).\n\nI - Trực giác (hay còn gọi là giác quan thứ sáu) sẽ được sử dụng để diễn giải ý nghĩa của sự vật, sự việc.\n\n● <b>T - Lý trí:</b> Bạn đưa ra quyết định dựa trên góc nhìn thực tế bằng số liệu và đo lường chính xác.\n\nNgược lại, các F - Cảm xúc ưu tiên đưa ra quyết định dựa trên cảm nhận cá nhân.\n\n● <b>P - Linh hoạt:</b> Bạn thỏa thích vẫy vùng trong thế giới của riêng mình với những quy tắc ngầm được bạn tự tay sắp xếp.\n\nTrái lại, những người thuộc nhóm J - Nguyên tắc lại cảm thấy ổn khi được áp cho những luật lệ được sắp đặt sẵn."
+                        },
+                        {
+                            "title": "Thích tìm hiểu cách vạn vật hoạt động",
+                            "content": 'Các ISTP thích tìm hiểu cách vạn vật hoạt động. Điều này xuất phát từ sự kết hợp thú vị của tính cách T (Lý trí) và P (Linh hoạt) bên trong họ. Họ là những người có suy nghĩ logic, giỏi phân tích và sẵn sàng áp dụng vào thực tế để giải quyết vấn đề. Các ISTP là những người nói chuyện bằng lý lẽ, mặc dù họ không quá tin tưởng vào các lý thuyết trừ khi được tự mình trải nghiệm và chứng minh.',
+                        },
+                        {
+                            "title": "Hài hước",
+                            "content": "Các ISTP cũng là người có tính cách hài hước. Đôi khi họ sẽ tận dụng khả năng này để xoa dịu tình hình căng thẳng hay giải quyết một số tình huống khó xử. Tuy nhiên các ISTP cũng nên cẩn trọng với lời nói và hành động của mình để tránh gây tổn thương tinh thần tới những người xung quanh."
+                        },
+                        {
+                            "title": "Tâm hồn lãng du",
+                            "content": "Các ISTP có tâm hồn lãng du, họ bị thu hút bởi những sự vật dịch chuyển như mô tô, máy bay, ván lướt sóng, v.vv.. Các ISTP không tin tưởng cũng như không thích tuân theo luật lệ, quy tắc mà muốn làm theo cách của riêng họ. Những việc lặp đi lặp lại từ ngày này qua ngày khác một cách nhàm chán chỉ khiến họ ghét bỏ mà thôi."
+                        },
+                        {
+                            "title": "Lập trường vững vàng",
+                            "content": "Các ISTP giữ vững niềm tin và quan điểm của mình, cũng như hy vọng mọi người cũng nên noi gương họ.\n\nMặc dù những người thuộc nhóm tính cách ISTP không thích các nguyên tắc và quy định cố hữu nhưng họ sẽ cố gắng tuân theo vì lợi ích chung của tập thể.\n\nCác ISTP thu thập thông tin từ những người xung quanh họ, bởi vậy, các ISTP rất cần thời gian và không gian riêng để cân bằng và sắp xếp lại những suy nghĩ ngổn ngang trong tâm trí."
+                        },
+                        {
+                            "title": "Thích hành động hơn lời nói",
+                            "content": "Các ISTP làm nhiều hơn nói, họ không thích hợp với những công việc chỉ ngồi cả ngày sau bàn giấy và vạch ra những kế hoạch dài hơi trong tương lai. Những người thuộc nhóm tính cách ISTP có thể đối phó với những tình huống bất ngờ nhất một cách linh hoạt. Trong mọi vấn đề, cách giải quyết của họ là tập trung vào chi tiết và hiệu quả thực tế, vì vậy mọi vấn đề khi qua tay các ISTP đều được xử lý nhanh chóng và hợp tình hợp lý."
+                        },
+                        {
+                            "title": "Công tâm",
+                            "content": "Các ISTP thường tránh đưa ra nhận định mang tính chủ quan. Họ luôn cố gắng đánh giá sự vật, sự việc từ nhiều khía cạnh một cách công bằng. Những người thuộc nhóm tính cách ISTP không quá để ý tới cảm xúc của người khác, thậm chí đôi khi còn không để ý tới cảm xúc của chính mình bởi họ khó có thể phân tách rạch ròi giữa ý kiến cá nhân và đánh giá khách quan. Điều đó khiến cho một thời điểm nào đó các ISTP có thể sẽ bùng nổ khi có quá nhiều điều muốn nói nhưng lại phải kìm nén bấy lâu."
+                        },
+                        {
+                            "title": "Có khả năng xử lí khủng hoảng tốt",
+                            "content": "Các ISTP là những người xử lý khủng hoảng xuất sắc. Họ có thể trở thành những vận động viên giỏi vì sở trường của họ là những hoạt động cần sự kết hợp của các giác quan. Các ISTP không gặp quá nhiều khó khăn khi ngồi trên ghế nhà trường bởi họ là những người hướng nội và rất logic, làm việc và học tập có bài bản."
+                        },
+                        {
+                            "title": "Tư duy logic",
+                            "content": "Các ISTP tỏa sáng trong các lĩnh vực có sự kết hợp giữa phân tích logic và kỹ năng kỹ thuật.\n\nHọ có xu hướng làm tốt ở các công việc như thám tử, lính cứu hỏa, cứu hộ, v.v..., những thế mạnh này xuất phát từ chính kinh nghiệm thực tế của họ.\n\nNhìn chung, các ISTP là những người lạc quan, luôn đầy tự tin và lý tưởng.\n\nHọ tin vào sự công bằng, nhất quán.\n\nCác ISTP cũng rất dễ tiếp thu để thấu hiểu người khác, cũng như sẵn sàng rộng lượng tha thứ, miễn là họ không bị đặt vào một khuôn khổ bí bách với đầy những quy định, quy tắc cần tuân thủ."
+                        },
+                        {
+                            "title": "Những người nổi tiếng mang tính cách ISTP",
+                            "content": "● Tom Cruise\n\n● Scarlett Johansson\n\n● Christian Bale\n\n● Bruce Lee\n\n● Demi Moore\n\n● Marshall Mathers (Eminem)\n\n● Snoop Dogg\n\n● Venus Williams"
+                        },
+                    ]
+                },
+                {
+                    "section": "Điểm mạnh và điểm yếu",
+                    "items": [
+                        {
+                            "title": "Điểm mạnh",
+                            "itemsChild": [
+                                {
+                                    "titleChild": "Lạc quan và tràn đầy năng lượng",
+                                    "content": "Những người thuộc nhóm tính cách ISTP luôn nỗ lực trong mọi nhiệm vụ được giao. Với tính cách năng nổ, tích cực nhưng cũng rất nhanh nhạy, các ISTP hiếm khi gặp căng thẳng trong công việc và trong cuộc sống. Họ luôn giải quyết mọi vấn đề một cách trôi chảy, có bài bản.",
+                                },
+                                {
+                                    "titleChild": "Sáng tạo và thực tế",
+                                    "content": "Những Nhà kỹ thuật có cơ hội bộc lộ sức sáng tạo của mình khi xử lý những công việc liên quan tới lĩnh vực kỹ thuật hoặc thủ công. Họ luôn tràn đầy ý tưởng và muốn được trực tiếp dùng đôi bàn tay mình thực hiện công việc một cách gọn gàng, nhanh chóng.",
+                                },
+                                {
+                                    "titleChild": "Linh hoạt",
+                                    "content": "Các ISTP có thể kết hợp logic và tính cách linh hoạt của mình để thích nghi với mọi tình huống phát sinh một cách dễ dàng.",
+                                },
+                                {
+                                    "titleChild": "Biết sắp xếp công việc",
+                                    "content": "Những người thuộc nhóm tính cách ISTP rất biết cách sắp xếp thứ tự ưu tiên trong công việc, họ cũng biết cách điều chỉnh phân chia thời gian và công sức cho những việc quan trọng hơn.",
+                                },
+                                {
+                                    "titleChild": "Đối mặt với khủng hoảng",
+                                    "content": 'Là những người có tính cách linh hoạt, các ISTP luôn biết cách vượt qua các khủng hoảng bất ngờ, kể cả khi họ phải chấp nhận những rủi ro có thể xảy tới ngay sau đó.',
+                                },
+                                {
+                                    "titleChild": "Thư giãn",
+                                    "content": "ISTP là một nhóm tính cách khá yên tĩnh. Họ biết tận hưởng từng phút giây trong cuộc sống và để mọi thứ trôi qua nhẹ nhàng, cũng như không quá lo lắng về những chuyện có thể xảy tới trong tương lai.",
+                                },
+                                {
+                                    "titleChild": "Có khả năng tập trung cao độ",
+                                    "content": "So với các nhóm tính cách khác, các ISTP có khả năng tập trung cao độ và vượt trội. Sẽ không có gì ngạc nhiên khi họ thường ở vị trí cao nhất trong lĩnh vực chuyên môn của mình. Không nổi máu liều lao vào rủi ro và mạo hiểm, các ISTP biết rõ mình muốn gì và cần làm gì để đạt được điều họ muốn. Họ sẽ tập trung toàn lực vào việc bản thân đang làm cho đến khi đạt được kết quả như ý.",
+                                },
+                            ],
+                        },
+                        {
+                            "title": "Điểm yếu",
+                            "itemsChild": [
+                                {
+                                    "titleChild": "Bướng bỉnh",
+                                    "content": 'Làm một người yên tĩnh muốn để mọi chuyện thuận theo dòng chảy và trôi đi, đôi khi các ISTP cũng sẽ bỏ qua nhiều vấn đề mà đáng lẽ họ nên quan tâm. Những Nhà kỹ thuật sẽ cảm thấy khó chịu nếu có người xuất hiện và cố gắng thay đổi thói quen, lối sống hoặc quan điểm của họ.',
+                                },
+                                {
+                                    "titleChild": "Thiếu tinh tế",
+                                    "content": "Những Nhà kỹ thuật sẽ suy nghĩ dựa vào tính logic nhiều hơn là cảm xúc, và kể cả họ có cố gắng tiếp cận một ai đó bằng phương thức tình cảm thì quyết định cuối cùng cũng sẽ được đưa ra dựa theo phán đoán về mặt logic.",
+                                },
+                                {
+                                    "titleChild": "Kín đáo",
+                                    "content": "Rất khó để hiểu tượng tận một người thuộc nhóm tính cách ISTP. Họ thực sự là tính cách điển hình của nhóm người hướng nội, luôn giữ mọi vấn đề lại trong tâm trí mà không nói ra.",
+                                },
+                                {
+                                    "titleChild": "Cả thèm chóng chán",
+                                    "content": "Những Nhà kỹ thuật thích tìm tòi những điều mới mẻ, tuy nhiên họ lại dễ buồn chán giữa chừng và không kiên trì theo đuổi lâu dài. Một khi đã vỡ lẽ ra vấn đề gì đó, họ sẽ lập tức bỏ dở và đi tìm kiếm những điều mới mẻ thú vị hơn.",
+                                },
+                                {
+                                    "titleChild": "Không thích ràng buộc",
+                                    "content": 'Việc cam kết lâu dài không phải điều mà những người thuộc nhóm tính cách ISTP sẽ thích. Họ muốn giải quyết mọi việc luôn và ngay trong ngày nên việc bị bó buộc vào một việc nào đó sẽ khiến họ nảy sinh tâm lý chán chường. Điểm yếu này khiến các ISTP gặp rất nhiều khó khăn trong tình yêu, một mối quan hệ được xây dựng nên nhờ sự cam kết và gắn bó giữa hai tâm hồn.',
+                                },
+                                {
+                                    "titleChild": "Thích mạo hiểm",
+                                    "content": "Tính cách bướng bỉnh, luôn che giấu cảm xúc, chỉ tập trung vào thực tại và dễ chán nản sẽ khiến các ISTP đôi khi làm những việc quá giới hạn. Những Nhà kỹ thuật thường làm ra những hành động dễ gây hiểu nhầm và nguy hiểm chỉ để xem hậu quả là gì, và điều đó thực sự tai hại nếu họ mất đi kiểm soát về những việc mình đang làm.",
+                                },
+                            ],
+                        }
+                    ]
+                },
+                {
+                    "section": "Mối quan hệ",
+                    "items": [
+                        {
+                            "content": 'ISTP là những người bạn rất thú vị, họ luôn sống trọn từng khoảnh khắc ở thì hiện tại và chậm rãi tận hưởng niềm vui mà cuộc sống mang lại.\n\nPhương châm của họ là "vạn vật đều có thể thay đổi".\n\nLàm bạn với các ISTP giống như đi trên một chiếc tàu lượn siêu tốc: sáng nắng - chiều mưa, khi vui - khi buồn, khi bận rộn - khi thảnh thơi, khi giận dỗi - khi hòa hợp.\n\nVốn là một người không thích giam mình vào những mối quan hệ bó buộc, các ISTP đôi khi thay đổi tâm trạng như chong chóng khiến bạn bè mình không biết phải đối xử với họ ra sao.\n\nCác ISTP hiếm khi gặp khó khăn trong việc kết giao bởi họ là người có nhiều đam mê và sở thích, bạn sẽ tìm được nhiều điểm chung khi bắt chuyện với họ.\n\nCác ISTP có xu hướng bị thu hút bởi những người thiên về tính cách S (Giác quan), bởi bản thân họ cũng rất thích những hoạt động đòi hỏi sự kết hợp của các giác quan.\n\nNgược lại, các ISTP khó hòa hợp với những người thiên về nhóm N (Trực giác), vì đó là những người không quá thực tế và hay nói chuyện bằng những hình ảnh trừu tượng.\n\nTuy nhiên, các ISTP vẫn có thể thoải mái chấp nhận kết giao với cả những người có tính cách trái ngược bởi họ vốn cởi mở và thoải mái trong các mối quan hệ.\n\nNhìn chung, các ISTP có khả năng làm việc độc lập và hoàn thành tốt công việc ở những lĩnh vực mà họ đam mê.\n\nISTP là những người có tư tưởng thoải mái, thú vị và hấp dẫn.\n\nCác ISTP sống với lý tưởng YOLO - You Only Live Once, và họ sẽ tận hưởng từng phút giây hạnh phúc hiện tại thay vì lo lắng cho những điều có thể xảy đến trong tương lai.\n\nĐối với những người thuộc nhóm tính cách ISTP, không có gì là tuyệt đối, kể cả những điều được cho là bất biến giữa nhân gian vạn biến.\n\nHọ thích phát triển một mối quan hệ từ những điều nhỏ nhất, bước chậm rãi nhưng chắc chắn từng bước một thay vì hứa hẹn về một mối quan hệ lâu dài.\n\nNếu mối quan hệ làm họ cảm thấy hứng thú và xứng đáng thì các ISTP sẽ không ngừng vun đắp và hy sinh để giữ gìn.\n\nNgược lại, nếu họ cảm thấy đó là một mối quan hệ vô nghĩa không đi tới đâu thì các ISTP chọn cách bỏ qua và tìm kiếm mối quan hệ mới phù hợp hơn.'
+                        },
+                        {
+                            "title": "ISTP trong tình yêu",
+                            "itemsChild": [
+                                {
+                                    "content": "Tình yêu đối với những người thuộc nhóm tính cách ISTP giống như một bản tango với những nốt trầm nốt bổng, khá phức tạp mà cũng rất thú vị.\n\nHọ lạnh lùng, nghiêm khắc nhưng cũng đầy nhiệt huyết và tận hưởng từng phút giây.\n\nTrong tình yêu của Nhà kỹ thuật, không có gì là ép buộc, tuy nhiên nếu để họ tự do làm những gì mình muốn thì các ISTP có thể tận hưởng hạnh phúc một cách trọn vẹn tới suốt đời.\n\nBước vào giai đoạn đầu của quá trình yêu đương, những người thuộc nhóm tính cách ISTP luôn rất bay bổng, họ sẽ liên tục tìm tòi để trải nghiệm và khám phá những điều mới mẻ cùng bạn đời.\n\nBởi vậy, nếu nửa kia của các ISTP không bắt kịp được nhịp độ của họ, các ISTP sẽ dễ dàng rời đi.\n\nKhi yêu, Nhà kỹ thuật cần nhiều không gian cả về vật chất lẫn tinh thần để sắp xếp lại những suy nghĩ ngổn ngang trong tâm trí, vậy nên nếu người bạn đời cố gắng ép buộc và kiểm soát cuộc sống của các ISTP, mối quan hệ giữa hai người sẽ dần trở nên tồi tệ.\n\nMặt khác, trong tình yêu, những người thuộc nhóm tính cách ISTP lại cố gắng thay đổi thói quen của nửa kia (theo cách tích cực) để giúp họ cảm thấy thoải mái và thư giãn hơn.\n\nKhi hẹn hò, các ISTP thường không để tâm tới các quan niệm khắt khe và cổ hủ, đổi lại, họ thường nghĩ đến việc làm chuyện người lớn từ sớm.\n\nNhững người thuộc nhóm tính cách ISTP coi việc giường chiếu là một khía cạnh mang tính nghệ thuật, nơi để họ thể hiện được sức hấp dẫn không thể chối từ của bản thân.\n\nKhi bước sâu vào quá trình yêu đương, nửa kia của những Nhà kỹ thuật sẽ nhận ra việc tiếp xúc thân mật là cách nhanh nhất để một cá nhân bộc lộ tình cảm, cảm xúc của mình.\n\nBởi các ISTP quá yên tĩnh, quá thầm lặng, họ giỏi giấu những suy nghĩ vào trong vì không biết phải bày tỏ như thế nào, kể cả với người mình yêu.\n\nBất kỳ nỗ lực dồn ép họ phải nói lên suy nghĩ của mình đều sẽ khiến các ISTP cảm thấy tức giận, cảm thấy thật kinh khủng như thể mình đang bị đẩy vào đường cùng.\n\n<i>“Nếu những người thuộc nhóm tính cách ISTP bước vào mối quan hệ dài lâu thậm chí là cả một đời, thì mối quan hệ đó cần được phát triển một cách tự nhiên và chậm rãi.”</i>\n\nCác ISTP là kiểu người chỉ sống ở hiện tại, trong một thế giới mà ở đó họ được tự do đam mê và cũng tự do được buông bỏ nếu họ không còn thích nữa, họ muốn sống và làm việc theo ý của riêng mình.\n\nNhững người có chung đặc điểm tính cách Quan sát (S) sẽ là những người hòa hợp nhất với các ISTP.\n\nHọ có thể cùng nhau khám phá thế giới ngay tại đây, ngay lúc này.\n\nBên cạnh đó, một vài đặc điểm tính cách đối lập cũng sẽ giúp họ có cơ hội khám phá những điều khác biệt ở nửa kia của mình.",
+                                },
+                            ],
+                        },
+                        {
+                            "title": "ISFJ trong tình bạn",
+                            "itemsChild": [
+                                {
+                                    "content": "Trong tình bạn, những người thuộc nhóm tính cách ISTP là những người dễ chơi cùng nhưng khó để hiểu tường tận. Các ISTP thường có vòng bạn bè khá rộng để chia sẻ những đam mê và sở thích chung ở nhiều lĩnh vực. Tuy nhiên để trở thành một người bạn thật sự thân thiết của Nhà kỹ thuật lại không hề dễ dàng vì không nhiều người có thể hiểu được suy nghĩ của họ.",
+                                },
+                                {
+                                    "titleChild": "Là người có tinh thần tự phát",
+                                    "content": "Những người bạn thuộc nhóm tính cách ISTP không muốn bị ràng buộc trong bất kỳ mối quan hệ nào.\n\nHọ sống trong thế giới của riêng mình, làm những điều mình thích và không nghĩ rằng mình cần thay đổi vì bất kỳ ai.\n\nNếu bạn không muốn tham gia vào những việc mà các ISTP đang làm, vậy bạn có thể thoải mái rời đi và làm những gì mình muốn thay vì kéo ISTP ra khỏi thế giới của họ.\n\nĐôi khi việc hành xử có phần ích kỷ như vậy của các ISTP sẽ khiến bạn bè phật ý.\n\nTuy nhiên, khi đối diện với châm ngôn “mọi thứ đều thay đổi, không có gì là bất biến” của họ thì tốt nhất bạn không nên áp đặt điều gì lên các ISTP nếu không muốn tình bạn giữa hai người chấm dứt mãi mãi.\n\nNếu cứ để mọi chuyện thuận theo tự nhiên, nước chảy mây trôi thì tình bạn của các ISTP sẽ kéo dài và ngày càng trở nên sâu sắc.\n\nNhững người thuộc kiểu tính cách ISTP rất thích những hoạt động cần sự kết hợp của các giác quan và có một chút tính cạnh tranh như câu cá hay làm đồ thủ công, và nếu có thêm bạn đồng hành thì còn tuyệt vời hơn nữa.\n\nSở thích của các ISTP rất đa dạng, vì vậy họ luôn có thể tìm ra những việc thú vị để chia sẻ cùng bạn bè.",
+                                },
+                                {
+                                    "titleChild": "Được mọi người yêu quý",
+                                    "content": "Những người bạn thuộc nhóm tính cách ISTP là những người có lý trí và rất chu đáo.\n\nVì là những người có tiềm năng sáng tạo vô hạn nên họ rất thích những ý tưởng mới và bắt tay vào hiện thực hóa những ý tưởng đó ngay lập tức.\n\nNgược lại, những cuộc thảo luận về vấn đề vĩ mô như kinh tế chính trị của một quốc gia nào đó sẽ không giữ chân được các ISTP lâu, họ sẽ nhanh chóng thấy chán chường và quay ra đặt tâm trí vào những chuyện thú vị hơn.\n\nĐiều này khiến các ISTP khó kết bạn với những người có tính cách thiên về Trực giác (N).\n\nNgược lại, những người thuộc nhóm tính cách Giác quan (S) là những người dễ hòa hợp với các Nhà kỹ thuật nhất.\n\nMiễn là họ có chung sở thích thì việc khác nhau trong thế giới quan là điều có thể chấp nhận được.\n\nChính những người thuộc nhóm tính cách ISTP cũng cảm thấy bất ngờ khi mình thực sự được yêu thích và chào đón như vậy.\n\nVới tính cách dễ gần, cởi mở, có nhiều sở thích thú vị thì rất nhiều người muốn làm bạn với các ISTP.",
+                                }
+                            ],
+                        },
+                        {
+                            "title": "ISFJ khi làm cha mẹ",
+                            "itemsChild": [
+                                {
+                                    "content": "Trong gia đình, những người thuộc nhóm tính cách ISTP sẽ trao cho con cái mình nhiều không gian tự do và cơ hội để làm những gì chúng muốn mà không đặt ra bất cứ giới hạn nào.\n\nNhìn chung, trong số các nhóm tính cách thì các ISTP là những người thoải mái trong phương diện nuôi dạy con cái nhất.\n\nHọ không muốn con cái cả ngày ở trong nhà và xem TV, thay vào đó họ khuyến khích những đứa trẻ bước ra ngoài và khám phá thế giới.\n\nLúc mới lớn, phương pháp nuôi dạy này của các ISTP là vô cùng hữu hiệu.\n\nKhi còn nhỏ, những đứa trẻ sẽ thấy rằng thế giới ngoài kia đang đợi chúng tới khám phá, tìm tòi, cảm nhận từng cơn gió len qua kẽ lá, cảm nhận từng tia nắng trải dài trên hàng mi.\n\nKhi những đứa trẻ lớn thêm chút nữa, các cha mẹ là ISTP sẽ cùng chúng xếp các viên gạch chồng lên nhau, và khi chúng lớn thêm chút nữa, họ sẽ dạy con mình cách sử dụng những viên gạch để xây dựng những vật dụng hoặc công trình thực sự.\n\nNếu con của những người thuộc nhóm tính cách cũng có những đam mê về mặt thể chất tương tự cha mẹ chúng, các ISTP sẽ rất sẵn lòng đồng hành cùng những đứa trẻ trong những hoạt động như thể thao, đi bộ đường dài.\n\nCác cha mẹ là ISTP cũng thấy không cần thiết phải ép buộc con cái vào quy tắc hay luật lệ nào, thay vào đó họ muốn chứng kiến con mình làm những gì chúng muốn.\n\n<i>“Việc đảm bảo những đứa trẻ nhận thức được trách nhiệm của mình và không làm điều gì liều lĩnh đôi khi là khá may rủi đối với các bậc cha mẹ ISTP.”</i>\n\nĐiều khó nhằn nhất đối với ISTP khi làm cha mẹ là việc gắn kết cảm xúc giữa hai thế hệ.\n\nNhững đứa trẻ của họ sẽ mất rất nhiều thời gian để học cách kiểm soát cảm xúc của mình, và trong thời gian chờ đợi con cái mình lớn lên thì các ISTP không biết giúp đỡ gì hơn bởi chính họ cũng là những người gặp khó khăn trong việc thể hiện cảm xúc.\n\nCác ISTP cần nỗ lực hơn nữa trong việc thấu hiểu và chia sẻ tình thương với con cái, hỗ trợ chúng nhiều hơn nữa về mặt tinh thần.",
+                                }
+                            ],
+                        },
+                    ]
+                },
+                {
+                    "section": "Làm sao để thân thiết với ISTP",
+                    "items": [
+                        {
+                            "content": "Do các ISTP luôn biết rõ họ muốn gì.\n\nVì vậy nếu bạn thực sự phù hợp với họ, họ sẽ chủ động làm quen và kết giao với bạn.\n\nĐể có sức hút và dễ dàng gây sự chú ý với ISTP, bạn hãy:\n\n● <b>Tỏ ra thú vị.</b> Có sở thích riêng, có cá tính rõ ràng, am hiểu về một lĩnh vực nào đó hay có những hoạt động thú vị là những điểm cộng để thu hút ISTP.\n\nCác ISTP rất ưa tìm tòi và khám phá nên các hoạt động thú vị mang tính chất tìm hiểu sẽ thực sự hấp dẫn đối với họ.\n\n● <b>Chân thành và trung thực.</b> Là hai đức tính mà các ISTP đề cao.\n\nĐừng lo lắng hay bối rối, hãy cứ là chính bạn, các ISTP sẽ cảm nhận được.\n\n● <b>Tạo ra năng lượng vui vẻ.</b> ISTP là người lạc quan và rất năng động, họ có xu hướng kết thân và biết ơn mọi người xung quanh có thể cùng họ làm những điều thú vị, mang đến năng lượng tích cực để họ có thể thỏa sức sáng tạo.\n\n● <b>Mang phong thái tự tin.</b> ISTP thích những người tự tin, ổn định về mặt cảm xúc và đáng tin cậy.\n\nHọ muốn biết sự quan tâm của bạn dành cho họ không phải là vì lợi ích cá nhân và bạn không phải là người mỏng manh.\n\nĐiều này sẽ giúp họ cảm thấy thoải mái khi ở bên bạn, đây là bước khởi đầu tuyệt vời để làm quen với ISTP.\n\nTóm lại, để làm thân với ISTP không khó, hãy luôn tôn trọng đời sống riêng tư của họ.\n\nDù có là người yêu của nhau thì cũng đừng quá bận tâm đến những ngày kỷ niệm, nếu bạn đủ quan trọng, ISTP chắc chắn sẽ nhớ."
+                        },
+                    ],
+                },
+                {
+                    "section": "Con đường sự nghiệp",
+                    "items": [
+                        {
+                            "content": "Nhóm tính cách ISTP là những người bí ẩn và khá khó đoán, nhất là trong việc lựa chọn cho sự nghiệp.\n\nVốn có tính cách linh hoạt và không dễ đoán trước, các ISTP không bao giờ đặt câu hỏi “kế hoạch của hôm nay là gì nhỉ?” mà họ thích “tới đâu hay tới đó“.\n\nCác ISTP bẩm sinh đã giỏi giải quyết vấn đề tập trung vào các khía cạnh thực tiễn.\n\nHọ thích chứng kiến cách mọi thứ xung quanh vận hành, cách người ta sử dụng các công cụ, cách người ta tìm ra sự thật để làm sáng tỏ một vấn đề nào đó.\n\nTính tò mò, ưa tìm hiểu, thích tìm tòi sẽ giúp các ISTP phù hợp với những công việc như cơ khí, kỹ sư, thiết kế đồ họa hoặc pháp y."
+                        },
+                        {
+                            "title": "Đặt trọng tâm vào sự thực tiễn",
+                            "content": "“Tính thực tiễn” là kim chỉ nam của nhóm tính cách ISTP trong công việc, nhưng họ lại không muốn giám sát mọi thứ dựa trên tinh thần thực tiễn, cứng nhắc mà thích sự đa dạng, linh hoạt.\n\nNhững môi trường làm việc được phân tầng kiến trúc từ thấp tới cao dễ làm các ISTP nhàm chán.\n\nNgược lại, những công việc tập trung vào việc đối phó trực tiếp với vấn đề quan trọng như lính cứu hỏa, nhân viên y tế, thám tử, phi công và cảnh sát dường như sinh ra dành cho những Nhà kỹ thuật.\n\nĐiều tối quan trọng trong việc lựa chọn nghề nghiệp đối với các ISTP là sự tự do.\n\nHọ muốn được tự do đi lại, được tự do làm những gì mình muốn và chịu trách nhiệm với chính bản thân mình.\n\nDo vậy, những người thuộc tính cách này sẽ không hợp với những công việc mang hơi hướm truyền thống nhưng lại là phẩm chất phù hợp trong lĩnh vực kinh doanh.\n\nGần như tất cả các kỹ năng hoặc sở thích liên quan tới óc sáng tạo đều có thể trở thành cơ sở để theo đuổi các công việc như freelance hoặc làm chủ doanh nghiệp, chủ blog, nhà phân tích hệ thống, vận động viên, bán đồ thủ công hoặc làm tài xế.\n\nNhững Nhà kỹ thuật cần cải thiện điểm yếu sống không theo kế hoạch của mình để chuẩn bị cho những gì sắp xảy tới trong tương lai.\n\nHọ cũng nên học cách sắp xếp ưu tiên những công việc quan trọng để xử lý trước tiên.\n\nNhững người thuộc nhóm tính cách ISTP có kỹ năng giải quyết vấn đề bẩm sinh, họ có đủ tự tin và biết tập trung vào kết quả cuối cùng.\n\nHọ cũng hiểu được trong công việc rủi ro có thể ập tới bất cứ lúc nào, nhưng nếu họ biết khắc phục tốt thì kết quả để lại sẽ là một thành tựu ngọt ngào."
+                        },
+                        {
+                            "title": "Những nghề nghiệp phù hợp",
+                            "content": "Với sự tò mò, ham học hỏi, ham tìm tòi, thích áp dụng lý thuyết vào thực tiễn, vì vậy họ đặc biệt phù hợp với những ngành nghề liên quan tới thực hành như kỹ sư, kiến trúc sư, nhà thiết kế thời trang, pháp y, nhà khoa học, thợ sửa máy, các ngành nghề liên quan tới sáng tạo, v.vv..\n\nMôi trường làm việc lý tưởng của các ISTP là nơi họ được tự do làm theo cách của mình, được bày tỏ quan điểm và ý kiến, được lắng nghe và phản hồi.\n\nNhững người thuộc nhóm tính cách ISTP có kỹ năng xử lý tình huống tốt, khi đối mặt với một nan đề nào đó, họ không dễ dàng bị dao động hay rơi vào trạng thái hoảng loạn.\n\nCác ISTP trước tiên sẽ tập trung giải quyết vấn đề, sau đó mới quay lại bóc tách nguyên nhân và hướng khắc phục lâu dài.\n\nMột số nghề nghiệp phù hợp với khía cạnh tính cách này của các ISTP là lính cứu hỏa, nhân viên cứu hộ, thám tử, phi công, v.vv..\n\nDù không thích bị bó buộc trong một môi trường cố định nhưng không có nghĩa là các ISTP là những người “đứng núi này trông núi nọ”.\n\nTrong công việc, họ có thể cam kết thời gian gắn bó lâu dài miễn là môi trường ấy đáp ứng được các nhu cầu và nguyện vọng của họ.\n\nDưới đây là các công việc phù hợp với ISTP:\n\n● Pháp y\n\n● Cảnh sát/Thám tử\n\n● Kỹ sư\n\n● Nhà thiết kế thời trang/Thiết kế nội thất/kiến trúc sư\n\n● Lập trình viên/Chuyên gia phân tích hệ thống/Chuyên gia máy tính\n\n● Phi công/Tài xế/Vận động viên đua xe\n\n● Nhà thầu khoán\n\n● Vận động viên\n\n● Lính cứu hỏa"
+                        },
+                    ]
+                },
+                {
+                    "section": "Thói quen nơi công sở",
+                    "items": [
+                        {
+                            "content": "Ở nơi làm việc, các ISTP là những người bí ẩn và khó đoán, điều này khiến mối quan hệ của những người thuộc nhóm tính cách ISTP rơi vào bế tắc, kể cả đối với những người thân quen như bạn bè hoặc người nhà chứ chưa nói tới những đồng nghiệp mà các ISTP làm việc cùng tại công ty.\n\nTuy nhiên, chỉ cần cho họ không gian và thời gian thì các ISTP có thể xử lý các đầu việc rất nhanh và hiệu quả.\n\nNgược lại, việc thúc ép các ISTP đi theo khuôn mẫu không phù hợp sẽ làm lãng phí tài năng và ảnh hưởng tiêu cực tới kết quả công việc."
+                        },
+                        {
+                            "title": "ISTP khi là nhân viên",
+                            "content": 'Những Nhà kỹ thuật chỉ mong muốn có một không gian nho nhỏ cho riêng mình.\n\nNhờ tính cách thân thiện, dễ gần, các ISTP là những nhân viên vô cùng trung thành với điều kiện cấp trên không đưa xuống những “nhiệm vụ bất khả thi” vượt ra khỏi tầm với của họ.\n\nNgoài ra, những người thuộc nhóm tính cách ISTP cũng rất dễ nhàm chán khi phải làm việc trong môi trường tù túng, đơn điệu. Họ cũng sẽ trở nên khá ương ngạnh nếu bị buộc thay đổi thói quen và phương pháp làm việc vốn có của mình.\n\nNgược lại, các ISTP sẽ vô cùng hạnh phúc nếu ngẫu nhiên được giao cho một danh sách công việc cần xử lý, họ sẽ dành tất cả năng lượng và thời gian để hoàn thành một cách hoàn hảo nhất có thể.'
+                        },
+                        {
+                            "title": "ISTP khi là đồng nghiệp",
+                            "content": "Các ISTP được đồng nghiệp quý mến hơn cả mong đợi.\n\nLà người có tính cách trầm lắng và khá dè dặt, Nhà kỹ thuật thường nép mình trong không gian riêng, nhưng đồng thời họ cũng rất tò mò muốn biết những người xung quanh đang làm gì.\n\nNhược điểm của họ khi làm việc là quá thẳng thắn, điều đó có thể dẫn đến những hiểu lầm không đáng có với đồng nghiệp.\n\nTuy nhiên, khiếu hài hước lại là một điểm mạnh của các ISTP giúp họ có thể dễ dàng hạn chế phát sinh xung đột ở công ty hoặc xoa dịu các cuộc cãi vã giữa đồng nghiệp."
+                        },
+                        {
+                            "title": "ISTP khi là cấp trên",
+                            "content": "Hạn chế giao tiếp và vượt quá giới hạn là cách mà các cấp trên ISTP quản lý nhân viên của mình, và đổi lại họ cũng muốn được đối xử theo cách tương tự. Nhân viên của những Nhà kỹ thuật có thể nghĩ sếp mình là một người lạnh lùng khó gần vì họ ít nói và ít thể hiện cảm xúc. Nhưng sự thật lại ngược lại, các ISTP ít khi đưa ra lời phê bình dù là khen ngợi hay chỉ trích, nhưng khi xảy ra vấn đề thì họ lại luôn lắng nghe và đưa ra lời khuyên, giải pháp thiết thực một cách công bằng và vô tư."
+                        },
+                    ]
+                },
+                {
+                    "section": "So sánh ISTP với ISTJ, ESTP",
+                    "items": [
+                        {
+                            "content": "Khi so sánh ISTP (Nhà kỹ thuật) với những nhóm tính cách khác có sự tương đồng (E<b>STP</b> - Người thực thi, <b>IST</b>J - Người trách nhiệm), bạn sẽ hiểu rõ hơn về đặc tính của nhóm ISTP."
+                        },
+                        {
+                            "title": "Điểm giống nhau",
+                            "content": 'T - Lý trí và S - Giác quan: Cả ba nhóm tính cách này đều là những người lý trí, tập trung vào những gì mình quan sát được bằng giác quan.\n\nHọ thường đưa ra quyết định dựa trên góc nhìn thực tế và sự logic.\n\nKhi đối chiếu ISTP với từng nhóm ESTP, ISTJ, chúng tôi nhận thấy giữa mỗi cặp sẽ có những điểm chung riêng như sau:\n\n● ISTP và ESTP: Đều là người trân trọng những kinh nghiệm lẫn trải nghiệm mà họ từng đi qua.\n\nVới ISTP và ESTP, bạn chỉ sống một lần, do đó hãy sống hết mình để khi về già sẽ không có gì phải hối tiếc.\n\n● ISTP và ISTJ: Cả hai nhóm tính cách này đều có xu hướng hướng nội, lý trí và tập trung vào những gì mình quan sát được bằng giác quan bao gồm thính giác, khứu giác, thị giác, vị giác và xúc giác.',
+                        },
+                        {
+                            "title": "Điểm khác nhau",
+                            "content": "Thoáng qua có thể thấy cả ba nhóm tính cách ISTP, ESTP và ISTJ có nhiều nét tương đồng, nhưng sự chênh lệch về một ký tự trong nhóm tính cách cũng khiến họ hoàn toàn đối nghịch nhau. Cụ thể:" 
+                        },
+                    ],
+                    "tables": [
+                        {
+                            "headers": ["Đặc điểm", "ESTP", "ISTP", "ISTJ"],
+                            "rows": [
+                                ["Diễn giải chữ viết tắt", "<b>E - Hướng ngoại</b><br>S - Giác quan<br>T - Lý trí<br>P - Linh hoạt", "<b>I - Hướng nội</b><br>S - Giác quan<br>T - Lý trí<br><b>P - Linh hoạt</b>", "I - Hướng nội<br>S - Giác quan<br>T - Lý trí<br><b>J - Nguyên tắc</b>"],
+                                ["Cách tiếp cận thông tin", "Tiếp cận thông tin một cách linh hoạt nhưng vẫn dựa vào các số liệu và đo lường chính xác dựa trên 5 giác quan", "Dựa trên lý lẽ và sự logic, từ trải nghiệm mà họ tự trải qua", "Chú trọng vào thông tin thực tế, sự phân tích dựa trên nhiều góc độ"],
+                                ["Trong các mối quan hệ", "- Hướng ngoại, dễ kết thân nhưng không sâu sắc<br>- Bên ngoài có khiếu hài hước nhưng bên trong họ là người thực tế và tin vào lợi ích. Do đó, họ sẽ rất phũ hay hành động dứt khoát với những ai làm họ tổn thương", "- Hướng tới sự độc lập, ISTP không mấy mặn mà với những mối quan hệ gắn bó<br>- Tuy nhiên, ISTP cũng là một người rất lý trí trong các mối quan hệ. Nếu mối quan hệ làm họ cảm thấy hứng thú và xứng đáng thì các ISTP sẽ không ngừng vun đắp và hy sinh để giữ gìn. Ngược lại, nếu họ cảm thấy đó là một mối quan hệ vô nghĩa không đi tới đâu thì các ISTP chọn cách bỏ qua và tìm kiếm mối quan hệ mới phù hợp hơn.", "- Trong các mối quan hệ, ISTJ thường không hay thể hiện tình cảm<br>- Họ không giỏi khen ngợi, cũng không lên tiếng trong các buổi tụ họp nhưng với sự trưởng thành, ISTJ chắc chắn sẽ là những người đáng tin cậy, thấu hiểu và đồng cảm với bạn"],
+                                ["Trong công việc", "- ESTP có khả năng suy nghĩ, phản ứng và quyết định nhanh chóng, do đó người thuộc nhóm tính cách này phù hợp với các công việc trong lĩnh vực kinh doanh như bán hàng, đàm phán kinh doanh, tiếp thị, thậm chí là diễn xuất<br>- Xu hướng thích những công việc thiếu ổn định nhưng thú vị thay vì công việc an toàn nhưng nhàm chán", "- ISTP hướng tới sự linh hoạt, nên việc tuân theo nguyên tắc là điều họ không mong muốn<br>- Thay vì quan tâm đến ánh nhìn của người khác, ISTP tôn trọng cái tôi của mình, họ sẽ tự quyết định thay vì làm những việc mà người khác yêu cầu, đặc biệt là những việc mà nhóm Nhà kỹ thuật này không thích<br>- Phù hợp với những công việc như cơ khí, kỹ sư, thiết kế đồ họa hoặc pháp y", "- Là những người vô cùng tuân thủ theo nguyên tắc<br>- ISTJ hướng tới những giá trị của tập thể nên dù là việc mình không thích thì họ cũng sẽ nhẫn nại làm và coi đó là việc phải làm"]
+                            ]
+                        }
+                    ],
+                    "content": "Cả ba nhóm ISTP, ESTP và ISTJ đều hướng tới sự logic, họ thường đưa ra những quyết định dựa trên lý trí và sử dụng giác quan để phân tích với nhiều góc độ.\n\nCùng có nét tương đồng là thế, nhưng ISTP lại rất linh hoạt với những quy tắc ngầm. Trong khi với những người thuộc nhóm tính cách ESTP, thế giới bên ngoài mới là thế giới thực. Trái ngược với tính cách I - Hướng nội luôn đắm mình trong thế giới nội tâm của ISTJ.\n\nSự đa dạng trong tính cách sẽ giúp bạn hiểu thế nào là quy luật của cuộc sống. Trong chúng ta, không ai là hoàn hảo, ai cũng sẽ có ưu và nhược, nhưng cũng vì thế mà cuộc sống này trở nên đa dạng màu sắc hơn. Chính vì vậy đừng ngần ngại kết giao với một ai đó trong 15 nhóm tính cách ngoài kia nhé." 
+                },
+                {
+                    "section": "Lời khuyên dành cho ISTP",
+                    "items": [
+                        {
+                            "content": "Ai có được người bạn như bạn thật sự là một may mắn. Bởi vì bạn là người khá thú vị và hài hước, lại không kiểm soát hay phụ thuộc vào bất kỳ ai. Nhưng đừng vì tính cách độc lập trong con người bạn mà quên đi những lưu ý sau:"
+                        },
+                        {
+                            "title": "Nuôi dưỡng sức mạnh",
+                            "content": "Khuyến khích khả năng nghệ thuật tự nhiên và sự sáng tạo của bạn. Nhưng hãy tập trung nuôi dưỡng tinh thần của bạn và tìm cho mình cơ hội để giúp đỡ những người gặp khó khăn hoặc có hoàn cảnh khó khăn."
+                        },
+                        {
+                            "title": "Đối mặt với điểm yếu",
+                            "content": 'Nhận ra và chấp nhận rằng một số đặc điểm là điểm mạnh và một số là điểm yếu chính là đang cho bản thân nhiều cơ hội để rèn luyện khả năng của chính mình. Đối mặt và giải quyết những điểm yếu không có nghĩa là bạn phải thay đổi con người thật, mà là bạn muốn trở thành người giỏi nhất có thể. Hay trải nghiệm những hoạt động mới, gặp gỡ những con người có quan điểm mới. Đừng tự cô lập mình trong một cuộc sống chật hẹp và cô đơn.',
+                        },
+                        {
+                            "title": "Học cách bày tỏ cảm xúc",
+                            "content": "Đừng để những cảm xúc không được bộc lộ tích tụ trong bạn. Nếu bạn có những cảm xúc không mấy hài lòng, hãy lựa chọn thời điểm thích hợp và bày tỏ chúng. Đừng để những cảm xúc tiêu cực tích tụ trong bạn đến mức không thể kiểm soát được.\n\nHãy lắng nghe mọi thứ. Cố gắng không loại bỏ bất cứ điều gì dù đó là chủ đề yêu thích hay không thích. Hãy kiên nhẫn lắng nghe và quan sát, sau đó đưa ra phán xét. Thảo luận về ý tưởng và nhận thức của bạn với người khác sẽ giúp bạn phát triển khả năng cảm nhận, phát triển sự hiểu biết của bạn về thế giới."
+                        },
+                        {
+                            "title": "Mỉm cười trước những lời chỉ trích",
+                            "content": "Hãy nhớ rằng không phải lúc nào mọi người cũng hiểu ý hay hài lòng về bạn, ngay cả khi họ đánh giá cao bạn. Hãy cố gắng xem sự bất đồng và chỉ trích là cơ hội để phát triển. Trên thực tế, nó chính xác là như vậy."
+                        },
+                        {
+                            "title": "Hãy ý thức về người khác",
+                            "content": "Hãy nhớ rằng ngoài kia còn có 15 loại tính cách khác, mỗi một tính cách sẽ có cái nhìn khác với bạn. Cố gắng xác định thực sự mọi người đến từ đâu, ý tưởng, suy nghĩ và ưu tiên của họ là gì? Họ có cái gì để cung cấp và trao đổi giá trị cho bạn? Hãy cố gắng xác định tính cách và hiểu quan điểm của họ."
                         }
                     ]
                 },
