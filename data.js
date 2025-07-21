@@ -416,7 +416,7 @@ export const mbtiData = {
                     "content": "ISTJ, ISFJ và ESTJ đều là tuýp người nguyên tắc và coi trọng sự ổn định.\n\nTuy nhiên, cách họ tiếp cận thông tin và đưa ra quyết định lại có sự khác biệt.\n\nTrong khi ISTJ luôn cẩn thận, từng bước đi phải có sự chắc chắn, quyết định mọi thứ dựa trên sự logic,\n\nISFJ với khả năng quan sát và tổ chức ra quyết định dựa trên cảm xúc\n\nthì ESTJ ra quyết định dựa trên thông tin thực tiễn, có tầm nhìn xa trông rộng cùng khả năng hòa nhập và thích nghi nhanh.\n\nKhác nhau từ cách tiếp cận thông tin nên ba nhóm tính cách có cái nhìn nhận về cuộc sống và con người khác nhau, từ đó có những hướng đi riêng, tạo nên một cuộc sống muôn màu."
                 },
                 {
-                    "section": "Lời khuyên dành cho ISFP",
+                    "section": "Lời khuyên dành cho ISTJ",
                     "items": [
                         {
                             "content": "Được biết đến là người con ngoan trong gia đình, trò giỏi khi ở trường, nhân viên gương mẫu khi đi làm, ISTJ là điển hình của kiểu thanh niên nghiêm túc. Tuy nhiên, để thành công trong cả công việc và cuộc sống thì các ISTJ vẫn cần phải nỗ lực rất nhiều để cải thiện những hạn chế của bản thân. Dưới đây là một số lời khuyên của chúng tôi dành cho các ISTJ. Cụ thể:"
@@ -700,6 +700,278 @@ export const mbtiData = {
                         {
                             "title": "Xây dựng kế hoạch cho tương lai",
                             "content": "ISFP thích tận hưởng cuộc sống hiện tại, họ thường không lo lắng quá nhiều cho tương lai.\n\nThậm chí, ISFP còn có xu hướng né tránh các kế hoạch hỗ trợ cho tương lai vì lo lắng chúng sẽ ảnh hưởng đến cuộc sống yên bình mà họ đã và đang gây dựng.\n\nTuy nhiên, khi chỉ tập trung vào những điều có được ở hiện tại, ISFP có thể bỏ lỡ các cơ hội trong tương lai.\n\nISFP cần xây dựng kế hoạch tài chính dài hạn để tránh rơi vào tình huống khó khăn trong tương lai.\n\nNgoài ra, khi ra quyết định, ISFP cũng cần cân nhắc mức độ ảnh hưởng, tránh đặt bản thân vào những hoàn cảnh éo le bởi các quyết định ở hiện tại."
+                        },
+                    ]
+                },
+            ]
+        },
+        {
+            "code": "INFP",
+            "name": "Người lý tưởng hóa",
+            "description": "Các INFP khá điềm tĩnh, thậm chí có phần nhút nhát và cả nể, rất ngại từ chối người khác. Tuy vậy, ẩn sâu bên trong họ là một tâm hồn nồng nhiệt và đam mê bất diệt. Các INFP sống có lý tưởng, có mục đích, họ biết mình cần gì, muốn gì và nên làm gì. Chủ nghĩa cá nhân cũng là một đặc điểm nổi bật ở những người thuộc nhóm tính cách INFP.",
+            "image": "./img/infp.png",
+            "details": [
+                {
+                    "section": "Tổng quan",
+                    "items": [
+                        {
+                            "content": "Các <b>INFP (Người lý tưởng hóa)</b> khá điềm tĩnh, thậm chí có phần nhút nhát và cả nể, rất ngại từ chối người khác. Tuy vậy, ẩn sâu bên trong họ là một tâm hồn nồng nhiệt và đam mê bất diệt. Các INFP sống có lý tưởng, có mục đích, họ biết mình cần gì, muốn gì và nên làm gì. Chủ nghĩa cá nhân cũng là một đặc điểm nổi bật ở những người thuộc nhóm tính cách INFP."
+                        },
+                        {
+                            "title": "INFP là viết tắt của những chữ cái gì?",
+                            "content": "● <b>I - Hướng nội:</b> Đối với những người thuộc nhóm tính cách INFP, thế giới ẩn sâu bên trong mỗi chúng ta mới là thế giới thật.\n\nNgược lại, thế giới bên ngoài là nơi thuộc về những người E - Hướng ngoại.\n\n● <b>N - Trực giác:</b> Bạn tập trung vào ý nghĩa của sự vật, sự việc, khác với những người có tính cách S - Giác quan sử dụng cả năm giác quan thị giác, thính giác, khứu giác, vị giác, cảm giác để nhìn nhận và đánh giá.\n\n● <b>F - Cảm xúc:</b> Bạn đưa ra quyết định chủ yếu dựa trên cảm nhận cá nhân.\n\nNgược lại, những người có tính cách T - Lý trí lại đưa ra quyết định dựa vào số liệu và đo lường chính xác.\n\n● <b>P - Linh hoạt:</b> Bạn thỏa thích vẫy vùng trong thế giới của riêng mình với những quy tắc ngầm được bạn tự tay sắp xếp.\n\nTrái lại, những người thuộc nhóm J - Nguyên tắc lại cảm thấy ổn khi được áp cho những luật lệ được sắp đặt sẵn."
+                        },
+                        {
+                            "title": "Khai thác tiềm năng vấn đề",
+                            "content": "Những người thuộc nhóm tính cách INFP mong muốn xây dựng cuộc sống tốt đẹp hơn cho bản thân và những người xung quanh.\n\nTôn chỉ của họ là tìm ra ý nghĩa của cuộc sống.\n\nMục đích sống của chúng ta là gì?\n\nTại sao chúng ta lại coi đó là mục đích sống?\n\nINFP là những người có tính trực giác cao, và họ gần như hoàn toàn dựa vào trực giác để kết luận về một sự vật, sự việc nào đó.\n\nVới mỗi điều họ làm, mỗi người họ tiếp xúc, các INFP đều đánh giá xem điều mà họ nhận lại được là gì, có khả năng giúp họ tìm ra giá trị của bản thân hay không?"
+                        },
+                        {
+                            "title": "Ân cần và chu đáo",
+                            "content": "INFP là những người ân cần và chu đáo, họ rất giỏi lắng nghe và an ủi người khác mặc dù bản thân các INFP không quá giỏi trong việc thể hiện cảm xúc. Tuy vậy, những người xung quanh có thể cảm nhận được và trân trọng tình cảm mà các INFP dành cho mình."
+                        },
+                        {
+                            "title": "Hạn chế xung đột",
+                            "content": "INFP không thích và thường cố hết sức để tránh những cuộc xung đột.\n\nNếu các INFP rơi vào một cuộc cãi vã nào đó thì họ sẽ không bận tâm ai đúng ai sai, quan trọng là vấn đề đó ảnh hưởng tới tâm trạng của họ như thế nào.\n\nĐiều đó khiến các INFP thường bị coi là vô lý và phi logic trong một số tình huống gây tranh cãi, đôi khi họ có phần hơi ngoan cố.\n\nMặt khác, các INFP cũng rất giỏi trong việc hòa giải tranh cãi, bởi họ biết đặt mình vào vị trí của người khác để suy nghĩ.\n\nINFP không thích đối mặt với những vấn đề rắc rối hay đòi hỏi phải suy nghĩ quá nhiều.\n\nHọ cũng không tin vào những đánh giá mang tính khách quan vì bản thân họ chỉ đưa ra những ý kiến trực quan dựa vào cảm xúc.\n\nDo đó, về lâu về dài khả năng đưa ra nhận định logic của các INFP bị hao mòn, đặc biệt khi họ đang tức giận, mất định hướng và chỉ muốn “xả hết nỗi lòng” thông qua cảm xúc cá nhân."
+                        },
+                        {
+                            "title": "Cương quyết với quan điểm chung",
+                            "content": "INFP là những người linh hoạt và khá dễ tính, trừ khi giá trị và niềm tin của họ bị đe dọa, khi đó họ có thể “bùng nổ” và sẵn sàng chiến đấu để bảo vệ sự nghiệp của mình. Sự nghiệp ở đây chúng ta có thể hiểu là những dự án hoặc vị trí công việc mà các INFP dành nhiều thời gian và tâm huyết để theo đuổi."
+                        },
+                        {
+                            "title": "Thích thì sẽ quan tâm hết mực",
+                            "content": "INFP hầu như chỉ bận tâm tới những gì họ yêu thích. Ví dụ như họ có thể không nhận thấy tấm thảm trải sàn đang có những vết ố bẩn hết sức chướng mắt, nhưng lại tỉ mẩn ngồi lau dọn tủ sách yêu quý của mình mỗi khi có thời gian."
+                        },
+                        {
+                            "title": "Tiêu chuẩn cao",
+                            "content": "INFP là những người có tiêu chuẩn cao và là những cá nhân theo chủ nghĩa hoàn hảo, họ cũng khắt khe với chính bản thân mình. Hậu quả là các INFP sẽ gặp nhiều rắc rối khi làm việc nhóm, bởi tiêu chuẩn của họ thường cao hơn tiêu chuẩn của người khác. Trong cuộc sống, những người thuộc nhóm tính cách INFP cũng cần nỗ lực rất nhiều để cân bằng tiêu chuẩn của họ với những gì họ thực sự làm được trong thực tế, nếu không họ sẽ chẳng bao giờ hài lòng với bản thân."
+                        },
+                        {
+                            "title": "Thiên tài viết lách",
+                            "content": "INFP là những thiên tài viết lách bẩm sinh. Họ không giỏi diễn đạt tình cảm, cảm xúc bằng lời nhưng lại rất tuyệt vời khi truyền tải thông điệp qua những con chữ."
+                        },
+                        {
+                            "title": "Sự nghiệp thăng hoa",
+                            "content": "INFP rất hợp với những công việc xã hội như tư vấn và giảng dạy, bởi mục tiêu quan trọng nhất mà họ hướng tới là đóng góp sức lực vào lợi ích chung của mọi người."
+                        },
+                        {
+                            "title": "Những người nổi tiếng mang tính cách INFP:",
+                            "content": "● William Shakespeare\n\n● Vincent Van Gogh\n\n● Johnny Depp\n\n● Tom Hiddleston\n\n● Andrew Garfield\n\n● Emily Blunt\n\n● Lee Seokmin - DK (SEVENTEEN)\n\n● Choi Seungcheol - S.COUPS (SEVENTEEN)\n\n● Moon Junhui - Jun (SEVENTEEN)"
+                        },
+                    ]
+                },
+                {
+                    "section": "Điểm mạnh và điểm yếu",
+                    "items": [
+                        {
+                            "title": "Điểm mạnh",
+                            "itemsChild": [
+                                {
+                                    "titleChild": "Đồng cảm",
+                                    "content": "Người lý tưởng hóa không chỉ quan tâm tới cảm xúc của người đối diện mà còn cảm nhận được niềm vui, nỗi buồn, hoặc khi ai đó đang cảm thấy có lỗi hay tiếc nuối. Vì vậy, những người thuộc nhóm tính cách INFP thường được đánh giá là thấu đáo, hiểu chuyện, nhân hậu và luôn hết lòng yêu thương mọi người.",
+                                },
+                                {
+                                    "titleChild": "Hào phóng",
+                                    "content": "Những người INFP không muốn tận hưởng chiến thắng được tạo ra bằng cố gắng của người khác, ngược lại, họ luôn muốn chia sẻ mọi điều tốt đẹp trong cuộc sống, giúp đỡ những người xung quanh. Họ hy vọng xây dựng nên một thế giới tốt đẹp nơi ý kiến của mọi người đều được lắng nghe và mọi ước nguyện đều sẽ trở thành sự thật.",
+                                },
+                                {
+                                    "titleChild": "Cởi mở",
+                                    "content": "Các INFP không đánh giá người khác dựa trên lối sống hay đức tin của người đó. Bên cạnh đó, những Người lý tưởng hóa cũng không phải người hay “vạch lá tìm sâu”, họ không quá bận tâm tới lỗi sai của người khác. Người lý tưởng hóa có khuynh hướng thân thiết với tất cả mọi người kể cả người lạ.",
+                                },
+                                {
+                                    "titleChild": "Sáng tạo",
+                                    "content": "Người lý tưởng hóa thích những thứ độc đáo, thích được thỏa thích liên tưởng và mơ mộng về những viễn cảnh sẽ xảy tới trong tương lai. Vì vậy, không ngạc nhiên khi một trong những nghề nghiệp phù hợp nhất với các INFP là tiểu thuyết gia hoặc nghệ sĩ.",
+                                },
+                                {
+                                    "titleChild": "Đam mê",
+                                    "content": "Khi bị thu hút bởi một ý tưởng nào đó, các INFP sẽ đặt cả tâm trí vào đó dù họ thường không thể hiện niềm đam mê mãnh liệt đó ra bên ngoài.",
+                                },
+                                {
+                                    "titleChild": "Lý tưởng hóa",
+                                    "content": "Những người thuộc nhóm tính cách INFP luôn cố gắng làm những điều họ cho là đúng đắn dù cho đôi khi như vậy là không dễ dàng gì. Họ luôn giữ vững niềm tin để xây dựng một cuộc sống tốt đẹp có ý nghĩa, có chủ đích.",
+                                },
+                            ],
+                        },
+                        {
+                            "title": "Điểm yếu",
+                            "itemsChild": [
+                                {
+                                    "titleChild": "Phi thực tế",
+                                    "content": "Trong cuộc sống không có gì hoàn hảo tuyệt đối và có vô số sự việc mà các INFP không muốn tin cũng phải tin. Rất nhiều người thuộc nhóm tính cách INFP luôn nhìn cuộc đời qua lăng kính màu hồng, điều đó khiến họ dễ rơi vào thất vọng nếu xuất hiện điều gì đó không được như ý nguyện.",
+                                },
+                                {
+                                    "titleChild": "Tự cô lập mình",
+                                    "content": "Người lý tưởng hóa muốn được kết giao với mọi người nhưng họ không biết phải làm sao, đặc biệt ở những môi trường mới. Việc phải miễn cưỡng làm quen với ai đó đôi khi sẽ phản tác dụng và khiến họ tự cô lập chính bản thân mình.",
+                                },
+                                {
+                                    "titleChild": "Thiếu tập trung",
+                                    "content": "Trí tưởng tượng phong phú của các INFP không phải bao giờ cũng mang lại hiệu quả. Họ nóng lòng bắt tay vào thực hiện nhiều ý tưởng cùng một lúc ngay lập tức nhưng lại không có đủ thời gian và sức lực, hậu quả là công việc thường xuyên bị dồn nén và bỏ dở giữa chừng.",
+                                },
+                                {
+                                    "titleChild": "Dễ tổn thương",
+                                    "content": "Những người thuộc nhóm tính cách INFP rất dễ đồng cảm với cảm xúc của người khác, tuy nhiên việc tiếp xúc nhiều với những người có suy nghĩ tiêu cực cũng sẽ khiến tâm trạng của các INFP đi xuống theo.",
+                                },
+                                {
+                                    "titleChild": "Luôn tìm cách làm hài lòng người khác",
+                                    "content": "Những Người lý tưởng hóa thường tìm cách né tránh các cuộc xung đột ở mức tối đa. Nếu ai đó có ý kiến ngược lại với quan điểm của họ, các INFP sẽ cố gắng hóa giải mâu thuẫn và thay đổi ý kiến của người đó. Tuy nhiên, việc suốt ngày phải đi làm hài lòng người khác sẽ khiến các INFP cảm thấy mệt mỏi về mặt tinh thần và hoài nghi về nhận thức, quan điểm của bản thân.",
+                                },
+                                {
+                                    "titleChild": "Tự trách",
+                                    "content": "Những Người lý tưởng hóa rất tự tin vào bản thân, đến mức đôi khi nếu không đạt được những điều mình kỳ vọng, họ sẽ nghĩ mình là người thất bại và kém cỏi. Về lâu dài, các INFP sẽ nản chí và từ bỏ những mơ ước đẹp đẽ nhất của mình.",
+                                }
+                            ],
+                        }
+                    ]
+                },
+                {
+                    "section": "Mối quan hệ",
+                    "items": [
+                        {
+                            "content": "Các INFP rất khó hiểu, ngay cả người bạn thân nhất của họ cũng thấy khó để thuyết phục các INFP cởi mở hơn và bộc lộ cảm xúc của mình.\n\nNhững Người lý tưởng hóa không quá bận tâm xem mình có bao nhiêu bạn, họ quan tâm việc bạn bè mình có toàn tâm toàn ý với mình không hơn.\n\nNhững người bạn INFP đặc biệt trung thành và sẵn sàng dang tay giúp đỡ bạn bè mình.\n\nHọ cũng giỏi trong việc phán đoán cảm xúc của người khác tuy nhiên lại hạn chế bộc lộ cảm xúc thật của mình tới mức tối đa, nhất là khi đối diện với những người không quá thân cận.\n\nCác INFP cũng không dễ dàng đặt niềm tin vào người khác, nhưng họ sẽ tuyệt đối tin tưởng bạn bè mình nếu hai người đã quen thân.\n\nCác INFP hòa hợp nhất với những người mang tính cách F (Cảm xúc).\n\nNgược lại, những người thiên về tính cách T (Lý trí) sẽ khiến các INFP cảm thấy bị xa cách còn những người thiên về tính cách J (Nguyên tắc) lại quá cứng nhắc.\n\nĐiều này không có nghĩa là INFP không thể kết bạn với những người có nhóm tính cách T và J, chỉ là quá trình kết giao sẽ diễn ra dài hơn và cần nhiều nỗ lực hơn từ cả hai phía.\n\nNhững người thuộc nhóm tính cách INFP luôn tỏ ra bình tĩnh và hòa nhã với những người xung quanh, họ khi nào cũng nhẹ nhàng, tình cảm, đơn giản và không có quá nhiều tham vọng.\n\nTuy nhiên ẩn sâu bên trong là những xúc cảm mạnh mẽ và sâu lắng trong các mối quan hệ.\n\nLà một người “hướng nội toàn thời gian”, họ âm thầm chăm sóc, quan tâm tới những người xung quanh bằng chính những hành động nhỏ bé thường ngày.\n\nCác INFP đánh giá cao sự sâu sắc và thấu hiểu trong các mối quan hệ, cũng như rất quý trọng những người sẵn sàng chấp nhận quan điểm và suy nghĩ của họ.\n\nCác INFP cũng là những người rất hòa đồng và dễ cảm thông, trừ khi các nguyên tắc sống của họ bị đe dọa hoặc coi thường.\n\nKhi ấy, họ có thể làm ra nhiều hành động có phần quá phận để bảo vệ quan điểm của mình."
+                        },
+                        {
+                            "title": "INFP trong tình yêu",
+                            "itemsChild": [
+                                {
+                                    "content": "INFP là những người mơ mộng và lý tưởng hóa, đặc biệt là trong tình yêu, vì họ tin vào sức mạnh của tình yêu đích thực.\n\nCông bằng mà nói, những người thuộc nhóm tính cách INFP đón nhận tình yêu với biết bao sự mong đợi.\n\nHọ có thể dành cả ngày để suy tư về một mối quan hệ yêu đương hoàn hảo, nghĩ về cảm giác vui thích khi được chia sẻ mọi thứ trong cuộc sống của mình với một ai đó.\n\nVì vậy, khi phải đối diện với hiện thực tàn khốc trong tình yêu, họ sẽ bị hoang mang tột độ và tự hỏi rằng <i>“Có phải mình cần nhìn nhận lại và thay đổi bản thân thì mới tìm được người thương hay không?”</i>",
+                                },
+                                {
+                                    "titleChild": "Tìm kiếm tình yêu qua lăng kính màu hồng",
+                                    "content": "Các INFP không chỉ tìm kiếm một người để yêu, họ muốn một người bạn đời tâm giao.\n\nNgười lý tưởng hóa có tính cách cởi mở và sẵn sàng hẹn hò với tất cả mọi người, họ không quan tâm quá nhiều tới những khía cạnh như ngoại hình, địa vị xã hội, giàu nghèo, điều họ quan tâm là sự hòa hợp về mặt tâm hồn.\n\n<i>“Những người thuộc nhóm tính cách INFP tin rằng việc hai tâm hồn đồng điệu tới với nhau sẽ khiến cuộc sống trở nên tốt đẹp hơn nhiều lần.”</i>\n\nTuy nhiên nếu bạn nghĩ rằng các INFP không có tiêu chuẩn bạn đời cho riêng mình thì bạn đã lầm.\n\nLà người có trí tưởng tượng phong phú, các INFP có thể xây dựng hình mẫu lý tưởng của mình dựa trên một cuốn tiểu thuyết yêu thích hoặc một người mà họ biết, hoặc đơn giản là dựa trên kiểu tình yêu tiêu chuẩn được miêu tả trong sách vở.\n\nKhi làm quen với ai đó, các INFP sẽ so sánh người đó với hình mẫu lý tưởng của mình và khiến nhiều “ứng cử viên” sáng giá bị loại, bởi vậy, khả năng họ tìm được một người bạn đời như ý gần như bằng 0.",
+                                },
+                                {
+                                    "titleChild": "Nỗ lực trong tình yêu",
+                                    "content": "Về lâu dài, các INFP sẽ nhận ra tình yêu đích thực sẽ không tự nhiên mà tới, bởi đó là sự nỗ lực trong việc thấu hiểu lẫn nhau từ cả hai phía.\n\nKhông có ai là hoàn hảo, cũng như ngay cả tình yêu đẹp nhất cũng cần trải qua muôn vàn thử thách.\n\nTuy vậy, thật may mắn rằng những Người lý tưởng hóa vẫn có thể tìm được niềm hạnh phúc trong nỗ lực cải thiện mối quan hệ của hai người.\n\nKhi yêu, các INFP sẽ thể hiện sự nhiệt huyết của mình một cách thầm lặng.\n\nHọ tôn trọng quyết định và sở thích của nửa kia và chấp nhận con người thật sự của người mình yêu.\n\nSong song với đó, họ vẫn sẽ giúp bạn đời của mình học tập, phát triển bản thân và đạt được những mục tiêu xa hơn.\n\nNhững Người lý tưởng hóa luôn muốn hoàn thiện bản thân và góp phần xây dựng một thế giới tốt đẹp hơn để nửa kia của họ luôn được vui vẻ, hạnh phúc.\n\n<i>“Những người thuộc nhóm INFP luôn cố gắng thấu hiểu và tạo ra những niềm vui nho nhỏ bất ngờ cho người yêu của mình.”</i>\n\nCác INFP luôn tìm cách để người mình yêu được sống trong tình yêu thương, vì vậy họ đặt mục tiêu cho chính bản thân mình và đảm bảo người bạn đời luôn sẵn sàng cho mọi sự thay đổi.\n\nViệc thấu hiểu và nhiệt thành của những Người lý tưởng hóa giúp mối quan hệ giữa hai người không chỉ dừng lại ở mặt tình cảm mà còn là sự đồng điệu trong tâm hồn và lối sống.",
+                                },
+                                {
+                                    "titleChild": "Tìm kiếm giá trị thực sự",
+                                    "content": "Những người thuộc nhóm tính cách INFP luôn tìm cách hóa giải mâu thuẫn, dĩ hòa vi quý, tuy vậy, tính cách đó lại mang lại đến cho họ khá nhiều vấn đề nan giải.\n\nCác INFP hạn chế đề cập tới những điều mình không thích và họ cũng né tránh các cuộc tranh luận mặc dù đang ở giai đoạn bất đồng ý kiến, bởi họ thích giải quyết theo cách của mình hơn.\n\nĐiều đó khiến cốt lõi của vấn đề mãi không được giải quyết, lâu ngày trở thành cái gai trong mắt người đối diện.\n\nNhững người thuộc nhóm tính cách INFP nên học cách mở lòng và giao tiếp nhiều hơn khi yêu để hai trái tim hòa cùng nhịp đập, để hai người thực sự hiểu nhau hơn nữa và tìm được ý nghĩa thực sự của tình yêu.",
+                                }
+                            ],
+                        },
+                        {
+                            "title": "INFP trong tình bạn",
+                            "itemsChild": [
+                                {
+                                    "content": "Khi phải kết giao bạn bè, những người thuộc nhóm tính cách INFP sẽ cảm thấy bị choáng ngợp và mâu thuẫn với chính bản thân mình.\n\nHọ là những người thích một mình nhưng lại sợ cô đơn.\n\nHọ muốn được yêu thương nhưng cũng không muốn miễn cưỡng giả vờ tương tác với ai.\n\nHọ không muốn được chú ý nhưng cũng không muốn làm người vô hình.\n\nMay mắn thay, đối với những người bạn thân thiết, các INFP có thể bước ra khỏi vòng an toàn của mình và làm những gì mình muốn.\n\nĐối với họ, tình bạn là viên kim cương quý giá, là cơ hội để hai người cùng nâng đỡ nhau và xây dựng cuộc sống tốt đẹp hơn.\n\nNhững người thuộc nhóm tính cách INFP tin rằng “Người bạn bên ta những lúc khó khăn là những người bạn thực sự”.\n\nCác INFP thường không có nhiều bạn bè, nhưng đối với họ chất lượng luôn hơn số lượng, và họ dành rất nhiều thời gian và công sức để xây dựng tình bạn của mình, vì vậy tình cảm giữa họ có thể kéo dài rất lâu về sau.",
+                                },
+                                {
+                                    "titleChild": "Kiếm tìm một tâm hồn đồng điệu",
+                                    "content": "Mặc dù các INFP là những người bạn ấm áp nhưng họ cũng không giỏi kết giao, hay nói đúng hơn là không thích những mối quan hệ hời hợt không đi tới đâu.\n\nHọ mong muốn có những người bạn tốt thật sự, những người sẵn sàng chia sẻ suy nghĩ và cảm xúc, sẵn sàng cùng họ xây dựng một thế giới tốt đẹp hơn.\n\n<i>“Khi ở cùng với những người có tâm hồn đồng điệu, các INFP cảm thấy họ được chấp nhận, được thấu hiểu và hạnh phúc khi được là chính mình.”</i>\n\nNhững Người lý tưởng hóa có thể làm bạn với tất cả mọi người, bởi họ đánh giá người khác dựa vào nhiều khía cạnh và góc nhìn, thấu hiểu họ theo cách khách quan nhất.\n\nCũng vì lẽ đó, các INFP cảm thấy họ rất hòa hợp với những người có ít điểm chung với mình.\n\nĐối với những người thuộc nhóm tính cách INFP, một người bạn thực sự không chỉ chia sẻ kinh nghiệm sống mà còn chia sẻ những giá trị cốt lõi của bản thân.\n\nHọ không kết bạn nếu chỉ vì thấy “tiện đường”.\n\nVí dụ, ở nơi làm việc, nếu một INFP có quan hệ tốt với một người đồng nghiệp thì hai người vẫn cần giao lưu nhiều hơn ngoài môi trường văn phòng làm việc thì mới có thể trở nên thân thiết và đủ để trở thành những người bạn tốt.",
+                                },
+                                {
+                                    "titleChild": "Tình bạn cả đời",
+                                    "content": "Các INFP thường âm thầm (hoặc không) hy vọng rằng tình bạn của họ sẽ kéo dài mãi mãi.\n\nNhững Người lý tưởng hóa hoàn toàn có khả năng xây dựng và bồi dưỡng lên những tình bạn lâu dài, bền chặt bằng đam mê nồng cháy, những trò đùa dí dỏm hoặc đơn giản là việc thấu hiểu người đối diện.\n\nĐể duy trì tình bạn bền chặt lâu dài thì các INFP cũng đã phải bộc lộ một vài khía cạnh ẩn sâu trong mình, như việc phá bỏ rào cản hướng nội để quyết liệt đứng lên bảo vệ người bạn của mình trước những tình huống bất lợi.\n\nMặc dù các INFP rất trân trọng những người bạn của mình, họ cũng cần những khoảng thời gian riêng tư để “sạc pin” tinh thần.\n\nVào khoảng thời gian đó, INFP sẽ ngừng giao lưu với những người xung quanh, kể cả những “cạ cứng” thân thiết nhất, đây cũng là một tính cách điển hình của những người Hướng nội (I).\n\nVà để tình bạn không bị rạn nứt thì các INFP cũng nên khéo léo chia sẻ với bạn bè về khoảng thời gian healing tâm hồn mà mình cần để những người bạn có thể thông cảm cho họ.\n\n<i>“Ngay cả khi đã trở thành bạn thân của một INFP, bạn cũng sẽ không thể hoàn toàn hiểu được con người họ.”</i>\n\nMặc dù vậy, những người thuộc nhóm tính cách INFP luôn sẵn sàng chia sẻ câu chuyện cuộc đời với những người họ coi trọng.\n\nHọ có thể dành hàng giờ bên nhau và kể cho nhau nghe về những dự định và mơ ước của mình.",
+                                },
+                            ],
+                        },
+                        {
+                            "title": "INFP khi làm cha mẹ",
+                            "itemsChild": [
+                                {
+                                    "content": "Đối với những người thuộc nhóm tính cách INFP, cuộc đời là một chuyến đi, và ngay cả khi đã tìm được hướng đi cho riêng mình thì họ cũng vẫn muốn giúp những người xung quanh tìm ra đích đến của cuộc sống vui vẻ hạnh phúc, và việc trở thành cha mẹ đã cho họ cơ hội để thể hiện điều đó rõ ràng hơn bao giờ hết.\n\nTừ khi còn rất nhỏ, con cái của các INFP đã được nuôi dạy với tình cảm ấm áp, tinh thần cởi mở và săn sóc.\n\nNhững Người lý tưởng hóa cảm thấy tuyệt vời khi trao cho những đứa trẻ không gian tự do để khám phá thế giới, hình thành nhân cách và phát triển quan điểm cá nhân.\n\nTrong khi đó, các bậc phụ huynh INFP sẽ ở phía sau để hỗ trợ và xây dựng những bước đệm vững chắc cho con cái khi vào đời.\n\n<i>“Là những người nhạy bén, các phụ huynh INFP khá hòa hợp với con cái. Họ mong muốn con mình được sống theo cách chúng muốn, làm những điều chúng thích, trở nên độc đáo, đa chiều hơn là trở thành hình ảnh phản chiếu của cha mẹ chúng.”</i>",
+                                },
+                                {
+                                    "titleChild": "Đối mặt với thách thức",
+                                    "content": "Tuy trao cho con mình nhiều không gian để tự do phát triển nhưng các INFP cũng không hề rảnh rỗi.\n\nHọ muốn truyền dạy những giá trị cốt lõi cho những đứa trẻ, dạy chúng cách yêu thương mọi người.\n\nHọ cũng muốn con mình có tinh thần trách nhiệm, đặc biệt là không bao giờ được tổn hại những người xung quanh.\n\nNhư mọi bậc cha mẹ khác, những Người lý tưởng hóa cũng phải đối mặt với rất nhiều thách thức trong khi thực hiện thiên chức của mình.\n\nHọ rất nghiêm túc với vai trò của mình và sẽ rất thất vọng nếu những đứa trẻ làm ra điều gì sai trái.\n\n<i>“Nếu những đứa trẻ làm sai điều gì, các bậc cha mẹ INFP sẽ tự trách bản thân mặc dù đó không phải lỗi của họ.”</i>\n\nHọ sẽ tự hỏi phải chăng cách giáo dục con cái của mình đã không đi đúng hướng, phải chăng mình làm cha mẹ quá tệ.\n\nĐôi khi họ mải trách mắng bản thân tới mức quên mất rằng họ cần hành động để có điều chỉnh thích hợp với những đứa trẻ.\n\nNhững bậc cha mẹ thuộc nhóm tính cách INFP không phải những người hay trách phạt con cái, tuy nhiên họ cần bằng được giữa nuông chiều và kỷ luật để con cái họ biết đâu là đúng đâu là sai.",
+                                },
+                                {
+                                    "titleChild": "Che chở",
+                                    "content": "Các phụ huynh là INFP muốn trở thành tấm gương để con mình noi theo, vì vậy họ thường xuyên bộc lộ những mặt tốt đẹp của bản thân và che giấu những cảm xúc tiêu cực vào bên trong, điều đó sẽ giúp duy trì bầu không khí hòa thuận ấm áp trong gia đình.\n\nKhông chỉ vậy, những Người lý tưởng hóa luôn cố gắng bảo vệ con cái họ tránh xa các vấn đề tiêu cực, tuy nhiên về lâu dài sẽ khiến những đứa trẻ bị phụ thuộc và mất đi khả năng tự suy xét để xử lý tình huống.\n\nMột thách thức nữa cho các cha mẹ INFP là việc xây dựng các quy tắc mang tính thực tiễn cho những đứa trẻ.\n\nMay mắn thay, nguồn năng lượng sáng tạo vô tận của họ sẽ giúp những đứa trẻ được thỏa thích tìm hiểu thế giới mà vẫn không ra khỏi vùng an toàn.\n\nNhững Người lý tưởng hóa biết đặt mình vào vị trí của con cái để suy nghĩ, vì vậy họ sẽ luôn đưa ra những quy tắc phù hợp với mong muốn của con cái mình.\n\nKhi đã có thể cân bằng được giữa những quy luật, quy tắc và mong muốn cá nhân, các INFP có thể xây dựng một môi trường sống đầy yêu thương và trách nhiệm cho những đứa trẻ.\n\nCon cái họ sẽ lớn lên và góp phần tô điểm cho thế giới đẹp thêm từng ngày.",
+                                }
+                            ],
+                        },
+                    ]
+                },
+                {
+                    "section": "Làm sao để thân thiết với INFP",
+                    "items": [
+                        {
+                            "content": "Những người mang tính cách INFP luôn đánh giá cao sự sâu sắc và thấu hiểu trong các mối quan hệ.\n\nHọ mong muốn tìm kiếm những người bạn có tâm hồn đồng điệu với họ, có thể lắng nghe, chia sẻ thay vì những mối quan hệ hời hợt hay những buổi nói chuyện phiếm.\n\nVậy nên để xây dựng mối quan hệ tích cực với INFP, bạn hãy thể hiện sự quan tâm chân thành đến cảm xúc và suy nghĩ của họ, biết lắng nghe và hỗ trợ họ giải quyết các vấn đề trong thế giới nội tâm.\n\nMột số điều cần chú ý khi tiếp xúc với INFP là:\n\n● <b>Thể hiện sự đồng cảm và lắng nghe câu chuyện của họ.</b> INFP có nhiều dòng suy nghĩ nhưng không giỏi sắp xếp chúng. Họ có thể bị chính những cảm xúc đó nuốt chửng và có nguy cơ bị trầm uất. Vì vậy để mối quan hệ với INFP trở nên thân tình hơn, bạn nên bắt đầu bằng những buổi trò chuyện gần gũi, đào sâu vào những điều INFP quan tâm, lắng nghe và chấp nhận quan điểm, suy nghĩ của họ.\n\n● <b>Tôn trọng thời gian riêng tư.</b> Là nhóm mang đặc điểm I - Hướng nội nên INFP rất cần khoảng thời gian riêng để sạc pin tinh thần. Trong khoảng thời gian đó, INFP sẽ ngừng giao lưu với những người xung quanh. INFP sẽ rất biết ơn khi bạn thông cảm cho họ trong những thời điểm như vậy.\n\n● <b>Giúp họ bày tỏ những nỗi niềm.</b> INFP luôn cố gắng tìm cách làm hài lòng người khác và hạn chế bộc lộ cảm xúc thật của bản thân. Điều này dễ khiến họ mệt mỏi về mặt tinh thần và tự hoài nghi, tự trách chính mình. Vậy nên bạn hãy giúp INFP nói ra những nỗi ấm ức mà họ không thể cất lời, đồng hành cùng họ sẻ chia những tâm sự, nỗi niềm."
+                        },
+                    ]
+                },
+                {
+                    "section": "Con đường sự nghiệp",
+                    "items": [
+                        {
+                            "content": "Những Người lý tưởng hóa không chỉ mong muốn có một công việc mang lại thu nhập mà còn phải thú vị và khiến họ cảm thấy mãn nguyện, cảm thấy yêu đời và không quá nhiều áp lực.\n\n<i>“Đối với các INFP, một sự nghiệp lý tưởng là được tận hưởng chứ không phải công việc để kiếm sống. Và nếu việc làm của họ không phải tiếp xúc quá nhiều với đồng nghiệp hoặc khách hàng thì càng tốt.”</i>\n\nDù là người theo chủ nghĩa lý tưởng nhưng các INFP cũng gặp nhiều khó khăn trong việc tìm được công việc đáp ứng nhu cầu và mong muốn của bản thân. Họ sẽ trải qua nhiều thất vọng, thậm chí cảm thấy mắc kẹt và nghĩ rằng mình thật tệ hại trước khi tìm được công việc mà họ hằng mơ ước.\n\nÔi, chúng tôi phải nói thật rằng sẽ chẳng có công việc nào là hoàn hảo, và các INFP sẽ phải đau đầu suy nghĩ xem mình có nên giảm bớt kỳ vọng xuống hay không. May mắn thay, với óc sáng tạo, tính độc lập và sự chân thành của các INFP sẽ giúp họ có được những công việc tốt, giúp họ tỏa sáng và tận hưởng công việc.\n\nMột số nghề nghiệp vô cùng phù hợp với các INFP, trong đó phải kể đến nhà văn. Với tính tò mò, thích tìm tòi, thích thể hiện bản thân thì viết lách là một việc rất phù hợp với các INFP. Ngoài ra họ cũng có thể trở thành một nhân viên truyền thông hoặc làm việc cho các tổ chức phi lợi nhuận. Với trí tưởng tượng phong phú, các INFP có thể “hô biến” các công việc vốn khô khan trở nên thú vị hơn bao giờ hết.\n\n<i>“Với tình yêu nghệ thuật, những người thuộc nhóm tính cách INFP rất hợp với những công việc như nhà văn, nhạc sĩ hoặc biên kịch.”</i>\n\nDù có trở thành gì đi nữa thì những Người lý tưởng hóa cũng muốn được cống hiến cho thế giới và giúp đỡ những người xung quanh. Vì vậy rất nhiều người thuộc nhóm tính cách INFP lựa chọn những nghề nghiệp liên quan tới tư vấn, tâm lý học, giảng dạy, chăm sóc sức khỏe, công tác xã hội, vật lý trị liệu. Và các INFP sẽ rất hạnh phúc nếu mình có thể giúp người khác có một cuộc sống tốt đẹp hơn."
+                        },
+                        {
+                            "title": "Tìm cho mình một lối đi",
+                            "content": "Người lý tưởng hóa có thể thích nghi nhưng khó có thể chấp nhận hoàn toàn nếu phải làm việc trong môi trường căng thẳng và áp lực, hoặc môi trường hay phê bình và có tính cạnh tranh cao.\n\nNhững người thuộc nhóm tính cách INFP thích một không gian làm việc độc lập, và họ sẵn sàng chịu sự giám sát để tránh suy nghĩ lung tung không tập trung vào công việc.\n\nNhững Người lý tưởng hóa không cần một môi trường lý tưởng để phát huy hết khả năng của mình trong công việc. Họ luôn sống với những giá trị thực của mình, nhất là trong công việc, và luôn sẵn sàng đương đầu với mọi khó khăn để theo đuổi lý tưởng của mình trên con đường sự nghiệp."
+                        },
+                        {
+                            "title": "Những nghề nghiệp phù hợp",
+                            "content": "Những người thuộc nhóm tính cách INFP luôn tỏ ra vô cùng mạnh mẽ trong việc bảo vệ ý kiến, quan điểm của mình.\n\nDo đó, họ có thể ứng tuyển vào một số nghề nghiệp mà ở đó họ có thể thỏa thích nêu lên quan điểm từ góc nhìn cá nhân như nhà văn, nhà thơ, tiểu thuyết gia.\n\nNhững công việc trong lĩnh vực dịch vụ cũng rất hợp với các INFP, bởi họ vốn là những người có trái tim ấm áp, luôn quan tâm và chăm sóc những người xung quanh, cũng như đặt nguyện vọng của người khác lên trên bản thân mình.\n\nMột số môi trường làm việc phù hợp với các INFP là trường học, bệnh viện, tổ chức phi chính phủ, quỹ từ thiện, v.vv..\n\nBên cạnh đó, các INFP cũng có khả năng làm việc tốt nhất ở cương vị cá nhân, bởi họ là những người có định hướng tốt nhưng lại không có khả năng tập trung nếu bị phân vào một nhóm nhân sự có cơ cấu và phương pháp làm việc phức tạp.\n\nMột số công việc mang tính cá nhân cao mà các INFP có thể tham khảo là huấn luyện viên, nhà soạn nhạc, nhạc sĩ, họa sĩ, v.vv..\n\nNhững người thuộc nhóm tính cách INFP là những người bí hiểm và không dễ để ta thấu hiểu con người họ.\n\nTrong con đường sự nghiệp, họ không chỉ kiếm tìm một công việc để tồn tại mà đó cần là một công việc đặc biệt, giúp họ để lại tiếng vang trong cuộc đời.\n\nVà để đạt được điều đó thì họ cần định hướng lộ trình rõ ràng: bắt đầu từ đâu, bắt đầu như thế nào, cần chuẩn bị những gì, làm sao để xử lý những tình huống phát sinh sau này, v.vv..\n\n<i>“Biết người biết ta, trăm trận trăm thắng”, chỉ như vậy thì bạn mới có thể phát huy được hết khả năng của mình và đạt đến thành công cao nhất.</i>\n\nDưới đây là các công việc phù hợp với INFP:\n\n● Nhà văn\n\n● Tiểu thuyết gia\n\n● Nhà tâm lý học\n\n● Nhà tâm thần học\n\n● Giáo viên/ Giáo sư\n\n● Tư vấn viên\n\n● Nhân viên xã hội\n\n● Nhạc sĩ\n\n● Huấn luyện viên"
+                        },
+                    ]
+                },
+                {
+                    "section": "Thói quen nơi công sở",
+                    "items": [
+                        {
+                            "content": "Những người thuộc nhóm tính cách INFP muốn làm việc một cách có mục đích, có tổ chức. Trong công việc, họ sẽ cân bằng cảm xúc và đạo đức nghề nghiệp, hy vọng rằng những đóng góp của họ sẽ giúp đỡ được tổ chức. Việc này được thể hiện qua cách các INFP đối xử và giao tiếp hàng ngày với đồng nghiệp và cấp trên."
+                        },
+                        {
+                            "title": "INFP khi là nhân viên",
+                            "content": "Các INFP là những người nhân viên cấp dưới trung thành, lạc quan và tận tâm.\n\nHọ tự hào khi được tin tưởng giao và hoàn thành nhiệm vụ.\n\nNiềm vui của các INFP nhân viên chính là làm hài lòng mọi người, từ cấp trên tới khách hàng.\n\nVà các INFP cảm thấy được khích lệ nhất khi họ tìm ra cách để giúp người khác.\n\nĐiều đó giải thích tại sao các INFP rất thích được khen ngợi và động viên, ngược lại thì những lời phê bình sẽ khiến họ tụt cảm xúc rất nhanh.\n\nVì vậy, các INFP rất khó tập trung làm việc cùng những cấp trên nóng tính và hay trách phạt nhân viên.\n\nVào những giây phút căng thẳng ấy, chỉ cần một tiếng chuông điện thoại hoặc một hộp thư điện tử đầy tin nhắn cũng sẽ khiến các INFP sụp đổ hoàn toàn.\n\nNhững Người lý tưởng hóa thích công việc có sự tự do và có quyền hạn được làm những gì họ muốn.\n\nNếu được trao không gian để làm việc, các INFP sẽ đưa ra được những hướng đi sáng tạo, mới mẻ thay thế những phương pháp đã cũ và kém hiệu quả.\n\nTuy nhiên, các INFP cần đặt ra thời hạn và mục tiêu làm việc cho mình, nếu không họ sẽ bị cuốn vào muôn vàn ý tưởng của bản thân và trì hoãn những việc đang tiến hành dở."
+                        },
+                        {
+                            "title": "INFP khi là đồng nghiệp",
+                            "content": "Những người thuộc nhóm tính cách INFP đánh giá cao sự công bằng và bình đẳng, vì vậy họ không thích sự phân cấp thứ bậc trong công việc.\n\nHọ muốn làm việc ở một môi trường cởi mở, thoải mái, nơi mà nhân sự ở bất kỳ vị trí nào cũng có thể đưa ra ý kiến của mình và ý kiến của họ sẽ được lắng nghe.\n\nNhững Người lý tưởng hóa chính là “chất keo kết dính” tình cảm của những người đồng nghiệp nơi công sở.\n\nTuy không phải là người có tiếng nói trong công ty, nhưng đồng nghiệp thường xuyên tìm tới các INFP để xin lời khuyên vì họ cho rằng các INFP là những người rất biết nhìn nhận và quan sát.\n\nNhững người thuộc nhóm tính cách INFP tốt bụng và ấm áp, họ tận lực tránh xa tranh cãi và drama chốn công sở.\n\nThay vào đó, họ thúc đẩy sự hợp tác và hòa hợp, sẵn sàng giúp đỡ mà không cần được công nhận.\n\nMột trong những ưu điểm lớn nhất của các INFP nơi công sở chính là sự đồng cảm trong giao tiếp.\n\nSự trung thực và tốt bụng của họ giúp không khí ở môi trường làm việc trở nên thoải mái, dễ chịu hơn."
+                        },
+                        {
+                            "title": "INFP khi là cấp trên",
+                            "content": "Trong các nhóm tính cách thì INFP là những người cấp trên ít giống cấp trên nhất.\n\nHọ đối xử với nhân viên cấp dưới như những người bạn ngang hàng, không phân biệt cao thấp, và lắng nghe ý kiến của tất cả mọi người.\n\nNhững người cấp trên INFP không quản lý một cách nhỏ lẻ, rời rạc mà tập trung vào bức tranh toàn cảnh lớn hơn.\n\nHọ cho rằng giúp đỡ nhân viên cấp dưới là trách nhiệm của họ, và họ có nhiệm vụ hỗ trợ cấp dưới làm việc thay vì cầm tay chỉ việc.\n\nCác cấp trên INFP cũng rất khuyến khích nhân viên thỏa sức sáng tạo và đóng góp ý kiến riêng dựa theo phán đoán của bản thân.\n\nTuy nhiên phong cách quản lý này cũng có nhược điểm.\n\nCác INFP sẽ cảm thấy khó khăn khi buộc phải phê bình nhân viên của mình khi họ mắc lỗi, điều này có thể làm gián đoạn công việc, giảm hiệu suất làm việc và ảnh hưởng tới kết quả của cá nhân lẫn tập thể."
+                        },
+                    ]
+                },
+                {
+                    "section": "So sánh INFP với ENFP, INTP",
+                    "items": [
+                        {
+                            "content": "Khi so sánh INFP (Người lý tưởng hóa) với các nhóm tính cách có cùng sự tương đồng (E<b>NFP</b> - Người truyền cảm hứng, <b>IN</b>T<b>P</b> - Nhà tư duy), bạn sẽ thấy rõ hơn đặc điểm của nhóm INFP."
+                        },
+                        {
+                            "title": "Điểm giống nhau",
+                            "content": "● N - Trực giác: Cả 3 nhóm tính cách này đều có tính trực giác cao, tập trung xem xét ý nghĩa của từng sự vật, hiện tượng để đánh giá sự việc thay vì cảm nhận bằng năm giác quan.\n\n● P - Linh hoạt: Điểm chung tiếp theo của nhóm INFP với nhóm ENFP và INTP là họ đều linh hoạt và khá dễ tính, thích được tự do trong thế giới riêng của mình với những nguyên tắc do chính mình tự tay sắp xếp.\n\nTuy nhiên, khi đối chiếu INFP với từng nhóm ENFP và INTP, chúng tôi nhận thấy giữa mỗi cặp sẽ có những điểm chung riêng như sau:\n\n● I<b>NFP</b> và E<b>NFP</b>: Thân thiện, tốt bụng, ân cần và chu đáo, giỏi lắng nghe và an ủi người khác. Phù hợp với những công việc hướng đến những lợi ích chung của cộng đồng và xã hội.\n\n● <b>IN</b>F<b>P</b> và <b>IN</b>T<b>P</b>: Thích những thứ độc đáo, thường đưa ra những ý tưởng mới lạ. Hướng đến môi trường làm việc mang tính sáng tạo cao, cho phép họ thỏa sức đắm chìm trong những nhiệm vụ thú vị."
+                        },
+                        {
+                            "title": "Điểm khác nhau",
+                            "content": "Dù chỉ chênh nhau một chữ cái, song sự khác biệt giữa các nhóm này lại thể hiện rất rõ rệt qua cách tiếp cận thông tin, trong các mối quan hệ xã hội và công việc. Bạn có thể thấy rõ điều này tại bảng so sánh sau:" 
+                        },
+                    ],
+                    "tables": [
+                        {
+                            "headers": ["Đặc điểm", "ENFP", "INFP", "INTP"],
+                            "rows": [
+                                ["Diễn giải chữ viết tắt", "<b>E - Hướng ngoại</b><br>N - Trực giác<br>F - Cảm xúc<br>P - Linh hoạt", "<b>I - Hướng nội</b><br>N - Trực giác<br><b>F - Cảm xúc</b><br>P - Linh hoạt", "I - Hướng nội<br>N - Trực giác<br><b>T - Lý trí</b><br>P - Linh hoạt"],
+                                ["Cách tiếp cận thông tin", "Dựa nhiều vào trực giác để đánh giá sự việc và đưa tới kết luận một cách hoàn hảo, nhưng không giỏi trong việc phán đoán", "Tập trung vào bức tranh toàn cảnh hay vì đi vào những chi tiết cụ thể. Họ thích tưởng tượng những gì xảy ra hơn là cố định vào những định nghĩa đã có sẵn", "Yêu sự logic, chú trọng vào những dữ liệu thực tế, số liệu rõ ràng"],
+                                ["Trong các mối quan hệ", "- Là người quảng giao, giỏi giao tiếp, kết nối với mọi người<br>- Mù quáng trong tình yêu, dễ rơi vào lưới tình nhưng lại không giỏi tuyệt giao dù mối quan hệ “red flag” đến đâu<br>- Luôn cố gắng làm hài lòng tất cả mọi người", "- Nhẹ nhàng, bình tĩnh, hòa nhã với những người xung quanh<br>- Luôn muốn tìm kiếm những mối quan hệ thật sự chất lượng, sẵn sàng cùng họ chia sẻ cảm xúc và suy nghĩ<br>- Dĩ hòa vi quý, luôn tìm cách hóa giải mâu thuẫn", "- Dễ bị thu hút bởi những người có cùng tần số trong lĩnh vực nghiên cứu, học thuật<br>- Vòng tròn bạn bè nhỏ, mong muốn những người đồng hành có cùng tầm nhìn với mình, cùng nhau tiến bộ từng ngày<br>- Thường né tránh phát sinh bất đồng về cảm xúc"],
+                                ["Trong công việc", "- Thích những công việc mang tính gắn kết cộng đồng như tư vấn, giáo dục, quan hệ công chúng, v.vv..<br>- Không thích làm việc trong môi trường khắt khe, không có sự kết nối giữa các phòng ban<br>- Có nhiều sự lựa chọn nghề nghiệp nên dễ bị mất phương hướng", "- Khao khát tìm kiếm những công việc vừa mang lại thu nhập vừa thú vị, giúp họ cảm thấy yêu đời<br>- Thích hợp làm nhà văn, nhân viên truyền thông, nhạc sĩ hoặc biên kịch<br>- Không thích những môi trường làm việc căng thẳng, hay phê bình và có tính cạnh tranh cao", "- Phù hợp với môi trường làm việc được phân theo cấu trúc nằm ngang, công việc được phân theo từng nhóm và thực hiện trọn gói<br>- Theo đuổi sự tự do và thích làm việc độc lập nên hợp làm nghiên cứu trong phòng thí nghiệm, freelancer, tư vấn viên, v.vv..<br>- Không hợp với những công việc phải làm việc với bên thứ ba nhiều như nhân viên chăm sóc khách hàng, telesales"]
+                            ]
+                        }
+                    ],
+                    "content": "Cả ba nhóm INFP, ENFP và INTP đều có điểm chung khi đánh giá sự việc dựa vào trực giác và yêu thích sự tự do, sáng tạo. Tuy nhiên cách mỗi nhóm tiếp cận thông tin, xử sự với các mối quan hệ trong xã hội và công việc lại có sự khác biệt rõ ràng.\n\nINFP thường tập trung vào bức tranh toàn cảnh khi nhìn nhận vấn đề. ENFP sử dụng trực giác để đánh giá và đưa ra kết luận, hướng đến những công việc mang tính cộng đồng trong khi INTP thích làm việc độc lập, thích nghiên cứu, tìm tòi dựa trên các dữ liệu thực tế.\n\nSự đa dạng này tạo nên những điểm nhấn riêng của mỗi nhóm khi xây dựng mối quan hệ cũng như định hình hướng đi trong cuộc đời." 
+                },
+                {
+                    "section": "Lời khuyên dành cho ISFP",
+                    "items": [
+                        {
+                            "title": "Rèn luyện sự tập trung",
+                            "content": "Là những Người lý tưởng hóa theo chủ nghĩa hoàn hảo nhưng INFP lại khá lười biếng. Điều này là bởi họ có nhiều ý tưởng, dự định nhưng lại dễ bị xao nhãng và không tập trung vào một mục tiêu nhất định, nóng lòng muốn thực hiện nhiều sáng kiến cùng một lúc. Để công việc hiệu quả và mang lại hiệu suất cao, bạn nên xác định ý tưởng cần ưu tiên thực hiện trước, lên kế hoạch, timeline thực hiện rõ ràng và cuốn chiếu làm từng hạng mục trước khi chuyển sang các dự định khác."
+                        },
+                        {
+                            "title": "Học cách bày tỏ cảm xúc của chính mình",
+                            "content": "Để cuộc sống vui vẻ và mở rộng thêm các mối quan hệ tích cực, các INFP nên học cách thể hiện cảm xúc, nói ra những suy nghĩ, tâm trạng của bản thân để những người xung quanh có cơ hội hiểu và kết nối với bạn. Bạn có thể bắt đầu bằng việc nói những suy nghĩ đơn thuần về sự vật, sự việc xung quanh và dần mở rộng chia sẻ những cảm xúc sâu kín khi cảm thấy thoải mái hơn. Dẫu biết rằng rất khó để chia sẻ cảm xúc của chính mình nhưng đây là một trong những cách giúp bạn có thể phát triển tối đa năng lực bản thân."
+                        },
+                        {
+                            "title": 'Ngừng "Overthinking"',
+                            "content": 'Các INFP đều có hàng vạn, hàng nghìn suy nghĩ trong đầu, cả tiêu cực và tích cực.\n\nCó một sự thật rằng, không phải tất cả những điều bạn đang lo lắng, trăn trở đều quan trọng.\n\nNếu đắm chìm vào những suy nghĩ, cảm xúc của bản thân quá nhiều, bạn có thể sẽ đánh mất sự khách quan của mình và bỏ lỡ những điều tuyệt vời ở thế giới bên ngoài.\n\nBất cứ khi nào bạn nhận ra mình đang suy nghĩ quá nhiều, hãy tự hỏi bản thân rằng: “Bây giờ tôi có thể làm gì?”\n\nNếu bạn không thể làm gì để giải quyết vấn đề đó ngay lập tức, hãy sắp xếp lại suy nghĩ của mình và chấp nhận chúng như ở thời điểm hiện tại.\n\nĐừng lo lắng quá nhiều, những điều tuyệt vời sẽ đến ở một thời điểm khác với những địa điểm hoặc con người khác.',
+                        },
+                        {
+                            "title": "Nuôi dưỡng sự sáng tạo",
+                            "content": "Cuối cùng, hãy luôn nuôi dưỡng và phát huy thế mạnh sáng tạo của mình. Chính những sáng kiến độc đáo của bạn sẽ góp phần xây dựng cuộc sống trở nên tốt đẹp và tràn ngập màu sắc."
                         },
                     ]
                 },
