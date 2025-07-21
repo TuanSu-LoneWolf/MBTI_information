@@ -978,6 +978,582 @@ export const mbtiData = {
             ]
         },
         {
+            "code": "INTJ",
+            "name": "Nhà khoa học",
+            "description": "INTJ được xem là nhóm tính cách bí ẩn và thông minh nhất. Họ thường đóng vai trò “chìa khóa” giải quyết vấn đề trong những tình huống hóc búa. Tinh thần lạc quan, luôn nhìn vào mặt tích cực khiến các INTJ có thể nhìn ra điểm sáng ngay cả trong những tình cảnh “éo le” nhất. Những người thuộc nhóm tính cách INTJ có tinh thần học hỏi cao, không ngừng khai phá những giới hạn mới của bản thân để tạo ra sự đổi mới tích cực cho môi trường xung quanh.",
+            "image": "./img/intj.png",
+            "details": [
+                {
+                    "section": "Tổng quan",
+                    "items": [
+                        {
+                            "content": "<b>INTJ (Nhà khoa học)</b> được xem là nhóm tính cách bí ẩn và thông minh nhất. Họ thường đóng vai trò “chìa khóa” giải quyết vấn đề trong những tình huống hóc búa. Tinh thần lạc quan, luôn nhìn vào mặt tích cực khiến các INTJ có thể nhìn ra điểm sáng ngay cả trong những tình cảnh “éo le” nhất. Những người thuộc nhóm tính cách INTJ có tinh thần học hỏi cao, không ngừng khai phá những giới hạn mới của bản thân để tạo ra sự đổi mới tích cực cho môi trường xung quanh."
+                        },
+                        {
+                            "title": "INTJ là viết tắt của những chữ cái gì?",
+                            "content": "● <b>I - Hướng nội:</b> Đối với những người thuộc nhóm tính cách INTJ, thế giới ẩn sâu bên trong mỗi chúng ta mới là thế giới thật.\n\nNgược lại, thế giới bên ngoài là nơi thuộc về những người E - Hướng ngoại.\n\n● <b>N - Trực giác:</b> Bạn tập trung vào ý nghĩa của sự vật, sự việc, khác với những người có tính cách S - Giác quan sử dụng cả năm giác quan thị giác, thính giác, khứu giác, vị giác, cảm giác để nhìn nhận và đánh giá.\n\n● <b>T - Lý trí:</b> Bạn đưa ra quyết định dựa trên góc nhìn thực tế bằng số liệu và đo lường chính xác.\n\nNgược lại, các F - Cảm xúc ưu tiên đưa ra quyết định dựa trên cảm nhận cá nhân.\n\n● <b>J - Nguyên tắc:</b> Bạn dựa vào cấu trúc sẵn có để thoải mái đưa ra quan điểm mà không phải mất công suy xét nhiều.\n\nTrong khi đó, những người thiên về tính cách P - Linh hoạt lại thích môi trường tự do và họ sẽ tự sắp đặt quy tắc bên trong cho mình."
+                        },
+                        {
+                            "title": "Mọt sách chính hiệu",
+                            "content": "Những người mang tính cách INTJ thường tỏa ra sự tự tin nhờ lượng kiến thức khổng lồ ở nhiều lĩnh vực khác nhau mà họ đã trang bị cho bản thân. Các INTJ theo đuổi đam mê khám phá từ rất nhỏ, và không ngừng trau dồi trong quá trình trưởng thành."
+                        },
+                        {
+                            "title": "Tự lập và quyết đoán",
+                            "content": "Bởi thuần thục ở rất nhiều lĩnh vực nên những người thuộc nhóm tính cách INTJ thường có tinh thần tự lập cao. Họ cũng rất quyết đoán trong việc đưa ra quyết định nhờ sự tin tưởng tuyệt đối vào bản thân. Tuy nhiên nếu cuộc thảo luận không thiên về lĩnh vực mà họ quan tâm thì các INTJ sẽ không chủ động nêu lên ý kiến của mình bởi họ không thích bị chú ý."
+                        },
+                        {
+                            "title": "Không ngừng học hỏi",
+                            "content": "Các INTJ luôn đánh giá cao việc cải tiến và đổi mới, không ngừng học hỏi và tìm ra những phương án mang lại hiệu quả cao hơn. Những người thuộc nhóm tính cách INTJ cũng thích quan sát, ghi nhớ và sau đó là nắm bắt các ý tưởng, đặc biệt là những ý tưởng mang tính thực tiễn để có thể bắt tay vào áp dụng ngay lập tức."
+                        },
+                        {
+                            "title": "Phương án tối ưu",
+                            "content": "Tuy đưa ra quyết định rất dứt khoát nhưng phương pháp thực hiện của các INTJ lại vô cùng linh hoạt. Trong quá trình nghiên cứu và tìm ra biện pháp, họ sẽ đưa ra vô vàn giả thiết, liên tục thử nghiệm và đứng một bên nhìn xem đâu mới là phương án mang lại hiệu quả cao nhất. Họ luôn chuẩn bị cho mình kế hoạch dự phòng cho mọi tình huống bởi các INTJ là những người cầu toàn. Đây là lý do khiến các INTJ trở thành những nhà lãnh đạo bẩm sinh nhờ khả năng “nhìn xa trông rộng” của mình."
+                        },
+                        {
+                            "title": '"Máu lãnh đạo" bẩm sinh',
+                            "content": "Các INTJ là những nhà lãnh đạo bẩm sinh, và khi ở cương vị là một người cấp trên họ luôn hoàn thành xuất sắc vai trò của mình. Dù vậy, các INTJ thường chọn lui về sau và nhường lại “sân khấu” cho những người có khả năng và muốn thể hiện bản thân. Họ sẽ dõi theo nhất cử nhất động của người lãnh đạo, cùng đánh giá và phân tích tình hình, và chỉ ra mặt ở những tình huống quan trọng."
+                        },
+                        {
+                            "title": "Cuộc sống là để chia sẻ",
+                            "content": "Các INTJ có vô vàn ý tưởng hay ho trong đầu nhưng họ lại không giỏi trong việc giải thích những ý tưởng ấy bằng lời. Thay vì đó, họ sẽ miêu tả theo hướng cụ thể và chi tiết nhất trong những báo cáo của mình để mọi người đều có thể đọc hiểu (và điều này đôi khi dẫn đến việc nhầm lẫn về cách hiểu giữa hai bên). Tuy vậy, là một người vô cùng tôn sùng tri thức và trí tuệ, các INTJ có thể miễn cưỡng bước ra khỏi “căn phòng khép kín” của mình để cắt nghĩa ý tưởng cho một số người mà họ cảm thấy là đủ quan trọng và đủ tầm nhìn để lĩnh hội."
+                        },
+                        {
+                            "title": "Nhìn xa trông rộng",
+                            "content": "Trong công việc, các INTJ là những người có tầm nhìn xa, họ viết ưu tiên những việc quan trọng lên trước và đánh giá dựa trên hiệu quả đạt được. Những người thuộc nhóm tính cách INTJ cũng rất ngăn nắp trong công việc, họ có thể dành hàng giờ để tái cấu trúc lại bộ máy nhân sự nếu thấy cần thiết để gia tăng hiệu quả và hiệu suất công việc."
+                        },
+                        {
+                            "title": "Công tư phân minh",
+                            "content": "Làm một người biết nhìn nhận thành công của người khác, các INTJ luôn đánh giá cao những người biết tạo ra hiệu quả trong công việc. Tuy nhiên, thay vì đưa ra lời khen (thường khá là xã giao) thì họ sẽ âm thầm tán thưởng và ghi nhớ trong lòng. Điều này có thể khiến các INTJ bị hiểu nhầm là những người khô khan và cứng nhắc."
+                        },
+                        {
+                            "title": "Sự nghiệp thăng hoa",
+                            "content": "Nhìn chung, các INTJ thích làm việc trong những lĩnh vực thế mạnh của mình, điển hình là khoa học kỹ thuật. Dù vậy, những ngành như pháp luật, điều tra cũng khá hợp với tính cách của những Nhà khoa học. Nếu để INTJ có quyền tự quyết thì họ sẽ không lựa chọn trở thành nhà lãnh đạo vì ở những cấp dưới họ có nhiều không gian để thực thi công việc hơn."
+                        },
+                        {
+                            "title": "Thuận theo tự nhiên",
+                            "content": "Giống như tất cả những nhóm tính cách khác, INTJ cũng có điểm yếu của mình. Dù rất giỏi trong việc thu hút người đối diện nhưng khi bước vào một mối quan hệ thì họ lại khá chần chừ và nhút nhát, đặc biệt là trong giai đoạn đầu. Họ không quá giỏi trong việc thực hiện những điều nên làm và phải làm trong tình yêu, ngược lại, các INTJ thích mọi chuyện được “thuận theo tự nhiên”, nuôi dưỡng tình cảm bằng những quan tâm chân thành nhất."
+                        },
+                        {
+                            "title": "Những người nổi tiếng mang tính cách INTJ",
+                            "content": "● Vladimir Lenin\n\n● Isaac Newton\n\n● Stephen Hawking\n\n● Ludwig van Beethoven\n\n● Mark Zuckerberg\n\n● Elon Musk\n\n● James Cameron\n\n● YangYang (WayV)"
+                        },
+                    ]
+                },
+                {
+                    "section": "Điểm mạnh và điểm yếu",
+                    "items": [
+                        {
+                            "title": "Điểm mạnh",
+                            "itemsChild": [
+                                {
+                                    "titleChild": "Lý trí",
+                                    "content": "Nhóm tính cách INTJ tự hào về sức mạnh trí tuệ của mình. Họ có thể biến mọi thử thách thành cơ hội để trau dồi kỹ năng và mở rộng kiến thức. Với lối tư duy này, họ có thể đưa ra các giải pháp sáng tạo cho cả những vấn đề khó nhằn nhất.",
+                                },
+                                {
+                                    "titleChild": "Hiểu biết",
+                                    "content": "Có rất ít nhóm tính cách chủ động và tận tình trong việc đưa ra những ý kiến hợp lý, đúng đắn, có căn cứ như INTJ. Thay vì dựa trên linh cảm hay giả định nửa vời, các INTJ kết luận dựa trên nghiên cứu và phân tích. Và vì vô cùng tự tin với hiểu biết của mình nên các INTJ thường sẽ đối chọi tới cùng với những quan điểm trái chiều.",
+                                },
+                                {
+                                    "titleChild": "Độc lập",
+                                    "content": "Đối với INTJ, việc chăm chăm nghe lời và tuân thủ ít nhiều đồng nghĩa với sự tầm thường. Họ luôn sáng tạo và năng động, cố gắng làm mọi thứ theo cách riêng của mình. Các INTJ không chịu được việc để cho các phép tắc, quy định độc đoán cản trở thành công của họ.",
+                                },
+                                {
+                                    "titleChild": "Quyết tâm",
+                                    "content": "Các INTJ được biết đến là người có tham vọng và có mục tiêu rõ ràng. Họ sẽ không nghỉ ngơi cho đến khi đạt được thành công theo định nghĩa của họ, và điều này thường đòi hỏi phải nắm vững những lĩnh vực hay mục tiêu mà họ coi là quan trọng.",
+                                },
+                                {
+                                    "titleChild": "Tò mò",
+                                    "content": "Nhóm tính cách INTJ luôn cởi mở với những ý tưởng mới, miễn là những ý tưởng đó hợp lý, có cơ sở. Họ có bản tính hay hoài nghi nên đặc biệt bị thu hút bởi những quan điểm khác thường. Nếu thực tế cho thấy rằng ý kiến của họ là sai hoàn toàn thì các INTJ cũng sẵn sàng sửa đổi.",
+                                },
+                                {
+                                    "titleChild": "Sáng tạo",
+                                    "content": "Nếu không có nhóm tính cách INTJ, thế giới sẽ trở nên kém thú vị đi rất nhiều. Sự nổi loạn của INTJ là “chất bán dẫn” mang đến một vài ý tưởng và phát minh độc đáo nhất trong lịch sử. Ngay cả trong cuộc sống hàng ngày, các INTJ cũng khiến mọi người xung quanh phải nhìn nhận sự việc bằng một con mắt khác nhờ sự gợi mở độc đáo của họ.",
+                                },
+                            ],
+                        },
+                        {
+                            "title": "Điểm yếu",
+                            "itemsChild": [
+                                {
+                                    "titleChild": "Kiêu ngạo",
+                                    "content": "Các INTJ có thể hiểu biết rộng nhưng điều đó không có nghĩa là họ không bao giờ mắc sai lầm. Sự tự tin (đôi khi hơi thái quá) có thể khiến họ bỏ qua những thông tin hữu ích của người xung quanh, nhất là đối với những người mà họ cho là kém thông minh hơn mình. Nhóm tính cách này cũng có thể bị coi là khắt khe, chỉ chăm chăm chứng minh người khác sai.",
+                                },
+                                {
+                                    "titleChild": "Gạt bỏ cảm xúc",
+                                    "content": "Người thuộc nhóm tính cách INTJ coi lý trí là trên hết. Họ thường xem nhẹ vấn đề cảm xúc và dễ mất kiên nhẫn với những ai coi trọng tình cảm hơn lý trí. Họ cũng thường không giỏi trong việc điều chỉnh cảm xúc, dễ bộc lộ bản tính cáu gắt nếu mọi việc vượt ra khỏi tầm kiểm soát. Tuy nhiên, việc chỉ dựa trên các tiêu chuẩn độc đoán của bản thân chứ không thấu hiểu bản chất của vấn đề chỉ khiến những lời khiển trách của họ trở nên thiếu công bằng và vô giá trị.",
+                                },
+                                {
+                                    "titleChild": "Hiếu chiến",
+                                    "content": "Các INTJ không thích làm theo bất kỳ điều gì một cách mù quáng mà không hiểu rõ nguyên do, kể cả các quy định do những người có thẩm quyền áp đặt. Do đó, họ dễ bị cuốn vào những tranh cãi liên quan tới các phép tắc, quy định vô bổ, và những trận cãi vã này sẽ chỉ khiến họ sao nhãng khỏi những mục tiêu quan trọng hơn.",
+                                },
+                                {
+                                    "titleChild": "Không giỏi giao tiếp",
+                                    "content": "Sự ỷ lại vào lý trí của INTJ có thể khiến họ thất bại trong những mối quan hệ thường ngày, dễ bị rơi vào thế cô lập khi liên tục bị phản bác ý kiến.",
+                                },
+                            ],
+                        }
+                    ]
+                },
+                {
+                    "section": "Mối quan hệ",
+                    "items": [
+                        {
+                            "content": "Không dễ dàng để trở thành bạn của INTJ.\n\nNhững người thuộc nhóm tính cách thường đặt người khác lên bàn cân so sánh với chính bản thân mình để đánh giá về trí tuệ và sức ảnh hưởng của họ.\n\nĐiều này khiến các INTJ trở thành một nhân tố vô cùng kiêu ngạo và khó gần trong mắt những người xung quanh.\n\nTuy nhiên những Nhà khoa học không quá quan tâm về điều đó, họ coi đó như một “cơ chế lọc tự nhiên” và vẫn hài lòng khi vòng bạn bè của họ tuy ít nhưng chất lượng.\n\nLà một người khá khép kín và độc lập, đối với các INTJ, bạn bè là những người họ muốn cùng trao đổi kiến thức và bàn luận về các vấn đề trong cuộc sống hơn là một cây cầu dẫn họ tới gần hơn với thế giới bên ngoài.\n\nNhững người bạn thuộc nhóm tính cách INTJ cũng không giỏi trong việc bộc lộ cảm xúc của mình, cũng không thích những hành động tình cảm như ôm ấp, vuốt ve, đụng chạm khi ở cạnh nhau.\n\nĐiều này có thể gây ra một số hiểu lầm nho nhỏ trong các mối quan hệ của INTJ và những người xung quanh.\n\nNhóm tính cách INTJ thích kể với người xung quanh những câu chuyện dí dỏm đầy ẩn ý, đó là lý do mà họ rất thích kết giao với những người có NT và NF trong tính cách, vì đây là hai nhóm có thể hiểu được những câu chuyện đùa nửa thật của các INTJ.\n\nNgược lại thì những người mang đặc điểm S (Giác quan) sẽ cảm thấy khá khó chịu với kiểu nói chuyện úp mở này.\n\nLà những người luôn muốn nâng cao kiến thức, bứt phá giới hạn ở nhiều lĩnh vực khác nhau, các INTJ hy vọng những người bạn của mình cũng nuôi dưỡng tinh thần nhiệt huyết như vậy.\n\nViệc cùng nhau học hỏi và phát triển sẽ giúp tình bạn giữa họ trở nên ngày càng khăng khít.\n\nVới tính cách độc lập của mình, những người thuộc nhóm tính cách INTJ cũng rất tôn trọng không gian riêng tư của bạn bè mình."
+                        },
+                        {
+                            "title": "INTJ trong tình yêu",
+                            "itemsChild": [
+                                {
+                                    "content": "Các INTJ tiếp cận tình yêu như cách mà họ đối mặt với thách thức, đó là: xây dựng chiến lược, vạch ra các mục tiêu rõ ràng và lên kế hoạch để đạt được các mục tiêu đó.\n\nNếu ở trong một thế giới duy lý, cách tiếp cận này sẽ thật hoàn hảo.\n\nNhưng tình yêu không phải là không gian lý tưởng dành cho những người sống dựa vào lý tính, ngược lại, đây là lúc mà mọi cảm xúc nhỏ nhất trong tâm hồn bạn được đánh thức và đi tìm nửa kia đích thực của mình.\n\n<i>“Những người thuộc nhóm tính cách INTJ có thể sẽ rất khó tìm được một đối tượng phù hợp với họ.”</i>\n\nLý do là vì họ hiếm khi hài lòng với những thứ mình có.\n\nCác INTJ không ngừng tưởng tượng về một thế giới tốt đẹp hơn và họ cũng đặt “ngôi sao hy vọng” ấy vào chuyện tình của mình: phải đẹp, phải sâu lắng, phải tha thiết.\n\nThật không may, nếu INTJ cứ dùng ánh mắt đầy phán xét để đánh giá các “ứng cử viên” tiềm năng như vậy thì họ sẽ không bao giờ tìm được chân ái của đời mình.",
+                                },
+                                {
+                                    "titleChild": "Những rắc rối khi hẹn hò",
+                                    "content": "Những người thuộc nhóm tính cách INTJ không thích tuân theo những quy tắc, những luật bất thành văn trong tình yêu, ví dụ khi yêu thì phải như thế này như thế kia.\n\nTuy nhiên, họ cũng cần biết rằng các quy tắc hẹn hò được đặt ra đều vì một mục đích là giúp cho mối quan hệ trở nên thoải mái và tôn trọng lẫn nhau.\n\nVà khi các INTJ từ chối tuân theo những quy tắc đó thì việc yêu đương của họ có thể vấp phải những tranh cãi nho nhỏ.\n\n<i>“Khi đã trưởng thành và tích lũy thêm kinh nghiệm trên “chiến trường” tình yêu, các INTJ cuối cùng cũng hiểu được giá trị của những cử chỉ quan tâm giản đơn, những điều ngọt ngào nhỏ bé.”</i>\n\nTuy nhưng đừng quá bi quan, chúng tôi mang tin tốt tới cho bạn đây: Những người thuộc nhóm tính cách INTJ thường hấp dẫn nhất khi họ không cố gắng để trở nên hấp dẫn.\n\nChỉ cần họ làm những gì mình giỏi nhất, đam mê nhất, sự tự tin và trí thông minh của họ sẽ tỏa sáng trong tình yêu.",
+                                },
+                                {
+                                    "titleChild": 'Một mình yêu "Lowkey"',
+                                    "content": "Nhóm tính cách INTJ không hay thể hiện sự lãng mạn theo những cách thông thường như tặng hoa hay viết thư tình sến sẩm.\n\nHầu hết các INTJ dành thời gian để suy nghĩ về tình yêu hơn là thể hiện tình cảm ra bên ngoài.\n\nKhi đối tượng hẹn hò của họ chia sẻ cảm xúc mạnh mẽ, họ thường sẽ im lặng hoặc là phân tích tình huống thay vì chỉ lắng nghe và an ủi.\n\nNhưng khi các INTJ nhận thấy rằng mối quan hệ này sẽ giúp họ tìm thấy hạnh phúc đích thực, họ sẽ cố gắng hết sức để vun vén cho tình yêu ấy, kể cả khi phải bước ra khỏi vùng an toàn của mình.\n\n<i>“Nhóm tính cách INTJ không phải lúc nào cũng sẵn sàng chia sẻ cảm xúc của họ, nhưng đừng nghĩ là họ không có cảm xúc hay là không sâu sắc nhé.”</i>\n\nTình yêu hiếm khi nào dễ dàng, nhưng đó là một thử thách có thể giúp các INTJ trưởng thành hơn.\n\nThông qua các mối quan hệ, họ có thể học cách chia sẻ cảm xúc và cởi mở hơn với những người xung quanh.",
+                                },
+                            ],
+                        },
+                        {
+                            "title": "INTJ trong tình bạn",
+                            "itemsChild": [
+                                {
+                                    "content": "<i>“Một người làm bạn với tất cả thì chẳng thật sự thân thiết với ai.” - Aristotle</i>\n\nLà một người có cá tính, sắc sảo và hài hước nhưng các INTJ lại không phải “gu” bạn bè của nhiều người.\n\nCơ mà họ cũng chẳng bận tâm lắm.\n\nPhần lớn những người có tính cách INTJ không bị ám ảnh với việc được mọi người yêu thích.\n\nHọ không dễ dành thời gian và năng lượng của mình cho những người mà họ không quen thân.\n\nNhưng nếu gán cho INTJ danh hiệu anti loài người thì cũng không đúng.\n\nCác INTJ biết tận hưởng niềm vui nho nhỏ khi ở một mình với những suy nghĩ của riêng mình, nhưng đồng thời họ cũng rất thích được dạo chơi và tán dóc với những người bạn thân thuộc.",
+                                },
+                                {
+                                    "titleChild": "Tương xứng về trí tuệ",
+                                    "content": "Việc kết bạn với một INTJ không phải lúc nào cũng dễ dàng.\n\nNhững người thuộc nhóm tính cách này thường thiếu kiên nhẫn với những quy tắc và kỳ vọng của xã hội.\n\nHọ thà ở một mình còn hơn là phí thời gian với những người tẻ nhạt hoặc khó ưa.\n\nCác INTJ thường có những tiêu chuẩn rõ ràng về những gì họ mong đợi từ bạn bè và các mối quan hệ xã giao.\n\nHọ không muốn lãng phí quá nhiều thời gian cho những ai không đáp ứng được tiêu chuẩn của mình.\n\n<i>“INTJ quan tâm đến chiều sâu và chất lượng. Họ lựa chọn chỉ kết giao với một vài người bạn tốt còn hơn trăm mối quan hệ xã giao.”</i>\n\nThực tế là các INTJ có sở trường tìm kiếm tình bạn ở những nơi tưởng như là không thể.\n\nHọ không quan tâm đến ngoại hình hay địa vị xã hội, không ngại kết bạn với những người bị số đông coi là “kẻ lập dị”.\n\nHọ chỉ quan tâm xem người bạn ấy có hợp tính cách, hợp lối sống, hợp cách tư duy với mình hay không.",
+                                },
+                                {
+                                    "titleChild": "Một tình bạn lạ thường",
+                                    "content": "Trong tình bạn cũng như các khía cạnh khác trong cuộc sống, nhóm tính cách INTJ đánh giá cao sự độc lập.\n\nHọ cho rằng những quy định và nguyên tắc truyền thống sẽ chỉ khiến mối quan hệ trở nên ngột ngạt hơn mà thôi.\n\nCác INTJ không muốn cảm thấy phải chịu ơn bạn bè và cũng không muốn bạn bè của họ cảm thấy phải chịu ơn họ khi hai bên giúp đỡ nhau.\n\nĐối với họ, tình bạn lý tưởng là tình bạn không drama, được xây dựng dựa trên sự hiểu biết, tôn trọng và hòa hợp lẫn nhau chứ không phải là nghĩa vụ hay trách nhiệm.\n\n<i>“Ngay cả khi ở cạnh những người thân thiết nhất, các INTJ cũng khó có thể xử sự thoải mái và bộc lộ toàn bộ cảm xúc của mình”</i>\n\nTất nhiên, tình bạn dù lâu dài tới đâu cũng sẽ có lúc phát sinh vấn đề, thậm chí là vấn đề vô cùng nghiêm trọng khiến các INTJ, những người vốn luôn tự tin với sự hiểu biết và năng lực của mình, trở nên mất phương hướng vì không biết nên giải quyết ra sao.\n\nKhi cuộc tranh cãi nổ ra, thay vì nhất quyết truy ra ai là người phải chịu trách nhiệm thì họ nên bình tâm ngồi xuống và tháo gỡ khúc mắc.\n\nKhi ở cùng những người bạn họ thân thuộc, các INTJ mới có thể thả lỏng và là chính mình.\n\nTuy nhiên họ cũng nên cẩn thận trong lời ăn tiếng nói, bởi không phải ai cũng hiểu được ý nghĩa trong những câu đùa dí dỏm sâu xa của họ, đặc biệt là đối với những người thẳng thắn và suy nghĩ đơn giản.",
+                                },
+                            ],
+                        },
+                        {
+                            "title": "INTJ khi làm cha mẹ",
+                            "itemsChild": [
+                                {
+                                    "content": "<i>“Trẻ em nên được dạy cách tư duy thay vì được cầm tay chỉ việc.” - Margaret Mead.</i>\n\nCác INTJ nổi tiếng là người lý trí và có khả năng tự kiểm soát bản thân, và họ sẽ ngạc nhiên khi một ai đó - ví dụ như con cái họ - không có những phẩm chất này.\n\nVới nhóm tính cách INTJ, việc nuôi dạy con cái thường đòi hỏi phải thành thạo các kỹ năng cơ bản và phát triển tính linh hoạt trong nhận thức.\n\nMay mắn thay, đối với những người có khả năng đối mặt với thử thách như các INTJ, việc trở thành cha mẹ sẽ không khiến họ quá bối rối.",
+                                },
+                                {
+                                    "titleChild": "Sự gắn kết chân thực",
+                                    "content": "Các INTJ muốn con cái họ có tinh thần tự lập, biết mình thích gì và muốn gì.\n\nThay vì áp dụng những quy tắc vô nghĩa, cha mẹ INTJ sẽ tìm kiếm những phương pháp phù hợp với lứa tuổi để thúc đẩy tính độc lập của con cái, giúp chúng có tinh thần trách nhiệm với chính bản thân mình.\n\n<i>“Các bậc cha mẹ INTJ tôn trọng ý kiến của những đứa trẻ, bởi bản thân họ cũng mong muốn mình được tôn trọng và lắng nghe.”</i>\n\nThay vì dùng cả cuộc đời để che chở và dìu dắt con cái thành người thì họ sẽ đứng từ xa và hướng dẫn những đứa trẻ cách làm chủ cuộc sống.\n\nĐối với những người thuộc nhóm tính cách INTJ, việc bao bọc con quá mức chính là đang gián tiếp hại chúng, khiến chúng không thể phát triển thể chất và tinh thần một cách toàn diện.\n\nTất nhiên là việc thành bại của phương pháp giáo dục này phụ thuộc vào việc các INTJ có đủ mạnh mẽ để vượt qua những thử thách trong quá trình nuôi dạy trẻ hay không.",
+                                },
+                                {
+                                    "titleChild": "Sự hỗn loạn trong cảm xúc",
+                                    "content": "So với nhiều nhóm tính cách khác, các INTJ không quá thoải mái với việc thể hiện tình cảm.\n\nHọ có thể cảm thấy không tự nhiên khi dành những lời yêu thương, khen ngợi cho ai đó - kể cả là con cái của họ.\n\nNhưng rõ ràng là những đứa trẻ nên nhận được những lời động viên, khen ngợi theo cách này hoặc cách khác để cảm thấy tự tin hơn và bước về phía trước.\n\nDo đó, các bậc cha mẹ INTJ cũng cần bước ra khỏi vùng an toàn của mình và chủ động thể hiện tình cảm với con cái nhiều hơn.\n\nMột thách thức khác đối với các bậc cha mẹ INTJ này là sự hỗ trợ về mặt tinh thần cho những đứa trẻ.\n\nCác INTJ rất tự hào về khả năng làm chủ cảm xúc của họ, và họ kỳ vọng con mình cũng có thể làm như vậy.\n\nTuy nhiên, sự kỳ vọng này có phần không hợp lý.\n\nỞ độ tuổi của mình, những đứa trẻ vẫn đang từng ngày lớn lên, từng ngày phát triển về mặt nhận thức, chúng vẫn đang bị kẹt giữa những cảm xúc hỗn loạn trong quá trình trưởng thành.\n\nKhi đó, việc mà những Nhà khoa học nên làm là sát cánh bên cạnh và giúp con cái mình ổn định lại về mặt tinh thần.\n\n<i>“Các INTJ rất giỏi trong việc nghiên cứu và giải quyết vấn đề từ trong gốc rễ. Nhưng đôi khi điều mà những đứa trẻ cần chỉ đơn giản là có ba mẹ sát bên và giúp đỡ chúng vào thời điểm khó khăn.”</i>",
+                                },
+                                {
+                                    "titleChild": "Chuẩn bị cho những thách thức của cuộc sống",
+                                    "content": "Các INTJ cố gắng đảm bảo rằng con cái của họ được chuẩn bị sẵn sàng để đối phó với bất cứ điều gì có thể ập đến trong cuộc sống bằng cách biến thách thức thành cơ hội.\n\nMỗi sự việc xảy đến sẽ là một bài học cho những đứa trẻ, và các bậc phụ huynh sẽ giúp chúng tìm ra cách thức tư duy và xử lý vấn đề.\n\nCàng lớn thì thách thức càng trở nên phức tạp, và đó là cách mà những đứa trẻ trưởng thành.\n\nMỗi bậc cha mẹ đều có một ước mơ khác nhau cho tương lai của con mình.\n\nĐối với các INTJ, ước mơ của họ là nuôi dạy con cái thành một người trưởng thành có năng lực, biết suy nghĩ và giải quyết vấn đề của chính mình.\n\nCác INTJ hiểu rằng ước mơ này không thể thành sự thật nếu họ tiếp tục bảo hộ con cái trong vòng tay mình mà không cho chúng được trực tiếp đối đầu với những thách thức của cuộc sống.\n\nDo đó việc chuẩn bị kỹ lưỡng hành trang trước khi vào đời là vô cùng cần thiết.",
+                                }
+                            ],
+                        },
+                    ]
+                },
+                {
+                    "section": "Làm sao để thân thiết với INTJ",
+                    "items": [
+                        {
+                            "content": "Nếu muốn thân thiết với các INTJ thì lời khuyên đầu tiên dành cho bạn đó là “sự chân thành”.\n\nBởi các INTJ sẽ không cảm động trước những lời đường mật và không thấy thoải mái trước những lời khen nếu họ không cảm nhận được sự chân thành từ bạn.\n\nNgoài ra nếu muốn xác lập mối quan hệ lâu dài với nhóm tính cách này thì bạn nên thẳng thắn và trung thực.\n\nCác INTJ không thích vòng vo, luôn thẳng thắn nêu rõ quan điểm, họ đặc biệt không thích chạy theo số đông mà giả dối.\n\nSau cùng, để tạo lập một mối quan hệ thân thiết với các INTJ thì hãy tham gia vào những cuộc trò chuyện có ý nghĩa, sâu sắc và kích thích trí tuệ bởi họ rất coi trọng những cuộc thảo luận như như vậy.\n\nMột số điều bạn cần lưu ý khi tiếp xúc với INTJ:\n\n● <b>Cẩn trọng khi hỏi về đời sống riêng tư.</b> Là người khá khép kín lại có tính cách độc lập nên những người thuộc nhóm tính cách INTJ rất tôn trọng không gian riêng tư của bạn bè, vì vậy với những câu hỏi về đời sống riêng tư bạn nên cẩn trọng nếu muốn xác lập mối quan hệ thân thiết với họ.\n\n● <b>Trong công việc hãy để họ làm việc độc lập.</b> Bởi INTJ thuộc nhóm tính cách hướng nội, họ thích ở một mình, sống trong thế giới nội tâm của họ vì vậy họ không thích những công việc yêu cầu làm việc nhóm hay tập thể.\n\n● <b>Hãy bắt đầu bằng những câu chuyện “dí dỏm.</b> Bởi đây là nhóm tính cách rất thích kể những câu chuyện đầy ẩn ý và dí dỏm với những người xung quanh, đừng bao giờ nói chuyện kiểu úp mở bởi họ cảm thấy khá khó chịu với kiểu nói chuyện này.\n\n● <b>Khi gặp vấn đề phức tạp hay cần ý tưởng mới hãy tìm đến INTJ.</b> Các INTJ đặc biệt bị thu hút bởi những quan điểm khác thường, luôn cởi mở những ý tưởng mới. Bạn có thể hỏi: “Tôi muốn giải quyết vấn đề này theo cách mới mẻ hơn thì phải làm sao?” Vấn đề càng phức tạp thì họ lại càng thích thú.\n\n● <b>Đừng tặng quá nhiều quà hay những món quà đắt tiền.</b> Họ trân trọng và thích những món quà mang ý nghĩa giá trị tinh thần và cảm thấy áp lực trước những món quà đắt tiền.\n\n● <b>Đừng bao giờ nói chuyện phiếm qua điện thoại.</b> Nếu bạn muốn nói chuyện phiếm qua điện thoại để thân thiết hơn với các INTJ thì bạn đã mắc “sai lầm” vì đây là nhóm tính cách rất ghét nói chuyện phiếm qua điện thoại. Thay vào đó bạn hãy gọi điện khi thật sự cần thiết và chỉ nói ngắn gọn về công việc.\n\n● <b>Hạn chế gọi điện cho INTJ.</b> Khi gặp vấn đề hoặc cần trao đổi với INTJ thì bạn nên trao đổi bằng văn bản, bởi việc thường xuyên gọi điện hay gặp mặt sẽ khiến họ cảm thấy bất tiện."
+                        },
+                    ],
+                },
+                {
+                    "section": "Con đường sự nghiệp",
+                    "items": [
+                        {
+                            "content": "Nhóm tính cách INTJ hiếm khi hài lòng với những công việc quá dễ dàng hoặc nhàn hạ. Họ muốn một sự nghiệp có thể giúp họ khơi dậy trí tò mò, tận dụng tối đa trí thông minh, cho phép họ giải quyết những thách thức trong cuộc sống. Công việc càng đòi hỏi nhiều về mặt tư duy càng khiến các INTJ hứng thú."
+                        },
+                        {
+                            "title": "Chán nản ở giai đoạn đầu của sự nghiệp",
+                            "content": "Ở nơi làm việc, các INTJ được biết đến là người có năng lực và làm việc hiệu quả, tuy nhiên khi mới bước chân vào môi trường làm việc, họ sẽ phải bắt đầu từ những nhiệm vụ nhỏ và đơn giản nhất (vì tất nhiên hầu như không cấp trên nào lại giao cho newbie những công việc quan trọng khó nhằn) và điều đó khiến họ cảm thấy khá “nản”.\n\nNhóm tính cách này tràn ngập những những ý tưởng sáng tạo và đột phá.\n\nTuy nhiên một số góc khuất tại nơi làm việc khiến họ khó có thể “sống sót” nơi chính trường công sở và giành được sự ưu ái của sếp cũng như đồng nghiệp.\n\nTin vui là, sau một thời gian cố gắng không ngừng nghỉ, các INTJ cuối cùng cũng có cơ hội phát huy hết khả năng của mình.\n\nNgay cả khi mọi người xung quanh họ trở thành nạn nhân của vấn nạn “tư duy tập thể”, các INTJ vẫn có thể vượt qua những cám dỗ và phát huy được sức sáng tạo vô biên của mình và đạt được những thành tựu “ngọt ngào” trong sự nghiệp."
+                        },
+                        {
+                            "title": "Tìm kiếm một vị trí phù hợp",
+                            "content": "Một số nhóm tính cách thích các công việc đòi hỏi làm việc nhóm và không ngừng tương tác, nhưng đa phần các INTJ chỉ thích làm việc một mình.\n\nNhư vậy họ có thể tận dụng tối đa khả năng sáng tạo của mình mà không bị gián đoạn liên tục bởi những đồng nghiệp tò mò thích soi mói.\n\nCác INTJ tin rằng muốn làm tốt việc gì thì họ nên tự mình làm lấy.\n\n<i>“Những người thuộc nhóm tính cách INTJ coi trọng tính tháo vát, sự can đảm, vốn hiểu biết sâu rộng và sự cam kết - ở chính họ cũng như những người khác.”</i>\n\nMặt khác, các INTJ không coi trọng những người đi lên nhờ quan hệ thay vì tự thân vận động.\n\nVì vậy, đối với những cá nhân thăng tiến nhờ “ô dù”, các INTJ sẽ thẳng thắn chỉ ra những sai lầm của họ, hoặc đơn giản là làm việc không ngừng nghỉ để chứng tỏ bản thân mới là người xứng đáng có được những vị trí quan trọng trong công ty."
+                        },
+                        {
+                            "title": "Những thách thức lớn",
+                            "content": "Các INTJ luôn có nhu cầu tiến xa hơn trong sự nghiệp, nâng tầm ảnh hưởng của bản thân.\n\nMột số nghề nghiệp tiêu biểu như quản lý dự án, kỹ sư hệ thống, chiến lược gia, nhà phân tích hệ thống, nhà tư vấn quản lý và nhà chiến lược quân sự.\n\nNhững người thuộc nhóm tính cách INTJ thường hạnh phúc nhất với những công việc cho phép họ đổi mới và thử nghiệm theo cả quy mô lớn và nhỏ.\n\nDo vậy, chẳng có gì ngạc nhiên khi các công việc trong lĩnh vực kỹ thuật, nghiên cứu, khoa học và công nghệ là những lựa chọn hợp lý cho các INTJ.\n\nCác lĩnh vực sáng tạo như kiến trúc, sáng tác âm nhạc, thiết kế trò chơi điện tử cũng là lựa chọn không tồi đối với những Nhà khoa học.\n\nGiỏi phân tích, tính toán nên những ngành nghề như kiểm toán viên, chuyên gia an ninh mạng hoặc nhà phân tích kinh doanh cũng khá thu hút các INTJ.\n\n<i>“INTJ cho rằng, sự kết hợp giữa kinh nghiệm thực tiễn và đạo đức nghề nghiệp là nền tảng của thành công.”</i>\n\nThực tế, các INTJ có thể áp dụng thế mạnh của họ vào bất kỳ vai trò nào.\n\nVí dụ, trong ngành bán lẻ, tính tò mò có thể khiến họ tìm hiểu vì sao thiết kế mặt trước cửa hàng này lại đem lại nhiều khách hàng hơn cửa hàng khác, vì sao cùng một loại sản phẩm nhưng với bao bì A lại bán chạy hơn bao bì B.\n\nMột số nghề nghiệp cần giao tiếp nhiều như bán hàng hoặc hành chính nhân sự có vẻ không quá phù hợp với các INTJ, nhưng may mắn là họ có khả năng “nhìn xa trông rộng” để dần thích ứng và thành công trong các lĩnh vực đó.\n\nLà người có tầm nhìn, các INTJ muốn tìm kiếm một nghề nghiệp giúp họ có thể phát huy được tất cả thế mạnh của mình.\n\nHọ có thể biến những nguyên tắc phức tạp thành các chiến lược rõ ràng, khả thi, điều mà hiếm có nhóm tính cách nào khác làm được.\n\nCác INTJ biết họ có thể cống hiến được gì cho thế giới - và họ ưu tiên các vị trí công việc có thể tận dụng tối đa những kỹ năng, kiến thức và trí tuệ họ có để hiện thực hóa điều đó."
+                        },
+                        {
+                            "title": "Những nghề nghiệp phù hợp",
+                            "content": "Các INTJ được biết đến với khả năng tiếp thu kiến thức tốt, sau đó chuyển hóa chúng thành những ý tưởng thực tiễn với hiệu quả cao, vì vậy họ rất phù hợp với những nghề nghiệp có nhiệm vụ lên chiến lược, xây dựng kế hoạch trong ngắn hạn và dài hạn.\n\nSự nghiệp điển hình của INTJ cũng có xu hướng đặt vào những nghề nghiệp yêu cầu phải tư duy độc lập.\n\nHọ như những “con sói cô độc”, đủ linh hoạt, bản lĩnh và khả năng để tự mình đối đầu với những khó khăn, thử thách thay vì chỉ làm những công việc thường nhật và bị kìm hãm bởi những cá nhân không ngang tài ngang sức.\n\nĐể tìm kiếm chỗ đứng trong xã hội hay cần định hướng xem mình có đang đi đúng hướng hay không, điều quan trọng nhất là bạn cần phải nắm được những điểm mạnh điểm yếu của mình.\n\n“Biết mình biết ta trăm trận trăm thắng”, biết phát huy thế mạnh và khắc phục thiếu sót là bạn đã nắm trong tay một nửa thành công.\n\nDưới đây là các công việc phù hợp với INTJ bạn có thể tham khảo:\n\n● Nhà hoạch định chiến lược\n\n● Lãnh đạo quân đội\n\n● Nhà khoa học\n\n● Bác sĩ đa khoa\n\n● Nha sĩ\n\n● Kỹ sư\n\n● Quản trị kinh doanh\n\n● Thẩm phán\n\n● Luật sư\n\n● Lập trình viên máy tính\n\n● Nhà phân tích hệ thống\n\n● Chuyên gia máy tính\n\n● Giáo sư và giáo viên"
+                        },
+                    ]
+                },
+                {
+                    "section": "Thói quen nơi công sở",
+                    "items": [
+                        {
+                            "content": "Dù ở bất kỳ đâu trên nấc thang sự nghiệp, các INTJ đều muốn theo đuổi mục tiêu nghề nghiệp theo tiêu chuẩn của riêng họ, và thường là tiêu chuẩn cao. Tuy nhiên, nếu cứ đi theo lối mòn này, họ có thể trở nên khắt khe trong công việc, đôi khi là không chịu hợp tác được với những đồng nghiệp mà họ không quá tôn trọng (và không may là phần lớn đồng nghiệp rất dễ làm mất lòng các INTJ)."
+                        },
+                        {
+                            "title": "INTJ khi là nhân viên",
+                            "content": "Các nhân viên INTJ, kể cả nhân viên mới, đều có cá tính độc lập.\n\nHọ không thích những cấp trên quản lý sát sao quá mức, làm lãng phí thời gian của họ bằng những cuộc họp vô nghĩa, quan trọng hóa những quy tắc vô bổ hay đánh giá hiệu suất nhân viên bằng cảm nhận chủ quan thay vì năng lực thật sự.\n\nNhững người thuộc nhóm tính cách INTJ không quá đặt nặng địa vị trong một tổ chức, họ sẵn sàng chỉ trích cấp trên nếu họ cho rằng người đó không đủ chuyên môn hay kinh nghiệm để dẫn dắt đội nhóm.\n\nTrong thực tế, không phải vị sếp nào cũng hoàn hảo ở mọi phương diện từ kiến thức chuyên môn, kinh nghiệm thực tế tới khả năng lãnh đạo đội nhóm.\n\nThay vì đối chọi gay gắt với cấp trên thì một lời khuyên là các INTJ hãy khéo léo ứng xử để xây dựng mối quan hệ tốt đẹp với đồng nghiệp và cấp trên, như vậy bạn có thể có nhiều cơ hội phát triển bản thân hơn trong tương lai."
+                        },
+                        {
+                            "title": "INTJ khi là đồng nghiệp",
+                            "content": "Rất ít INTJ chọn những công việc đòi hỏi phải làm việc nhóm hoặc giao tiếp thường xuyên.\n\nĐối với họ, các hoạt động team building và các cuộc họp nhóm đều là những sự kiện gây lãng phí thời gian.\n\nBuôn chuyện, đàm tiếu và drama với họ chẳng khác gì những căn bệnh ở chốn công sở.\n\nNgay cả một buổi họp ý tưởng (brainstorm) mà các họ yêu thích cũng có thể trở nên tẻ nhạt nếu mọi người lâm vào bế tắc và không đưa ra được phương án hành động rõ ràng.\n\n<i>“Hầu hết các INTJ thà làm việc một mình còn hơn là bị trì hoãn bởi những đồng nghiệp thiếu tập trung.”</i>\n\nMay mắn là sự quyết tâm của các INTJ thường giúp họ đạt hiệu quả trong công việc ngay cả khi không có sự trợ giúp của người khác.\n\nVới năng lực của mình, INTJ có thể trở thành người cộng sự xuất sắc nếu họ tìm thấy những đồng nghiệp có cùng chí hướng."
+                        },
+                        {
+                            "title": "INTJ khi là cấp trên",
+                            "content": "Các INTJ có thể trở thành những lãnh đạo tuyệt vời.\n\nỞ nơi làm việc, họ hiếm khi sử dụng quyền hạn của mình chỉ để thể hiện, thay vào đó, họ tìm cách thúc đẩy sự đổi mới và nâng cao hiệu quả công việc, cho dù phải phá vỡ những quy định, nguyên tắc vốn có.\n\n<i>“Trong công việc, các cấp trên là INTJ thích được công nhận về mặt năng lực hơn là những lời tán dương ngọt ngào.”</i>\n\nThay vì quản lý vi mô, những vị sếp INTJ tập trung chỉ đạo chiến lược tổng thể và để cho cấp dưới tự do triển khai công việc.\n\nNhưng điều đó không có nghĩa là họ hoàn toàn buông tay không can thiệp đâu nhé.\n\nCác lãnh đạo INTJ đôi khi sẽ muốn biết chính xác nhân viên của mình đang làm gì, tiến độ thế nào, hiệu quả ra sao và phương án tiếp theo là gì.\n\nVì vậy nếu bạn là nhân viên của INTJ, hãy luôn chuẩn bị tinh thần bị sếp “sờ gáy” bất cứ lúc nào.\n\nLãnh đạo thuộc nhóm tính cách INTJ sẽ tôn trọng và khen thưởng sự chủ động, giao phó trách nhiệm cho những nhân viên có kỹ năng tư duy phản biện tốt nhất.\n\nVì vậy, những nhân viên không thể tự định hướng bản thân mà chỉ muốn được cầm tay chỉ việc hiển nhiên sẽ không đáp ứng được yêu cầu của các INTJ."
+                        },
+                    ]
+                },
+                {
+                    "section": "So sánh INTJ với INTP, ENTJ",
+                    "items": [
+                        {
+                            "content": "Khi so sánh INTJ (Nhà khoa học) với những nhóm tính cách có sự tương đồng (<b>INT</b>P - Nhà tư duy, E<b>NTJ</b> - Người trách nhiệm), bạn sẽ hiểu rõ hơn về đặc tính của nhóm INTJ"
+                        },
+                        {
+                            "title": "Điểm giống nhau",
+                            "content": 'N - Trực giác và T - Lý trí: Cả ba nhóm tính cách này của MBTI đều là những người lý trí và trực giác, họ đưa ra quyết định dựa trên lý trí thay vì dựa trên cảm xúc.\n\nNgoài ra, cả 3 nhóm tính cách này đều không giỏi trong việc bộc lộ cảm xúc của mình.\n\nKhi đối chiếu INTJ với INTP, ENTJ chúng tôi nhận thấy mỗi cặp sẽ có những điểm chung riêng như sau:\n\n● <b>INT</b>J và <b>INT</b>P: Cả hai đều là những người độc lập, cởi mở với những ý tưởng mới, có xu hướng sống trong thế giới nội tâm của riêng mình, giàu trí tưởng tượng, tôn trọng tri thức và trí tuệ.\n\n● I<b>NTJ</b> và E<b>NTJ</b>: Họ đều là những người rất quyết đoán, đưa ra quyết định nhanh chóng và có khả năng “nhìn xa trông rộng". Đây cũng chính là lý do khiến họ là những “nhà lãnh đạo bẩm sinh".',
+                        },
+                        {
+                            "title": "Điểm khác nhau",
+                            "content": "Các bạn có thể thấy, dù chỉ chênh nhau một chữ cái, song sự khác biệt giữa các nhóm tính cách này lại cách nhau cả dải ngân hà. Bạn có thể thấy rõ điều này thông qua bảng so sánh dưới đây." 
+                        },
+                    ],
+                    "tables": [
+                        {
+                            "headers": ["Đặc điểm", "INTP", "INTJ", "ENTJ"],
+                            "rows": [
+                                ["Diễn giải chữ viết tắt", "I - Hướng nội<br>N - Trực giác<br>T - Lý trí<br><b>P - Linh hoạt</b>", "<b>I - Hướng nội</b><br>N - Trực giác<br>T - Lý trí<br><b>J - Nguyên tắc</b>", "<b>E - Hướng ngoại</b><br>N - Trực giác<br>T - Lý trí<br>J - Nguyên tắc"],
+                                ["Cách tiếp cận thông tin", "Dựa trên những lập luận có căn cứ", "Dựa trên lý tính, nghiên cứu và phân tích", "Xem xét vấn đề từ nhiều góc độ để đưa ra đánh giá khách quan nhất"],
+                                ["Trong các mối quan hệ", "- Thích kết giao với những người có niềm đam mê thảo luận về lĩnh vực học thuật<br>- Ngay từ đầu INTP thường rất chân thành, thẳng thắn bày tỏ tình cảm của mình<br>- Họ có xu hướng né tránh khi phát sinh xung đột và bất đồng", "- Thích kết giao với những người hợp tính cách, hợp lối sống, hợp cách tư duy<br>- Các INTJ tiếp cận tình yêu như cách mà họ đối mặt với thách thức: xây dựng chiến lược, lên kế hoạch và vạch ra các mục tiêu rõ ràng để đạt được mục tiêu đó<br>- Các INTJ không bị đe dọa bởi chỉ trích và xung đột", "- Thường kết giao với những người có chung niềm đam mê, chung mong muốn được học hỏi, tiếp thu kiến thức mới<br>- Các ENTJ luôn là người chủ động trước, ngay từ đầu họ xác định rõ những gì mình muốn và những gì cần phải làm để đạt được mục đích đó<br>- ENTJ Có thể chuyển hóa một tình huống xung đột thành một bài học tích cực"],
+                                ["Trong công việc", "- Có xu hướng lựa chọn công việc có tính sáng tạo<br>- Thích làm việc theo nhóm<br>- Không phù hợp những công việc thiên về cảm xúc<br>- Ở vị trí lãnh đạo, họ thường trao cho nhân viên của mình nhiều quyền tự quyết trong công việc<br>- Phù hợp với môi trường cho phép xử lý các vấn đề một cách sáng tạo, linh hoạt, không ràng buộc bởi các nguyên tắc", "- Có xu hướng lựa chọn công việc đòi hỏi nhiều về mặt tư duy<br>- Chỉ thích làm việc độc lập, một mình không thích làm việc theo nhóm<br>- Ở vị trí lãnh đạo INTJ tập trung chỉ đạo chiến lược tổng thể và để cho cấp dưới tự do triển khai công việc<br>- Phù hợp với môi trường làm có sự logic, cấu trúc, phân tích và hiệu quả", "- Có xu hướng lựa chọn công việc được nhận nhiệm vụ lãnh đạo, trách nhiệm, cơ hội để phát triển và nâng cao năng lực bản thân<br>- Có khả năng làm việc độc lập và theo nhóm<br>- Ở vị trí lãnh đạo, có năng lực xây dựng chiến lược, xác định điểm mạnh và điểm yếu của từng nhân viên, kết hợp đội nhóm để mỗi người đều có thể phát huy hết khả năng của mình nhưng đôi khi có sự độc tài, áp đặt<br>- Phù hợp với môi trường có cấu trúc, trật tự có nguyên tắc và coi trọng năng lực"]
+                            ]
+                        }
+                    ],
+                    "content": "Tóm lại cả ba nhóm tính cách INTP, INTJ, ENTJ đều là những người không giỏi việc thể hiện cảm xúc. Tuy nhiên, trong các mối quan họ có xu hướng kết giao với những người hoàn toàn khác biệt.\n\nĐiều này được thể hiện qua việc, INTP thích kết giao với những người có niềm đam mê về lĩnh vực học thuật, INTJ lại thích kết giao với những người hợp tính cách, tư duy và lối sống, trong khi ENTJ có xu hướng kết giao với những người có cùng đam mê. Sự khác biệt này sẽ thay đổi vòng tròn quan hệ cũng như hướng đi trong cuộc đời của mỗi nhóm tính cách." 
+                },
+                {
+                    "section": "Lời khuyên dành cho ISFP",
+                    "items": [
+                        {
+                            "title": "Hiểu vấn đề trước khi đưa ra phán xét",
+                            "content": "Trước khi đưa ra phán xét ý kiến của một ai đó, các INTJ nên cẩn thận lắng nghe ý kiến đó để đảm bảo bản thân phải hiểu bản chất vấn đề đó. Thậm chí hãy đặt câu hỏi nếu cần thiết để hiểu sâu vấn đề. Hãy cố gắng đừng đánh giá bất cứ điều gì trước khi bạn hiểu nó hoàn toàn."
+                        },
+                        {
+                            "title": "Khiêm tốn, không kiêu ngạo",
+                            "content": "Các INTJ nên khiêm tốn, không nên quá tự cao hãy cố gắng giữ mối quan hệ tốt với tất cả mọi người kể cả những những bạn cho là kém cỏi hơn mình. Mỗi người đều có điểm mạnh riêng, việc bạn quá kiêu ngạo có thể khiến bản thân bỏ qua những thông tin hữu ích của những người xung quanh."
+                        },
+                        {
+                            "title": "Học cách kiềm chế",
+                            "content": 'Để bản thân không bị rơi vào trạng thái lạc lõng và cô đơn thì các INTJ nên kiểm soát “sự tức giận". Hãy nhớ rằng sự tức giận có thể hủy hoại các mối quan hệ cá nhân của bạn. Hãy cố gắng giữ mối quan hệ tốt với tất cả mọi người, bạn sẽ thấy cuộc sống này.',
+                        },
+                        {
+                            "title": "Đừng sống quá lý trí",
+                            "content": "Các INTJ không nên quá coi trọng lý trí mà xem nhẹ cảm xúc. Hãy nhận biết nhu cầu tình cảm của người khác và học cách bày tỏ tình yêu cũng như sự tôn trọng chân thành của bạn dành cho họ."
+                        },
+                        {
+                            "title": "Hãy chịu trách nhiệm về bản thân",
+                            "content": "Đừng đổ lỗi những vấn đề trong cuộc sống của bạn cho người khác. Hãy nhìn vào bên trong để tìm giải pháp. Không ai có quyền kiểm soát cuộc sống của bạn nhiều hơn bạn."
+                        },
+                        {
+                            "title": "Đừng để bị cô lập",
+                            "content": "Hãy nhận ra giá trị mà thế giới bên ngoài mang lại cho bạn và tương tác với nó theo phong cách tự nhiên bằng cách tham gia vào các cuộc thảo luận chuyên sâu về các chủ đề mà bạn quan tâm. Tìm kiếm và nuôi dưỡng tình bạn với những người có cùng năng lực, tính cách, lối sống, tư duy."
+                        },
+                    ]
+                },
+            ]
+        },
+        {
+            "code": "INTJ",
+            "name": "Nhà khoa học",
+            "description": "INTJ được xem là nhóm tính cách bí ẩn và thông minh nhất. Họ thường đóng vai trò “chìa khóa” giải quyết vấn đề trong những tình huống hóc búa. Tinh thần lạc quan, luôn nhìn vào mặt tích cực khiến các INTJ có thể nhìn ra điểm sáng ngay cả trong những tình cảnh “éo le” nhất. Những người thuộc nhóm tính cách INTJ có tinh thần học hỏi cao, không ngừng khai phá những giới hạn mới của bản thân để tạo ra sự đổi mới tích cực cho môi trường xung quanh.",
+            "image": "./img/intj.png",
+            "details": [
+                {
+                    "section": "Tổng quan",
+                    "items": [
+                        {
+                            "content": "<b>INTJ (Nhà khoa học)</b> được xem là nhóm tính cách bí ẩn và thông minh nhất. Họ thường đóng vai trò “chìa khóa” giải quyết vấn đề trong những tình huống hóc búa. Tinh thần lạc quan, luôn nhìn vào mặt tích cực khiến các INTJ có thể nhìn ra điểm sáng ngay cả trong những tình cảnh “éo le” nhất. Những người thuộc nhóm tính cách INTJ có tinh thần học hỏi cao, không ngừng khai phá những giới hạn mới của bản thân để tạo ra sự đổi mới tích cực cho môi trường xung quanh."
+                        },
+                        {
+                            "title": "INTJ là viết tắt của những chữ cái gì?",
+                            "content": "● <b>I - Hướng nội:</b> Đối với những người thuộc nhóm tính cách INTJ, thế giới ẩn sâu bên trong mỗi chúng ta mới là thế giới thật.\n\nNgược lại, thế giới bên ngoài là nơi thuộc về những người E - Hướng ngoại.\n\n● <b>N - Trực giác:</b> Bạn tập trung vào ý nghĩa của sự vật, sự việc, khác với những người có tính cách S - Giác quan sử dụng cả năm giác quan thị giác, thính giác, khứu giác, vị giác, cảm giác để nhìn nhận và đánh giá.\n\n● <b>T - Lý trí:</b> Bạn đưa ra quyết định dựa trên góc nhìn thực tế bằng số liệu và đo lường chính xác.\n\nNgược lại, các F - Cảm xúc ưu tiên đưa ra quyết định dựa trên cảm nhận cá nhân.\n\n● <b>J - Nguyên tắc:</b> Bạn dựa vào cấu trúc sẵn có để thoải mái đưa ra quan điểm mà không phải mất công suy xét nhiều.\n\nTrong khi đó, những người thiên về tính cách P - Linh hoạt lại thích môi trường tự do và họ sẽ tự sắp đặt quy tắc bên trong cho mình."
+                        },
+                        {
+                            "title": "Mọt sách chính hiệu",
+                            "content": "Những người mang tính cách INTJ thường tỏa ra sự tự tin nhờ lượng kiến thức khổng lồ ở nhiều lĩnh vực khác nhau mà họ đã trang bị cho bản thân. Các INTJ theo đuổi đam mê khám phá từ rất nhỏ, và không ngừng trau dồi trong quá trình trưởng thành."
+                        },
+                        {
+                            "title": "Tự lập và quyết đoán",
+                            "content": "Bởi thuần thục ở rất nhiều lĩnh vực nên những người thuộc nhóm tính cách INTJ thường có tinh thần tự lập cao. Họ cũng rất quyết đoán trong việc đưa ra quyết định nhờ sự tin tưởng tuyệt đối vào bản thân. Tuy nhiên nếu cuộc thảo luận không thiên về lĩnh vực mà họ quan tâm thì các INTJ sẽ không chủ động nêu lên ý kiến của mình bởi họ không thích bị chú ý."
+                        },
+                        {
+                            "title": "Không ngừng học hỏi",
+                            "content": "Các INTJ luôn đánh giá cao việc cải tiến và đổi mới, không ngừng học hỏi và tìm ra những phương án mang lại hiệu quả cao hơn. Những người thuộc nhóm tính cách INTJ cũng thích quan sát, ghi nhớ và sau đó là nắm bắt các ý tưởng, đặc biệt là những ý tưởng mang tính thực tiễn để có thể bắt tay vào áp dụng ngay lập tức."
+                        },
+                        {
+                            "title": "Phương án tối ưu",
+                            "content": "Tuy đưa ra quyết định rất dứt khoát nhưng phương pháp thực hiện của các INTJ lại vô cùng linh hoạt. Trong quá trình nghiên cứu và tìm ra biện pháp, họ sẽ đưa ra vô vàn giả thiết, liên tục thử nghiệm và đứng một bên nhìn xem đâu mới là phương án mang lại hiệu quả cao nhất. Họ luôn chuẩn bị cho mình kế hoạch dự phòng cho mọi tình huống bởi các INTJ là những người cầu toàn. Đây là lý do khiến các INTJ trở thành những nhà lãnh đạo bẩm sinh nhờ khả năng “nhìn xa trông rộng” của mình."
+                        },
+                        {
+                            "title": '"Máu lãnh đạo" bẩm sinh',
+                            "content": "Các INTJ là những nhà lãnh đạo bẩm sinh, và khi ở cương vị là một người cấp trên họ luôn hoàn thành xuất sắc vai trò của mình. Dù vậy, các INTJ thường chọn lui về sau và nhường lại “sân khấu” cho những người có khả năng và muốn thể hiện bản thân. Họ sẽ dõi theo nhất cử nhất động của người lãnh đạo, cùng đánh giá và phân tích tình hình, và chỉ ra mặt ở những tình huống quan trọng."
+                        },
+                        {
+                            "title": "Cuộc sống là để chia sẻ",
+                            "content": "Các INTJ có vô vàn ý tưởng hay ho trong đầu nhưng họ lại không giỏi trong việc giải thích những ý tưởng ấy bằng lời. Thay vì đó, họ sẽ miêu tả theo hướng cụ thể và chi tiết nhất trong những báo cáo của mình để mọi người đều có thể đọc hiểu (và điều này đôi khi dẫn đến việc nhầm lẫn về cách hiểu giữa hai bên). Tuy vậy, là một người vô cùng tôn sùng tri thức và trí tuệ, các INTJ có thể miễn cưỡng bước ra khỏi “căn phòng khép kín” của mình để cắt nghĩa ý tưởng cho một số người mà họ cảm thấy là đủ quan trọng và đủ tầm nhìn để lĩnh hội."
+                        },
+                        {
+                            "title": "Nhìn xa trông rộng",
+                            "content": "Trong công việc, các INTJ là những người có tầm nhìn xa, họ viết ưu tiên những việc quan trọng lên trước và đánh giá dựa trên hiệu quả đạt được. Những người thuộc nhóm tính cách INTJ cũng rất ngăn nắp trong công việc, họ có thể dành hàng giờ để tái cấu trúc lại bộ máy nhân sự nếu thấy cần thiết để gia tăng hiệu quả và hiệu suất công việc."
+                        },
+                        {
+                            "title": "Công tư phân minh",
+                            "content": "Làm một người biết nhìn nhận thành công của người khác, các INTJ luôn đánh giá cao những người biết tạo ra hiệu quả trong công việc. Tuy nhiên, thay vì đưa ra lời khen (thường khá là xã giao) thì họ sẽ âm thầm tán thưởng và ghi nhớ trong lòng. Điều này có thể khiến các INTJ bị hiểu nhầm là những người khô khan và cứng nhắc."
+                        },
+                        {
+                            "title": "Sự nghiệp thăng hoa",
+                            "content": "Nhìn chung, các INTJ thích làm việc trong những lĩnh vực thế mạnh của mình, điển hình là khoa học kỹ thuật. Dù vậy, những ngành như pháp luật, điều tra cũng khá hợp với tính cách của những Nhà khoa học. Nếu để INTJ có quyền tự quyết thì họ sẽ không lựa chọn trở thành nhà lãnh đạo vì ở những cấp dưới họ có nhiều không gian để thực thi công việc hơn."
+                        },
+                        {
+                            "title": "Thuận theo tự nhiên",
+                            "content": "Giống như tất cả những nhóm tính cách khác, INTJ cũng có điểm yếu của mình. Dù rất giỏi trong việc thu hút người đối diện nhưng khi bước vào một mối quan hệ thì họ lại khá chần chừ và nhút nhát, đặc biệt là trong giai đoạn đầu. Họ không quá giỏi trong việc thực hiện những điều nên làm và phải làm trong tình yêu, ngược lại, các INTJ thích mọi chuyện được “thuận theo tự nhiên”, nuôi dưỡng tình cảm bằng những quan tâm chân thành nhất."
+                        },
+                        {
+                            "title": "Những người nổi tiếng mang tính cách INTJ",
+                            "content": "● Vladimir Lenin\n\n● Isaac Newton\n\n● Stephen Hawking\n\n● Ludwig van Beethoven\n\n● Mark Zuckerberg\n\n● Elon Musk\n\n● James Cameron\n\n● YangYang (WayV)"
+                        },
+                    ]
+                },
+                {
+                    "section": "Điểm mạnh và điểm yếu",
+                    "items": [
+                        {
+                            "title": "Điểm mạnh",
+                            "itemsChild": [
+                                {
+                                    "titleChild": "Lý trí",
+                                    "content": "Nhóm tính cách INTJ tự hào về sức mạnh trí tuệ của mình. Họ có thể biến mọi thử thách thành cơ hội để trau dồi kỹ năng và mở rộng kiến thức. Với lối tư duy này, họ có thể đưa ra các giải pháp sáng tạo cho cả những vấn đề khó nhằn nhất.",
+                                },
+                                {
+                                    "titleChild": "Hiểu biết",
+                                    "content": "Có rất ít nhóm tính cách chủ động và tận tình trong việc đưa ra những ý kiến hợp lý, đúng đắn, có căn cứ như INTJ. Thay vì dựa trên linh cảm hay giả định nửa vời, các INTJ kết luận dựa trên nghiên cứu và phân tích. Và vì vô cùng tự tin với hiểu biết của mình nên các INTJ thường sẽ đối chọi tới cùng với những quan điểm trái chiều.",
+                                },
+                                {
+                                    "titleChild": "Độc lập",
+                                    "content": "Đối với INTJ, việc chăm chăm nghe lời và tuân thủ ít nhiều đồng nghĩa với sự tầm thường. Họ luôn sáng tạo và năng động, cố gắng làm mọi thứ theo cách riêng của mình. Các INTJ không chịu được việc để cho các phép tắc, quy định độc đoán cản trở thành công của họ.",
+                                },
+                                {
+                                    "titleChild": "Quyết tâm",
+                                    "content": "Các INTJ được biết đến là người có tham vọng và có mục tiêu rõ ràng. Họ sẽ không nghỉ ngơi cho đến khi đạt được thành công theo định nghĩa của họ, và điều này thường đòi hỏi phải nắm vững những lĩnh vực hay mục tiêu mà họ coi là quan trọng.",
+                                },
+                                {
+                                    "titleChild": "Tò mò",
+                                    "content": "Nhóm tính cách INTJ luôn cởi mở với những ý tưởng mới, miễn là những ý tưởng đó hợp lý, có cơ sở. Họ có bản tính hay hoài nghi nên đặc biệt bị thu hút bởi những quan điểm khác thường. Nếu thực tế cho thấy rằng ý kiến của họ là sai hoàn toàn thì các INTJ cũng sẵn sàng sửa đổi.",
+                                },
+                                {
+                                    "titleChild": "Sáng tạo",
+                                    "content": "Nếu không có nhóm tính cách INTJ, thế giới sẽ trở nên kém thú vị đi rất nhiều. Sự nổi loạn của INTJ là “chất bán dẫn” mang đến một vài ý tưởng và phát minh độc đáo nhất trong lịch sử. Ngay cả trong cuộc sống hàng ngày, các INTJ cũng khiến mọi người xung quanh phải nhìn nhận sự việc bằng một con mắt khác nhờ sự gợi mở độc đáo của họ.",
+                                },
+                            ],
+                        },
+                        {
+                            "title": "Điểm yếu",
+                            "itemsChild": [
+                                {
+                                    "titleChild": "Kiêu ngạo",
+                                    "content": "Các INTJ có thể hiểu biết rộng nhưng điều đó không có nghĩa là họ không bao giờ mắc sai lầm. Sự tự tin (đôi khi hơi thái quá) có thể khiến họ bỏ qua những thông tin hữu ích của người xung quanh, nhất là đối với những người mà họ cho là kém thông minh hơn mình. Nhóm tính cách này cũng có thể bị coi là khắt khe, chỉ chăm chăm chứng minh người khác sai.",
+                                },
+                                {
+                                    "titleChild": "Gạt bỏ cảm xúc",
+                                    "content": "Người thuộc nhóm tính cách INTJ coi lý trí là trên hết. Họ thường xem nhẹ vấn đề cảm xúc và dễ mất kiên nhẫn với những ai coi trọng tình cảm hơn lý trí. Họ cũng thường không giỏi trong việc điều chỉnh cảm xúc, dễ bộc lộ bản tính cáu gắt nếu mọi việc vượt ra khỏi tầm kiểm soát. Tuy nhiên, việc chỉ dựa trên các tiêu chuẩn độc đoán của bản thân chứ không thấu hiểu bản chất của vấn đề chỉ khiến những lời khiển trách của họ trở nên thiếu công bằng và vô giá trị.",
+                                },
+                                {
+                                    "titleChild": "Hiếu chiến",
+                                    "content": "Các INTJ không thích làm theo bất kỳ điều gì một cách mù quáng mà không hiểu rõ nguyên do, kể cả các quy định do những người có thẩm quyền áp đặt. Do đó, họ dễ bị cuốn vào những tranh cãi liên quan tới các phép tắc, quy định vô bổ, và những trận cãi vã này sẽ chỉ khiến họ sao nhãng khỏi những mục tiêu quan trọng hơn.",
+                                },
+                                {
+                                    "titleChild": "Không giỏi giao tiếp",
+                                    "content": "Sự ỷ lại vào lý trí của INTJ có thể khiến họ thất bại trong những mối quan hệ thường ngày, dễ bị rơi vào thế cô lập khi liên tục bị phản bác ý kiến.",
+                                },
+                            ],
+                        }
+                    ]
+                },
+                {
+                    "section": "Mối quan hệ",
+                    "items": [
+                        {
+                            "content": "Không dễ dàng để trở thành bạn của INTJ.\n\nNhững người thuộc nhóm tính cách thường đặt người khác lên bàn cân so sánh với chính bản thân mình để đánh giá về trí tuệ và sức ảnh hưởng của họ.\n\nĐiều này khiến các INTJ trở thành một nhân tố vô cùng kiêu ngạo và khó gần trong mắt những người xung quanh.\n\nTuy nhiên những Nhà khoa học không quá quan tâm về điều đó, họ coi đó như một “cơ chế lọc tự nhiên” và vẫn hài lòng khi vòng bạn bè của họ tuy ít nhưng chất lượng.\n\nLà một người khá khép kín và độc lập, đối với các INTJ, bạn bè là những người họ muốn cùng trao đổi kiến thức và bàn luận về các vấn đề trong cuộc sống hơn là một cây cầu dẫn họ tới gần hơn với thế giới bên ngoài.\n\nNhững người bạn thuộc nhóm tính cách INTJ cũng không giỏi trong việc bộc lộ cảm xúc của mình, cũng không thích những hành động tình cảm như ôm ấp, vuốt ve, đụng chạm khi ở cạnh nhau.\n\nĐiều này có thể gây ra một số hiểu lầm nho nhỏ trong các mối quan hệ của INTJ và những người xung quanh.\n\nNhóm tính cách INTJ thích kể với người xung quanh những câu chuyện dí dỏm đầy ẩn ý, đó là lý do mà họ rất thích kết giao với những người có NT và NF trong tính cách, vì đây là hai nhóm có thể hiểu được những câu chuyện đùa nửa thật của các INTJ.\n\nNgược lại thì những người mang đặc điểm S (Giác quan) sẽ cảm thấy khá khó chịu với kiểu nói chuyện úp mở này.\n\nLà những người luôn muốn nâng cao kiến thức, bứt phá giới hạn ở nhiều lĩnh vực khác nhau, các INTJ hy vọng những người bạn của mình cũng nuôi dưỡng tinh thần nhiệt huyết như vậy.\n\nViệc cùng nhau học hỏi và phát triển sẽ giúp tình bạn giữa họ trở nên ngày càng khăng khít.\n\nVới tính cách độc lập của mình, những người thuộc nhóm tính cách INTJ cũng rất tôn trọng không gian riêng tư của bạn bè mình."
+                        },
+                        {
+                            "title": "INTJ trong tình yêu",
+                            "itemsChild": [
+                                {
+                                    "content": "Các INTJ tiếp cận tình yêu như cách mà họ đối mặt với thách thức, đó là: xây dựng chiến lược, vạch ra các mục tiêu rõ ràng và lên kế hoạch để đạt được các mục tiêu đó.\n\nNếu ở trong một thế giới duy lý, cách tiếp cận này sẽ thật hoàn hảo.\n\nNhưng tình yêu không phải là không gian lý tưởng dành cho những người sống dựa vào lý tính, ngược lại, đây là lúc mà mọi cảm xúc nhỏ nhất trong tâm hồn bạn được đánh thức và đi tìm nửa kia đích thực của mình.\n\n<i>“Những người thuộc nhóm tính cách INTJ có thể sẽ rất khó tìm được một đối tượng phù hợp với họ.”</i>\n\nLý do là vì họ hiếm khi hài lòng với những thứ mình có.\n\nCác INTJ không ngừng tưởng tượng về một thế giới tốt đẹp hơn và họ cũng đặt “ngôi sao hy vọng” ấy vào chuyện tình của mình: phải đẹp, phải sâu lắng, phải tha thiết.\n\nThật không may, nếu INTJ cứ dùng ánh mắt đầy phán xét để đánh giá các “ứng cử viên” tiềm năng như vậy thì họ sẽ không bao giờ tìm được chân ái của đời mình.",
+                                },
+                                {
+                                    "titleChild": "Những rắc rối khi hẹn hò",
+                                    "content": "Những người thuộc nhóm tính cách INTJ không thích tuân theo những quy tắc, những luật bất thành văn trong tình yêu, ví dụ khi yêu thì phải như thế này như thế kia.\n\nTuy nhiên, họ cũng cần biết rằng các quy tắc hẹn hò được đặt ra đều vì một mục đích là giúp cho mối quan hệ trở nên thoải mái và tôn trọng lẫn nhau.\n\nVà khi các INTJ từ chối tuân theo những quy tắc đó thì việc yêu đương của họ có thể vấp phải những tranh cãi nho nhỏ.\n\n<i>“Khi đã trưởng thành và tích lũy thêm kinh nghiệm trên “chiến trường” tình yêu, các INTJ cuối cùng cũng hiểu được giá trị của những cử chỉ quan tâm giản đơn, những điều ngọt ngào nhỏ bé.”</i>\n\nTuy nhưng đừng quá bi quan, chúng tôi mang tin tốt tới cho bạn đây: Những người thuộc nhóm tính cách INTJ thường hấp dẫn nhất khi họ không cố gắng để trở nên hấp dẫn.\n\nChỉ cần họ làm những gì mình giỏi nhất, đam mê nhất, sự tự tin và trí thông minh của họ sẽ tỏa sáng trong tình yêu.",
+                                },
+                                {
+                                    "titleChild": 'Một mình yêu "Lowkey"',
+                                    "content": "Nhóm tính cách INTJ không hay thể hiện sự lãng mạn theo những cách thông thường như tặng hoa hay viết thư tình sến sẩm.\n\nHầu hết các INTJ dành thời gian để suy nghĩ về tình yêu hơn là thể hiện tình cảm ra bên ngoài.\n\nKhi đối tượng hẹn hò của họ chia sẻ cảm xúc mạnh mẽ, họ thường sẽ im lặng hoặc là phân tích tình huống thay vì chỉ lắng nghe và an ủi.\n\nNhưng khi các INTJ nhận thấy rằng mối quan hệ này sẽ giúp họ tìm thấy hạnh phúc đích thực, họ sẽ cố gắng hết sức để vun vén cho tình yêu ấy, kể cả khi phải bước ra khỏi vùng an toàn của mình.\n\n<i>“Nhóm tính cách INTJ không phải lúc nào cũng sẵn sàng chia sẻ cảm xúc của họ, nhưng đừng nghĩ là họ không có cảm xúc hay là không sâu sắc nhé.”</i>\n\nTình yêu hiếm khi nào dễ dàng, nhưng đó là một thử thách có thể giúp các INTJ trưởng thành hơn.\n\nThông qua các mối quan hệ, họ có thể học cách chia sẻ cảm xúc và cởi mở hơn với những người xung quanh.",
+                                },
+                            ],
+                        },
+                        {
+                            "title": "INTJ trong tình bạn",
+                            "itemsChild": [
+                                {
+                                    "content": "<i>“Một người làm bạn với tất cả thì chẳng thật sự thân thiết với ai.” - Aristotle</i>\n\nLà một người có cá tính, sắc sảo và hài hước nhưng các INTJ lại không phải “gu” bạn bè của nhiều người.\n\nCơ mà họ cũng chẳng bận tâm lắm.\n\nPhần lớn những người có tính cách INTJ không bị ám ảnh với việc được mọi người yêu thích.\n\nHọ không dễ dành thời gian và năng lượng của mình cho những người mà họ không quen thân.\n\nNhưng nếu gán cho INTJ danh hiệu anti loài người thì cũng không đúng.\n\nCác INTJ biết tận hưởng niềm vui nho nhỏ khi ở một mình với những suy nghĩ của riêng mình, nhưng đồng thời họ cũng rất thích được dạo chơi và tán dóc với những người bạn thân thuộc.",
+                                },
+                                {
+                                    "titleChild": "Tương xứng về trí tuệ",
+                                    "content": "Việc kết bạn với một INTJ không phải lúc nào cũng dễ dàng.\n\nNhững người thuộc nhóm tính cách này thường thiếu kiên nhẫn với những quy tắc và kỳ vọng của xã hội.\n\nHọ thà ở một mình còn hơn là phí thời gian với những người tẻ nhạt hoặc khó ưa.\n\nCác INTJ thường có những tiêu chuẩn rõ ràng về những gì họ mong đợi từ bạn bè và các mối quan hệ xã giao.\n\nHọ không muốn lãng phí quá nhiều thời gian cho những ai không đáp ứng được tiêu chuẩn của mình.\n\n<i>“INTJ quan tâm đến chiều sâu và chất lượng. Họ lựa chọn chỉ kết giao với một vài người bạn tốt còn hơn trăm mối quan hệ xã giao.”</i>\n\nThực tế là các INTJ có sở trường tìm kiếm tình bạn ở những nơi tưởng như là không thể.\n\nHọ không quan tâm đến ngoại hình hay địa vị xã hội, không ngại kết bạn với những người bị số đông coi là “kẻ lập dị”.\n\nHọ chỉ quan tâm xem người bạn ấy có hợp tính cách, hợp lối sống, hợp cách tư duy với mình hay không.",
+                                },
+                                {
+                                    "titleChild": "Một tình bạn lạ thường",
+                                    "content": "Trong tình bạn cũng như các khía cạnh khác trong cuộc sống, nhóm tính cách INTJ đánh giá cao sự độc lập.\n\nHọ cho rằng những quy định và nguyên tắc truyền thống sẽ chỉ khiến mối quan hệ trở nên ngột ngạt hơn mà thôi.\n\nCác INTJ không muốn cảm thấy phải chịu ơn bạn bè và cũng không muốn bạn bè của họ cảm thấy phải chịu ơn họ khi hai bên giúp đỡ nhau.\n\nĐối với họ, tình bạn lý tưởng là tình bạn không drama, được xây dựng dựa trên sự hiểu biết, tôn trọng và hòa hợp lẫn nhau chứ không phải là nghĩa vụ hay trách nhiệm.\n\n<i>“Ngay cả khi ở cạnh những người thân thiết nhất, các INTJ cũng khó có thể xử sự thoải mái và bộc lộ toàn bộ cảm xúc của mình”</i>\n\nTất nhiên, tình bạn dù lâu dài tới đâu cũng sẽ có lúc phát sinh vấn đề, thậm chí là vấn đề vô cùng nghiêm trọng khiến các INTJ, những người vốn luôn tự tin với sự hiểu biết và năng lực của mình, trở nên mất phương hướng vì không biết nên giải quyết ra sao.\n\nKhi cuộc tranh cãi nổ ra, thay vì nhất quyết truy ra ai là người phải chịu trách nhiệm thì họ nên bình tâm ngồi xuống và tháo gỡ khúc mắc.\n\nKhi ở cùng những người bạn họ thân thuộc, các INTJ mới có thể thả lỏng và là chính mình.\n\nTuy nhiên họ cũng nên cẩn thận trong lời ăn tiếng nói, bởi không phải ai cũng hiểu được ý nghĩa trong những câu đùa dí dỏm sâu xa của họ, đặc biệt là đối với những người thẳng thắn và suy nghĩ đơn giản.",
+                                },
+                            ],
+                        },
+                        {
+                            "title": "INTJ khi làm cha mẹ",
+                            "itemsChild": [
+                                {
+                                    "content": "<i>“Trẻ em nên được dạy cách tư duy thay vì được cầm tay chỉ việc.” - Margaret Mead.</i>\n\nCác INTJ nổi tiếng là người lý trí và có khả năng tự kiểm soát bản thân, và họ sẽ ngạc nhiên khi một ai đó - ví dụ như con cái họ - không có những phẩm chất này.\n\nVới nhóm tính cách INTJ, việc nuôi dạy con cái thường đòi hỏi phải thành thạo các kỹ năng cơ bản và phát triển tính linh hoạt trong nhận thức.\n\nMay mắn thay, đối với những người có khả năng đối mặt với thử thách như các INTJ, việc trở thành cha mẹ sẽ không khiến họ quá bối rối.",
+                                },
+                                {
+                                    "titleChild": "Sự gắn kết chân thực",
+                                    "content": "Các INTJ muốn con cái họ có tinh thần tự lập, biết mình thích gì và muốn gì.\n\nThay vì áp dụng những quy tắc vô nghĩa, cha mẹ INTJ sẽ tìm kiếm những phương pháp phù hợp với lứa tuổi để thúc đẩy tính độc lập của con cái, giúp chúng có tinh thần trách nhiệm với chính bản thân mình.\n\n<i>“Các bậc cha mẹ INTJ tôn trọng ý kiến của những đứa trẻ, bởi bản thân họ cũng mong muốn mình được tôn trọng và lắng nghe.”</i>\n\nThay vì dùng cả cuộc đời để che chở và dìu dắt con cái thành người thì họ sẽ đứng từ xa và hướng dẫn những đứa trẻ cách làm chủ cuộc sống.\n\nĐối với những người thuộc nhóm tính cách INTJ, việc bao bọc con quá mức chính là đang gián tiếp hại chúng, khiến chúng không thể phát triển thể chất và tinh thần một cách toàn diện.\n\nTất nhiên là việc thành bại của phương pháp giáo dục này phụ thuộc vào việc các INTJ có đủ mạnh mẽ để vượt qua những thử thách trong quá trình nuôi dạy trẻ hay không.",
+                                },
+                                {
+                                    "titleChild": "Sự hỗn loạn trong cảm xúc",
+                                    "content": "So với nhiều nhóm tính cách khác, các INTJ không quá thoải mái với việc thể hiện tình cảm.\n\nHọ có thể cảm thấy không tự nhiên khi dành những lời yêu thương, khen ngợi cho ai đó - kể cả là con cái của họ.\n\nNhưng rõ ràng là những đứa trẻ nên nhận được những lời động viên, khen ngợi theo cách này hoặc cách khác để cảm thấy tự tin hơn và bước về phía trước.\n\nDo đó, các bậc cha mẹ INTJ cũng cần bước ra khỏi vùng an toàn của mình và chủ động thể hiện tình cảm với con cái nhiều hơn.\n\nMột thách thức khác đối với các bậc cha mẹ INTJ này là sự hỗ trợ về mặt tinh thần cho những đứa trẻ.\n\nCác INTJ rất tự hào về khả năng làm chủ cảm xúc của họ, và họ kỳ vọng con mình cũng có thể làm như vậy.\n\nTuy nhiên, sự kỳ vọng này có phần không hợp lý.\n\nỞ độ tuổi của mình, những đứa trẻ vẫn đang từng ngày lớn lên, từng ngày phát triển về mặt nhận thức, chúng vẫn đang bị kẹt giữa những cảm xúc hỗn loạn trong quá trình trưởng thành.\n\nKhi đó, việc mà những Nhà khoa học nên làm là sát cánh bên cạnh và giúp con cái mình ổn định lại về mặt tinh thần.\n\n<i>“Các INTJ rất giỏi trong việc nghiên cứu và giải quyết vấn đề từ trong gốc rễ. Nhưng đôi khi điều mà những đứa trẻ cần chỉ đơn giản là có ba mẹ sát bên và giúp đỡ chúng vào thời điểm khó khăn.”</i>",
+                                },
+                                {
+                                    "titleChild": "Chuẩn bị cho những thách thức của cuộc sống",
+                                    "content": "Các INTJ cố gắng đảm bảo rằng con cái của họ được chuẩn bị sẵn sàng để đối phó với bất cứ điều gì có thể ập đến trong cuộc sống bằng cách biến thách thức thành cơ hội.\n\nMỗi sự việc xảy đến sẽ là một bài học cho những đứa trẻ, và các bậc phụ huynh sẽ giúp chúng tìm ra cách thức tư duy và xử lý vấn đề.\n\nCàng lớn thì thách thức càng trở nên phức tạp, và đó là cách mà những đứa trẻ trưởng thành.\n\nMỗi bậc cha mẹ đều có một ước mơ khác nhau cho tương lai của con mình.\n\nĐối với các INTJ, ước mơ của họ là nuôi dạy con cái thành một người trưởng thành có năng lực, biết suy nghĩ và giải quyết vấn đề của chính mình.\n\nCác INTJ hiểu rằng ước mơ này không thể thành sự thật nếu họ tiếp tục bảo hộ con cái trong vòng tay mình mà không cho chúng được trực tiếp đối đầu với những thách thức của cuộc sống.\n\nDo đó việc chuẩn bị kỹ lưỡng hành trang trước khi vào đời là vô cùng cần thiết.",
+                                }
+                            ],
+                        },
+                    ]
+                },
+                {
+                    "section": "Làm sao để thân thiết với INTJ",
+                    "items": [
+                        {
+                            "content": "Nếu muốn thân thiết với các INTJ thì lời khuyên đầu tiên dành cho bạn đó là “sự chân thành”.\n\nBởi các INTJ sẽ không cảm động trước những lời đường mật và không thấy thoải mái trước những lời khen nếu họ không cảm nhận được sự chân thành từ bạn.\n\nNgoài ra nếu muốn xác lập mối quan hệ lâu dài với nhóm tính cách này thì bạn nên thẳng thắn và trung thực.\n\nCác INTJ không thích vòng vo, luôn thẳng thắn nêu rõ quan điểm, họ đặc biệt không thích chạy theo số đông mà giả dối.\n\nSau cùng, để tạo lập một mối quan hệ thân thiết với các INTJ thì hãy tham gia vào những cuộc trò chuyện có ý nghĩa, sâu sắc và kích thích trí tuệ bởi họ rất coi trọng những cuộc thảo luận như như vậy.\n\nMột số điều bạn cần lưu ý khi tiếp xúc với INTJ:\n\n● <b>Cẩn trọng khi hỏi về đời sống riêng tư.</b> Là người khá khép kín lại có tính cách độc lập nên những người thuộc nhóm tính cách INTJ rất tôn trọng không gian riêng tư của bạn bè, vì vậy với những câu hỏi về đời sống riêng tư bạn nên cẩn trọng nếu muốn xác lập mối quan hệ thân thiết với họ.\n\n● <b>Trong công việc hãy để họ làm việc độc lập.</b> Bởi INTJ thuộc nhóm tính cách hướng nội, họ thích ở một mình, sống trong thế giới nội tâm của họ vì vậy họ không thích những công việc yêu cầu làm việc nhóm hay tập thể.\n\n● <b>Hãy bắt đầu bằng những câu chuyện “dí dỏm.</b> Bởi đây là nhóm tính cách rất thích kể những câu chuyện đầy ẩn ý và dí dỏm với những người xung quanh, đừng bao giờ nói chuyện kiểu úp mở bởi họ cảm thấy khá khó chịu với kiểu nói chuyện này.\n\n● <b>Khi gặp vấn đề phức tạp hay cần ý tưởng mới hãy tìm đến INTJ.</b> Các INTJ đặc biệt bị thu hút bởi những quan điểm khác thường, luôn cởi mở những ý tưởng mới. Bạn có thể hỏi: “Tôi muốn giải quyết vấn đề này theo cách mới mẻ hơn thì phải làm sao?” Vấn đề càng phức tạp thì họ lại càng thích thú.\n\n● <b>Đừng tặng quá nhiều quà hay những món quà đắt tiền.</b> Họ trân trọng và thích những món quà mang ý nghĩa giá trị tinh thần và cảm thấy áp lực trước những món quà đắt tiền.\n\n● <b>Đừng bao giờ nói chuyện phiếm qua điện thoại.</b> Nếu bạn muốn nói chuyện phiếm qua điện thoại để thân thiết hơn với các INTJ thì bạn đã mắc “sai lầm” vì đây là nhóm tính cách rất ghét nói chuyện phiếm qua điện thoại. Thay vào đó bạn hãy gọi điện khi thật sự cần thiết và chỉ nói ngắn gọn về công việc.\n\n● <b>Hạn chế gọi điện cho INTJ.</b> Khi gặp vấn đề hoặc cần trao đổi với INTJ thì bạn nên trao đổi bằng văn bản, bởi việc thường xuyên gọi điện hay gặp mặt sẽ khiến họ cảm thấy bất tiện."
+                        },
+                    ],
+                },
+                {
+                    "section": "Con đường sự nghiệp",
+                    "items": [
+                        {
+                            "content": "Nhóm tính cách INTJ hiếm khi hài lòng với những công việc quá dễ dàng hoặc nhàn hạ. Họ muốn một sự nghiệp có thể giúp họ khơi dậy trí tò mò, tận dụng tối đa trí thông minh, cho phép họ giải quyết những thách thức trong cuộc sống. Công việc càng đòi hỏi nhiều về mặt tư duy càng khiến các INTJ hứng thú."
+                        },
+                        {
+                            "title": "Chán nản ở giai đoạn đầu của sự nghiệp",
+                            "content": "Ở nơi làm việc, các INTJ được biết đến là người có năng lực và làm việc hiệu quả, tuy nhiên khi mới bước chân vào môi trường làm việc, họ sẽ phải bắt đầu từ những nhiệm vụ nhỏ và đơn giản nhất (vì tất nhiên hầu như không cấp trên nào lại giao cho newbie những công việc quan trọng khó nhằn) và điều đó khiến họ cảm thấy khá “nản”.\n\nNhóm tính cách này tràn ngập những những ý tưởng sáng tạo và đột phá.\n\nTuy nhiên một số góc khuất tại nơi làm việc khiến họ khó có thể “sống sót” nơi chính trường công sở và giành được sự ưu ái của sếp cũng như đồng nghiệp.\n\nTin vui là, sau một thời gian cố gắng không ngừng nghỉ, các INTJ cuối cùng cũng có cơ hội phát huy hết khả năng của mình.\n\nNgay cả khi mọi người xung quanh họ trở thành nạn nhân của vấn nạn “tư duy tập thể”, các INTJ vẫn có thể vượt qua những cám dỗ và phát huy được sức sáng tạo vô biên của mình và đạt được những thành tựu “ngọt ngào” trong sự nghiệp."
+                        },
+                        {
+                            "title": "Tìm kiếm một vị trí phù hợp",
+                            "content": "Một số nhóm tính cách thích các công việc đòi hỏi làm việc nhóm và không ngừng tương tác, nhưng đa phần các INTJ chỉ thích làm việc một mình.\n\nNhư vậy họ có thể tận dụng tối đa khả năng sáng tạo của mình mà không bị gián đoạn liên tục bởi những đồng nghiệp tò mò thích soi mói.\n\nCác INTJ tin rằng muốn làm tốt việc gì thì họ nên tự mình làm lấy.\n\n<i>“Những người thuộc nhóm tính cách INTJ coi trọng tính tháo vát, sự can đảm, vốn hiểu biết sâu rộng và sự cam kết - ở chính họ cũng như những người khác.”</i>\n\nMặt khác, các INTJ không coi trọng những người đi lên nhờ quan hệ thay vì tự thân vận động.\n\nVì vậy, đối với những cá nhân thăng tiến nhờ “ô dù”, các INTJ sẽ thẳng thắn chỉ ra những sai lầm của họ, hoặc đơn giản là làm việc không ngừng nghỉ để chứng tỏ bản thân mới là người xứng đáng có được những vị trí quan trọng trong công ty."
+                        },
+                        {
+                            "title": "Những thách thức lớn",
+                            "content": "Các INTJ luôn có nhu cầu tiến xa hơn trong sự nghiệp, nâng tầm ảnh hưởng của bản thân.\n\nMột số nghề nghiệp tiêu biểu như quản lý dự án, kỹ sư hệ thống, chiến lược gia, nhà phân tích hệ thống, nhà tư vấn quản lý và nhà chiến lược quân sự.\n\nNhững người thuộc nhóm tính cách INTJ thường hạnh phúc nhất với những công việc cho phép họ đổi mới và thử nghiệm theo cả quy mô lớn và nhỏ.\n\nDo vậy, chẳng có gì ngạc nhiên khi các công việc trong lĩnh vực kỹ thuật, nghiên cứu, khoa học và công nghệ là những lựa chọn hợp lý cho các INTJ.\n\nCác lĩnh vực sáng tạo như kiến trúc, sáng tác âm nhạc, thiết kế trò chơi điện tử cũng là lựa chọn không tồi đối với những Nhà khoa học.\n\nGiỏi phân tích, tính toán nên những ngành nghề như kiểm toán viên, chuyên gia an ninh mạng hoặc nhà phân tích kinh doanh cũng khá thu hút các INTJ.\n\n<i>“INTJ cho rằng, sự kết hợp giữa kinh nghiệm thực tiễn và đạo đức nghề nghiệp là nền tảng của thành công.”</i>\n\nThực tế, các INTJ có thể áp dụng thế mạnh của họ vào bất kỳ vai trò nào.\n\nVí dụ, trong ngành bán lẻ, tính tò mò có thể khiến họ tìm hiểu vì sao thiết kế mặt trước cửa hàng này lại đem lại nhiều khách hàng hơn cửa hàng khác, vì sao cùng một loại sản phẩm nhưng với bao bì A lại bán chạy hơn bao bì B.\n\nMột số nghề nghiệp cần giao tiếp nhiều như bán hàng hoặc hành chính nhân sự có vẻ không quá phù hợp với các INTJ, nhưng may mắn là họ có khả năng “nhìn xa trông rộng” để dần thích ứng và thành công trong các lĩnh vực đó.\n\nLà người có tầm nhìn, các INTJ muốn tìm kiếm một nghề nghiệp giúp họ có thể phát huy được tất cả thế mạnh của mình.\n\nHọ có thể biến những nguyên tắc phức tạp thành các chiến lược rõ ràng, khả thi, điều mà hiếm có nhóm tính cách nào khác làm được.\n\nCác INTJ biết họ có thể cống hiến được gì cho thế giới - và họ ưu tiên các vị trí công việc có thể tận dụng tối đa những kỹ năng, kiến thức và trí tuệ họ có để hiện thực hóa điều đó."
+                        },
+                        {
+                            "title": "Những nghề nghiệp phù hợp",
+                            "content": "Các INTJ được biết đến với khả năng tiếp thu kiến thức tốt, sau đó chuyển hóa chúng thành những ý tưởng thực tiễn với hiệu quả cao, vì vậy họ rất phù hợp với những nghề nghiệp có nhiệm vụ lên chiến lược, xây dựng kế hoạch trong ngắn hạn và dài hạn.\n\nSự nghiệp điển hình của INTJ cũng có xu hướng đặt vào những nghề nghiệp yêu cầu phải tư duy độc lập.\n\nHọ như những “con sói cô độc”, đủ linh hoạt, bản lĩnh và khả năng để tự mình đối đầu với những khó khăn, thử thách thay vì chỉ làm những công việc thường nhật và bị kìm hãm bởi những cá nhân không ngang tài ngang sức.\n\nĐể tìm kiếm chỗ đứng trong xã hội hay cần định hướng xem mình có đang đi đúng hướng hay không, điều quan trọng nhất là bạn cần phải nắm được những điểm mạnh điểm yếu của mình.\n\n“Biết mình biết ta trăm trận trăm thắng”, biết phát huy thế mạnh và khắc phục thiếu sót là bạn đã nắm trong tay một nửa thành công.\n\nDưới đây là các công việc phù hợp với INTJ bạn có thể tham khảo:\n\n● Nhà hoạch định chiến lược\n\n● Lãnh đạo quân đội\n\n● Nhà khoa học\n\n● Bác sĩ đa khoa\n\n● Nha sĩ\n\n● Kỹ sư\n\n● Quản trị kinh doanh\n\n● Thẩm phán\n\n● Luật sư\n\n● Lập trình viên máy tính\n\n● Nhà phân tích hệ thống\n\n● Chuyên gia máy tính\n\n● Giáo sư và giáo viên"
+                        },
+                    ]
+                },
+                {
+                    "section": "Thói quen nơi công sở",
+                    "items": [
+                        {
+                            "content": "Dù ở bất kỳ đâu trên nấc thang sự nghiệp, các INTJ đều muốn theo đuổi mục tiêu nghề nghiệp theo tiêu chuẩn của riêng họ, và thường là tiêu chuẩn cao. Tuy nhiên, nếu cứ đi theo lối mòn này, họ có thể trở nên khắt khe trong công việc, đôi khi là không chịu hợp tác được với những đồng nghiệp mà họ không quá tôn trọng (và không may là phần lớn đồng nghiệp rất dễ làm mất lòng các INTJ)."
+                        },
+                        {
+                            "title": "INTJ khi là nhân viên",
+                            "content": "Các nhân viên INTJ, kể cả nhân viên mới, đều có cá tính độc lập.\n\nHọ không thích những cấp trên quản lý sát sao quá mức, làm lãng phí thời gian của họ bằng những cuộc họp vô nghĩa, quan trọng hóa những quy tắc vô bổ hay đánh giá hiệu suất nhân viên bằng cảm nhận chủ quan thay vì năng lực thật sự.\n\nNhững người thuộc nhóm tính cách INTJ không quá đặt nặng địa vị trong một tổ chức, họ sẵn sàng chỉ trích cấp trên nếu họ cho rằng người đó không đủ chuyên môn hay kinh nghiệm để dẫn dắt đội nhóm.\n\nTrong thực tế, không phải vị sếp nào cũng hoàn hảo ở mọi phương diện từ kiến thức chuyên môn, kinh nghiệm thực tế tới khả năng lãnh đạo đội nhóm.\n\nThay vì đối chọi gay gắt với cấp trên thì một lời khuyên là các INTJ hãy khéo léo ứng xử để xây dựng mối quan hệ tốt đẹp với đồng nghiệp và cấp trên, như vậy bạn có thể có nhiều cơ hội phát triển bản thân hơn trong tương lai."
+                        },
+                        {
+                            "title": "INTJ khi là đồng nghiệp",
+                            "content": "Rất ít INTJ chọn những công việc đòi hỏi phải làm việc nhóm hoặc giao tiếp thường xuyên.\n\nĐối với họ, các hoạt động team building và các cuộc họp nhóm đều là những sự kiện gây lãng phí thời gian.\n\nBuôn chuyện, đàm tiếu và drama với họ chẳng khác gì những căn bệnh ở chốn công sở.\n\nNgay cả một buổi họp ý tưởng (brainstorm) mà các họ yêu thích cũng có thể trở nên tẻ nhạt nếu mọi người lâm vào bế tắc và không đưa ra được phương án hành động rõ ràng.\n\n<i>“Hầu hết các INTJ thà làm việc một mình còn hơn là bị trì hoãn bởi những đồng nghiệp thiếu tập trung.”</i>\n\nMay mắn là sự quyết tâm của các INTJ thường giúp họ đạt hiệu quả trong công việc ngay cả khi không có sự trợ giúp của người khác.\n\nVới năng lực của mình, INTJ có thể trở thành người cộng sự xuất sắc nếu họ tìm thấy những đồng nghiệp có cùng chí hướng."
+                        },
+                        {
+                            "title": "INTJ khi là cấp trên",
+                            "content": "Các INTJ có thể trở thành những lãnh đạo tuyệt vời.\n\nỞ nơi làm việc, họ hiếm khi sử dụng quyền hạn của mình chỉ để thể hiện, thay vào đó, họ tìm cách thúc đẩy sự đổi mới và nâng cao hiệu quả công việc, cho dù phải phá vỡ những quy định, nguyên tắc vốn có.\n\n<i>“Trong công việc, các cấp trên là INTJ thích được công nhận về mặt năng lực hơn là những lời tán dương ngọt ngào.”</i>\n\nThay vì quản lý vi mô, những vị sếp INTJ tập trung chỉ đạo chiến lược tổng thể và để cho cấp dưới tự do triển khai công việc.\n\nNhưng điều đó không có nghĩa là họ hoàn toàn buông tay không can thiệp đâu nhé.\n\nCác lãnh đạo INTJ đôi khi sẽ muốn biết chính xác nhân viên của mình đang làm gì, tiến độ thế nào, hiệu quả ra sao và phương án tiếp theo là gì.\n\nVì vậy nếu bạn là nhân viên của INTJ, hãy luôn chuẩn bị tinh thần bị sếp “sờ gáy” bất cứ lúc nào.\n\nLãnh đạo thuộc nhóm tính cách INTJ sẽ tôn trọng và khen thưởng sự chủ động, giao phó trách nhiệm cho những nhân viên có kỹ năng tư duy phản biện tốt nhất.\n\nVì vậy, những nhân viên không thể tự định hướng bản thân mà chỉ muốn được cầm tay chỉ việc hiển nhiên sẽ không đáp ứng được yêu cầu của các INTJ."
+                        },
+                    ]
+                },
+                {
+                    "section": "So sánh INTJ với INTP, ENTJ",
+                    "items": [
+                        {
+                            "content": "Khi so sánh INTJ (Nhà khoa học) với những nhóm tính cách có sự tương đồng (<b>INT</b>P - Nhà tư duy, E<b>NTJ</b> - Người trách nhiệm), bạn sẽ hiểu rõ hơn về đặc tính của nhóm INTJ"
+                        },
+                        {
+                            "title": "Điểm giống nhau",
+                            "content": 'N - Trực giác và T - Lý trí: Cả ba nhóm tính cách này của MBTI đều là những người lý trí và trực giác, họ đưa ra quyết định dựa trên lý trí thay vì dựa trên cảm xúc.\n\nNgoài ra, cả 3 nhóm tính cách này đều không giỏi trong việc bộc lộ cảm xúc của mình.\n\nKhi đối chiếu INTJ với INTP, ENTJ chúng tôi nhận thấy mỗi cặp sẽ có những điểm chung riêng như sau:\n\n● <b>INT</b>J và <b>INT</b>P: Cả hai đều là những người độc lập, cởi mở với những ý tưởng mới, có xu hướng sống trong thế giới nội tâm của riêng mình, giàu trí tưởng tượng, tôn trọng tri thức và trí tuệ.\n\n● I<b>NTJ</b> và E<b>NTJ</b>: Họ đều là những người rất quyết đoán, đưa ra quyết định nhanh chóng và có khả năng “nhìn xa trông rộng". Đây cũng chính là lý do khiến họ là những “nhà lãnh đạo bẩm sinh".',
+                        },
+                        {
+                            "title": "Điểm khác nhau",
+                            "content": "Các bạn có thể thấy, dù chỉ chênh nhau một chữ cái, song sự khác biệt giữa các nhóm tính cách này lại cách nhau cả dải ngân hà. Bạn có thể thấy rõ điều này thông qua bảng so sánh dưới đây." 
+                        },
+                    ],
+                    "tables": [
+                        {
+                            "headers": ["Đặc điểm", "INTP", "INTJ", "ENTJ"],
+                            "rows": [
+                                ["Diễn giải chữ viết tắt", "I - Hướng nội<br>N - Trực giác<br>T - Lý trí<br><b>P - Linh hoạt</b>", "<b>I - Hướng nội</b><br>N - Trực giác<br>T - Lý trí<br><b>J - Nguyên tắc</b>", "<b>E - Hướng ngoại</b><br>N - Trực giác<br>T - Lý trí<br>J - Nguyên tắc"],
+                                ["Cách tiếp cận thông tin", "Dựa trên những lập luận có căn cứ", "Dựa trên lý tính, nghiên cứu và phân tích", "Xem xét vấn đề từ nhiều góc độ để đưa ra đánh giá khách quan nhất"],
+                                ["Trong các mối quan hệ", "- Thích kết giao với những người có niềm đam mê thảo luận về lĩnh vực học thuật<br>- Ngay từ đầu INTP thường rất chân thành, thẳng thắn bày tỏ tình cảm của mình<br>- Họ có xu hướng né tránh khi phát sinh xung đột và bất đồng", "- Thích kết giao với những người hợp tính cách, hợp lối sống, hợp cách tư duy<br>- Các INTJ tiếp cận tình yêu như cách mà họ đối mặt với thách thức: xây dựng chiến lược, lên kế hoạch và vạch ra các mục tiêu rõ ràng để đạt được mục tiêu đó<br>- Các INTJ không bị đe dọa bởi chỉ trích và xung đột", "- Thường kết giao với những người có chung niềm đam mê, chung mong muốn được học hỏi, tiếp thu kiến thức mới<br>- Các ENTJ luôn là người chủ động trước, ngay từ đầu họ xác định rõ những gì mình muốn và những gì cần phải làm để đạt được mục đích đó<br>- ENTJ Có thể chuyển hóa một tình huống xung đột thành một bài học tích cực"],
+                                ["Trong công việc", "- Có xu hướng lựa chọn công việc có tính sáng tạo<br>- Thích làm việc theo nhóm<br>- Không phù hợp những công việc thiên về cảm xúc<br>- Ở vị trí lãnh đạo, họ thường trao cho nhân viên của mình nhiều quyền tự quyết trong công việc<br>- Phù hợp với môi trường cho phép xử lý các vấn đề một cách sáng tạo, linh hoạt, không ràng buộc bởi các nguyên tắc", "- Có xu hướng lựa chọn công việc đòi hỏi nhiều về mặt tư duy<br>- Chỉ thích làm việc độc lập, một mình không thích làm việc theo nhóm<br>- Ở vị trí lãnh đạo INTJ tập trung chỉ đạo chiến lược tổng thể và để cho cấp dưới tự do triển khai công việc<br>- Phù hợp với môi trường làm có sự logic, cấu trúc, phân tích và hiệu quả", "- Có xu hướng lựa chọn công việc được nhận nhiệm vụ lãnh đạo, trách nhiệm, cơ hội để phát triển và nâng cao năng lực bản thân<br>- Có khả năng làm việc độc lập và theo nhóm<br>- Ở vị trí lãnh đạo, có năng lực xây dựng chiến lược, xác định điểm mạnh và điểm yếu của từng nhân viên, kết hợp đội nhóm để mỗi người đều có thể phát huy hết khả năng của mình nhưng đôi khi có sự độc tài, áp đặt<br>- Phù hợp với môi trường có cấu trúc, trật tự có nguyên tắc và coi trọng năng lực"]
+                            ]
+                        }
+                    ],
+                    "content": "Tóm lại cả ba nhóm tính cách INTP, INTJ, ENTJ đều là những người không giỏi việc thể hiện cảm xúc. Tuy nhiên, trong các mối quan họ có xu hướng kết giao với những người hoàn toàn khác biệt.\n\nĐiều này được thể hiện qua việc, INTP thích kết giao với những người có niềm đam mê về lĩnh vực học thuật, INTJ lại thích kết giao với những người hợp tính cách, tư duy và lối sống, trong khi ENTJ có xu hướng kết giao với những người có cùng đam mê. Sự khác biệt này sẽ thay đổi vòng tròn quan hệ cũng như hướng đi trong cuộc đời của mỗi nhóm tính cách." 
+                },
+                {
+                    "section": "Lời khuyên dành cho ISFP",
+                    "items": [
+                        {
+                            "title": "Hiểu vấn đề trước khi đưa ra phán xét",
+                            "content": "Trước khi đưa ra phán xét ý kiến của một ai đó, các INTJ nên cẩn thận lắng nghe ý kiến đó để đảm bảo bản thân phải hiểu bản chất vấn đề đó. Thậm chí hãy đặt câu hỏi nếu cần thiết để hiểu sâu vấn đề. Hãy cố gắng đừng đánh giá bất cứ điều gì trước khi bạn hiểu nó hoàn toàn."
+                        },
+                        {
+                            "title": "Khiêm tốn, không kiêu ngạo",
+                            "content": "Các INTJ nên khiêm tốn, không nên quá tự cao hãy cố gắng giữ mối quan hệ tốt với tất cả mọi người kể cả những những bạn cho là kém cỏi hơn mình. Mỗi người đều có điểm mạnh riêng, việc bạn quá kiêu ngạo có thể khiến bản thân bỏ qua những thông tin hữu ích của những người xung quanh."
+                        },
+                        {
+                            "title": "Học cách kiềm chế",
+                            "content": 'Để bản thân không bị rơi vào trạng thái lạc lõng và cô đơn thì các INTJ nên kiểm soát “sự tức giận". Hãy nhớ rằng sự tức giận có thể hủy hoại các mối quan hệ cá nhân của bạn. Hãy cố gắng giữ mối quan hệ tốt với tất cả mọi người, bạn sẽ thấy cuộc sống này.',
+                        },
+                        {
+                            "title": "Đừng sống quá lý trí",
+                            "content": "Các INTJ không nên quá coi trọng lý trí mà xem nhẹ cảm xúc. Hãy nhận biết nhu cầu tình cảm của người khác và học cách bày tỏ tình yêu cũng như sự tôn trọng chân thành của bạn dành cho họ."
+                        },
+                        {
+                            "title": "Hãy chịu trách nhiệm về bản thân",
+                            "content": "Đừng đổ lỗi những vấn đề trong cuộc sống của bạn cho người khác. Hãy nhìn vào bên trong để tìm giải pháp. Không ai có quyền kiểm soát cuộc sống của bạn nhiều hơn bạn."
+                        },
+                        {
+                            "title": "Đừng để bị cô lập",
+                            "content": "Hãy nhận ra giá trị mà thế giới bên ngoài mang lại cho bạn và tương tác với nó theo phong cách tự nhiên bằng cách tham gia vào các cuộc thảo luận chuyên sâu về các chủ đề mà bạn quan tâm. Tìm kiếm và nuôi dưỡng tình bạn với những người có cùng năng lực, tính cách, lối sống, tư duy."
+                        },
+                    ]
+                },
+            ]
+        },
+        {
             "code": "ENTJ",
             "name": "Nhà lãnh đạo",
             "description": "Quyết đoán, logic và có tầm nhìn xa",
