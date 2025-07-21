@@ -412,7 +412,8 @@ export const mbtiData = {
                                 ["Trong công việc", "- Sẵn sàng giúp đỡ đồng nghiệp, luôn cố gắng hoàn thành tất cả nhiệm vụ được giao<br>- Sở hữu trí nhớ và khả năng quan sát tốt nên phù hợp với những công việc đòi hỏi gu thẩm mỹ cao", "- Là nhân viên mẫu mực, luôn hướng tới lợi ích của tập thể, cần mẫn, chăm chỉ cùng năng suất làm việc cao<br>- Tinh thần trách nhiệm cao, giỏi sắp xếp và quản lý công việc nhưng đôi khi hơi cứng nhắc, kém linh hoạt<br>- Phát huy năng lực tốt nhất khi làm việc một mình<br>- Ưu tiên các công việc có tính an toàn và ổn định", "- Là lao động kiểu mẫu, phù hợp với các công việc đòi hỏi tính trách nhiệm cao<br>- Có năng lực lãnh đạo"]
                             ]
                         }
-                    ]
+                    ],
+                    "content": "ISTJ, ISFJ và ESTJ đều là tuýp người nguyên tắc và coi trọng sự ổn định.\n\nTuy nhiên, cách họ tiếp cận thông tin và đưa ra quyết định lại có sự khác biệt.\n\nTrong khi ISTJ luôn cẩn thận, từng bước đi phải có sự chắc chắn, quyết định mọi thứ dựa trên sự logic,\n\nISFJ với khả năng quan sát và tổ chức ra quyết định dựa trên cảm xúc\n\nthì ESTJ ra quyết định dựa trên thông tin thực tiễn, có tầm nhìn xa trông rộng cùng khả năng hòa nhập và thích nghi nhanh.\n\nKhác nhau từ cách tiếp cận thông tin nên ba nhóm tính cách có cái nhìn nhận về cuộc sống và con người khác nhau, từ đó có những hướng đi riêng, tạo nên một cuộc sống muôn màu."
                 },
                 {
                     "section": "Lời khuyên dành cho ISFP",
@@ -454,56 +455,47 @@ export const mbtiData = {
                     "section": "Tổng quan",
                     "items": [
                         {
-                            "title": "Giới thiệu",
                             "content": "Ẩn dưới vẻ ngoài trầm lặng, <i><b>ISFP (Người nghệ sĩ)</b></i> sở hữu một trái tim tràn đầy nhiệt huyết của người nghệ sĩ. Họ vừa hướng nội vừa hướng ngoại, dễ vui dễ buồn, khó đoán và tự phát. ISFP cũng là người yêu tự do và đam mê trải nghiệm, biết lắng nghe và quan tâm đến những người xung quanh."
                         },
                         {
-                            "title": "ISTJ là viết tắt của những chữ cái gì?",
-                            "content": "    ● <b>I - Hướng nội:</b> Đối với những người thuộc nhóm tính cách ISTJ, thế giới ẩn sâu bên trong mỗi chúng ta mới là thế giới thật. Ngược lại, thế giới bên ngoài là nơi thuộc về những người E - Hướng ngoại\n\n   ● <b>S - Giác quan:</b> Bạn tập trung vào những gì mình quan sát được bằng năm giác quan (thính giác, khứu giác, thị giác, vị giác, xúc giác). I - Trực giác (hay còn gọi là giác quan thứ sáu) sẽ được sử dụng để diễn giải ý nghĩa của sự vật, sự việc.\n\n● <b>T - Lý trí:</b> Bạn đưa ra quyết định dựa trên góc nhìn thực tế bằng số liệu và đo lường chính xác. Ngược lại, các F - Cảm xúc ưu tiên đưa ra quyết định dựa trên cảm nhận cá nhân.\n\n● <b>J - Nguyên tắc:</b> Bạn dựa vào cấu trúc sẵn có để thoải mái đưa ra quan điểm mà không phải mất công suy xét nhiều. Trong khi đó, những người thiên về tính cách P - Linh hoạt lại thích môi trường tự do và họ sẽ tự sắp đặt quy tắc bên trong cho mình."
+                            "title": "ISFP là viết tắt của những chữ cái gì?",
+                            "content": "● <b>I - Hướng nội:</b> Đối với những người thuộc nhóm tính cách ISFP, thế giới ẩn sâu bên trong mỗi chúng ta mới là thế giới thật. Ngược lại, thế giới bên ngoài là nơi thuộc về những người E - Hướng ngoại.\n\n● <b>S - Giác quan:</b> Bạn tập trung vào những gì mình quan sát được bằng năm giác quan (thính giác, khứu giác, thị giác, vị giác, xúc giác). I - Trực giác (hay còn gọi là giác quan thứ sáu) sẽ được sử dụng để diễn giải ý nghĩa của sự vật, sự việc.\n\n● <b>F - Cảm xúc:</b> Bạn đưa ra quyết định chủ yếu dựa trên cảm nhận cá nhân. Ngược lại, những người có tính cách T - Lý trí lại đưa ra quyết định dựa vào số liệu và đo lường chính xác.\n\n● <b>P - Linh hoạt:</b> Bạn thỏa thích vẫy vùng trong thế giới của riêng mình với những quy tắc ngầm được bạn tự tay sắp xếp. Trái lại, những người thuộc nhóm J - Nguyên tắc lại cảm thấy ổn khi được áp cho những luật lệ được sắp đặt sẵn."
                         },
                         {
-                            "title": "Giới thiệu",
-                            "content": "Ẩn dưới vẻ ngoài trầm lặng, <i><b>ISFP (Người nghệ sĩ)</b></i> sở hữu một trái tim tràn đầy nhiệt huyết của người nghệ sĩ. Họ vừa hướng nội vừa hướng ngoại, dễ vui dễ buồn, khó đoán và tự phát. ISFP cũng là người yêu tự do và đam mê trải nghiệm, biết lắng nghe và quan tâm đến những người xung quanh."
+                            "title": "Những ý tưởng mới",
+                            "content": "ISFP yêu thích khám phá và theo đuổi những ý tưởng mới mẻ và thú vị. Họ rất giỏi trong việc nắm bắt cơ hội, hướng tới trải nghiệm và đến với những ý tưởng chưa từng được nghĩ tới trước đây. Các ISFP thường khá dễ dàng tiếp cận với những điều mới mẻ, thú vị và truyền cảm hứng cho những người khác."
                         },
                         {
-                            "title": "Giới thiệu",
-                            "content": "Ẩn dưới vẻ ngoài trầm lặng, <i><b>ISFP (Người nghệ sĩ)</b></i> sở hữu một trái tim tràn đầy nhiệt huyết của người nghệ sĩ. Họ vừa hướng nội vừa hướng ngoại, dễ vui dễ buồn, khó đoán và tự phát. ISFP cũng là người yêu tự do và đam mê trải nghiệm, biết lắng nghe và quan tâm đến những người xung quanh."
+                            "title": "Tâm hồn tự do",
+                            "content": "Các ISFP đặc biệt yêu thích sự tự do - họ có tinh thần độc lập cao, không thích bị kiểm soát. Với đôi cánh bay bổng và linh hồn tự do, những Người nghệ sĩ xem nhẹ tất cả các quy định, nguyên tắc, cho rằng những điều đó sẽ kìm hãm cuộc sống đầy thi vị của họ. Các ISFP sống trọn từng phút giây ở thì hiện tại, họ không bám víu vào quá khứ cũng không mơ hồ ở tương lai."
                         },
                         {
-                            "title": "Giới thiệu",
-                            "content": "Ẩn dưới vẻ ngoài trầm lặng, <i><b>ISFP (Người nghệ sĩ)</b></i> sở hữu một trái tim tràn đầy nhiệt huyết của người nghệ sĩ. Họ vừa hướng nội vừa hướng ngoại, dễ vui dễ buồn, khó đoán và tự phát. ISFP cũng là người yêu tự do và đam mê trải nghiệm, biết lắng nghe và quan tâm đến những người xung quanh."
+                            "title": "Cảm quan nghệ thuật",
+                            "content": "Các ISFP rất giỏi trong những công việc liên quan đến nghệ thuật và thẩm mỹ. Tính cách F (Cảm xúc) và S (Giác quan) của những người thuộc nhóm tính cách ISFP giúp họ rất nhiều trong việc hòa hợp giữa thế giới vật chất và tinh thần. Do đó, các ISFP hiếm khi gặp khó khăn khi kết giao với những người khác, mặc dù thực tế họ thuộc nhóm I (Hướng nội).\n\nTuy nhiên những người xung quanh rất khó nhìn thấu con người của các ISFP bởi họ sống khá khép kín và không hay thể hiện cảm xúc ra bên ngoài. Những người không biết rõ về các ISFP sẽ cho rằng lối sống của họ có phần lập dị và bất cần. Ngược lại, những người đã hiểu rõ về các ISFP sẽ nhận ra sự khác biệt và cá tính trong trái tim của các ISFP. Và các ISFP đánh giá rất cao những người sẵn sàng đồng hành và thấu hiểu con người họ, giúp họ tiến gần hơn tới giấc mơ của mình."
                         },
                         {
-                            "title": "Giới thiệu",
-                            "content": "Ẩn dưới vẻ ngoài trầm lặng, <i><b>ISFP (Người nghệ sĩ)</b></i> sở hữu một trái tim tràn đầy nhiệt huyết của người nghệ sĩ. Họ vừa hướng nội vừa hướng ngoại, dễ vui dễ buồn, khó đoán và tự phát. ISFP cũng là người yêu tự do và đam mê trải nghiệm, biết lắng nghe và quan tâm đến những người xung quanh."
+                            "title": "Thực hành hơn là lý thuyết",
+                            "content": "Các ISFP là những người theo chủ nghĩa thực hành hơn là lý thuyết. Họ không đánh giá cao khi làm việc với những ý tưởng mang tính giả thiết, thứ họ muốn nhìn là giá trị thực tiễn mang lại. Họ cũng không thích những ý tưởng mang tính khách quan được đưa ra dựa trên logic, mà tin vào ý kiến chủ quan của chính mình."
                         },
                         {
-                            "title": "Giới thiệu",
-                            "content": "Ẩn dưới vẻ ngoài trầm lặng, <i><b>ISFP (Người nghệ sĩ)</b></i> sở hữu một trái tim tràn đầy nhiệt huyết của người nghệ sĩ. Họ vừa hướng nội vừa hướng ngoại, dễ vui dễ buồn, khó đoán và tự phát. ISFP cũng là người yêu tự do và đam mê trải nghiệm, biết lắng nghe và quan tâm đến những người xung quanh."
+                            "title": "Tinh tế",
+                            "content": "Các ISFP đặc biệt để ý đến những người xung quanh. Họ quan sát kỹ càng và thu thập thông tin từ những gì mình nhìn thấy và cảm nhận thấy về người khác, sau đó nghiền ngẫm một cách kỹ càng để có thể hiểu được con người của đối phương."
                         },
                         {
-                            "title": "Giới thiệu",
-                            "content": "Ẩn dưới vẻ ngoài trầm lặng, <i><b>ISFP (Người nghệ sĩ)</b></i> sở hữu một trái tim tràn đầy nhiệt huyết của người nghệ sĩ. Họ vừa hướng nội vừa hướng ngoại, dễ vui dễ buồn, khó đoán và tự phát. ISFP cũng là người yêu tự do và đam mê trải nghiệm, biết lắng nghe và quan tâm đến những người xung quanh."
+                            "title": "Ấm áp và biết cảm thông",
+                            "content": "Các ISFP là những người ấm áp và biết cảm thông, biết lắng nghe tâm sự của mọi người cũng như sẵn sàng giúp đỡ nếu cần, đặc biệt là đối với những người thân cận. Làm nhiều hơn nói là đặc điểm nổi bật của nhóm tính cách này."
                         },
                         {
-                            "title": "Giới thiệu",
-                            "content": "Ẩn dưới vẻ ngoài trầm lặng, <i><b>ISFP (Người nghệ sĩ)</b></i> sở hữu một trái tim tràn đầy nhiệt huyết của người nghệ sĩ. Họ vừa hướng nội vừa hướng ngoại, dễ vui dễ buồn, khó đoán và tự phát. ISFP cũng là người yêu tự do và đam mê trải nghiệm, biết lắng nghe và quan tâm đến những người xung quanh."
+                            "title": "Không thích kiểm soát hay bị kiểm soát",
+                            "content": "Các ISFP không thích dẫn dắt và kiểm soát người khác, cũng như cách họ không bị dẫn dắt hay bị kiểm soát. Họ cần không gian riêng để tự đánh giá chính bản thân mình, và họ tin rằng những người khác cũng có nhu cầu được ở một mình để tự kiểm điểm bản thân như họ."
                         },
                         {
-                            "title": "Giới thiệu",
-                            "content": "Ẩn dưới vẻ ngoài trầm lặng, <i><b>ISFP (Người nghệ sĩ)</b></i> sở hữu một trái tim tràn đầy nhiệt huyết của người nghệ sĩ. Họ vừa hướng nội vừa hướng ngoại, dễ vui dễ buồn, khó đoán và tự phát. ISFP cũng là người yêu tự do và đam mê trải nghiệm, biết lắng nghe và quan tâm đến những người xung quanh."
+                            "title": "Khiêm tốn",
+                            "content": "Các ISFP không đánh giá cao bản thân chỉ bởi vì họ vừa hoàn thành rất tốt một việc gì đó, bởi tiêu chuẩn của họ đối với bản thân rất cao, gần như là một người theo chủ nghĩa lý tưởng."
                         },
                         {
-                            "title": "Giới thiệu",
-                            "content": "Ẩn dưới vẻ ngoài trầm lặng, <i><b>ISFP (Người nghệ sĩ)</b></i> sở hữu một trái tim tràn đầy nhiệt huyết của người nghệ sĩ. Họ vừa hướng nội vừa hướng ngoại, dễ vui dễ buồn, khó đoán và tự phát. ISFP cũng là người yêu tự do và đam mê trải nghiệm, biết lắng nghe và quan tâm đến những người xung quanh."
-                        },
-                        {
-                            "title": "Giới thiệu",
-                            "content": "Ẩn dưới vẻ ngoài trầm lặng, <i><b>ISFP (Người nghệ sĩ)</b></i> sở hữu một trái tim tràn đầy nhiệt huyết của người nghệ sĩ. Họ vừa hướng nội vừa hướng ngoại, dễ vui dễ buồn, khó đoán và tự phát. ISFP cũng là người yêu tự do và đam mê trải nghiệm, biết lắng nghe và quan tâm đến những người xung quanh."
-                        },
-                        {
-                            "title": "Giới thiệu",
-                            "content": "Ẩn dưới vẻ ngoài trầm lặng, <i><b>ISFP (Người nghệ sĩ)</b></i> sở hữu một trái tim tràn đầy nhiệt huyết của người nghệ sĩ. Họ vừa hướng nội vừa hướng ngoại, dễ vui dễ buồn, khó đoán và tự phát. ISFP cũng là người yêu tự do và đam mê trải nghiệm, biết lắng nghe và quan tâm đến những người xung quanh."
+                            "title": "Những người nổi tiếng mang tính cách ISFP:",
+                            "content": "● Elizabeth “Lana Del Rey” Grant\n\n● Billie Eilish\n\n● Marilyn Monroe\n\n● Lionel Messi\n\n● Lady Gaga\n\n● Michael Jackson\n\n● Britney Spears\n\n● Jungkook (BTS)"
                         },
                     ]
                 },
@@ -512,11 +504,53 @@ export const mbtiData = {
                     "items": [
                         {
                             "title": "Điểm mạnh",
-                            "content": "• Thấu cảm cao, hiểu được cảm xúc của người khác\n• Linh hoạt và thích ứng tốt với thay đổi\n• Sáng tạo và có khiếu nghệ thuật\n• Chân thành và trung thực trong mối quan hệ"
+                            "itemsChild": [
+                                {
+                                    "titleChild": "Hấp dẫn",
+                                    "content": "Người nghệ sĩ cũng như cái tên của mình, là những người thoải mái và ấm áp. Châm ngôn “sống hết mình như thể hôm nay là cuối cùng” khiến những người xung quanh luôn ngưỡng mộ họ.",
+                                },
+                                {
+                                    "titleChild": "Trái tim đồng cảm",
+                                    "content": "Những người thuộc nhóm tính cách ISFP rất quan tâm tới cảm xúc của người khác, họ luôn là một nhân tố quan trọng giúp những người xung quanh có thể cân bằng cảm xúc và giảm thiểu xung đột cá nhân.",
+                                },
+                                {
+                                    "titleChild": "Giàu trí tưởng tượng",
+                                    "content": "Luôn thấu hiểu cảm xúc của người khác, các ISFP dùng sư sáng tạo và sự hiểu biết sâu sắc của mình để tạo ra những ý tưởng mới chạm tới trái tim của những người xung quanh. Điểm mạnh này giúp đỡ những Người nghệ sĩ rất nhiều trong cuộc sống.",
+                                },
+                                {
+                                    "titleChild": "Đam mê",
+                                    "content": "Ẩn nấp dưới vẻ ngoài trầm lặng dễ ngại ngùng là một trái tim tràn đầy nhiệt huyết. Khi bị cuốn vào một điều gì đó thú vị và hấp dẫn, họ sẽ đầu tư thời gian và công sức để tìm hiểu và khám phá hết mình.",
+                                },
+                                {
+                                    "titleChild": "Sáng tạo",
+                                    "content": "Đối với các ISFP, ý tưởng tốt là một chuyện, họ cần tự mình khám phá và xác nhận ý tưởng đó. Những công việc liên quan tới khoa học không quá phù hợp với những người thuộc nhóm tính cách ISFP, nhưng những công việc liên quan tới con người, nghệ thuật thì có. Nếu những Người nghệ sĩ được trao cho không gian để thỏa thích suy nghĩ, sáng tạo và cống hiến thì họ có thể xây dựng một sự nghiệp rực rỡ.",
+                                },
+                                {
+                                    "titleChild": "Tâm hồn nghệ thuật nồng cháy",
+                                    "content": "Các ISFP có khả năng thể hiện sự sáng tạo của mình một cách uyển chuyển và khéo léo trong việc viết nhạc, vẽ tranh hoặc đơn giản là trình bày bảng biểu thống kê trong công việc.",
+                                },
+                            ],
                         },
                         {
                             "title": "Điểm yếu",
-                            "content": "• Ngại mâu thuẫn và xung đột\n• Dễ bị ảnh hưởng bởi cảm xúc tiêu cực\n• Khó đưa ra quyết định quan trọng\n• Có thể thiếu tính kỷ luật"
+                            "itemsChild": [
+                                {
+                                    "titleChild": "Tự phát",
+                                    "content": "Tự do là điều tối quan trọng đối với các ISFP, đồng nghĩa với việc tất cả những quy tắc và quy định mang tính truyền thống đều khiến họ khó chịu. Điều này khiến những Người nghệ sĩ khó có thể hòa hợp được với những môi trường có phần bó buộc và khuôn phép như trường học và nơi làm việc.",
+                                },
+                                {
+                                    "titleChild": "Khó đoán",
+                                    "content": "Những người thuộc nhóm tính cách ISFP không thích những cam kết và kế hoạch mang tính dài lâu. Điều này có thể gây ra những cản trở trong tình yêu cũng như trong việc quản lý tài chính của các ISFP.",
+                                },
+                                {
+                                    "titleChild": "Dễ vui và cũng dễ buồn",
+                                    "content": "Các ISFP sống trọn từng khoảnh khắc với trái tim tràn đầy xúc cảm. Và khi gặp phải các tình huống nằm ngoài tầm kiểm soát, họ dễ đánh mất sự tự tin thường ngày và rơi vào trạng thái hoảng loạn.",
+                                },
+                                {
+                                    "titleChild": "Hiếu thắng",
+                                    "content": "Những người thuộc nhóm tính cách ISFP cạnh tranh từ những điều nhỏ nhặt nhất. Tính hiếu thắng này sẽ khiến họ dễ bị ảnh hưởng tiêu cực tới tâm trạng, từ đó đánh mất lợi thế và cuối cùng là tuột mất chiến thắng ở những khoảnh khắc mang tính quyết định.",
+                                }
+                            ],
                         }
                     ]
                 },
@@ -524,29 +558,151 @@ export const mbtiData = {
                     "section": "Mối quan hệ",
                     "items": [
                         {
-                            "title": "Phong cách trong mối quan hệ",
-                            "content": "ISFP là người lắng nghe tốt trong các mối quan hệ, họ quan tâm sâu sắc đến cảm xúc và nhu cầu của người khác. Tuy nhiên, đôi khi họ cần không gian riêng để nạp năng lượng và xử lý cảm xúc. Trong tình yêu, họ rất lãng mạn và tận tụy, nhưng cần thời gian để mở lòng hoàn toàn."
-                        }
+                            "content": "Các ISFP có xu hướng tận hưởng cuộc sống hiện tại và không (muốn) lo lắng nhiều về các kế hoạch trong tương lai hoặc các cuộc tranh luận nghiêm túc. Không ngạc nhiên khi các ISFP dễ bị thu hút bởi những người có cá tính tương đồng, bởi những người làm trong lĩnh vực nghệ thuật hơn là trong lĩnh vực khoa học. Những người luôn đứng trong vòng an toàn của mình để nhìn ra thế giới cũng không hợp để kết giao với các ISFP.\n\nMặt dù các ISFP khá tùy hứng và thoải mái trong lối sống, nhưng về bản chất họ vẫn là những người hướng nội. Họ khá nhút nhát khi kết giao bạn mới, cũng như khá miễn cưỡng và rụt rè trong lần gặp lần tiên. Các ISFP có xu hướng che dấu một phần cảm xúc hoặc những thói quen hơi khác thường một chút của bản thân trước những người mà họ không quá tin tưởng.\n\nCác ISFP rất ấm áp và khoan dung với bạn bè. Tuy nhiên, nếu bạn là một người quen của các ISFP và được họ giúp đỡ, hãy trả ơn bằng việc hỗ trợ ngược lại thay vì đưa ra những lời phê bình dù là mang tính tích cực và đóng góp. Những người thuộc nhóm tính cách ISFP không thích bị ràng buộc bởi các quy định và nguyên tắc, do đó, họ cũng không muốn nghe người khác dạy mình nên sống như thế nào.\n\nNhìn chung, các ISFP sống rất tình cảm và tốt bụng, họ biết giữ lời hứa và luôn tìm kiếm các mối quan hệ lâu dài. ISFP thuộc nhóm người kín đáo, không muốn bộc lộ cảm xúc ra ngoài. Điều này có thể sẽ tạo ra rắc rối trong các mối quan hệ nếu đối phương không hiểu được các ISFP đang nghĩ gì và muốn gì, dẫn đến việc làm ra những hành động chạm đến “vảy ngược” của các ISFP. Vốn là người có bản chất thực dụng và hay hoài nghi, trong trường hợp đó, các ISFP sẽ cảm thấy vô cùng như thể mình đang bị coi thường, và họ sẽ hoặc từ bỏ mối quan hệ đó, hoặc lợi dụng nó để đạt được những mục đích cá nhân khác.\n\nTuy vậy, đối với những người thân thiết và đã quen lâu thì các ISFP khá thoải mái khi chia sẻ cảm xúc của mình. Họ có thể làm mọi thứ để làm người khác vui vẻ, cũng như rất chung thủy và hay giúp đỡ mọi người bằng cả tấm lòng. Các ISFP rất ghét cãi cọ hay xích mích vì những lý do vu vơ vô nghĩa. Họ cần không gian riêng để thả lỏng tâm hồn, và cũng luôn tôn trọng không gian riêng của người khác."
+                        },
+                        {
+                            "title": "ISFP trong tình yêu",
+                            "itemsChild": [
+                                {
+                                    "content": "Khá khó để hiểu được tính cách có phần bí hiểm của những người thuộc nhóm tính cách ISFP bởi họ thường giấu đi cảm xúc của mình, họ lựa chọn lắng nghe nhiều hơn là chủ thể hiện tình cảm ra bên ngoài. Thay vào đó, các ISFP rất chăm chút cho nửa kia và thích chiều theo mong muốn của người yêu hơn là theo mong muốn của chính họ.\n\n<i>“Trong tình yêu, những Người nghệ sĩ sẽ luôn làm bất ngờ bạn đời của mình với những điều bất ngờ thú vị nho nhỏ hằng ngày.”</i>\n\nKhi tình yêu bước vào giai đoạn thăng hoa, cả hai người sẽ phải cùng bắt nhịp với suy nghĩ và hành động của nhau. Những người thuộc nhóm tính cách ISFP sẽ để nửa kia của mình tiếp quản những nhiệm vụ cần tới sự logic như lên một kế hoạch dài hơi cho tương lai, còn họ sẽ hoàn thành nốt những việc còn dang dở trong hiện tại. Những Người nghệ sĩ cũng thường khiến nửa kia của mình ngạc nhiên với những bất ngờ nho nhỏ trong cuộc sống bởi họ là những người rất biết quan tâm và săn sóc.\n\nMột điều nữa mà bạn nên biết về các ISFP: Giả sử một chuyến dã ngoại sắp bắt đầu nhưng lại có người hủy kèo giữa chừng vì người yêu bị ốm, thì rất có khả năng đó là một ISFP si tình nào đó. Những người thuộc nhóm tính cách ISFP rất thích dành thời gian cho nửa kia của mình và họ cũng muốn nửa kia của mình biết được điều đó.",
+                                },
+                                {
+                                    "titleChild": "Một trái tim dịu dàng",
+                                    "content": "Nửa kia của các ISFP nên biết rằng tình yêu và những bận tâm mà các ISFP dành cho họ là vô cùng đáng giá. Và mặc dù không nói ra nhưng các ISFP luôn hy vọng sẽ nhận được lời cảm ơn từ nửa kia. Những người thuộc nhóm tính cách ISFP không muốn nghe những lời hứa suông mà họ tin vào hành động và những việc mà một cặp đôi sẽ thực sự làm vì nhau trong quá trình yêu đương.\n\nCác ISFP thường là những người vô cùng gợi cảm, và điều đó thể hiện rõ ràng trong đời sống tình dục của họ. Việc thân mật thường ngày là cơ hội để những người thuộc nhóm tính cách ISFP thỏa mãn nửa kia của mình, và bản thân họ cũng sẽ hưởng thụ điều ấy một cách từ từ chậm rãi để không bỏ lỡ bất cứ khoảnh khắc nào. Ở nơi công cộng, những Người nghệ sĩ có thể sẽ có chút ngại ngùng, tuy nhiên khi đối diện với người bạn đời mà họ tin tưởng, họ sẽ cởi bỏ lớp mặt nạ của mình và sống đúng bản chất, đây là một khía cạnh thú vị mà ta thường khó thấy được ở các ISFP.",
+                                },
+                                {
+                                    "titleChild": "Yêu là cùng nhau đi lên",
+                                    "content": "Tính cách của các ISFP có chút phiêu lưu và tùy hứng, vì vậy họ cũng không muốn bị gò bó vào những định hướng mang tính dài hơi. Những Người nghệ sĩ không muốn mỗi sáng thức dậy lại phải tự hỏi “không biết hôm nay có thể xảy ra chuyện gì nhỉ?” mà thay vào đó là “mục tiêu của mình ngày hôm nay sẽ là gì đây?”\n\nTuy vậy, việc phát triển thêm kỹ năng lập kế hoạch dài hạn sẽ giúp đỡ các ISFP rất nhiều trong cuộc sống, cụ thể là trong tình yêu. Cùng với đó, các nửa kia của ISFP cũng có thể giúp họ dần học cách thể hiện cảm xúc ra bên ngoài thay vì giấu nhẹm vào bên trong khiến không ai có thể biết được họ đang nghĩ gì và muốn gì.",
+                                }
+                            ],
+                        },
+                        {
+                            "title": "ISFP trong tình bạn",
+                            "itemsChild": [
+                                {
+                                    "content": "Những Người nghệ sĩ rất thích ở cùng với bạn bè của mình. Là người yêu tự do, những người thuộc nhóm tính cách ISFP sẽ không để bản thân sa vào những cuộc tranh luận rắc rối hoặc những kế hoạch dài hơi gò bó. Những buổi thảo luận “hại não” về tình hình kinh tế chính trị của một quốc gia nào đó sẽ không thu hút được sự chú ý của họ lâu đâu, nhưng những sự việc đang xảy ra ngay bây giờ và ngay lúc này thì hoàn toàn có thể. Các ISFP thích tận hưởng thời gian với bạn bè, làm việc thường nhật và giải trí nhẹ nhàng vui vẻ.",
+                                },
+                                {
+                                    "titleChild": "Cùng nhau tận hưởng cuộc sống",
+                                    "content": "Những Người nghệ sĩ tin vào hành động thực tiễn thay vì lời nói suông. Họ thích bàn luận về những việc đang xảy ra thay vì những gì có thể xảy ra hay đáng lẽ nên xảy ra. Tính cách này giúp các ISFP không thấy ngại ngùng khi kết giao bạn bè mới. Tuy nhiên những người thuộc nhóm tính cách ISFP lại khá nhạy cảm, họ dễ kết bạn nhưng cũng cần một thời gian dài để xây dựng lòng tin và hòa hợp với bạn mới.\n\nNhững Người nghệ sĩ sẽ không thích kết giao với những người hay phê bình, đánh giá và chỉ đạo họ phải làm thế này phải làm thế kia. Ngược lại, họ sẽ cảm thấy thoải mái với những người bạn dễ tính và sẵn sàng ủng hộ họ vô điều kiện. Các ISFP sẵn sàng rũ bỏ mọi quy tắc, quy định và kỳ vọng để tận hưởng thời gian bên những người mà họ thật sự tin tưởng.\n\nNếu bạn là người thích sống và làm việc trong một môi trường an toàn, có nguyên tắc thì sẽ rất khó để làm thân với những ISFP. Trong trường hợp đó, bạn nên tập trung làm việc của mình và để mặc các ISFP được làm những gì họ muốn.\n\n<i>“Những Người nghệ sĩ rất dễ kết giao bạn bè bởi họ là những người có tính cách thoải mái, không hay đánh giá hay phê bình người khác.”</i>\n\nCác ISFP cần nhiều không gian và tự do để sống cuộc đời mình, họ muốn sống hết mình như thể hôm nay là cuối cùng, tận hưởng từ những điều nhỏ bé nhất. Nếu bạn muốn rũ bỏ căng thẳng và áp lực, hãy kết bạn với một ISFP.",
+                                },
+                            ],
+                        },
+                        {
+                            "title": "ISFP khi làm mẹ",
+                            "itemsChild": [
+                                {
+                                    "content": "Khi trở thành cha mẹ, các ISFP sẽ coi ngôi nhà là chốn bình yên của mình. Không phải ai cũng luôn sẵn sàng cho thiên chức làm cha mẹ, tuy nhiên nhờ tính cách ấm áp, dễ chịu, luôn bám sát thực tiễn, những Người nghệ sĩ sẽ quý trọng từng phút giây và niềm vui trong quá trình nuôi dạy con trẻ.",
+                                },
+                                {
+                                    "titleChild": "Tận hưởng mỗi ngày",
+                                    "content": "Điểm mạnh của các ISFP là họ luôn sẵn sàng tận hưởng niềm vui được quanh quẩn cả ngày bên những người mà họ yêu thương. Ở bên họ, những đứa trẻ sẽ được thỏa thích tìm hiểu và khám phá những điều mới lạ, bởi bản thân những người thuộc nhóm tính cách ISFP rất thích những hoạt động vui nhộn, luôn khuyến khích những đứa trẻ khai phá thêm những sở thích mới.\n\nDù thuộc nhóm tính cách Hướng nội (I), những người thuộc nhóm tính cách ISFP sẵn sàng dành thời gian cùng với con cái họ tham gia vào những buổi dã ngoại ngẫu hứng, hoặc đơn giản là trang trí lại phòng ngủ hay nướng một mẻ bánh ngon cho cả nhà.\n\nNhững Người nghệ sĩ là một trong những nhóm tính cách thoải mái trong việc nuôi dạy con cái. Các ISFP tin rằng nếu muốn dạy dỗ ra những đứa trẻ có tư tưởng cởi mở và thoải mái thì cần để chúng tự do khám phá, trải nghiệm những điều mới mẻ, sai thì sửa. Gia đình sẽ luôn mở rộng vòng tay chào đón chúng trở về nhà sau khi trải qua những bộn bề cuộc sống ngoài kia.\n\n<i>“Các ISFP làm cha mẹ cũng rất có quy tắc, và quy tắc của họ là không bao giờ can thiệp vào việc riêng của con hay áp đặt chúng vào bất kỳ khuôn mẫu nào.”</i>\n\nTuy nhiên sự tự do mà các ISFP trao cho con cái mình không phải bao giờ cũng tốt, nhất là khi chúng bước vào độ tuổi vị thành niên và muốn trải nghiệm nhiều hơn nữa, cũng như phải đối mặt với nhiều nan đề trong cuộc sống. Đây cũng là vấn đề khiến các bậc cha mẹ thuộc nhóm tính cách ISFP rất đau đầu, vì nếu không kiểm soát những đứa trẻ kịp thời thì có thể chúng có thể sẽ gây ra một vài sai lầm không đáng có. Khi ấy họ sẽ bị những người xung quanh chỉ trích như: “Tôi đã bảo anh chị rồi mà, không nên để bọn trẻ tự do như vậy, anh chị cần sát sao chúng nhiều hơn”.\n\nViệc không thành thạo lên kế hoạch dài hơi cũng là một điểm yếu khiến các ISFP gặp khó khăn trong những việc như dành một khoản tiết kiệm khi những đứa trẻ lên Đại học.",
+                                },
+                                {
+                                    "titleChild": "Sức mạnh của tình yêu thương",
+                                    "content": "Khi những đứa trẻ bước vào độ tuổi thiếu niên, các ISFP cũng dần phải đối mặt với nhiều vấn đề hơn. Những cha mẹ thuộc nhóm tính cách ISFP muốn những nỗ lực và công sức của mình được con cái trân trọng, tuy nhiên đây là điều mà những đứa trẻ rất ít thể hiện ra bên ngoài.\n\nCác ISFP cũng phải cố gắng nhiều để cải thiện khả năng kiểm soát cảm xúc của mình khi mọi chuyện không được như ý muốn. Ở tuổi mới lớn, những đứa trẻ thường tìm cách rời xa khỏi vòng tay của cha mẹ chúng và tạo cho mình một vỏ bọc, một không gian riêng tư. Tuy vậy, những Người nghệ sĩ cần biết rằng con cái vẫn luôn yêu thương và biết ơn với cuộc sống đẹp đẽ mà họ đã xây dựng cho chúng.\n\nMặc dù vậy, những người thuộc nhóm tính cách ISFP không bao giờ muốn tạo ra khoảng cách giữa họ và con cái, mà sẽ luôn thúc đẩy những đứa trẻ bước tiếp trên con đường chúng đã chọn bằng tình yêu thương ấm áp của mình.",
+                                }
+                            ],
+                        },
                     ]
                 },
                 {
-                    "section": "Nghề nghiệp phù hợp",
+                    "section": "Làm sao để thân thiết với ISFP",
                     "items": [
                         {
-                            "title": "Các nghề nghiệp đề xuất",
-                            "content": "ISFP phù hợp với các công việc cho phép họ thể hiện sự sáng tạo và làm việc độc lập:\n• Nghệ sĩ, thiết kế đồ họa\n• Nhiếp ảnh gia, nhạc sĩ\n• Tư vấn tâm lý, công tác xã hội\n• Thú y, chăm sóc sức khỏe\n• Viết lách, báo chí"
-                        }
+                            "content": "ISFP thuộc tuýp người hướng nội, khó tiếp cận và thường không bộc lộ cảm xúc thật trước những người mà họ không tin tưởng. Nhưng một khi đã thân thiết với ai đó, ISFP sẽ tháo bỏ sự trầm mặc ban đầu và trở nên sôi nổi, hoạt náo. Bạn sẽ nhận thấy thực ra ISFP là người vô cùng ấm áp và thân thiện, họ sẵn sàng dốc lòng giúp đỡ khi bạn bè gặp khó khăn.\n\nMột số điều bạn cần chú ý để có thể trở nên thân thiết với ISFP là:\n\n<b>● Hãy kiên trì.</b> Nếu bạn mới tiếp cận với ISFP thì đừng nản chí nếu thấy họ quá lạnh lùng, thực ra trong lòng ISFP đã có sự dao động chỉ là với tính cách nhút nhát và hay ngại ngần, ISFP đang cố gắng che giấu cảm xúc thật. Nếu tiếp tục kiên trì cố gắng thêm một chút nữa thôi thì chắc chắn các ISFP sẽ đáp lại tấm chân tình của bạn.\n\n● <b>Hãy cho ISFP không gian riêng.</b> Những người thuộc nhóm tính cách ISFP cần không gian riêng để tập trung suy nghĩ và phân tích vấn đề, đặc biệt trước khi đưa ra một quyết định quan trọng.\n\n● <b>Đừng kiểm soát.</b> ISFP không thích bị kiểm soát và ngược lại, họ cũng không muốn kiểm soát người khác.\n\n● <b>Chủ động sắp xếp các cuộc hẹn.</b> Khi hẹn các ISFP đi chơi, hãy chủ động lên lịch trình và đảm bảo rằng lịch trình đó không quá “ngợp” để hai người có thể đan xen thời gian vui chơi và thời gian nghỉ ngơi.\n\n● <b>Đừng nói xấu, chỉ trích người khác trước mặt ISFP.</b> Một điều cần ghi nhớ là ISFP không thích những người hay phán xét và đánh giá người khác."
+                        },
                     ]
+                },
+                {
+                    "section": "Con đường sự nghiệp",
+                    "items": [
+                        {
+                            "content": "Những người thuộc nhóm tính cách ISFP không đơn thuần chỉ cần một công việc mà còn muốn được tự do sáng tạo, tự do là chính mình. Khao khát ấy thậm chí còn lớn hơn động lực về tiền bạc, quyền lực, địa vị xã hội hay sự thăng tiến trong công việc. Họ luôn hy vọng được thỏa thích sáng tạo, tìm ra những điều mới mẻ và khẳng định bản thân.\n\nNhững Người nghệ sĩ có đam mê trải nghiệm và luôn là người dẫn đầu xu hướng dù đôi khi họ không nhận ra điều đó. Với sự độc đáo trong cách nhìn nhận sự việc và mong muốn được là chính mình, các ISFP rất thích hợp với những công việc như nghệ sĩ, nhạc sĩ, nhiếp ảnh gia, hoặc nhà thiết kế. Điển hình là họ sẽ lựa chọn mở một gian hàng trên sàn Etsy thay vì làm việc giờ hành chính tại một công ty nào đó."
+                        },
+                        {
+                            "title": "Tinh thần tự do tại nơi làm việc",
+                            "content": "Những người thuộc nhóm tính cách ISFP không thích phải ngồi một chỗ, nhận công việc nhàn rỗi và làm trong môi trường ảm đạm, nhàm chán mà muốn được tự do về tâm hồn, linh hoạt trong công việc. Và nếu họ biết kết hợp công việc với tính cách thích cạnh tranh của mình thì các ISFP có thể đạt được những thành tựu tuyệt vời.\n\nTuy nhiên, phẩm chất này có thể trở thành nhược điểm chí mạng nếu các ISFP không biết cẩn trọng trước những cạm bẫy. Nếu họ chỉ mải mê sống ở thực tại và không chuẩn bị trước cho tương lai thì có thể bỏ lỡ những cơ hội về sau, ví dụ như việc lên kế hoạch nghỉ hưu, và khi sự việc xảy tới thì họ sẽ cực kỳ bị động và cần nhiều thời gian để xoay xở."
+                        },
+                        {
+                            "title": "Mong chờ vào ngày mai tươi sáng",
+                            "content": "Tư duy tự do và hết mình với hiện tại sẽ khiến họ bỏ lỡ nhiều nghề nghiệp lý tưởng như tâm lý học, giảng dạy, vì đó là những công việc đòi hỏi phải lên kế hoạch từ sớm, cần chứng chỉ chuyên môn. Những Người nghệ sĩ nên dành thời gian tập trung vào một mục tiêu nhất định để có thể hoàn thành một cách tốt nhất thay vì cứ đứng núi này trông núi nọ.\n\nMột vài lựa chọn khác phù hợp với các ISFP là làm chuyên viên tư vấn trong một lĩnh vực nào đó, ví dụ như cho các tổ chức từ thiện. Như vậy, ngoài việc có một công việc để duy trì sự nghiệp thì họ còn có thể làm điều mình muốn là mang niềm vui đến cho mọi người."
+                        },
+                        {
+                            "title": "Những nghề nghiệp phù hợp",
+                            "content": "Khi nói đến sự nghiệp, các ISFP cần nhiều hơn một công việc, họ cần một nơi có thể giúp họ phát huy tính sáng tạo, thể hiện tài năng nghệ thuật và đưa trí tưởng tượng bay xa. ISFP trân trọng sự tự do của họ và chống lại mọi nỗ lực để đưa họ vào khuôn khổ hay bị hạn chế. Những người mang loại tính cách ISFP không quan tâm nhiều về sự ổn định, an toàn, họ muốn được đánh giá cao và được công nhận khả năng.\n\nCác ISFP rất thích thử nghiệm và cố gắng tìm ra những điều mới — đây là lý do chính tại sao họ thường được gọi là những người tiên phong trong nhiều lĩnh vực. Ngoài ra, vị trí đó cũng cần phải đủ linh hoạt để cho phép họ thử sức với những tình huống khó.\n\nCác ISFP có tâm hồn bay bổng và óc sáng tạo tuyệt vời, vì vậy thật tệ khi họ phải giam mình trong một căn phòng đơn điệu và làm những công việc nhàm chán tới tám tiếng một ngày.\n\nHơn nữa, những người thuộc nhóm tính cách ISFP có xu hướng thể hiện tốt nhất ở những công việc đòi hỏi sự kết hợp của cả năm giác quan — ví dụ thể thao, thiết kế, nghệ thuật, tư vấn, nhà tâm lý học, ngôn ngữ học, trị liệu, dịch giả tự do, giáo viên hoặc hướng dẫn viên du lịch. Ngoài ra còn rất nhiều công việc lý tưởng khác dành cho các ISFP, miễn là việc làm đó có thể giúp họ phát huy tối đa thế mạnh của mình.\n\nDưới đây là các công việc phù hợp với ISFP, đây là các công việc để bạn tham khảo:\n\n● Người làm công tác xã hội / Cố vấn\n\n● Nhà thiết kế\n\n● Nhà tâm lí học\n\n● Nhạc sĩ\n\n● Nghệ sĩ\n\n● Chăm sóc trẻ em / Phát triển trẻ em\n\n● Bác sĩ khoa nhi\n\n● Giáo viên\n\n● Bác sĩ thú y\n\n● Kiểm lâm viên"
+                        },
+                    ]
+                },
+                {
+                    "section": "Thói quen nơi công sở",
+                    "items": [
+                        {
+                            "content": "Tại nơi làm việc, những người thuộc nhóm tính cách ISFP luôn tìm cho mình những vị trí công việc cho phép họ được làm theo cách của mình. Ngược lại, họ không thấy thoải mái khi phải làm việc trong môi trường gò bó, áp đặt với những luật lệ và quy tắc khắt khe. Là một người thông thái, hài hước và quyến rũ, các ISFP luôn tìm kiếm cơ hội ở nơi mà khả năng của mình được phát huy và công nhận."
+                        },
+                        {
+                            "title": "ISFP khi là nhân viên",
+                            "content": "Những người thuộc nhóm tính cách ISFP không thích phải ngồi một chỗ, nhận công việc nhàn rỗi và làm trong môi trường ảm đạm, nhàm chán mà muốn được tự do về tâm hồn, linh hoạt trong công việc. Và nếu họ biết kết hợp công việc với tính cách thích cạnh tranh của mình thì các ISFP có thể đạt được những thành tựu tuyệt vời.\n\nTuy nhiên, phẩm chất này có thể trở thành nhược điểm chí mạng nếu các ISFP không biết cẩn trọng trước những cạm bẫy. Nếu họ chỉ mải mê sống ở thực tại và không chuẩn bị trước cho tương lai thì có thể bỏ lỡ những cơ hội về sau, ví dụ như việc lên kế hoạch nghỉ hưu, và khi sự việc xảy tới thì họ sẽ cực kỳ bị động và cần nhiều thời gian để xoay xở."
+                        },
+                        {
+                            "title": "ISFP khi là đồng nghiệp",
+                            "content": "Những người thuộc nhóm tính cách ISFP là những người dễ làm việc cùng nhất, bởi họ sẽ làm việc cùng bạn một cách công bằng và thường xuyên đưa ra lời khuyên hữu ích. Trừ việc các ISFP sẽ rất dễ kiệt sức nếu công việc đòi hỏi họ phải xã giao quá nhiều, thì họ thật sự là những người đồng nghiệp thú vị và có kỹ năng kết giao tuyệt vời.\n\nNhững Người nghệ sĩ rất thân thiện và hòa đồng, họ thường giúp đỡ nếu người đồng nghiệp của mình gặp khó khăn trong công việc, tất nhiên với một điều kiện là những nỗ lực của các ISFP phải được công nhận và đánh giá cao, ví dụ như một lời khen ngợi chẳng hạn. Những người thuộc nhóm tính cách ISFP thường không rạch ròi giữa mục tiêu cá nhân và mục tiêu công việc, vì vậy đôi khi bạn sẽ thấy họ thật khó đoán."
+                        },
+                        {
+                            "title": "ISFP khi là cấp trên",
+                            "content": "Công việc làm sếp không quá thích hợp với các ISFP, bởi họ không phải tuýp người sinh ra để quản lý và kiểm soát người khác, không giỏi vẽ ra những kế hoạch về lâu về dài với tầm nhìn mười năm, hai mươi năm, cũng không giỏi trong việc đánh giá và phê bình nhân viên cấp dưới. Tuy nhiên đó chỉ là cảm giác chủ quan từ phía họ, còn nếu được tin tưởng giao nhiệm vụ thì những người thuộc nhóm tính cách ISFP sẽ làm hết mình để đảm bảo kết quả tốt nhất.\n\nNhững Người nghệ sĩ rất biết cách lắng nghe và thấu hiểu, điều đó tạo rất nhiều động lực cho nhân viên cấp dưới của họ. Các ISFP cũng cho nhân viên không gian riêng để tự mình xử lý công việc trong khoảng thời gian cần thiết, còn họ sẽ chỉ sát cánh bên cạnh và theo dõi công việc, cũng như chỉ dẫn khi nhân viên của họ cần lời khuyên. Các nhân viên cấp dưới của ISFP rất thích kiểu tính cách này của sếp họ."
+                        },
+                    ]
+                },
+                {
+                    "section": "So sánh ISFP với ISTP, ESFP",
+                    "items": [
+                        {
+                            "content": "Khi so sánh <ISFP (Người nghệ sĩ) với những nhóm tính cách khác có sự tương đồng (<b>IS</b>T<b>P</b> - Nhà kỹ thuật, E<b>SFP</b> - Người trình diễn), bạn sẽ hiểu rõ hơn về đặc tính của nhóm ISFP."
+                        },
+                        {
+                            "title": "Điểm giống nhau",
+                            "content": "ISFP, ISTP và ESFP được phân vào nhóm SP với S - Sensing (Giác quan) và P - Perception (Linh hoạt). Ba nhóm tính cách này nổi bật với khả năng thích nghi và năng khiếu nghệ thuật. Họ đều thuộc tuýp thực tế, không thích những thứ dài dòng và viển vông. ISFP, ISTP và ESFP luôn nỗ lực duy trì năng lượng tích cực, họ khao khát được trải nghiệm những điều mới mẻ và được mọi người công nhận.\n\nKhi so sánh ISFP với ISTP, ESFP, chúng tôi nhận thấy giữa mỗi cặp sẽ có những điểm chung riêng như sau:\n\n● ISFP và ISTP: Sống nội tâm, chỉ bộc lộ cảm xúc thật của bản thân đối với những người thật sự thân thiết. ISFP và ISTP có xu hướng tiếp cận và giải quyết vấn đề một cách thực tế. Khao khát sự tự do và cần có không gian riêng để suy nghĩ về các vấn đề của bản thân, không lo chuyện bao đồng.\n\n● ISFP và ESFP: Giàu tình cảm, luôn tràn đầy năng lượng. Họ đều dành sự quan tâm sâu sắc đến gia đình và bạn bè của mình. ISFP và ESFP sở hữu bộ óc sáng tạo và khả năng thích nghi nhanh, nhờ vậy mà họ xử lý công việc hiệu quả."
+                        },
+                        {
+                            "title": "Điểm khác nhau",
+                            "content": "Dù ba nhóm tính cách ISFP, ISTP và ESFP chỉ khác nhau một chữ cái, song các nhóm tính cách này lại có nhiều điểm khác biệt. Bạn có thể theo dõi ở bảng sau:" 
+                        },
+                    ],
+                    "tables": [
+                        {
+                            "headers": ["Đặc điểm", "ISTP", "ISFP", "ESFP"],
+                            "rows": [
+                                ["Diễn giải chữ viết tắt", "I - Hướng nội<br>S - Giác quan<br>T - Lý trí<b></b><br>P - Linh hoạt", "<b>I - Hướng nội</b><br>S - Giác quan<br><b>F - Cảm xúc</b><br>P - Linh hoạt", "<b>E - Hướng ngoại</b><br>S - Giác quan<br>F - Cảm xúc<br>P - Linh hoạt"],
+                                ["Cách tiếp cận thông tin", "Tiếp cận bằng các giác quan nhưng đưa ra quyết định dựa trên số liệu cụ thể", "Tiếp cận bằng các giác quan nhưng đưa ra quyết định dựa trên cảm nhận cá nhân", "Tiếp cận bằng năm giác quan nhưng đưa ra quyết định dựa trên cảm xúc"],
+                                ["Trong các mối quan hệ", "- Bản tính “trong nóng ngoài lạnh”, ISTP giỏi thể hiện tình cảm bằng hành động hơn lời nói<br>- Thông minh và lý trí. Nếu mối quan hệ phát triển theo chiều hướng tốt như ISTP kỳ vọng thì họ sẽ hết lòng vì đối phương. Ngược lại, nếu mối quan hệ có xu hướng tệ, ISTP sẽ chọn cách rời đi nhanh chóng.<br>- Không muốn bị kiểm soát, dễ cảm thấy chán nản với các mối quan hệ mang tính ràng buộc.<br>- Tôn trọng suy nghĩ và sự khác biệt của đối phương so với bản thân mình, không áp đặt hay phán xét", "- Nhạy bén, giỏi lắng nghe, dễ kết bạn nhưng không dễ dàng thân thiết<br>- Thích các mối quan hệ ổn định, yên bình<br>- Săn sóc, quan tâm, cực kỳ chung tình<br>- Thích tạo bất ngờ, đặt nhu cầu và mong muốn của người yêu lên hàng đầu<br>- Kìm nén cảm xúc, luôn né tránh xung đột nên các ISFP dễ bùng nổ khi đến ngưỡng chịu đựng, từ đó từ bỏ mối quan hệ đang gắn bó bởi mâu thuẫn không thể giải quyết được", "- Hướng ngoại, dễ kết bạn<br>- Thích làm bạn với những người hướng ngoại, thú vị và cùng tần số với mình<br>- Trong tình yêu, là người tận tâm, chân thành và nỗ lực giữ lửa cho mối quan hệ. Tuy nhiên, ESFP cũng dễ chán, không có kế hoạch cụ thể cho tương lai<br>- Khi mối quan hệ rơi vào bế tắc hoặc không như kỳ vọng, ESFP dễ có xu hướng dứt áo ra đi"],
+                                ["Trong công việc", "- Phù hợp với môi trường làm việc tự do, được làm những gì bản thân yêu thích và tự chịu trách nhiệm với việc mình làm<br>- Khôn ngoan, khéo léo, sở hữu bộ óc phán đoán nhanh nhạy. Luôn cố gắng tìm ra phương pháp xử lý công việc nhanh và hiệu quả nhất", "- Phù hợp với môi trường làm việc tự do, sáng tạo, không gò bó bởi các quy định và luật lệ<br>- Dễ phát triển trong các lĩnh vực đòi hỏi sự sáng tạo<br>- Không thích bị người khác ra lệnh hoặc chỉ đạo nên làm thế này, thế kia. Nhưng khi cấp trên đưa ra mệnh lệnh, ISFP vẫn sẽ nỗ lực hoàn thành công việc tốt nhất có thể", "- Phù hợp với môi trường làm việc mở, linh hoạt, đòi hỏi sự ứng biến nhanh<br>- Không ngại khó, sẵn sàng tiếp nhận với mọi thử thách trong công việc<br>- Thích giúp đỡ người khác, cảm thấy hạnh phúc nếu bản thân có thể giúp ích cho xã hội. Phù hợp với các công việc như: tư vấn tâm lý, huấn luyện viên thể thao, nhiếp ảnh gia, nghệ sĩ"]
+                            ]
+                        }
+                    ],
+                    "content": "ISFP, ISTP và ESFP có điểm chung là đều muốn trở thành “nhân vật chính”, họ khao khát được tỏa sáng.\n\nĐều là những người giàu tình cảm và mang năng lượng tích cực, tuy nhiên, cách mà ISFP, ISTP và ESFP tiếp cận thông tin, tương tác và ra quyết định lại có những điểm rất khác biệt.\n\nISFP luôn khao khát sự tự do và sống hết mình cho hiện tại, họ sở hữu bộ óc sáng tạo cùng tâm hồn đầy mơ mộng.\n\nISTP tiếp cận mọi khía cạnh cuộc sống bằng sự logic và thông tin cụ thể, một khi xác định được mục tiêu, ISTP sẽ dốc lòng để thực hiện.\n\nNgược với nhóm I - Hướng nội (ISFP và ISTP), nhóm tính cách ESFP cực kỳ năng động, ham học hỏi và khám phá những điều mới mẻ.\n\nMỗi nhóm tính cách có một bản sắc, cách tiếp cận và xử lý thông tin khác, từ đó có hướng đi riêng cho cuộc đời của mình." 
                 },
                 {
                     "section": "Lời khuyên dành cho ISFP",
                     "items": [
                         {
-                            "title": "Gợi ý phát triển",
-                            "content": "Hãy phát huy khả năng sáng tạo của bạn và đừng ngại thể hiện quan điểm cá nhân. Học cách kiểm soát cảm xúc để đưa ra quyết định vững vàng hơn. Đặt ra những mục tiêu cụ thể và tạo kế hoạch để thực hiện chúng. Đừng sợ hãi xung đột khi cần bảo vệ giá trị của mình."
-                        }
+                            "title": "Mạnh dạn thể hiện bản thân",
+                            "content": "Sự thật là các ISFP rất thích được chú ý và khen ngợi, họ được đặt biệt danh là “người tìm kiếm sự chú ý trong im lặng”.\n\nBởi thuộc tuýp hướng nội nên ISFP khá dè dặt trong việc thể hiện bản thân mặc dù họ luôn khao khát được tỏa sáng.\n\nLời khuyên là hãy mạnh dạn thể hiện bản thân, dù là nhóm tính cách mang nhiều F - Feeling (Cảm giác) nhưng bạn cũng có năng lực phân tích thực tế khá tốt, hãy tự tin thể hiện thế mạnh của mình, bạn sẽ được công nhận và gặt hái những trái ngọt ngoài mong đợi."
+                        },
+                        {
+                            "title": "Đừng cố gắng kìm chế cảm xúc",
+                            "content": "ISFP có xu hướng giấu nhẹm cảm xúc thật, đặt cảm nhận và mong muốn của người khác ở thứ tự ưu tiên. Lời khuyên cho ISFP là đừng cố gắng kìm nén cảm xúc, khi những cảm xúc tiêu cực tích tụ trong bạn quá lâu, bạn sẽ khó lòng kiểm soát được, thậm chí hoảng loạn. Vậy nên, bên cạnh việc lắng nghe và đồng cảm với người khác, bạn nên lắng nghe tiếng nói bên trong mình, đừng quá gồng để vừa lòng tất cả mọi người."
+                        },
+                        {
+                            "title": "Đối mặt với chỉ trích",
+                            "content": 'ISFP là người "dĩ hòa vi quý", không thích chỉ trích người khác và cũng không muốn ai chỉ trích mình. Trong nhiều tình huống, vì muốn né tránh xung đột nên ISFP chọn cách nhẫn nhịn hết lần lần qua lần khác. ISFP sẽ cảm thấy vô cùng buồn bã và mất hết năng lượng nếu bị phê bình chỉ trích. Tuy nhiên, bạn cần biết rằng không ai là hoàn hảo cả. Ngay cả những người yêu quý bạn không phải lúc nào cũng đồng tình với tất cả quyết định của bạn. Hãy nghĩ chỉ trích cũng là cơ hội để bạn biết những điều bản thân còn thiếu sót, từ đó sửa đổi, trở thành phiên bản tốt hơn của chính mình.',
+                        },
+                        {
+                            "title": "Xây dựng kế hoạch cho tương lai",
+                            "content": "ISFP thích tận hưởng cuộc sống hiện tại, họ thường không lo lắng quá nhiều cho tương lai.\n\nThậm chí, ISFP còn có xu hướng né tránh các kế hoạch hỗ trợ cho tương lai vì lo lắng chúng sẽ ảnh hưởng đến cuộc sống yên bình mà họ đã và đang gây dựng.\n\nTuy nhiên, khi chỉ tập trung vào những điều có được ở hiện tại, ISFP có thể bỏ lỡ các cơ hội trong tương lai.\n\nISFP cần xây dựng kế hoạch tài chính dài hạn để tránh rơi vào tình huống khó khăn trong tương lai.\n\nNgoài ra, khi ra quyết định, ISFP cũng cần cân nhắc mức độ ảnh hưởng, tránh đặt bản thân vào những hoàn cảnh éo le bởi các quyết định ở hiện tại."
+                        },
                     ]
-                }
+                },
             ]
         },
         {

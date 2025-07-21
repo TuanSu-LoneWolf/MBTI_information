@@ -136,6 +136,13 @@ function showDetailPage(mbtiCode) {
 
       itemsContainer.appendChild(tablesContainer);
     }
+
+    if (section.content) {
+          const sectionContent = document.createElement('div');
+          sectionContent.className = 'item-content';
+          sectionContent.innerHTML = section.content.replace(/\n/g, '<br>');
+          itemsContainer.appendChild(sectionContent);
+    }
   }
 
   // Tạo danh sách section bên trái (table of contents)
