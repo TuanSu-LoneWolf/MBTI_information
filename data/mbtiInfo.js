@@ -3744,72 +3744,52 @@ export const mbtiData = {
             ]
         },
         {
-            "code": "ENFP",
-            "name": "Người truyền cảm hứng",
-            "description": "ENFP là nhóm tính cách nổi bật với khả năng sáng tạo không giới hạn, sẵn sàng lan tỏa những ý tưởng mới tới những người xung quanh. Các ENFP nhiệt tình, ấm áp và khá “quấn người”. Đối với họ, cuộc sống là để khám phá và tận hưởng từng phút giây, từng khoảnh khắc.",
-            "image": "../img/enfp.png",
+            "code": "ENTP",
+            "name": "Người nhìn xa",
+            "description": "Nhóm tính cách ENTP là những cá nhân cởi mở, ham học hỏi, thích khám phá và thử thách bản thân với những điều mới. ENTP là những người thân thiện đầy cuốn hút, hoạt ngôn, thích tranh luận, góp phần tạo nên bầu không khí đầy hứng khởi cho những người xung quanh. ENTP cũng xởi lởi và rất dễ kết giao bạn bè, tuy nhiên để đi tới mức độ gắn kết sâu sắc thì còn tùy thuộc vào mỗi cá nhân.",
+            "image": "../img/entp.png",
             "details": [
                 {
                     "section": "Tổng quan",
                     "items": [
                         {
-                            "content": "<b>ENFP (Người truyền cảm hứng)</b> là nhóm tính cách nổi bật với khả năng sáng tạo không giới hạn, sẵn sàng lan tỏa những ý tưởng mới tới những người xung quanh. Các ENFP nhiệt tình, ấm áp và khá “quấn người”. Đối với họ, cuộc sống là để khám phá và tận hưởng từng phút giây, từng khoảnh khắc."
+                            "content": "Những người thuộc nhóm tính cách <b>ENTP (Người nhìn xa)</b> nổi bật với tinh thần ham học hỏi và không ngừng tích lũy kiến thức, tìm kiếm giải pháp cho những vấn đề mang tính thách thức."
                         },
                         {
-                            "title": "ENFP là viết tắt của những chữ cái gì?",
-                            "content": "●     <b>E - Hướng ngoại:</b> Đối với những người thuộc nhóm tính cách ENFP, thế giới bên ngoài mới là thế giới thực. Trái ngược với tính cách I - Hướng nội luôn đắm mình trong thế giới nội tâm.\n\n●     <b>N - Trực giác:</b> Nhóm tính cách ENFP tập trung vào ý nghĩa của sự vật, sự việc, khác với những người có tính cách S - Giác quan sử dụng cả năm giác quan là: thị giác, thính giác, khứu giác, vị giác, cảm giác để nhìn nhận và đánh giá.\n\n●     <b>F - Cảm xúc:</b> Các ENFP đưa ra quyết định chủ yếu dựa trên cảm nhận cá nhân. Ngược lại, những người có tính cách T - Lý trí lại đưa ra quyết định dựa vào số liệu và đo lường chính xác.\n\n●     <b>P - Linh hoạt:</b> Bạn thỏa thích vẫy vùng trong thế giới của riêng mình với những quy tắc ngầm được bạn tự tay sắp xếp. Trái lại, những người thuộc nhóm J - Nguyên tắc lại cảm thấy ổn khi được áp cho những luật lệ được sắp đặt sẵn."
+                            "title": "ENTP là viết tắt của những chữ cái gì?",
+                            "content": "● <b>E - Hướng ngoại:</b> Đối với bạn, thế giới bên ngoài mới là thế giới thực. Trái ngược với tính cách I - Hướng nội luôn đắm mình trong thế giới nội tâm.\n\n● <b>N - Trực giác:</b> Bạn tập trung vào ý nghĩa của sự vật, sự việc, khác với những người có tính cách S - Giác quan sử dụng cả năm giác quan thị giác, thính giác, khứu giác, vị giác, cảm giác để nhìn nhận và đánh giá.\n\n● <b>T - Lý trí:</b> Bạn đưa ra quyết định dựa trên góc nhìn thực tế bằng số liệu và đo lường chính xác. Ngược lại, các F - Cảm xúc ưu tiên đưa ra quyết định dựa trên cảm nhận cá nhân.\n\n● <b>P - Linh hoạt:</b> Bạn thỏa thích vẫy vùng trong thế giới của riêng mình với những quy tắc ngầm được bạn tự tay sắp xếp. Trái lại, những người thuộc nhóm J - Nguyên tắc lại cảm thấy ổn khi được áp cho những luật lệ được sắp đặt sẵn."
                         },
                         {
-                            "title": "Nhiệt tình và tốt bụng",
-                            "content": 'Các ENFP là những người ấm áp và nhiệt tình, luôn vui vẻ và tràn đầy năng lượng. Họ nuôi dưỡng tinh thần bằng những suy nghĩ tích cực, thích tìm hiểu và khám phá thế giới xung quanh. Bởi sự nhiệt tình ấy mà ENFP là nhóm tính cách dễ truyền cảm hứng và động lực cho những người xung quanh nhất. Họ yêu cuộc sống của mình và sẵn sàng tận hưởng từng phút giây hạnh phúc mà thế giới này mang lại.',
+                            "title": "Thiên về trực giác",
+                            "content": 'Với bản tính hướng ngoại nổi bật trong tính cách, các ENTP không ngừng tìm tòi về thế giới quanh ta, về cách vũ trụ vận hành và vạn vật vần xoay. Họ sử dụng trực giác của mình để tiếp nhận thông tin và đưa ra hướng giải quyết cho những vấn đề nan giải. Đây cũng là điểm khác biệt giữa nhóm tính cách ENTP và người anh em ESTP của mình.',
                         },
                         {
-                            "title": 'Tinh tế',
-                            "content": "ENFP là những cá nhân tài năng và có khả năng hoàn thành tốt công việc trong nhiều lĩnh vực. Nhìn qua thì các ENFP khá thờ ơ và sao nhãng, bởi hầu như lúc nào họ cũng vui vẻ và hồ hởi, nhưng thực ra những Người truyền cảm hứng lại rất để tâm đến mọi chuyện đấy nhé, chỉ là họ không thể hiện ra bên ngoài thôi."
+                            "title": 'Nhạy bén',
+                            "content": "Trực giác tốt giúp các ENTP có khả năng suy nghĩ và phân tích vấn đề nhanh chóng một cách thấu đáo, cũng giúp họ thích ứng nhanh với mọi môi trường, mọi hoàn cảnh. Theo thời gian, trực giác của họ ngày càng được hoàn thiện, hỗ trợ các ENTP rất nhiều trong việc xử lý công việc hoặc đơn giản là đưa ra những quyết định thường ngày."
                         },
                         {
-                            "title": 'Không ngừng tiếng lên',
-                            "content": "Các ENFP muốn làm chủ cuộc đời mình, sống theo cách họ muốn và nghĩ những gì họ cho là đúng. Những người thuộc nhóm tính cách này cho rằng mọi điều tồn tại trên đời đều đại diện cho một ý nghĩa nào đó, và họ sẽ nắm lấy cơ hội để phát huy thêm những giá trị của bản thân mình."
+                            "title": 'Tràn đầy ý tưởng',
+                            "content": "Các ENTP là những người luôn tràn đầy ý tưởng với óc sáng tạo tuyệt vời. Họ thấy ý tưởng ở mọi nơi và cũng lan truyền tinh thần nhiệt huyết của mình tới mọi người xung quanh, từ đó nhận được sự công nhận và hỗ trợ rất lớn từ những người có cùng quan điểm."
                         },
                         {
-                            "title": 'Dừng một bước tiến hai bước',
-                            "content": "Không giống như những kiểu tính cách hướng ngoại khác, các ENFP cần dành thời gian ở một mình để sắp xếp lại những suy nghĩ ngổn ngang trong đầu và để chắc chắn rằng họ đang đi đúng theo định hướng đã đề ra. Việc dừng lại để tập trung suy nghĩ để tiến xa hơn sẽ giúp các ENFP đạt được thành công như ý muốn, thay vì cứ mãi “đứng núi này trông núi nọ” và không bao giờ hoàn thành trọn vẹn bất cứ kế hoạch nào."
+                            "title": 'Thực thi không phải là thế mạnh',
+                            "content": "Các ENTP giỏi nghĩ ra ý tưởng nhưng không giỏi trong việc thực thi. Họ có thể đưa ra vô vàn những ý tưởng hay ho tuyệt vời, nhưng nếu bảo họ ngồi xuống và viết ra kế hoạch kỹ càng, logic để triển khai ý tưởng ấy thì các ENTP lại không thích chút nào. Đây là lý do khiến những Người nhìn xa hầu như phải bỏ lỡ rất nhiều dự định do không có khả năng theo đuổi đến cùng."
                         },
                         {
-                            "title": "Giỏi giao tiếp",
-                            "content": "Hầu hết các ENFP là những người giỏi giao tiếp, coi trọng mối quan hệ giữa người với người. Họ nồng nhiệt và biết quan tâm tới những người xung quanh, đồng thời cũng muốn mình trở thành một cá nhân thích được chú ý và công nhận, đặc biệt là những ENFP nhỏ tuổi. Các ENFP sẽ cảm thấy hạnh phúc khi có được mối quan hệ sâu sắc với mọi người. Tuy vậy, sau khi đã trải qua nhiều thăng trầm trong cuộc sống và học cách để trưởng thành hơn, những Người truyền cảm hứng sẽ nhận ra đâu mới là giá trị thực của bản thân và có thể phát huy hết những thế mạnh của mình, góp phần xây dựng một cuộc sống tốt đẹp hơn cho bản thân và những người xung quanh."
+                            "title": "Tính logic cao",
+                            "content": "Dù sử dụng đặc điểm I (Trực giác) để suy nghĩ trong đa phần tình huống nhưng nhờ có đặc điểm T (Lý trí) dẫn dắt nên các quyết định mà những người thuộc nhóm tính cách ENTP đưa ra đều rất logic và có thể áp dụng vào thực tiễn, khiến họ trở thành những người có tầm nhìn xa trông rộng đáng mến."
                         },
                         {
-                            "title": "Hòa đồng",
-                            "content": "Các ENFP là những người rất giỏi kết giao. Điều quan trọng nhất khi làm quen với bạn mới là việc hai người có hợp nhau về mặt tính cách không, chứ không phải những yếu tố không quá quan trọng đối với họ như địa vị xã hội, nghề nghiệp, học thức."
+                            "title": "Thích tranh luận",
+                            "content": "Các ENTP là những người nhạy bén, tinh tế và có khả năng giao tiếp tốt. Họ thích tranh luận, thậm chí sẵn sàng đổi “phe” ngay trong cuộc tranh luận để đẩy sự kịch tính lên cao trào.\n\nChúng ta có thể đặt các ENTP vào vị trí của một luật sư để phân tích từng đặc điểm tính cách của họ: Người luật sư ENTP là người có khả năng suy nghĩ và nắm bắt tình huống rất nhanh, sau đó vạch ra những hành động logic để xử lý vấn đề. Đặc điểm T (Lý trí) giúp những người thuộc nhóm tính cách này có thể đưa ra quyết định dựa trên các quy tắc và luật pháp đã được ban hành."
                         },
                         {
-                            "title": "Yêu thích những điều mới mẻ",
-                            "content": "Các ENFP là những người yêu thích những điều thú vị và cố gắng tránh xa những điều vô vị, đó là lý do họ cảm thấy những công việc mang tính chất lặp đi lặp lại, ví dụ như việc nhà, quả thực rất nhàm chán. Tuy nhiên thì các ENFP cũng nên lưu ý về vấn đề này vì việc luôn trong trạng thái “một mình một phách” của họ có thể gây ảnh hưởng tiêu cực đến những người xung quanh."
+                            "title": "Hạn chế đặc điểm S và F",
+                            "content": "Đặc điểm hạn chế nhất của các ENTP là S (Giác quan) và F (Cảm xúc). Điều đó khiến những Người nhìn xa gần như bị ám ảnh bởi những tiểu tiết không quá quan trọng và đôi khi làm lỡ bức tranh tổng thể, đặc biệt khi phải đối mặt với áp lực.\n\nNhìn chung, các ENTP là những người có tầm nhìn xa. Họ trân trọng giá trị của tri thức và không ngừng khám phá những điều thú vị trong cuộc sống. Những khó khăn, thử thách không làm những người thuộc nhóm tính cách ENTP chùn bước mà ngược lại còn kích thích sự nhiệt huyết và lòng đam mê trong họ. Đứng trước những vấn đề nan giải, các ENTP thường đưa ra được những quyết định vô cùng đột phá."
                         },
                         {
-                            "title": "Và những hệ quả tiêu cực",
-                            "content": "Là một người thích cái mới, thích trải nghiệm, thích sống một cuộc sống đầy thi vị, đây là lý do khiến các ENFP có thể gặp nhiều khó khăn trong đời sống hôn nhân nếu cả họ và nửa kia của mình không cố gắng tìm cách “giữ lửa tình yêu”. Những Người truyền cảm hứng nên chậm rãi ngồi lại và nhìn nhận lại các giá trị mà mình đang có được để học cách trân trọng, học cách yêu thương, cùng nhau xây dựng tổ ấm tràn ngập hạnh phúc và tiếng cười."
-                        },
-                        {
-                            "title": "Vụng chèo khéo chống",
-                            "content": "Đa phần các ENFP được mệnh danh là người “vụng chèo khéo chống” do có khả năng giao tiếp và dẫn dắt rất tốt, tuy nhiên bản thân họ cũng không hề muốn lạm dụng lợi thế ấy của mình khi ý thức được những hậu quả nhãn tiền của việc chối bỏ trách nhiệm, từ chối nhận sai."
-                        },
-                        {
-                            "title": "Không giỏi phán đoán",
-                            "content": "Bên cạnh đó, các ENFP cũng là những người không giỏi phán đoán. Họ có thể sử dụng trực giác để đánh giá sự việc và đưa tới kết luận một cách hoàn hảo, nhưng cứ động tới phán đoán là “sai lại càng sai”."
-                        },
-                        {
-                            "title": "Khi làm cha mẹ",
-                            "content": "Ở cương vị là cha mẹ, các ENFP là những bậc phụ huynh khá thú vị nhưng đồng thời cũng vô tình khiến cho những đứa trẻ có mặt tính cách S (Giác quan) và J (Nguyên tắc) mạnh trở nên áp lực. Lý do bởi các ENFP là những người khá khó đoán, khi thì muốn thân thiết gần gũi với con cái như những người bạn thực sự, khi thì lại nghiêm khắc và muốn chúng phải nghe theo lời người lớn, thậm chí cách thể hiện của họ còn có phần hơi độc đoán. Tuy nhiên, tựu chung lại thì các bậc phụ huynh là ENFP luôn đặt giá trị của gia đình lên trên hết và sẽ cố gắng hết mình để những đứa trẻ được sống và trưởng thành trong vòng tay yêu thương của cha mẹ."
-                        },
-                        {
-                            "title": "Sự nghiệp thăng hoa",
-                            "content": "Các ENFP là những người vui vẻ, hoạt bát, yêu tự do. Vì vậy, những công việc có tính chất bó buộc hoặc có nhiều quy định, nguyên tắc nghiêm ngặt có thể khiến họ chán nản và nhanh chóng buông xuôi. Ngược lại, các ENFP yêu những công việc cho họ không gian tự do để linh hoạt áp dụng những ý tưởng mới, những phương pháp mới. Do đó, ngày càng có nhiều ENFP quyết định lên kế hoạch startup để tự mình làm chủ sự nghiệp. Tuy nhiên điều này làm nảy sinh những vấn đề mới khi bản thân các ENFP vừa không muốn bị kiểm soát vừa không muốn kiểm soát ai, kể cả những cấp dưới của mình, về lâu về dài thói quen này có thể dẫn tới một vài rối ren không đáng có trong công việc.\n\nNhìn chung, các ENFP là những người quyến rũ, thông minh với lòng đồng cảm và đề cao mối quan hệ giữa người với người. Họ có nhiều năng khiếu “trời ban” và có thể tận dụng để nâng cao giá trị của bản thân cũng như của những người xung quanh, chỉ cần những Người truyền cảm hứng biết tập trung và theo đuổi đến tận cùng."
-                        },
-                        {
-                            "title": "Những người nổi tiếng mang tính cách ENFP:",
-                            "content": "●     Mark Twain\n\n●     Walt Disney\n\n●     Will Smith\n\n●     Jennifer Anniston\n\n●     Keanu Reeves\n\n●     Sandra Bullock\n\n●     John Lennon\n\n●     Bob Dylan"
+                            "title": "Những người nổi tiếng mang tính cách ENTP:",
+                            "content": "● Thomas Edison\n\n● Leonardo da Vinci\n\n● Tom Hanks\n\n● Benedict Cumberbatch\n\n● Rowan Atkinson\n\n● Neil Patrick Harris\n\n● Lee Taeyong (NCT127)\n\n● Lee Minhyuk (MONSTA X)"
                         }
                     ]
                 },
@@ -3820,24 +3800,28 @@ export const mbtiData = {
                             "title": "Điểm mạnh",
                             "itemsChild": [
                                 {
-                                    "titleChild": "Ham học hỏi",
-                                    "content": "Các ENFP luôn nhìn thấy vô vàn những điều đẹp đẽ và thú vị xung quanh họ. Là những người giàu trí tưởng tượng và tính cách cởi mở, nhóm tính cách này không hề dè chừng trước việc bước ra khỏi vùng an toàn và trải nghiệm những điều mới mẻ. Đối với họ, mỗi trải nghiệm lại mang tới cho họ một kiến thức mới, mở ra nhiều hướng tư duy mới, giúp họ ngày càng hoàn thiện bản thân.",
+                                    "titleChild": "Thông thái",
+                                    "content": "Những người thuộc nhóm tính cách ENTP sẽ không bỏ lỡ bất cứ cơ hội để học hỏi và khám phá những kiến thức mới, đặc biệt là về những lĩnh vực trừu tượng. Các ENTP học không phải vì muốn nghiên cứu chuyên sâu, mà đơn giản vì đó là sở thích của họ.",
                                 },
                                 {
-                                    "titleChild": "Đồng điệu trong tâm hồn",
-                                    "content": "Các ENFP biết đặt mình vào vị trí của người khác để nắm bắt những biến hóa cảm xúc dù là nhỏ nhất của người đối diện. Tận dụng được lợi thế này, những Người truyền cảm hứng có thể hiểu được mọi người đang có những bận tâm gì rồi từng bước giúp họ gỡ bỏ vướng mắc của mình.",
+                                    "titleChild": "Nhanh nhạy",
+                                    "content": "Những Người nhìn xa có khả năng đi từ suy luận này tới suy luận khác trong tíc tắc một cách vô cùng linh hoạt. Việc trang bị cho bản thân kho tàng kiến thức thâm sâu cũng hỗ trợ họ rất nhiều trong các cuộc tranh luận.",
                                 },
                                 {
-                                    "titleChild": "Lắng nghe và được lắng nghe",
-                                    "content": "Khi bắt gặp điều gì thú vị, những người thuộc nhóm tính cách ENFP sẽ không ngại ngần mà chia sẻ chúng với những người xung quanh. Đổi lại, họ cũng sẵn sàng lắng nghe ý kiến và quan điểm của người khác về vấn đề ấy. Đây là cách các ENFP mở rộng thế giới quan của bản thân và nâng cao giá trị quan của mình.",
+                                    "titleChild": "Không ngừng sáng tạo",
+                                    "content": "Các ENTP không có xu hướng đi theo những quan niệm truyền thống. Họ sử dụng chính kiến thức mình học được, kết hợp với một chút sáng tạo, để tạo nên những ý tưởng táo bạo hoàn toàn mới.",
                                 },
                                 {
-                                    "titleChild": "Lạc quan",
-                                    "content": "Những người thuộc nhóm tính cách ENFP có lối trò chuyện sâu sắc, dí dỏm, họ cũng là những người vui vẻ và hòa đồng với nụ cười thân thiện luôn treo đầu môi. Các ENFP biết cách tự tìm thấy niềm vui, ngay cả ở những khoảnh khắc tưởng chừng như tuyệt vọng nhất thì họ sẽ vẫn luôn tìm thấy tia sáng le lói ở cuối con đường.",
+                                    "titleChild": "Luôn động não",
+                                    "content": "Đối với những người thuộc nhóm tính cách ENTP, không gì thú vị hơn việc được tự mình phân tích vấn đề từ nhiều góc độ và tìm ra giải pháp tối ưu để giải quyết vấn đề ấy. Do đó các ENTP luôn vô cùng nổi bật trong các buổi tranh luận nhờ tư duy sắc bén của mình.",
                                 },
                                 {
-                                    "titleChild": "Tốt bụng",
-                                    "content": 'Tất cả những thế mạnh kể trên kết hợp và tạo nên một nhân cách tốt bụng, thân thiện, hòa đồng, với trái tim ấm áp đong đầy tình yêu thương. Những Người truyền cảm hứng cũng không ngừng kết nối và được kết nối với những người xung quanh, vì vậy vòng bạn bè của họ thường rất rộng.',
+                                    "titleChild": "Lôi cuốn",
+                                    "content": 'Những Người nhìn xa có cách nói chuyện dí dỏm và hài hước, thành công thu hút toàn bộ sự chú ý của những người xung quanh. Sự tự tin, nhanh nhạy, khả năng kết nối những ý tưởng khác nhau một cách sáng tạo đã tạo nên phong cách giao tiếp quyến rũ, hấp dẫn, dễ gây thiện cảm với những người xung quanh.',
+                                },
+                                {
+                                    "titleChild": "Tràn đầy năng lượng",
+                                    "content": 'Khi có cơ hội tham gia vào những cuộc tranh luận thú vị, các ENTP sẽ hưởng ứng tham gia nhiệt tình với nguồn năng lượng vô tận. Họ không ngại bỏ ra hàng giờ, thậm chí là vài ngày tranh luận để tìm ra giải pháp tối ưu nhất.',
                                 },
                             ],
                         },
@@ -3849,20 +3833,24 @@ export const mbtiData = {
                                     "content": 'Những người thuộc nhóm tính cách ENFP luôn cố gắng làm hài lòng tất cả mọi người vì không muốn làm phật lòng ai. Để duy trì mối quan hệ tốt đẹp với tất cả mọi người, họ sẽ cố gắng thỏa hiệp trong mọi cuộc tranh luận hoặc thậm chí cho phép người khác lấn át mình trong quá trình bày tỏ ý kiến.',
                                 },
                                 {
-                                    "titleChild": "Thiếu tập trung",
-                                    "content": "Những người thuộc nhóm tính cách ENFP rất có hứng thú với những dự án mới, đặc biệt là những dự án liên quan tới cộng đồng. Tuy nhiên việc không ngừng tìm kiếm cơ hội phát triển và học hỏi bản thân đôi khi sẽ khiến họ rơi vào tình trạng ôm đồm và thiếu tập trung trong công việc.",
+                                    "titleChild": "Hay tranh luận",
+                                    "content": "Thường xuyên tranh luận là một điểm tốt, nhưng nếu bất cứ cuộc tranh luận nào cũng có một chân trong đó thì các ENTP rất dễ bị căng thẳng và đôi khi nảy sinh mâu thuẫn với những người xung quanh, đặc biệt khi có rất nhiều người thuộc nhóm tính cách khác chỉ muốn né tránh những cuộc tranh luận càng xa càng tốt.",
                                 },
                                 {
-                                    "titleChild": "Thiếu ngăn nắp",
-                                    "content": "Các ENFP thường né tránh những công việc thực tế và có phần nhàm chán như việc nhà hay các công việc liên quan tới giấy tờ, bảo trì vật dụng, v.vv.. Những nhiệm vụ tưởng chừng như nhỏ bé đó, sau một thời gian dài bị dồn nén, sẽ có nguy cơ trở thành vấn đề nan giải cho các ENFP.",
+                                    "titleChild": "Thiếu sự đồng cảm",
+                                    "content": "Khi tham gia vào các buổi tranh luận, những người thuộc nhóm tính cách ENTP có thể vô tình làm tổn thương người khác bằng lời nói của mình do tính cách quá thẳng thắn. Bản thân các ENTP cũng thấy rằng cảm xúc không phải điều nên đặt lên hàng đầu bởi chúng không có bao nhiêu giá trị, điều đó càng làm sự căng thẳng trong các buổi tranh luận được đẩy lên cao nhất.",
                                 },
                                 {
-                                    "titleChild": "Ngây thơ",
-                                    "content": "Tâm hồn lạc quan là điểm mạnh và cũng đồng thời là điểm yếu của nhóm tính cách ENFP. Vì quá lạc quan nên đôi khi những Người truyền cảm hứng thường đưa ra quyết định một cách ngây thơ không chút phòng bị. Họ cũng sẵn sàng đặt niềm tin vào những người chưa quá thân quen, để rồi sau đó nhận lại là những rắc rối không tưởng.",
+                                    "titleChild": "Không khoan nhượng",
+                                    "content": "Trong một cuộc tranh luận, các ENTP không chỉ bác bỏ những ý kiến đi ngược lại với quan điểm cả mình, mà còn có thể bác bỏ cả những người đưa ra ý kiến đó. Đối với họ, chỉ những ý tưởng hợp lý và mang lại lợi ích mới có giá trị, còn không thì họ sẽ không mấy để tâm.",
                                 },
                                 {
-                                    "titleChild": "Âm thầm chịu đựng",
-                                    "content": 'Những người thuộc nhóm tính cách ENFP đối mặt với cuộc đời bằng một thái độ lạc quan, hiếm khi tỏ ra phật ý với chuyện gì. Họ cũng ít khi kêu ca khi gặp những vấn đề khó mà chọn cách âm thầm giải quyết. Nhìn qua thì đây có vẻ là một dấu hiệu tốt, nhưng về lâu dài, tính cách này sẽ khiến các ENFP kiệt sức khi không còn thời gian và công sức để tiếp tục theo đuổi.',
+                                    "titleChild": "Đứng núi này trông núi nọ",
+                                    "content": 'Việc thường xuyên dồn quá nhiều năng lượng và nhiệt huyết vào một vấn đề gì đó ngay từ khi bắt đầu khiến các ENTP sẽ càng về sau càng thấy chán nản, và khi đó họ sẽ đi tìm những điều thú vị hơn để làm. Dễ đến dễ đi, đây chính là một nhược điểm rất lớn của Người nhìn xa.',
+                                },
+                                {
+                                    "titleChild": "Không đề cao vấn đề thực tiến",
+                                    "content": 'Những người thuộc nhóm tính cách ENTP thích nói về những ý tưởng sáng tạo, những gì có thể biến đổi và điều chỉnh trong quá trình tranh luận. Vì vậy, họ không quá niềm nở khi đề cập tới những vấn đề mang tính thực tiễn, diễn ra hàng ngày và không thể thay đổi, vì khi đó sự sáng tạo của họ sẽ không thể phát huy tác dụng.',
                                 },
                             ],
                         }
@@ -3872,71 +3860,63 @@ export const mbtiData = {
                     "section": "Mối quan hệ",
                     "items": [
                         {
-                            "content": 'Với sự chân thành và cởi mở của mình, các ENFP hiếm khi gặp khó khăn trong việc thấu hiểu và tương tác với những người xung quanh, kể cả người lạ. Sự nhiệt thành và hiểu chuyện của những người thuộc nhóm tính cách ENFP có khả năng làm tan chảy ngay cả những trái tim băng giá nhất.\n\nTrong các mối quan hệ, các ENFP thường hành động theo trực giác, vì vậy không có gì là khó hiểu khi mọi điều hiện hữu trên cuộc đời này đều có thể khiến họ hứng thú và trở thành nguồn cảm hứng bất tận. Niềm đam mê của các ENFP mãnh liệt tới nỗi những người xung quanh cũng phần nào cảm nhận được, từ đó trở thành động lực vô hình thúc đẩy mọi người cùng nhau cố gắng.\n\nTrong các buổi hội họp, gặp mặt, các ENFP thường là những người chủ trì và dẫn dắt mọi người suốt buổi tiệc. Một phần vì họ có khả năng giao tiếp tốt, một phần vì các ENFP luôn sẵn lòng và nhiệt tình giúp đỡ những người xung quanh.\n\nĐối với bạn bè, ENFP là những người luôn sẵn lòng giúp đỡ, bất kể ngày đêm, bất kể khó khăn thế nào. Thậm chí họ mải mê “ăn cơm nhà vác tù và hàng tổng” tới mức quên đi chính những vấn đề của chính bản thân mình. Cho đi hết mình đến vậy nên nếu một ngày các ENFP nhận ra công sức của mình đang đổ sông đổ bể, bị người khác coi như đó là điều hiển nhiên, vô giá trị thì họ sẽ hoàn toàn sụp đổ và thất vọng tột cùng.\n\nCác ENFP không phải những người giỏi trong việc tuyệt giao, cho dù họ đang ở trong mối quan hệ “red flag” đến đâu. Thế nhưng họ sẽ từ từ rời xa bạn nếu cảm thấy không còn gì để cứu vãn, một cách âm thầm và yên lặng đến nỗi một ngày thức dậy bạn chợt nhận ra hai người đã không còn là gì của nhau. Đây cũng là một đặc điểm của những người có đặc điểm NF trong tính cách.\n\nĐối mặt với những khó khăn, thử thách, những người thuộc nhóm tính cách ENFP sẽ chọn cách giấu đi nỗi lòng, kể cả với những người thân cận nhất với mình. Họ sẽ vẫn vui cười như không có chuyện gì xảy ra. Về lâu về dài, những áp lực bị kìm nén ấy sẽ khiến họ gặp rắc rối lớn với các mối quan hệ xung quanh.'
+                            "content": 'Những người thuộc nhóm tính cách ENTP không giỏi trong việc biểu lộ cảm xúc, kể cả với những người thân thuộc. Họ là những người vô cùng hài hước và nhiệt tình, thế nhưng lại không phải lựa chọn tối ưu nếu bạn đang kiếm tìm một chỗ dựa tinh thần vững chắc trong thời điểm khó khăn. Các ENTP chắc chắn sẽ gợi ý cho bạn nhiều phương án giải quyết logic và hợp lý, thế nhưng đừng hy vọng họ sẽ thấu hiểu được cảm xúc của chính bạn.\n\nCác ENTP không gặp quá nhiều khó khăn trong việc giao tiếp với những người thuộc nhóm tính cách khác, nhất là trong những cuộc thảo luận nhóm, tuy khác biệt về quan điểm là điều không thể tránh khỏi.\n\nNhìn chung, các ENTP là tuýp người lạc quan và thoải mái trong các mối quan hệ, có khả năng gây ảnh hưởng lớn lên những người xung quanh. Họ thích tranh luận, đặc biệt ở những đề tài có thể gợi lên nhiều ý kiến trái chiều.'
                         },
                         {
-                            "title": "ENFP trong tình yêu",
+                            "title": "ENTP trong tình yêu",
                             "itemsChild": [
                                 {
-                                    "content": "Không hề phóng đại khi nói rằng các ENFP là những người vô cùng chăm chút cho tình yêu của mình. Họ yêu với tất cả niềm đam mê. Họ ấm áp, cởi mở, đầy ước mơ và lý tưởng. Về lâu về dài, chính những người bạn đời của các ENFP cũng bị ảnh hưởng bởi nguồn cảm hứng ấy.\n\n<i>“Đối với những người thuộc nhóm tính cách ENFP, tình yêu đối với họ rất đẹp, rất lãng mạn, là nơi hai tâm hồn đồng điệu tìm thấy nhau và cùng nhau khám phá thế giới. ENFP có thể yêu vội nhưng tình yêu của họ phải dựa trên niềm tin về định mệnh.”</i>\n\nCác ENFP khao khát được chia sẻ cuộc sống của mình với nửa kia, cùng nhau hưởng thụ từng phút giây ngọt ngào, đắm chìm trong viễn cảnh đẹp đẽ về một gia đình êm ấm. Sự cống hiến trong tình yêu là một điều đáng ngưỡng mộ, nhưng các ENFP cũng nên quan tâm tới bản thân hơn là dành trọn thời gian cho việc yêu đương.",
+                                    "content": "Yêu đương là một việc mà những người thuộc nhóm tính cách ENTP có thể làm tốt, bởi họ vốn là người có vô vàn những ý tưởng mới để thúc đẩy mối quan hệ, và họ cũng nhận định rằng việc không ngừng giữ lửa tình yêu là chìa khóa giải quyết mọi vấn đề. Ngay cả khi chưa tìm thấy nửa kia thì các ENTP đã sẵn sàng tưởng tượng về viễn cảnh tươi đẹp sau khi về chung nhà với người thương. Tuy điều này có thể hơi gây áp lực với nửa kia tương lai của các ENTP, nhưng nếu hai người có cùng lý tưởng thì chuyện tình của họ sẽ đẹp như truyện cổ tích vậy.",
                                 },
                                 {
-                                    "titleChild": "Thắp lên ngọn lửa tình yêu",
-                                    "content": "Khi đã thích một ai đó thì các ENFP sẽ không hề giấu giếm, họ sẽ muốn crush của mình thấy được sự nhiệt huyết và tình cảm nồng cháy của mình dành cho người kia mà không hề che giấu cảm xúc. Một khi đã thực sự thích ai đó, các ENFP sẽ không dễ dàng buông tay. Có thể nói họ là một người mù quáng trong tình yêu.\n\nVới tinh thần lạc quan từ tận trong sâu thẳm, những người thuộc nhóm tính cách ENFP sẽ không hề nà hay chùn bước trước những thách thức trong tình yêu. Ví dụ như các ENFP sẽ không sợ những lần yêu xa, bởi họ tin rằng khoảng cách vật lý không thể làm suy chuyển tình yêu đích thực. Họ không tính đến những chuyện có khả năng xảy ra trong tương lai mà thích đắm chìm vào hạnh phúc của thì hiện tại.\n\nTuy nhiên, mỗi người lại có một nhìn nhận về sự nhiệt huyết và hết mình của các ENFP trong tình yêu. Có người sẽ cùng họ hưởng ứng, có người thì không. Nếu nửa kia không đáp ứng được sự nhiệt tình của các ENFP thì họ sẽ cảm thấy không an toàn chút nào. Và khi ngọn lửa tình yêu bắt đầu chập chờn chợt tắt thì các ENFP sẽ bắt đầu tự hỏi phải chăng tình yêu của mình đã đặt nhầm chỗ.",
+                                    "titleChild": "Phá vỡ giới hạn",
+                                    "content": "Từ những ngày đầu mới quen, các ENTP đã muốn thử thách giới hạn người bạn đời của họ, họ muốn đôi bên cùng phá vỡ mọi rào cản và thẳng thắn chia sẻ quan điểm sống với nhau. Làm người yêu với các ENTP bạn sẽ không bao giờ cảm thấy nhàm chán vì họ luôn biết tìm kiếm những điều mới mẻ, thú vị, đôi khi khiến bạn bật cười với những bất ngờ nho nhỏ.\n\nLý tưởng trong tình yêu của các ENTP là cùng nhau phát triển bản thân và tiến lên phía trước, cùng chia sẻ đắng cay ngọt bùi để đạt được kỳ vọng cho tương lai.\n\nTuy nhiên, sau một thời gian quen biết, nửa kia của các ENTP có thể sẽ cảm thấy mệt mỏi khi họ cứ không ngừng muốn làm mới bản thân. Một chút thời gian để dừng lại và nghỉ ngơi để “sạc năng lượng” sẽ rất cần thiết cho cặp đôi. Tuy nhiên các ENTP lại không thích vậy, họ cứ không ngừng tiến về phía trước mà chẳng quan tâm rằng người bạn đồng hành cùng mình đang dần cạn kiệt năng lượng.",
                                 },
                                 {
-                                    "titleChild": "Bí ẩn chưa được giải đáp",
-                                    "content": "Có lẽ vì thường xuyên quá đắm chìm trong tình yêu nên những người thuộc nhóm tính cách ENFP luôn phải đấu tranh tư tưởng và tự hỏi tại sao nửa kia đích thực lại không đến với mình. Không phải chỉ cần có tình yêu là hai người đã có thể sống hạnh phúc bên nhau sao? Đặc biệt khi họ lại là ENFP, một người luôn biết làm hài lòng người khác.\n\nTuy vậy, các ENFP cần phải nhớ rằng tình yêu được xây dựng dựa trên những đồng điệu giữa hai tâm hồn: đồng điệu về sở thích, đồng điệu về phương hướng phát triển bản thân, và đồng điệu về tinh thần trách nhiệm.",
-                                },
-                                {
-                                    "titleChild": "Ươm mầm lý tưởng",
-                                    "content": "Các ENFP vun đắp mối quan hệ với lý tưởng cao nhất. Họ khao khát được thấu hiểu nửa kia của mình cũng như chấp nhận người bạn đời vô điều kiện. Đổi lại, họ cũng muốn nửa kia thấu hiểu và chấp nhận mình.\n\nLà một người vô cùng nhiệt huyết với tình yêu. Người truyền cảm hứng cảm thấy tràn đầy năng lượng và đắm chìm trong giai đoạn đầu khi hai người đang bắt đầu tìm hiểu nhau, vì khi ấy mọi thứ lúc nào cũng thú vị và đầy những bí ẩn để khám phá. Nhưng càng về sau mối quan hệ càng đòi hỏi nhiều hơn, ví như việc đồng hành và cùng nhau trải qua những vấn đề về tiền bạc, dành thời gian cho người mình yêu, san sẻ việc nhà, v.vv..\n\n<i>“Khi tình yêu đi vào giai đoạn ổn định, những người thuộc nhóm tính cách ENFP sẽ quay trở lại với sự lãng mạn vốn có, dành nhiều thời gian để thưởng thức một bữa tối lãng mạn dưới ánh nến thay vì tranh cãi với người bạn đời xem ai sẽ là người rửa chén bát hôm nay.”</i>\n\nĐối với các ENFP, làm việc nhà không phải điều gì đó quá kinh khủng, nhưng họ cũng nên san sẻ trách nhiệm với nửa kia của mình để tránh xảy ra bất kỳ tranh cãi không đáng có nào giữa hai người họ. Thật may rằng các ENFP là người rất giỏi thấu hiểu tâm trạng người khác, vì vậy họ biết chính xác đâu là điều nên làm và đâu là điều không nên làm.\n\nTuy nhiên, có một điểm nổi bật trong tính cách của ENFP khi yêu đó là họ xem chuyện kết hôn là một điều gì đó khó hiểu, ngay cả khi cả hai đang trong giai đoạn nồng nhiệt nhất của tình yêu.",
+                                    "titleChild": "Cơ hội để phát triển bản thân",
+                                    "content": "Khi bước vào giai đoạn sâu sắc hơn, sự nhiệt tình và luôn tràn đầy năng lượng để tìm tòi khám phá của những người thuộc nhóm tính cách ENTP càng được thể hiện rõ. Họ cũng khuyến khích nửa kia của mình thử nghiệm những ý tưởng mới, phá bỏ giới hạn đã được định sẵn giữa hai người.\n\nCác ENTP cũng muốn được học hỏi nhiều hơn, nhất là về mặt kiến thức, khi bước vào một mối quan hệ nghiêm túc. Thế nhưng điều này lại cách xa hai tiếng “lãng mạn” cả cây số, đặc biệt nếu đặt trong một mối quan hệ yêu đương.\n\nTuy nhiên điều này cũng khá dễ hiểu khi thể hiện cảm xúc và thấu hiểu người khác là một trong những điểm yếu “chí mạng” của những người thuộc nhóm tính cách ENTP. Người nhìn xa nhìn qua thì khá cởi mở, dù vậy trong thực tế họ cũng không thể chấp nhận 100% suy nghĩ của những người quá bị chi phối bởi cảm xúc. Đôi khi lời nói quá mức thẳng thắn của các ENTP sẽ vô tình khiến người đối diện cảm thấy bị tổn thương, và các ENTP sẽ phớt lờ hoàn toàn trách nhiệm của mình nếu bị trách móc vì điều đó.\n\n<i>“Điều mà các ENTP muốn cải thiện nhất ở bản thân là học cách điều khiển cảm xúc của mình và thấu hiểu cảm xúc của người đối diện, như vậy họ có thể xây dựng mối quan hệ đậm sâu hơn với nửa kia của mình.”</i>\n\nNhững người thuộc nhóm tính cách ENTP hòa hợp nhất với những người có tính cách I (Trực giác), bởi một vài đặc điểm trái ngược sẽ giúp hai người bù trừ cho nhau trong cuộc sống. Nếu ghép cặp với một người nhạy bén về mặt cảm xúc thì đó sẽ là cơ hội tuyệt vời để các ENTP học được cách đồng cảm và thấu hiểu nửa kia của mình.",
                                 },
                             ],
                         },
                         {
-                            "title": "ENFP trong tình bạn",
+                            "title": "ENTP trong tình bạn",
                             "itemsChild": [
                                 {
-                                    "content": "Các ENFP là những người yêu ghét rõ ràng nhưng lại không hay thể hiện ra ngoài mặt, mà đối với bất kỳ người bạn nào họ cũng tỏ vẻ hồ hởi và hoạt bát như một chú sóc con. Nếu ai đó lừa dối các ENFP thì họ sẽ chọn cách nói chuyện lòng vòng cốt để người đó tự nhận ra sai lầm của mình chứ không hay chỉ thẳng mặt.\n\nCác ENFP là những người luôn luôn ủng hộ và giúp đỡ bạn bè của mình, cũng như có thể dành hàng giờ để cùng nhau tâm sự và thảo luận về bất cứ vấn đề gì.\n\nNhững người thuộc nhóm tính cách ENFP cũng rất cống hiến trong tình bạn, sẵn sàng hào phóng cho đi. Tuy nhiên, điều đó cũng khiến các ENFP đôi khi hơi thất vọng và tự hỏi liệu họ có đang quan tâm đến bạn bè nhiều hơn cách bạn bè đáp lại họ không.\n\n<i>“Đối với những người thuộc nhóm tính cách ENFP, kết bạn là cách tốt nhất để có thể khám phá thế giới bên ngoài thông qua một điểm nhìn mới. Vòng tròn bạn bè của ENFP có thể rất rộng nhưng điều mà những Người truyền cảm hứng mong muốn là một tình bạn sâu sắc.”</i>",
+                                    "content": "Các ENTP không mong đợi một người bạn phải trung thành, luôn sát cánh bên cạnh suốt cuộc đời mà họ cần một người có thể công nhận khả năng của họ và khen ngợi rằng họ đã làm tốt.\n\nNgười nhìn xa thường hòa hợp nhất với những người có tư tưởng phản biện giống mình. Là những người nhanh trí, nhanh nhạy, có thể cống hiến rất nhiều thời gian và công sức trong các buổi thảo luận, các ENTP cũng mong bạn bè mình có thể làm điều tương tự.\n\n<i>“Một người bạn tuyệt vời đối với các ENTP là người có thể bảo vệ ý kiến của họ trong các buổi tranh luận với lý lẽ vững vàng, logic.”</i>\n\nĐối với những người thuộc nhóm tính cách ENTP, mục tiêu lớn nhất của họ khi tham gia các buổi thảo luận là để nâng cao kiến thức, và kể cả khi họ thất bại trong buổi tranh luận cũng không sao. Thất bại không khiến các ENTP chùn bước mà chỉ là bài học để họ cố gắng hơn vào lần tiếp theo.",
                                 },
                                 {
-                                    "titleChild": "Chuyến phiêu lưu của tình bạn",
-                                    "content": "Là những người giàu trí tưởng tượng và lạc quan trong mọi tình huống, các ENFP biết cách biến những khoảnh khắc bình dị thường ngày thành những điểm nhấn đặc biệt. Đối với họ, mọi cơ hội được sẻ chia vui đùa cùng bạn bè đều đáng quý, ví dụ như cùng nhau tham gia vào một bữa tiệc tối, cùng nhau nấu ăn, hoặc đơn giản là ngồi xuống và tâm sự với nhau về những gì họ đã trải qua trong ngày.\n\nNhững Người truyền cảm hứng bị thu hút bởi những gì có chiều sâu, vì vậy họ rất hạnh phúc khi bạn bè của mình trở nên cởi mở và sẵn sàng bộc lộ những suy nghĩ từ đáy lòng với nhau. Các ENFP cũng có thể giúp những người bạn có tính cách trầm hơn cảm thấy được thấu hiểu và chấp nhận.",
+                                    "titleChild": "Không bao giờ biết chán",
+                                    "content": "Các ENTP cũng biết nghỉ ngơi và tận hưởng niềm vui, nhưng niềm vui đối với họ chính là nhấc lên ly rượu và cùng nhau bàn luận về những vấn đề vĩ mô. Những Người nhìn xa rất giỏi giao tiếp. Với kiến thức uyên thâm, họ có thể nói về nhiều chủ đề, nhiều lĩnh vực, trừ những vấn đề liên quan tới cảm xúc vì đó là điểm yếu lớn nhất của các ENTP.",
                                 },
                                 {
-                                    "titleChild": "Nhưng đừng đấm chìm quá sâu...",
-                                    "content": "… bởi không phải ai cũng sẵn sàng bộc lộ tất cả tình cảm suy nghĩ của mình với bạn bè mà muốn giữ kín một góc nhỏ riêng tư cho bản thân. Trong trường hợp đó, tính cách hồ hởi thẳng thắn và hay đào sâu vào bí mật của người khác của các ENFP sẽ khiến bạn bè họ cảm thấy khó chịu.\n\n<i>“Là một người theo đuổi chủ nghĩa lý tưởng, các ENFP khó có thể chấp nhận việc không phải ai cũng dễ kết giao như mình.”</i> \n\nSự cầu toàn của các ENFP đôi khi cũng gây ra những xung đột nho nhỏ giữa họ và những người bạn thân. Những người thuộc nhóm tính cách ENFP thích săn sóc và giúp đỡ bạn bè, sẵn sàng trao đi năng lượng, thời gian, tiền bạc, tình cảm. Nhưng việc cho đi quá nhiều sẽ khiến họ cảm thấy mình không được đáp lại đủ như họ mong muốn, và sự mất cân bằng này sớm muộn sẽ gây ra hiểu lầm không mong muốn trong tình bạn của các ENFP.",
+                                    "titleChild": "Vẫn là khuyết thiếu về cảm xúc",
+                                    "content": "Các ENTP sẽ rất bối rối khi có một người bạn đang buồn và cần có ai đó để tâm sự cùng, bởi chính bản thân họ cũng không biết nên dỗ dành người khác thế nào.\n\nNhững người thuộc nhóm tính cách ENTP có thể giải quyết các vướng mắc liên quan tới logic một cách dứt khoát, nhanh gọn, nhưng lại bối rối khi đối diện với những vấn đề đặt nặng cảm xúc.\n\nTệ hơn là khi rơi vào tình huống oái oăm ấy, các ENTP lại cố gắng xoay chuyển tình thế bằng cách đẩy sự việc vào một cuộc tranh luận. Họ không biết đặt mình vào địa vị của người khác để suy nghĩ thấu đáo mà chỉ sử dụng lý lẽ để áp chế vấn đề.\n\nNhưng các ENTP nên nhớ rằng: Họ có thể chiến thắng một cuộc tranh luận nhưng cũng có thể đánh mất một tình bạn đẹp.\n\nVì vậy, nếu bạn là người không quá để tâm tới lời nói của người khác và không ngại tranh luận thì các ENTP sẽ là những người bạn tuyệt vời.\n\nSẽ có khá nhiều người không hợp với tính cách của các ENTP, nhưng may mắn thay họ cũng không quá bận tâm về điều đó. Họ chỉ quan tâm về việc khi giao tiếp với bạn bè thì có người nói có người nghe, không để họ nói chuyện một mình là được.",
                                 },
-                                {
-                                    "titleChild": "Điểm tô cho cuộc sống",
-                                    "content": "Nếu những người thuộc nhóm tính cách ENFP biết cách cân bằng giữa những gì họ cho đi và nhận lại, tình bạn của họ có thể trở nên sâu sắc và lâu bền hơn. Bởi những điều nhỏ bé nhưng tuyệt diệu mà các ENFP chia sẻ với bạn bè mỗi ngày chính là chất liệu tạo nên một mối quan hệ vững bền.",
-                                }
                             ],
                         },
                         {
-                            "title": "ENFP khi làm cha mẹ",
+                            "title": "ENTP khi làm cha mẹ",
                             "itemsChild": [
                                 {
-                                    "content": "Đối với các ENFP, việc được làm cha mẹ thật tuyệt vời bởi họ có thể chia sẻ niềm vui và trở thành nguồn cảm hứng cho những đứa trẻ, nhìn chúng lớn lên qua từng ngày và trở thành những người có ích cho xã hội.\n\nNhững bậc phụ huynh ENFP muốn con cái họ có cảm giác được ghi nhận và tôn trọng. Và thay vì gò ép con cái đi theo khuôn khổ thì họ cổ vũ những đứa trẻ tự do sáng tạo và thể hiện bản thân, sống đúng theo đam mê và sở thích.\n\n<i>“Những Người truyền cảm hứng khơi gợi sự tò mò của những đứa trẻ, thay vì ở trong nhà chơi khủng long và búp bê thì họ khuyến khích chúng bước ra ngoài và khám phá thế giới.”</i>",
+                                    "content": "Đa phần mọi người sẽ nghĩ rằng với tính cách bay bổng của các ENTP thì việc trở thành cha mẹ sẽ là một thử thách không hề đơn giản đối với họ. Và suy nghĩ đó là chính xác. Tuy nhiên thử thách lại là điều mà các ENTP khá mong đợi ở vai trò đặc biệt này. Những người thuộc nhóm tính cách ENTP coi trọng việc trở thành cha mẹ và bị ảnh hưởng bởi vai trò này khá nhiều. Trách nhiệm, con cái, tất cả những điều đó đều sẽ tác động lên cách sống của các ENTP, giúp họ phát huy điểm mạnh và khắc phục điểm yếu.",
                                 },
                                 {
-                                    "titleChild": "Thưởng - phạt công minh",
-                                    "content": "Những cha mẹ ENFP đã trải qua quá nhiều thăng trầm trong cuộc sống để đưa ra dự đoán những điều có thể xảy ra trong tương lai, vì vậy họ sẽ đặt ra một số quy tắc cho những đứa trẻ để đảm bảo những việc chúng làm là đúng đắn. Điều đó khiến đôi khi chúng ta sẽ ngỡ rằng ENFP là những bậc phụ huynh khá cứng nhắc và nghiêm khắc, nhưng thực ra họ rất yêu những đứa trẻ và thường xuyên tự kiểm điểm lại bản thân xem mình có đang quá khắt khe với chúng không.\n\n<i>“Các bậc phụ huynh ENFP luôn cởi mở đón nhận con cái mình, kể cả đôi khi chúng không nghe lời.”</i>\n\nLà cha mẹ, những người thuộc nhóm tính cách ENFP luôn nỗ lực trở thành người bạn tâm giao của con để hiểu chúng rõ hơn. Họ cũng luôn cố gắng để tạo ra không gian an toàn, là chỗ dựa để chúng có thể thoải mái tâm sự và thể hiện tính cách thật của bản thân, cũng như nói lên những hy vọng và khát khao của mình.",
+                                    "titleChild": "Nuôi nấng những tâm hồn tự do",
+                                    "content": "Vốn là những người không coi trọng nguyên tắc và quy định nên những Người nhìn xa cũng khuyến khích con mình được tự do suy nghĩ và làm những gì chúng muốn.\n\nHọ cho rằng tự lập là điều cần thiết nhất và không ai có thể trở nên hoàn hảo nếu thiếu tinh thần tự lập.\n\n<i>“Những người thuộc nhóm tính cách ENTP xây dựng môi trường sống thoải mái, không gò bó cho con cái họ, khuyến khích những đứa trẻ tự do khám phá để học thêm nhiều điều bổ ích.”</i>\n\nKhi những đứa trẻ lớn lên, các cha mẹ ENTP sẽ khuyến khích chúng nuôi dưỡng tư duy độc lập, biết nói lên suy nghĩ của mình.\n\nTuy nhiên, các ENTP sẽ hướng những đứa trẻ đưa ra ý kiến từ góc nhìn lý luận, có logic, lựa chọn những gì sẽ mang lại lợi ích cho mình thay vì những gì chỉ đơn giản là làm mình cảm thấy thích.\n\nĐiều này cũng khá dễ hiểu bởi cảm xúc chính là điểm yếu lớn nhất của các ENTP.\n\nTrong các cuộc tranh luận trong gia đình, các ENTP sẽ cần nửa kia của mình hoặc một ai đó giúp đỡ để họ không đi quá giới hạn rồi vô tình làm tổn thương người thân của mình.\n\nĐặc biệt khi những đứa trẻ đã bắt đầu bước vào độ tuổi thanh thiếu niên, trở nên nhạy cảm hơn rất nhiều.",
                                 },
                                 {
-                                    "titleChild": "Dang rộng đôi cánh ước mơ",
-                                    "content": "Trong quá trình nuôi dạy con trẻ, những cha mẹ thuộc nhóm tính cách ENFP luôn ở phía sau là hậu phương vững chắc cho con cái. Thế nhưng khi lớn lên, những đứa trẻ bắt đầu muốn trở nên tự lập hơn, chúng sẽ thích ra ngoài đi chơi với bạn bè thay vì chỉ ở nhà với cha mẹ.\n\n<i>“Đối với các cha mẹ ENFP, hành vi và cách cư xử của con cái phản ánh mức độ thành công trong việc nuôi dạy của họ.”</i>\n\nTuy hài lòng với việc con mình dần trở nên tự lập, nhưng các bậc phụ huynh ENFP cũng có chút ngậm ngùi khi cảm thấy những đứa trẻ đang dần rời xa khỏi vòng tay mình, và họ phải đấu tranh tư tưởng dữ dội để thuyết phục bản thân tôn trọng quyết định ấy của chúng.\n\nMay mắn rằng sự thấu hiểu của các ENFP sẽ giúp họ biết con mình muốn gì và cần gì ở từng giai đoạn phát triển. Họ sẽ ở phía sau để cổ vũ những đứa trẻ, khiến chúng ý thức được giá trị của mình và tự tin bước ra bên ngoài thế giới bao la.",
+                                    "titleChild": "Phương hướng giải quyết",
+                                    "content": "Tuy nhiên, sau tất cả thì những phụ huynh ENTP cũng nhận ra điều quan trọng nhất mà họ mong muốn ở những đứa trẻ là sự thông minh, tốt bụng và tinh thần tự lập cao. Và để đạt được mong đợi đó thì các ENTP cũng nên biết đặt mình vào địa vị của chúng để suy nghĩ thấu đáo hơn, cũng như học cách cân bằng cảm xúc và thể hiện tình yêu thương nhiều hơn.",
                                 },
                             ],
                         },
                     ]
                 },
                 {
-                    "section": "Làm sao để thân thiết với ENFP",
+                    "section": "Làm sao để thân thiết với ENTP",
                     "items": [
                         {
-                            "content": 'ENFP là những người rất nhiệt tình và tích cực, vì thế việc kết giao và xây dựng một mối quan hệ thân thiết với họ là điều không khó nếu như bạn biết cách. Điều ENFP quan tâm là một mối quan hệ sâu sắc để cùng nhau tâm sự, trò chuyện vui vẻ chứ không phải là kiểu thân thiết hời hợt.\n\nĐặc biệt, đừng ai sử dụng sự giả tạo và dối lừa trong mối quan hệ với ENFP vì họ là những người yêu ghét rất rõ ràng. Nếu bạn cho ENFP thấy sự khác biệt về tính cách, giá trị quan giữa hai người thì những Người truyền cảm hứng sẽ hạn chế liên lạc, dù ngoài mặt họ vẫn cười nói.\n\nKhi tiếp xúc với ENFP bạn cần chú ý một số điều sau đây:\n\n● Hãy thiết kế một lịch trình hẹn hò vui vẻ: Vì hướng ngoại nên ENFP dễ dàng có ấn tượng và bị thu hút bởi những buổi gặp mặt vui vẻ. Do đó nếu bạn muốn đề nghị một buổi hẹn hò với Người truyền cảm hứng thì hãy thiết kế một kế hoạch cụ thể trong đó có thể tạo ra những tình huống bất ngờ. Điều này sẽ giúp bạn và ENFP dễ dàng kết nối với nhau hơn.\n\n● <b>Hãy luôn ở bên cạnh:</b> Khi làm những công việc đòi hỏi sự tỉ mỉ hay công việc mang tính chất lặp đi lặp lại, các ENFP rất dễ bị mắc lỗi. Vì thế bạn hãy luôn ở bên cạnh, chú ý đến những vật dụng hoặc sự việc nhỏ nhặt giúp những Người truyền cảm hứng.\n\n● <b>Dành thời gian tâm sự:</b> Đối với ENFP, mọi cuộc gặp gỡ sẽ trở nên trọn vẹn hơn nếu như cả hai dành thời gian để tâm sự về các vấn đề trong cuộc sống hay định hướng cuộc đời. Trong những cuộc gặp mặt với ENFP, bạn đừng chỉ chăm chăm thực hiện các hoạt động như nói chuyện phiếm, vui đùa và uống rượu, thay vào đó hãy chân thành lắng nghe các quan điểm và sự sáng tạo độc đáo của Người truyền cảm hứng. Điều này sẽ khiến họ rất vui.\n\n● <b>Tạo những điều bất ngờ:</b> Các ENFP rất thích những điều bất ngờ, vì thế bạn có thể chuẩn bị một món quà đặc biệt hoặc âm thầm tổ chức một bữa tiệc sinh nhật cho họ. Điều này có thể giúp họ vui hơn vì cho rằng bạn thực sự dành nhiều sự quan tâm và chân thành cho mối quan hệ của hai người.\n\n● <b>Hãy chân thành xin ENFP lời khuyên:</b> Các ENFP rất giỏi trong việc truyền động lực cho mọi người, khá nhiều người trong số họ là những nhà tư vấn tuyệt vời. Họ sẽ đưa ra những lời khuyên hữu ích khi bạn gặp khúc mắc ở công sở hay những buổi gặp mặt.\n\nCó thể thấy rằng, với tính cách hướng ngoại, giỏi giao tiếp và hoạt bát, các ENFP rất dễ dàng kết thân với mọi người xung quanh. Thậm chí đối với họ, điều hạnh phúc nhất chính là có được mối quan hệ sâu sắc với mọi người. Nếu bạn cho thấy sự ăn ý trong cách trò chuyện, sự tương đồng về giá trị quan với ENFP thì chắc chắn sẽ nhận được những "trái ngọt" trong mối quan hệ với Người truyền cảm hứng. Khi đã trở nên thân thiết, ENFP sẽ luôn cống hiến và sẵn sàng hào phóng cho đi, đồng thời luôn luôn ủng hộ và giúp đỡ bạn bè khi họ cần.',
+                            "content": 'Vốn là những người không coi trọng nguyên tắc và quy định nên những Người nhìn xa cũng khuyến khích con mình được tự do suy nghĩ và làm những gì chúng muốn.\n\nHọ cho rằng tự lập là điều cần thiết nhất và không ai có thể trở nên hoàn hảo nếu thiếu tinh thần tự lập.\n\n<i>“Những người thuộc nhóm tính cách ENTP xây dựng môi trường sống thoải mái, không gò bó cho con cái họ, khuyến khích những đứa trẻ tự do khám phá để học thêm nhiều điều bổ ích.”</i>\n\nKhi những đứa trẻ lớn lên, các cha mẹ ENTP sẽ khuyến khích chúng nuôi dưỡng tư duy độc lập, biết nói lên suy nghĩ của mình.\n\nTuy nhiên, các ENTP sẽ hướng những đứa trẻ đưa ra ý kiến từ góc nhìn lý luận, có logic, lựa chọn những gì sẽ mang lại lợi ích cho mình thay vì những gì chỉ đơn giản là làm mình cảm thấy thích.\n\nĐiều này cũng khá dễ hiểu bởi cảm xúc chính là điểm yếu lớn nhất của các ENTP.\n\nTrong các cuộc tranh luận trong gia đình, các ENTP sẽ cần nửa kia của mình hoặc một ai đó giúp đỡ để họ không đi quá giới hạn rồi vô tình làm tổn thương người thân của mình.\n\nĐặc biệt khi những đứa trẻ đã bắt đầu bước vào độ tuổi thanh thiếu niên, trở nên nhạy cảm hơn rất nhiều.',
                         },
                     ],
                 },
@@ -3944,15 +3924,19 @@ export const mbtiData = {
                     "section": "Con đường sự nghiệp",
                     "items": [
                         {
-                            "content": "“Liệu mình có thể vừa làm phi công vừa làm nhạc sĩ và vừa làm đầu bếp cùng lúc không nhỉ?” Những người thuộc nhóm tính cách ENFP thường có quá nhiều ý tưởng và sở thích đến mức họ không biết mình nên ưu tiên điều gì. Vì vậy khi phải chọn lựa một nghề nghiệp để theo đuổi thì họ bị mất phương hướng trầm trọng, bởi họ vừa muốn làm việc mình thích, vừa muốn có thu nhập ổn định.\n\nTuy nhiên, các ENFP có thể yên tâm rằng với sự tò mò, đam mê khám phá và tìm tòi, họ có thể đạt được thành tựu ở nhiều lĩnh vực khác nhau.\n\n<i>“Vấn đề của những người thuộc nhóm tính cách ENFP trong quá trình tìm kiếm công việc mơ ước không phải là tìm không ra việc làm, mà là có quá nhiều việc hấp dẫn để lựa chọn.”</i>"
+                            "content": "Trong công việc, những người thuộc nhóm tính cách ENTP là những người nhiệt huyết và có năng suất làm việc cao.\n\nCác ENTP cũng rất hay hỗ trợ những người xung quanh nhưng không phải giúp đỡ về mặt con người mà là về những lĩnh vực chuyên môn.\n\nLà những người có tính cách khá linh hoạt, các ENTP có thể công tác ở nhiều mảng nghề nghiệp khác nhau, vì vậy cơ hội để họ tỏa sáng luôn rất nhiều.\n\n<i>“Người nhìn xa luôn mong muốn được động não và liên tục suy nghĩ, mong muốn một môi trường làm việc cho phép họ tham gia vào những dự án lớn, những ý tưởng hay, như vậy họ có thể thỏa sức sáng tạo và vận dụng năng lực của mình vào công việc.”</i>\n\nMột số nghề nghiệp rất phù hợp với tính cách của các ENTP như nhân viên kinh doanh, kỹ sư, diễn viên hoặc nhiếp ảnh gia.\n\nCác ENTP chỉ cần nắm rõ đâu là điểm mạnh cần phát huy, đâu là điểm yếu cần khắc phục thì họ có thể trở thành bất cứ ai mà họ muốn."
                         },
                         {
-                            "title": "Công việc nào thích hợp với ENFP?",
-                            "content": "Những người thuộc nhóm tính cách ENFP luôn biết cách khiến cho môi trường làm việc trở nên tươi sáng và vui vẻ, bản thân họ cũng rất dễ hài lòng với công việc. Các ENFP thậm chí có thể làm tan chảy “lớp băng vạn năm” của một đồng nghiệp khó gần, khiến một vị khách hàng khó tính cảm thấy hài lòng, hoặc đơn giản là cổ vũ tinh thần làm việc nơi công sở khô khan.\n\nTrong công việc, những người thuộc nhóm tính ENFP có hai yêu cầu cơ bản. Thứ nhất, công việc cần đáp ứng những giá trị cốt lõi cơ bản của họ. Thứ hai, công việc này cho họ cơ hội thể hiện năng lực của bản thân.\n\n<i>“Những công việc không xoay quanh việc giúp đỡ người khác hoặc không có tính chất gắn kết cộng đồng sẽ không tạo được động lực làm việc cho các ENFP.”</i>\n\nVì lý do đó, các ENFP bị thu hút bởi những công việc ở tổ chức phi lợi nhuận, dịch vụ cộng đồng, tư vấn, giáo dục, quan hệ công chúng, nhà hàng khách sạn, truyền thông giải trí và các công việc trong ngành dịch vụ. Không chỉ vậy, những Người truyền cảm hứng cũng có thể lấn sân sang các lĩnh vực khoa học kỹ thuật, y tế hoặc môi trường."
+                            "title": "Không ngừng tìm tòi",
+                            "content": "Khác hoàn toàn với những người anh em I (Hướng nội), các ENTP là những người hướng ngoại điển hình.\n\nHọ rất giỏi giao tiếp, kể cả qua văn bản hay qua đối thoại trực tiếp.\n\nTuy không thích quản lý hay bị quản lý, các ENTP vẫn là những ứng cử viên sáng giá cho vị trí lãnh đạo, truyền cảm hứng cho những người xung quanh bằng lời nói có tính thuyết phục, logic.\n\nNếu có ai đó cố phản bác lại các ENTP bằng những biện minh mang tính cảm xúc, thì những người thuộc nhóm ENTP sẵn sàng đáp lại bằng những lập luận sắc bén đáng tin.\n\nĐó là điểm mạnh không thể phủ nhận của các ENTP.\n\nMột công việc tốt sẽ cho các ENTP cơ hội sử dụng sức sáng tạo không giới hạn và theo đuổi nguồn kiến thức vô tận.\n\nNhững Người nhìn xa rất coi trọng việc học tập và nghiên cứu, vì vậy họ cũng rất thích hợp với các công việc như luật sư, tâm lý học, phân tích dữ liệu, nhà khoa học."
                         },
                         {
-                            "title": "Phát huy khả năng sáng tạo",
-                            "content": "Một công việc lặp đi lặp lại hàng ngày là điều mà các ENFP chán ghét nhất, mặc dù đó là một công việc khá nhàn rỗi, đã được lên kế hoạch sẵn và họ chỉ cần làm theo hướng dẫn mà thôi. Những người thuộc nhóm tính cách ENFP cũng không thích làm việc trong môi trường được phân cấp quá nghiêm ngặt và khắt khe, nơi mà ai làm việc người nấy và không có sự kết nối giữa các phòng ban.\n\nKhi làm việc, các ENFP muốn đặt câu hỏi, muốn được giải đáp những gì mình chưa hiểu rõ, muốn nghiên cứu những ý tưởng mới. Với sự nhiệt tình và đam mê bất tận, họ có thể biến công việc trở thành cơ hội quý giá để trau dồi kiến thức và phát triển bản thân.\n\nTuy sở hữu đặc điểm F (Cảm xúc) trong tính cách nhưng những người thuộc nhóm ENFP lại có khả năng suy luận logic vượt trội, đây là một lợi thế giúp họ có thể đưa ra đánh giá chuẩn xác dựa vào cả trực giác lẫn lý trí. Có rất nhiều công việc có thể giúp họ tận dụng tốt thế mạnh trên bao gồm nhà khoa học, kỹ sư hệ thống, kỹ sư mạng.\n\nLà những người có khả năng giao tiếp và truyền đạt tốt, vị trí nhà lãnh đạo, diễn giả, nhà báo, phóng viên cũng rất phù hợp với những Người truyền cảm hứng.\n\nDưới đây là là một số công việc mà những người thuộc nhóm tính cách ENFP có thể tham khảo:\n\n● Chính trị gia/ Nhà ngoại giao\n● Chuyên viên tư vấn\n● Nhà văn/ Nhà báo\n● Bác sĩ tâm lý\n● Diễn viên\n● Doanh nhân\n● Luật sư\n● Nhà giáo\n● Phóng viên\n● Khoa học gia/ Kĩ sư\n● Lập trình viên\n● Chuyên gia phân tích hệ thống/ Chuyên gia máy tính"
+                            "title": "Làm việc độc lập",
+                            "content": "Không gian tự do trong công việc là điều mà những người thuộc nhóm tính cách ENTP mong đợi, bởi họ luôn muốn được toàn tâm toàn ý cống hiến và làm tròn trách nhiệm.\n\nNhững nguyên tắc, quy định, luật lệ là những gì họ kị nhất và đôi khi sẽ cản trở quá trình trở thành nhân viên tốt, lãnh đạo tốt của các ENTP.\n\nChìa khóa thành công trong công việc của những Người nhìn xa là sự kiên nhẫn, từng bước một tiến lên để đạt được vị trí họ mong muốn, một vị trí với nhiều không gian tự do đủ lâu để cấp trên, cấp dưới và đồng nghiệp nhận ra khả năng của họ.\n\nTuy nhiên khuyết điểm của các ENTP lại là không đánh giá đúng năng lực của mình, thích ôm đồm dù khả năng không tới, nên đôi khi họ sẽ phạm phải sai lầm để rồi nhận ra không phải con đường nào cũng trải đầy hoa hồng."
+                        },
+                        {
+                            "title": "Những nghề nghiệp phù hợp",
+                            "content": "ENTP là những người có tính cách khá linh hoạt, có thể làm việc ở nhiều ngành nghề khác nhau.\n\nHọ cũng rất nhanh nhạy và có khả năng giải quyết vấn đề một cách nhanh chóng, triệt để, miễn là các ENTP biết được đâu là điểm mạnh điểm yếu của mình.\n\nCác ENTP yêu sự sáng tạo và thích đưa ra những ý tưởng mới, thỏa thích vùng vẫy trong những dự án mới.\n\nCác ENTP sở hữu sự năng nổ của đặc điểm E (Hướng ngoại), kết hợp với khuynh hướng phát triển toàn diện về mặt trí tuệ (NT) và kết thúc với tính tự phát của đặc điểm P (Linh hoạt), do đó trở thành doanh nhân cũng là lựa chọn không tệ đối với các ENTP.\n\nCác ENTP có kỹ năng giao tiếp tốt cả qua văn bản lẫn lời nói, có khả năng truyền cảm hứng qua từng con chữ, từng hành vi cử chỉ.\n\nDo đó, việc trở thành luật sư, nhà tâm lý học, nhà khoa học đều phù hợp với những Người nhìn xa. Chỉ cần cho họ đủ không gian sáng tạo và các ENTP có thể khai phá ra những tiềm năng vô tận trong họ.\n\nLà những người luôn không ngừng tò mò và muốn khám phá về thế giới, tiếp thu thêm nhiều kiến thức mới, thích làm việc trong không gian tự do, không bị ảnh hưởng nhiều bởi yếu tố cảm xúc là những đặc điểm khiến các ENTP có thể tỏa sáng ở vai trò nhiếp ảnh gia, phân tích hệ thống, lập trình viên, tư vấn viên.\n\nDưới đây là một số nghề nghiệp mà các ENTP có thể tham khảo:\n\n● Nhà tâm lý học\n\n● Luật sư\n\n● Tư vấn viên\n\n● Doanh nhân\n\n● Nhà khoa học\n\n● Kỹ sư\n\n● Nhiếp ảnh gia\n\n● Nhân viên đại diện bán hàng\n\n● Diễn viên\n\n● Marketing\n\n● Lập trình viên, chuyên gia máy tính\n\n● Phân tích cấu trúc dữ liệu"
                         },
                     ]
                 },
@@ -3960,72 +3944,336 @@ export const mbtiData = {
                     "section": "Thói quen nơi công sở",
                     "items": [
                         {
-                            "content": "Với sự cởi mở, nhiệt tình của mình, những Người truyền cảm hứng thường xuyên khiến cho không gian làm việc như được khoác lên một chiếc áo mới với hơi thở nhiệt huyết và tận tâm. Dù là nhân viên hay là sếp thì điều hạnh phúc nhất của các ENFP cũng là được tự do sáng tạo và khám phá ra những điều mình chưa từng biết. Điều đó còn tuyệt vời hơn nữa khi họ tìm được những đồng nghiệp có cùng sở thích với mình.\n\nNhững người thuộc nhóm tính cách ENFP không quá coi trọng cấp bậc trong công việc, họ coi tất cả mọi người như nhau, cùng làm việc, cùng học hỏi."
+                            "content": "Những người thuộc nhóm tính cách ENTP có tiêu chuẩn cụ thể cho môi trường làm việc tương lai, nhưng không phải tiêu chuẩn nào cũng được đáp ứng. Họ tin tưởng rằng nhân tài sẽ luôn được trọng dụng, và cấp trên sẽ nhìn ra năng lực xuất chúng của họ, ghi nhận ý kiến, tiến hành tranh luận sôi nổi và tất cả cùng đưa ra nhận định của mình. Về phía các ENTP, họ biết chính xác mình muốn gì và cần làm gì khi rắc rối xảy ra trong quá trình tranh luận, bởi vậy công việc của các ENTP nhìn chung diễn ra khá suôn sẻ."
                         },
                         {
-                            "title": "ENFP khi là nhân viên",
-                            "content": 'Khi là nhân viên, các ENFP thường gây ấn tượng với đồng nghiệp và cấp trên nhờ sức sáng tạo vô tận và khả năng thích nghi vượt trội. Họ thích tìm ra nhiều phương án để giải quyết các vấn đề trong công việc, cũng sẵn sàng linh động thay đổi phương án cho phù hợp với hoàn cảnh. Các ENFP cũng là những người rất giỏi lắng nghe quan điểm của người khác.\n\nGiống như những tính cách khác, những người thuộc nhóm tính cách ENFP đôi khi cũng khá khó tính. Họ muốn công việc được hoàn thành theo cách tốt nhất, và đối với họ, cách “tốt nhất” để hoàn thành công việc là làm theo cách của họ và theo tốc độ của họ.\n\n<i>“Vì vậy, cấp trên không nên quá khắt khe với các ENFP nếu không muốn họ bị căng thẳng trong công việc.”</i>\n\nTrong công việc, các ENFP có xu hướng theo sát công việc được giao tới bước cuối cùng cho tới khi hoàn thành 100% thay vì liên tục “nhảy cóc” sang một nhiệm vụ khác thú vị hơn. Tuy vậy, những nhân viên ENFP cũng là tuýp người khá nhanh chán, và khi sức hút của công việc giảm xuống thì nhiệt huyết của họ cũng phai nhạt theo thời gian. Vì vậy, các ENFP rất cần lời động viên từ đồng nghiệp và cấp trên để xốc lại tinh thần khi làm việc, bởi họ coi trọng tinh thần gắn kết giữa một tập thể để cùng nhau đi lên hơn là sự soi mói và khắt khe một cách vô lý.'
+                            "title": "ENTP khi là cấp dưới",
+                            "content": 'Tính cách của những người thuộc nhóm ENTP được thể hiện rất rõ khi họ là cấp dưới, bởi các ENTP thường xuyên đánh giá và hồ nghi ý tưởng của cấp trên, cũng như không mấy khi tuân theo các quy tắc, luật lệ được đưa ra.\n\nLà một người nhạy bén và sáng tạo, các ENTP thường đưa ra những phương hướng xử lý vấn đề vô cùng mới mẻ.\n\nNếu phương án họ đưa ra chưa phải phương án tối ưu thì các ENTP sẽ không ngần ngại nhận lỗi về mình để rút kinh nghiệm cho những lần sau.\n\nThách thức lớn nhất của các nhân viên ENTP là vị trí cấp dưới thường buộc họ phải làm những nhiệm vụ không mấy quan trọng và đôi khi rất tẻ nhạt, họ cũng phải nghe theo giao phó của cấp trên, và đó chính là ác mộng của các ENTP.\n\nNhững người quản lý nên biết cách tận dụng khả năng của các ENTP vào những nhiệm vụ thích hợp hơn để họ có thể phát huy tối đa khả năng của mình.'
                         },
                         {
-                            "title": "ENFP khi là đồng nghiệp",
-                            "content": "Những Người truyền cảm hứng không chỉ coi những người làm việc cùng mình là đồng nghiệp mà còn là người bạn để chia sẻ nhiều điều thú vị trong cuộc sống.\n\n<i>“Các ENFP luôn sẵn sàng sát cánh mỗi khi đồng nghiệp của mình cảm thấy căng thẳng trong công việc.”</i>\n\nNhững người thuộc nhóm tính cách ENFP thường lựa chọn những phương án đôi bên cùng có lợi để giải quyết vấn đề. Họ không thích lợi dụng bất kỳ ai để đạt được mục đích của mình. Thay vào đó, họ ghi nhận đóng góp và nỗ lực của từng cá nhân, cũng như cổ vũ nhiệt tình để họ hoàn thành tốt công việc của mình. Các ENFP cũng rất giỏi khi làm việc nhóm và cùng nhau đưa ra ý tưởng. Họ có thể lắng nghe ý kiến của người khác và đưa ra nhiều nhận định khách quan.\n\nTính cách thoải mái và vui vẻ khiến các ENFP rất được hoan nghênh trong công việc. Nhưng điều khiến các ENFP trở nên khác biệt là cách họ uyển chuyển thay đổi vai trò từ một đồng nghiệp bình thường sang một người có khả năng dẫn dắt đội nhóm để đạt được thành công cuối cùng"
+                            "title": "ENTP khi là đồng nghiệp",
+                            "content": "Đối với những người hướng tới kết quả cuối cùng thì các ENTP quả là những đồng nghiệp hết sức “điên rồ” với những ý nghĩ viển vông, với sức sáng tạo và đổi mới không ngừng của họ.\n\nTuy nhiên đối với những người có tính cách giống với các ENTP thì họ chính là nguồn cảm hứng vô tận.\n\nNếu một cuộc họp kết thúc bằng phương án đầu tiên được đưa ra thì các ENTP sẽ không hài lòng chút nào, họ sẽ tiếp tục mổ xẻ vấn đề và đưa ra đánh giá, cũng như gợi ý thêm nhiều phương hướng giải quyết khác.\n\nTuy vậy, nhờ tính cách dễ gần và quảng giao của mình thì các ENTP vẫn rất được chào đón tại nơi làm việc.\n\nVới kiến thức uyên thâm và khả năng giải quyết vấn đề thượng thừa, các ENTP là “địa chỉ” tin cậy để nhiều đồng nghiệp xin gợi ý cho những nan đề mà họ đang gặp phải."
                         },
                         {
-                            "title": "ENFP khi là cấp trên",
-                            "content": "Các cấp trên ENFP không bao giờ xem thường những nhân viên cấp dưới của mình. Trên thực tế, họ biết đặt mình vào vị trí của nhân viên để xây dựng mối quan hệ tốt đẹp trong môi trường làm việc với cấp dưới thay vì chỉ biết chỉ trỏ, ra lệnh và bắt lỗi.\n\n<i>“Những vị lãnh đạo ENFP thường hướng tới mục tiêu chung về lâu về dài bằng cách để nhân viên có không gian tự do sáng tạo, như vậy hiệu quả công việc mới có thể đạt tới tiêu chuẩn cao nhất.”</i>\n\nTuy nhiên, do cấp trên không quá sát sao trong công việc nên đôi khi nhân viên của các ENFP sẽ cảm thấy hoang mang, lạc lối khi không biết mình nên làm gì tiếp theo. Ngoài ra, một số cá nhân thiếu tính tự giác sẽ không chủ động trong công việc nếu sếp họ không quản lý chặt tiến trình và quy định deadline trong công việc.\n\nĐối với những người thuộc nhóm tính cách ENFP, khiển trách hoặc sa thải nhân viên là điều họ không mong muốn nhất, không kể lỗi lầm đó nghiêm trọng tới mức nào. Do đó, các ENFP cần đặt ra những nguyên tắc và ranh giới một cách rõ ràng để không bị cấp dưới của mình “được đằng chân lân đằng đầu”.\n\nTuy vậy, trên thực tế, những vị lãnh đạo thuộc nhóm tính cách ENFP đủ sáng suốt để nhận ra khi nào họ cần thắt chặt kỷ luật để chỉnh đốn đội ngũ nhân viên. Từ đó giải quyết vấn đề một cách triệt để, một cách công bằng."
+                            "title": "ENTP khi là cấp trên",
+                            "content": "Mục tiêu của các ENTP trong công việc không phải trở thành sếp, nhưng nếu đã ngồi vào vị trí đó thì họ sẽ có đủ không gian tự do để đưa ra ý kiến và áp dụng vào thực tiễn.\n\nNhững cấp trên ENTP thường là những người cởi mở và linh hoạt trong công việc, họ cho phép nhân viên cấp dưới được thỏa thích đóng góp ý kiến và đưa ra nhận xét.\n\nTuy điều này có khả năng gây ra hỗn loạn giữa các phòng ban khi gặp phải trường hợp “chín người mười ý”, nhưng các ENTP có khả năng nhìn nhận toàn diện và lựa chọn ra phương án có hiệu quả cao nhất.\n\nVới tính cách của mình, sẽ không có quá nhiều cấp dưới hài lòng với các ENTP, tuy nhiên điều họ mong mỏi là sự tôn trọng và công nhận năng lực hơn là được yêu thích.\n\nCác cấp trên ENTP là những người biết giữ vững lập trường và phản biện bằng lập luận sắc bén, vì vậy họ có đủ khả năng để bảo vệ đội nhóm của mình.\n\nThách thức của các ENTP khi làm cấp trên là khả năng tập trung kém hay “đứng núi này trông núi nọ”.\n\nNếu thấy một ý tưởng nào đó thú vị thì họ sẵn sàng bỏ dở công việc hiện tại để theo đuổi những điều mới mẻ hơn."
                         },
                     ]
                 },
                 {
-                    "section": "So sánh ENFP với INFP, ESFP",
+                    "section": "So sánh ENTP với INTP, ESTP",
                     "items": [
                         {
-                            "content": "Khi so sánh ENFP (Người truyền cảm hứng) với các nhóm tính cách có sự tương đồng (I<b>NFP</b> - Người lý tưởng hóa, <b>E</b>S<b>FP</b> - Người trình diễn) sẽ giúp bạn hiểu thêm nhiều đặc điểm về tính cách của ENFP."
+                            "content": "Để hiểu sâu hơn về nhóm tính cách ENTP (Người nhìn xa), hãy cùng so sánh ENTP các nhóm tính cách khác có sự cùng tương đồng là I<b>NTP</b> (Nhà tư duy) và <b>E</b>S<b>TP</b> (Người thực thi)."
                         },
                         {
                             "title": "Điểm giống nhau",
-                            "content": 'F - Cảm xúc và P - Linh hoạt: Cả ba nhóm tính cách MBTI này đều là những người thiên về cảm xúc. Với họ các quyết định đưa ra phụ thuộc nhiều vào cảm xúc cá nhân thay vì dùng những số liệu đo lường cụ thể. Ngoài ra, ENFP và INFP, ESFP còn là những người rất linh hoạt. Họ không nhìn nhận các vấn đề theo một quy tắc rập khuôn mà các quyết định đưa ra sẽ tùy vào thời gian, không gian của vấn đề.\n\nNếu so sánh ENFP với từng nhóm INFP, ESFP chúng ta sẽ thấy mỗi cặp đều có những điểm chung rất riêng. Cụ thể:\n\n● E<b>NFP</b> và I<b>NFP</b>: Họ nổi bật về trực giác, các quyết định được đưa ra dựa nhiều vào cảm xúc cá nhân. Tuy nhiên, họ rất linh hoạt, thích môi trường tự do và tự mình đặt ra ra những cấu trúc cho riêng mình. \n\n● <b>E</b>N<b>FP</b> và <b>E</b>S<b>FP</b>: Họ là những người hướng ngoại, thích khám phá thế giới bên ngoài. Các vấn đề đều được họ nhìn nhận một cách linh hoạt, tùy theo không gian và thời gian mọi quyết định đưa ra đều có thể khác nhau. Cả ENFP và ESFP đều thiên nhiều về cảm xúc cá nhân.',
+                            "content": 'N - Lý trí và P - Linh hoạt: Cả ba nhóm tính cách này đều lý tính và sống theo quan điểm thực tiễn.\n\nHọ không bị ảnh hưởng quá nhiều bởi cảm xúc cá nhân khi đánh giá, phân tích một vấn đề nào đó.\n\nĐồng thời họ cũng không thích bó buộc trong những quy tắc, luật lệ sẵn có mà thích sáng tạo, tự do trong thế giới riêng của mình.\n\nTuy nhiên khi đối chiếu nhóm ENTP riêng với từng cặp INTP và ESTP, chúng tôi nhận thấy những điểm chung riêng ở mỗi cặp như sau:\n\n● E<b>NTP</b> và I<b>NTP</b>: Yêu thích sự sáng tạo, thường xuyên đưa ra những ý tưởng mới mẻ, độc đáo.\n\nHam tìm tòi, học hỏi và khám phá các kiến thức mới, nhất là các kiến thức trừu tượng.\n\nTheo đuổi sự tự do và thích làm việc độc lập.\n\n● <b>E</b>N<b>TP</b> và <b>E</b>S<b>TP</b>: Là những người thẳng thắn, bộc trực, thích đi vào trọng tâm vấn đề và đôi lúc không để ý đến cảm xúc của người khác.\n\nPhù hợp với những môi trường làm việc thoải mái, không gò bó.',
                         },
                         {
                             "title": "Điểm khác nhau",
-                            "content": "Bảng so sánh sau đây sẽ giúp bạn khám phá ra các điểm khác nhau giữa ENFP với INFP, ESFP để thấy được rằng, đôi khi chỉ chênh nhau một chữ cái thôi nhưng sự khác biệt giữa các nhóm này lại rất rõ rệt." 
+                            "content": "Tìm hiểu kỹ hơn sự khác nhau giữa ba nhóm ENTP với INTP và ESTP qua bảng so sánh dưới đây:" 
                         },
                     ],
                     "tables": [
                         {
-                            "headers": ["Đặc điểm", "INFP", "ENFP", "ESFP"],
+                            "headers": ["Đặc điểm", "INTP", "ENTP", "ESTP"],
                             "rows": [
-                                ["Diễn giải chữ viết tắt", "<b>I - Hướng nội</b><br>N - Trực giác<br>F - Cảm xúc<br>P - Linh hoạt", "<b>E - Hướng ngoại</b><br><b>N - Trực giác</b><br>F - Cảm xúc<br>P - Linh hoạt", "E - Hướng ngoại<br><b>S - Giác quan</b><br>F - Cảm xúc<br>P - Linh hoạt"],
-                                ["Cách tiếp cận thông tin", "Tập trung vào bức tranh toàn cảnh. Họ không cố định vào các định nghĩa có sẵn mà thích tưởng tượng những điều sẽ xảy ra. Họ muốn dành thời gian tự lập hơn là hợp tác với mọi người", "Dựa chủ yếu trên cảm xúc cá nhân và trực giác để xem xét ý nghĩa của sự vật hiện tượng. Họ không phải là những người giỏi phán đoán", "Dùng tất cả các giác quan (thị giác, khứu giác, thính giác, xúc giác, vị giác) để cảm nhận vấn đề"],
-                                ["Trong các mối quan hệ", "- Họ nhẹ nhàng, bình tĩnh, hòa nhã với những người xung quanh<br>- Họ luôn muốn tìm kiếm những mối quan hệ thật sự chất lượng, sẵn sàng cùng mình chia sẻ cảm xúc và suy nghĩ<br>- Dĩ hòa vi quý, luôn tìm cách hóa giải mâu thuẫn<br>- Họ không thích trở thành tâm điểm và thấy ngại ngùng khi mình phải chủ trì một một sự kiện nào đó<br>- Họ có thế giới riêng của mình, có thể tỏ ra vô tâm trước mặt người khác nhưng trong đầu lại có vô vàn những điều thú vị", "- Dễ dàng trở nên thân thiết khi gặp gỡ những người mới nhờ giao tiếp tốt<br>- Luôn duy trì dáng vẻ rạng rỡ và không bộc lộ ra ngoài bất cứ trăn trở hoặc góc khuất nào của bản thân, kể cả với người thân thiết nhất<br>- Sẽ hạn chế liên lạc nếu nhận thấy mình và đối phương khác nhau về giá trị quan, không hợp khi nói chuyện dù bề ngoài vẫn tỏ ra vui vẻ, cười nói", "- Quảng giao và nhiệt tình, đi tới đâu là có người quen tới đó<br>- Rất thẳng thắn, thậm chí đôi khi lỗ mãng, nhưng sự cởi mở và quyến rũ của họ dễ dàng xoa dịu cơn giận<br>- Thường không thích những mối quan hệ đòi hỏi phải sử dụng trực giác hay suy nghĩ nhiều"],
-                                ["Trong công việc", "- Khao khát tìm kiếm những công việc vừa mang lại thu nhập vừa thú vị, giúp họ cảm thấy yêu đời<br>- Thích hợp làm nhà văn, nhân viên truyền thông, nhạc sĩ hoặc biên kịch<br>- Không thích những môi trường làm việc căng thẳng, hay phê bình và có tính cạnh tranh cao<br>- Làm những việc mình muốn, theo sở thích kể cả không kiếm ra tiền", "- Họ rất dễ hài lòng với công việc nhưng dễ bị mất phương hướng nếu phải lựa chọn một công việc để theo đuổi<br>- Vừa muốn làm công việc mình thích nhưng lại vừa muốn làm công việc có thu nhập ổn định<br>- Xem trọng sự đam mê và quyết tâm trong công việc. Nếu làm việc chăm chỉ để kiếm tiền họ sẽ cảm thấy mệt mỏi, kiệt quệ.<br>- Thích những công việc phát huy năng lực sáng tạo và đáp ứng được giá trị cốt lõi của bản thân", "- Gặp khó khăn và có thể mắc sai làm khi thực hiện các công việc mang tính chất lặp đi lặp lại, đòi hỏi sự tỉ mỉ<br>- Không thích làm việc trong môi trường được phân cấp khắt khe, không có sự gắn kết giữa các phòng ban<br>- Thích hợp với các công việc như diễn giả, nhà báo, phóng viên<br>- Có xu hướng thiên về thực hành hơn lý thuyết<br>- Giải quyết công việc dựa trên sự ngẫu hứng nhưng có khả năng đưa ra quyết định nhanh vào các thời điểm cấp bách<br>- Làm tốt ở các vị trí như nhân viên kinh doanh/bán hàng, nhà đàm phán, tiếp thị<br>- Không né tránh các rủi ro mà chọn cách đối mặt và giải quyết một cách triệt để<br>- Không thích hợp với môi trường công việc quá khắt khe, nhiều quy tắc và điều lệ"]
+                                ["Diễn giải chữ viết tắt", "<b>I - Hướng nội</b><br>N - Trực giác<br>T - Lý trí<br>P - Linh hoạt", "<b>E - Hướng ngoại</b><br><b>N - Trực giác</b><br>T - Lý trí<br>P - Linh hoạt", "E - Hướng ngoại<br><b>S - Giác quan</b><br>T - Lý trí<br>P - Linh hoạt"],
+                                ["Cách tiếp cận thông tin", "Dựa trên những dữ liệu và số liệu thực tế để đánh giá vấn đề", "Dựa vào những kiến thức, năng lực của bản thân để phân tích vấn đề. Họ thường nảy ra nhiều ý tưởng sáng tạo khi tiếp cận các thông tin", "Tập trung vào những gì mình quan sát được bằng cả năm giác quan"],
+                                ["Trong các mối quan hệ", "- Vòng tròn bạn bè rất nhỏ, thường bị thu hút bởi những người có cùng đam mê trong lĩnh vực học thuật<br>- Đặt sự logic lên hàng đầu nên cũng không phải là chuyên gia trong chuyện tình cảm<br>- Dành hầu hết thời gian cho thế giới nội tâm của chính mình, không có nhu cầu kết giao nhiều", "- Là những người lạc quan, vui vẻ, nhiệt tình nhưng không được đánh giá cao về mặt cảm xúc<br>- Có xu hướng khởi xướng các cuộc tranh luận với mọi người bởi họ rất thích tranh luận<br>- Có nhiều ý tưởng mới mẻ để thúc đẩy sự gắn kết trong các mối quan hệ", "- Dễ dàng kết thân với người khác, là những người bạn tốt bụng và vui vẻ<br>- Tận tâm, biết săn sóc mọi người nhưng không thích những mối quan hệ bị trói buộc quá nhiều<br>- Thiếu đồng cảm và cũng không quá quan tâm đến việc người khác nghĩ gì về mình"],
+                                ["Trong công việc", "- Yêu thích những công việc cho phép họ thỏa thích phát huy sức sáng tạo và nghiên cứu<br>- Độc lập trong công việc, không thích quản lý và bị quản lý. Một số nghề nghiệp phù hợp như pháp y, tư vấn viên, nhà khoa học, thẩm phán, v.vv..<br>- Không phù hợp với các công việc yêu cầu sự tương tác cao giữa người với người và cần thể hiện cảm xúc nhiều", "- Mong muốn được tham gia vào những dự án lớn trong công việc để được suy nghĩ và động não liên tục<br>- Có khả năng lãnh đạo tốt, nhưng không thích quản lý người khác hay bị người khác quản lý<br>- Phù hợp trở thành luật sư, nhà khoa học, nhà tâm lý học, v.vv..", "- Thích với những công việc thoải mái, không gò bó, có cơ hội phát triển<br>- Ưu tiên những công việc cho phép họ thực thi thay vì lên chiến lược<br>- Một số công việc phù hợp với ESTP là nhân viên bán hàng, đàm phán kinh doanh, Marketing, diễn xuất, v.vv.."]
                             ]
                         }
                     ],
-                    "content": "Có thể thấy, cả ENFP và INFP, ESFP đều là những người thiên về cảm xúc, linh hoạt trong cách nhìn nhận vấn đề. Tuy nhiên, ba nhóm MBTI này lại có sự khác biệt trong cách tiếp cận thông tin và giải quyết vấn đề. Ngoài ra, các mối quan hệ xã hội, công việc của ENFP và INFP, ESFP cũng có sự khác nhau.\n\nCác INFP thường tập trung vào bức tranh toàn cảnh, yêu thích sự tưởng tượng và sáng tạo. ENFP sử dụng trực giác để đánh giá vấn đề và đưa ra kết luận, họ hướng đến những công việc mang tính chất gắn kết cộng đồng, trong khi ESFP có xu hướng thiên về thực hành hơn lý thuyết, họ không né tránh rủi ro mà đối mặt để giải quyết triệt để các vấn đề. Sự đa dạng này tạo nên nét riêng cho mỗi nhóm trong việc xây dựng mối quan hệ và xác định hướng đi trong cuộc đời." 
+                    "content": "Tóm lại, cả 3 nhóm ENTP, INTP và ESTP đều yêu thích sự tự do, thích những công việc cho phép được họ được thỏa sức sáng tạo và sử dụng tối đa năng lực của bản thân.\n\nTuy nhiên cách họ tiếp cận thông tin và ứng xử với những mối quan hệ xung quanh mình lại có sự khác biệt rõ rệt.\n\nNếu ENTP và INTP đánh giá sự việc dựa nhiều vào trực giác (giác quan thứ sáu) thì với ESTP, trực giác là điểm yếu lớn nhất của họ, họ thiên về sử dụng cả năm giác quan để nhìn nhận và phân tích vấn đề.\n\nVề khía cạnh các mối quan hệ, trong khi nhóm ENTP và ESTP dễ dàng kết bạn, làm quen với nhiều người thì nhóm INTP lại hướng vào thế giới nội tâm nhiều hơn và chỉ những người có cùng tần số mới có thể kết bạn với họ được.\n\nNhững điểm khác biệt này làm nên chất riêng cho mỗi nhóm và ảnh hưởng tới cách họ phát triển cũng như định hình hướng đi trong cuộc đời." 
                 },
                 {
-                    "section": "Lời khuyên dành cho ENFP",
+                    "section": "Lời khuyên dành cho ENTP",
                     "items": [
                         {
-                            "title": "Hãy luôn yêu lấy chính mình",
-                            "content": 'Nếu bạn chỉ chú ý đến việc gặp gỡ mọi người và tỏa sáng trong chính mối quan hệ nhờ vào việc giỏi kết giao thì đến một lúc nào đó bạn sẽ thấy rất trống vắng. Bạn sẽ không thể hạnh phúc chỉ với những mối quan hệ ngoài mặt.\n\nCác ENFP nên biết cách yêu thương bản thân mình, trung thực và cá tính hơn nữa thông qua việc bày tỏ cảm xúc của mình. Nếu bạn có cảm xúc mạnh mẽ, hãy sắp xếp chúng và bày tỏ ra bên ngoài, đừng cố dồn nén trong lòng. Hãy đáp ứng các nhu cầu của bản thân và xem mình là trọng tâm.',
+                            "title": "Học cách lắng nghe",
+                            "content": 'ENTP thường rất giỏi nói chuyện, thích tham gia vào các cuộc tranh luận và nảy số rất nhanh trong việc đưa ra quan điểm, lý lẽ của mình. Chính vì vậy mà ENTP có xu hướng ngắt lời hoặc nói lấn át ý người khác. Điều này có thể khiến các ENTP rơi vào thế khó khi phải làm việc với khách hàng, đối tác và tạo cảm giác không mấy vui vẻ cho những người xung quanh khi nói chuyện với họ. Học cách lắng nghe sẽ giúp ENTP xây dựng mối quan hệ tích cực hơn với mọi người và tiếp thu thêm được nhiều quan điểm, kiến thức quý giá.',
                         },
                         {
-                            "title": 'Hãy biết đưa ra quyết định',
-                            "content": 'Đứng trước một vấn đề bạn đừng ngại đưa ra quan điểm và ý kiến của mình. Để mọi việc mang lại hiệu quả tốt nhất, bạn cần phải cho mọi người biết bạn cảm thấy như thế nào về chúng, dù cho vấn đề đó là lớn hay nhỏ. Khi nghi ngờ bất cứ vấn đề gì, hãy đặt câu hỏi và yêu cầu phản hồi.',
+                            "title": 'Mạnh dạn thực thi các ý tưởng',
+                            "content": 'ENTP rất yêu thích sự sáng tạo và luôn luôn nhìn nhận vấn đề ở nhiều góc độ để đưa ra những giải pháp độc đáo và tối ưu nhất. Tuy nhiên ENTP hay dừng ở khâu đưa ra ý kiến chứ chưa thực sự hành động để biến ý tưởng thành hiện thực. Những sáng kiến của bạn có thể mang lại những kết quả vượt trội mà bạn cũng không ngờ đến, vậy nên hãy lên kế hoạch và bắt tay thực hiện ngay các ý tưởng.',
                         },
                         {
-                            "title": "Hãy luôn mỉm cười trước những lời chỉ trích",
-                            "content": "Điều này đôi khi có thể là sự khó khăn và cần rèn luyện, tuy nhiên việc coi những bất đồng, bất hòa như một cơ hội sẽ giúp bạn phát triển bản thân tốt hơn. Trước những lời chỉ trích, bạn hãy cố gắng lắng nghe và đánh giá chúng một cách khách quan thay vì phòng thủ quá mức."
+                            "title": "Học cách tổ chức và quản lí thời gian",
+                            "content": "Các ENTP rất dễ phân tâm và thường xuyên “đứng núi này trông núi nọ”. Nếu ENTP vẫn mãi không thể hoạch định và làm việc một cách rõ ràng, có tổ chức thì sẽ ảnh hưởng tiêu cực đến cuộc sống cá nhân và định hướng nghề nghiệp của chính họ. ENTP nên học cách sắp xếp, quản lý thời gian bằng cách đặt ra các mục tiêu rõ ràng cho từng đầu việc, lên kế hoạch những việc cần ưu tiên để đảm bảo cân bằng giữa công việc và cuộc sống."
                         },
                         {
-                            "title": "Hãy để ý đến người khác",
-                            "content": "Thế giới ngoài kia rất rộng lớn, mỗi người sẽ có cách nhìn nhận sự vật, sự việc khác với bạn. Vì thế đừng bỏ qua quan điểm của bất kỳ ai. Bạn hãy để ý, cố gắng hiểu quan điểm của người khác để dễ dàng hơn trong việc giải quyết các vấn đề có liên quan trong công việc cũng như cuộc sống."
+                            "title": "Rèn luyện sự khiêm tốn và cởi mở hơn",
+                            "content": "Cuối cùng, hãy mạnh dạn thừa nhận những hạn chế của chính mình và tôn trọng quan điểm của người khác, cùng tạo ra một môi trường thúc đẩy sự hợp tác và học hỏi chung."
+                        },
+                    ]
+                },
+            ]
+        },
+        {
+            "code": "ESFP",
+            "name": "Người nhìn xa",
+            "description": "Nhóm tính cách ENTP là những cá nhân cởi mở, ham học hỏi, thích khám phá và thử thách bản thân với những điều mới. ENTP là những người thân thiện đầy cuốn hút, hoạt ngôn, thích tranh luận, góp phần tạo nên bầu không khí đầy hứng khởi cho những người xung quanh. ENTP cũng xởi lởi và rất dễ kết giao bạn bè, tuy nhiên để đi tới mức độ gắn kết sâu sắc thì còn tùy thuộc vào mỗi cá nhân.",
+            "image": "../img/entp.png",
+            "details": [
+                {
+                    "section": "Tổng quan",
+                    "items": [
+                        {
+                            "content": "Những người thuộc nhóm tính cách <b>ENTP (Người nhìn xa)</b> nổi bật với tinh thần ham học hỏi và không ngừng tích lũy kiến thức, tìm kiếm giải pháp cho những vấn đề mang tính thách thức."
                         },
                         {
-                            "title": "Chịu trách nhiệm về bản thân",
-                            "content": "Cuối cùng, các ENFP không nên lãng phí năng lượng tinh thần để đổi lỗi cho hành vi của người khác hoặc tự nhận mình là nạn nhân. Bạn có nhiều quyền kiểm soát cuộc sống của mình hơn bất cứ ai, vì vậy hãy luôn chịu trách nhiệm về bản thân mình."
+                            "title": "ENTP là viết tắt của những chữ cái gì?",
+                            "content": "● <b>E - Hướng ngoại:</b> Đối với bạn, thế giới bên ngoài mới là thế giới thực. Trái ngược với tính cách I - Hướng nội luôn đắm mình trong thế giới nội tâm.\n\n● <b>N - Trực giác:</b> Bạn tập trung vào ý nghĩa của sự vật, sự việc, khác với những người có tính cách S - Giác quan sử dụng cả năm giác quan thị giác, thính giác, khứu giác, vị giác, cảm giác để nhìn nhận và đánh giá.\n\n● <b>T - Lý trí:</b> Bạn đưa ra quyết định dựa trên góc nhìn thực tế bằng số liệu và đo lường chính xác. Ngược lại, các F - Cảm xúc ưu tiên đưa ra quyết định dựa trên cảm nhận cá nhân.\n\n● <b>P - Linh hoạt:</b> Bạn thỏa thích vẫy vùng trong thế giới của riêng mình với những quy tắc ngầm được bạn tự tay sắp xếp. Trái lại, những người thuộc nhóm J - Nguyên tắc lại cảm thấy ổn khi được áp cho những luật lệ được sắp đặt sẵn."
+                        },
+                        {
+                            "title": "Thiên về trực giác",
+                            "content": 'Với bản tính hướng ngoại nổi bật trong tính cách, các ENTP không ngừng tìm tòi về thế giới quanh ta, về cách vũ trụ vận hành và vạn vật vần xoay. Họ sử dụng trực giác của mình để tiếp nhận thông tin và đưa ra hướng giải quyết cho những vấn đề nan giải. Đây cũng là điểm khác biệt giữa nhóm tính cách ENTP và người anh em ESTP của mình.',
+                        },
+                        {
+                            "title": 'Nhạy bén',
+                            "content": "Trực giác tốt giúp các ENTP có khả năng suy nghĩ và phân tích vấn đề nhanh chóng một cách thấu đáo, cũng giúp họ thích ứng nhanh với mọi môi trường, mọi hoàn cảnh. Theo thời gian, trực giác của họ ngày càng được hoàn thiện, hỗ trợ các ENTP rất nhiều trong việc xử lý công việc hoặc đơn giản là đưa ra những quyết định thường ngày."
+                        },
+                        {
+                            "title": 'Tràn đầy ý tưởng',
+                            "content": "Các ENTP là những người luôn tràn đầy ý tưởng với óc sáng tạo tuyệt vời. Họ thấy ý tưởng ở mọi nơi và cũng lan truyền tinh thần nhiệt huyết của mình tới mọi người xung quanh, từ đó nhận được sự công nhận và hỗ trợ rất lớn từ những người có cùng quan điểm."
+                        },
+                        {
+                            "title": 'Thực thi không phải là thế mạnh',
+                            "content": "Các ENTP giỏi nghĩ ra ý tưởng nhưng không giỏi trong việc thực thi. Họ có thể đưa ra vô vàn những ý tưởng hay ho tuyệt vời, nhưng nếu bảo họ ngồi xuống và viết ra kế hoạch kỹ càng, logic để triển khai ý tưởng ấy thì các ENTP lại không thích chút nào. Đây là lý do khiến những Người nhìn xa hầu như phải bỏ lỡ rất nhiều dự định do không có khả năng theo đuổi đến cùng."
+                        },
+                        {
+                            "title": "Tính logic cao",
+                            "content": "Dù sử dụng đặc điểm I (Trực giác) để suy nghĩ trong đa phần tình huống nhưng nhờ có đặc điểm T (Lý trí) dẫn dắt nên các quyết định mà những người thuộc nhóm tính cách ENTP đưa ra đều rất logic và có thể áp dụng vào thực tiễn, khiến họ trở thành những người có tầm nhìn xa trông rộng đáng mến."
+                        },
+                        {
+                            "title": "Thích tranh luận",
+                            "content": "Các ENTP là những người nhạy bén, tinh tế và có khả năng giao tiếp tốt. Họ thích tranh luận, thậm chí sẵn sàng đổi “phe” ngay trong cuộc tranh luận để đẩy sự kịch tính lên cao trào.\n\nChúng ta có thể đặt các ENTP vào vị trí của một luật sư để phân tích từng đặc điểm tính cách của họ: Người luật sư ENTP là người có khả năng suy nghĩ và nắm bắt tình huống rất nhanh, sau đó vạch ra những hành động logic để xử lý vấn đề. Đặc điểm T (Lý trí) giúp những người thuộc nhóm tính cách này có thể đưa ra quyết định dựa trên các quy tắc và luật pháp đã được ban hành."
+                        },
+                        {
+                            "title": "Hạn chế đặc điểm S và F",
+                            "content": "Đặc điểm hạn chế nhất của các ENTP là S (Giác quan) và F (Cảm xúc). Điều đó khiến những Người nhìn xa gần như bị ám ảnh bởi những tiểu tiết không quá quan trọng và đôi khi làm lỡ bức tranh tổng thể, đặc biệt khi phải đối mặt với áp lực.\n\nNhìn chung, các ENTP là những người có tầm nhìn xa. Họ trân trọng giá trị của tri thức và không ngừng khám phá những điều thú vị trong cuộc sống. Những khó khăn, thử thách không làm những người thuộc nhóm tính cách ENTP chùn bước mà ngược lại còn kích thích sự nhiệt huyết và lòng đam mê trong họ. Đứng trước những vấn đề nan giải, các ENTP thường đưa ra được những quyết định vô cùng đột phá."
+                        },
+                        {
+                            "title": "Những người nổi tiếng mang tính cách ENTP:",
+                            "content": "● Thomas Edison\n\n● Leonardo da Vinci\n\n● Tom Hanks\n\n● Benedict Cumberbatch\n\n● Rowan Atkinson\n\n● Neil Patrick Harris\n\n● Lee Taeyong (NCT127)\n\n● Lee Minhyuk (MONSTA X)"
+                        }
+                    ]
+                },
+                {
+                    "section": "Điểm mạnh và điểm yếu",
+                    "items": [
+                        {
+                            "title": "Điểm mạnh",
+                            "itemsChild": [
+                                {
+                                    "titleChild": "Thông thái",
+                                    "content": "Những người thuộc nhóm tính cách ENTP sẽ không bỏ lỡ bất cứ cơ hội để học hỏi và khám phá những kiến thức mới, đặc biệt là về những lĩnh vực trừu tượng. Các ENTP học không phải vì muốn nghiên cứu chuyên sâu, mà đơn giản vì đó là sở thích của họ.",
+                                },
+                                {
+                                    "titleChild": "Nhanh nhạy",
+                                    "content": "Những Người nhìn xa có khả năng đi từ suy luận này tới suy luận khác trong tíc tắc một cách vô cùng linh hoạt. Việc trang bị cho bản thân kho tàng kiến thức thâm sâu cũng hỗ trợ họ rất nhiều trong các cuộc tranh luận.",
+                                },
+                                {
+                                    "titleChild": "Không ngừng sáng tạo",
+                                    "content": "Các ENTP không có xu hướng đi theo những quan niệm truyền thống. Họ sử dụng chính kiến thức mình học được, kết hợp với một chút sáng tạo, để tạo nên những ý tưởng táo bạo hoàn toàn mới.",
+                                },
+                                {
+                                    "titleChild": "Luôn động não",
+                                    "content": "Đối với những người thuộc nhóm tính cách ENTP, không gì thú vị hơn việc được tự mình phân tích vấn đề từ nhiều góc độ và tìm ra giải pháp tối ưu để giải quyết vấn đề ấy. Do đó các ENTP luôn vô cùng nổi bật trong các buổi tranh luận nhờ tư duy sắc bén của mình.",
+                                },
+                                {
+                                    "titleChild": "Lôi cuốn",
+                                    "content": 'Những Người nhìn xa có cách nói chuyện dí dỏm và hài hước, thành công thu hút toàn bộ sự chú ý của những người xung quanh. Sự tự tin, nhanh nhạy, khả năng kết nối những ý tưởng khác nhau một cách sáng tạo đã tạo nên phong cách giao tiếp quyến rũ, hấp dẫn, dễ gây thiện cảm với những người xung quanh.',
+                                },
+                                {
+                                    "titleChild": "Tràn đầy năng lượng",
+                                    "content": 'Khi có cơ hội tham gia vào những cuộc tranh luận thú vị, các ENTP sẽ hưởng ứng tham gia nhiệt tình với nguồn năng lượng vô tận. Họ không ngại bỏ ra hàng giờ, thậm chí là vài ngày tranh luận để tìm ra giải pháp tối ưu nhất.',
+                                },
+                            ],
+                        },
+                        {
+                            "title": "Điểm yếu",
+                            "itemsChild": [
+                                {
+                                    "titleChild": "Cả nể",
+                                    "content": 'Những người thuộc nhóm tính cách ENFP luôn cố gắng làm hài lòng tất cả mọi người vì không muốn làm phật lòng ai. Để duy trì mối quan hệ tốt đẹp với tất cả mọi người, họ sẽ cố gắng thỏa hiệp trong mọi cuộc tranh luận hoặc thậm chí cho phép người khác lấn át mình trong quá trình bày tỏ ý kiến.',
+                                },
+                                {
+                                    "titleChild": "Hay tranh luận",
+                                    "content": "Thường xuyên tranh luận là một điểm tốt, nhưng nếu bất cứ cuộc tranh luận nào cũng có một chân trong đó thì các ENTP rất dễ bị căng thẳng và đôi khi nảy sinh mâu thuẫn với những người xung quanh, đặc biệt khi có rất nhiều người thuộc nhóm tính cách khác chỉ muốn né tránh những cuộc tranh luận càng xa càng tốt.",
+                                },
+                                {
+                                    "titleChild": "Thiếu sự đồng cảm",
+                                    "content": "Khi tham gia vào các buổi tranh luận, những người thuộc nhóm tính cách ENTP có thể vô tình làm tổn thương người khác bằng lời nói của mình do tính cách quá thẳng thắn. Bản thân các ENTP cũng thấy rằng cảm xúc không phải điều nên đặt lên hàng đầu bởi chúng không có bao nhiêu giá trị, điều đó càng làm sự căng thẳng trong các buổi tranh luận được đẩy lên cao nhất.",
+                                },
+                                {
+                                    "titleChild": "Không khoan nhượng",
+                                    "content": "Trong một cuộc tranh luận, các ENTP không chỉ bác bỏ những ý kiến đi ngược lại với quan điểm cả mình, mà còn có thể bác bỏ cả những người đưa ra ý kiến đó. Đối với họ, chỉ những ý tưởng hợp lý và mang lại lợi ích mới có giá trị, còn không thì họ sẽ không mấy để tâm.",
+                                },
+                                {
+                                    "titleChild": "Đứng núi này trông núi nọ",
+                                    "content": 'Việc thường xuyên dồn quá nhiều năng lượng và nhiệt huyết vào một vấn đề gì đó ngay từ khi bắt đầu khiến các ENTP sẽ càng về sau càng thấy chán nản, và khi đó họ sẽ đi tìm những điều thú vị hơn để làm. Dễ đến dễ đi, đây chính là một nhược điểm rất lớn của Người nhìn xa.',
+                                },
+                                {
+                                    "titleChild": "Không đề cao vấn đề thực tiến",
+                                    "content": 'Những người thuộc nhóm tính cách ENTP thích nói về những ý tưởng sáng tạo, những gì có thể biến đổi và điều chỉnh trong quá trình tranh luận. Vì vậy, họ không quá niềm nở khi đề cập tới những vấn đề mang tính thực tiễn, diễn ra hàng ngày và không thể thay đổi, vì khi đó sự sáng tạo của họ sẽ không thể phát huy tác dụng.',
+                                },
+                            ],
+                        }
+                    ]
+                },
+                {
+                    "section": "Mối quan hệ",
+                    "items": [
+                        {
+                            "content": 'Những người thuộc nhóm tính cách ENTP không giỏi trong việc biểu lộ cảm xúc, kể cả với những người thân thuộc. Họ là những người vô cùng hài hước và nhiệt tình, thế nhưng lại không phải lựa chọn tối ưu nếu bạn đang kiếm tìm một chỗ dựa tinh thần vững chắc trong thời điểm khó khăn. Các ENTP chắc chắn sẽ gợi ý cho bạn nhiều phương án giải quyết logic và hợp lý, thế nhưng đừng hy vọng họ sẽ thấu hiểu được cảm xúc của chính bạn.\n\nCác ENTP không gặp quá nhiều khó khăn trong việc giao tiếp với những người thuộc nhóm tính cách khác, nhất là trong những cuộc thảo luận nhóm, tuy khác biệt về quan điểm là điều không thể tránh khỏi.\n\nNhìn chung, các ENTP là tuýp người lạc quan và thoải mái trong các mối quan hệ, có khả năng gây ảnh hưởng lớn lên những người xung quanh. Họ thích tranh luận, đặc biệt ở những đề tài có thể gợi lên nhiều ý kiến trái chiều.'
+                        },
+                        {
+                            "title": "ENTP trong tình yêu",
+                            "itemsChild": [
+                                {
+                                    "content": "Yêu đương là một việc mà những người thuộc nhóm tính cách ENTP có thể làm tốt, bởi họ vốn là người có vô vàn những ý tưởng mới để thúc đẩy mối quan hệ, và họ cũng nhận định rằng việc không ngừng giữ lửa tình yêu là chìa khóa giải quyết mọi vấn đề. Ngay cả khi chưa tìm thấy nửa kia thì các ENTP đã sẵn sàng tưởng tượng về viễn cảnh tươi đẹp sau khi về chung nhà với người thương. Tuy điều này có thể hơi gây áp lực với nửa kia tương lai của các ENTP, nhưng nếu hai người có cùng lý tưởng thì chuyện tình của họ sẽ đẹp như truyện cổ tích vậy.",
+                                },
+                                {
+                                    "titleChild": "Phá vỡ giới hạn",
+                                    "content": "Từ những ngày đầu mới quen, các ENTP đã muốn thử thách giới hạn người bạn đời của họ, họ muốn đôi bên cùng phá vỡ mọi rào cản và thẳng thắn chia sẻ quan điểm sống với nhau. Làm người yêu với các ENTP bạn sẽ không bao giờ cảm thấy nhàm chán vì họ luôn biết tìm kiếm những điều mới mẻ, thú vị, đôi khi khiến bạn bật cười với những bất ngờ nho nhỏ.\n\nLý tưởng trong tình yêu của các ENTP là cùng nhau phát triển bản thân và tiến lên phía trước, cùng chia sẻ đắng cay ngọt bùi để đạt được kỳ vọng cho tương lai.\n\nTuy nhiên, sau một thời gian quen biết, nửa kia của các ENTP có thể sẽ cảm thấy mệt mỏi khi họ cứ không ngừng muốn làm mới bản thân. Một chút thời gian để dừng lại và nghỉ ngơi để “sạc năng lượng” sẽ rất cần thiết cho cặp đôi. Tuy nhiên các ENTP lại không thích vậy, họ cứ không ngừng tiến về phía trước mà chẳng quan tâm rằng người bạn đồng hành cùng mình đang dần cạn kiệt năng lượng.",
+                                },
+                                {
+                                    "titleChild": "Cơ hội để phát triển bản thân",
+                                    "content": "Khi bước vào giai đoạn sâu sắc hơn, sự nhiệt tình và luôn tràn đầy năng lượng để tìm tòi khám phá của những người thuộc nhóm tính cách ENTP càng được thể hiện rõ. Họ cũng khuyến khích nửa kia của mình thử nghiệm những ý tưởng mới, phá bỏ giới hạn đã được định sẵn giữa hai người.\n\nCác ENTP cũng muốn được học hỏi nhiều hơn, nhất là về mặt kiến thức, khi bước vào một mối quan hệ nghiêm túc. Thế nhưng điều này lại cách xa hai tiếng “lãng mạn” cả cây số, đặc biệt nếu đặt trong một mối quan hệ yêu đương.\n\nTuy nhiên điều này cũng khá dễ hiểu khi thể hiện cảm xúc và thấu hiểu người khác là một trong những điểm yếu “chí mạng” của những người thuộc nhóm tính cách ENTP. Người nhìn xa nhìn qua thì khá cởi mở, dù vậy trong thực tế họ cũng không thể chấp nhận 100% suy nghĩ của những người quá bị chi phối bởi cảm xúc. Đôi khi lời nói quá mức thẳng thắn của các ENTP sẽ vô tình khiến người đối diện cảm thấy bị tổn thương, và các ENTP sẽ phớt lờ hoàn toàn trách nhiệm của mình nếu bị trách móc vì điều đó.\n\n<i>“Điều mà các ENTP muốn cải thiện nhất ở bản thân là học cách điều khiển cảm xúc của mình và thấu hiểu cảm xúc của người đối diện, như vậy họ có thể xây dựng mối quan hệ đậm sâu hơn với nửa kia của mình.”</i>\n\nNhững người thuộc nhóm tính cách ENTP hòa hợp nhất với những người có tính cách I (Trực giác), bởi một vài đặc điểm trái ngược sẽ giúp hai người bù trừ cho nhau trong cuộc sống. Nếu ghép cặp với một người nhạy bén về mặt cảm xúc thì đó sẽ là cơ hội tuyệt vời để các ENTP học được cách đồng cảm và thấu hiểu nửa kia của mình.",
+                                },
+                            ],
+                        },
+                        {
+                            "title": "ENTP trong tình bạn",
+                            "itemsChild": [
+                                {
+                                    "content": "Các ENTP không mong đợi một người bạn phải trung thành, luôn sát cánh bên cạnh suốt cuộc đời mà họ cần một người có thể công nhận khả năng của họ và khen ngợi rằng họ đã làm tốt.\n\nNgười nhìn xa thường hòa hợp nhất với những người có tư tưởng phản biện giống mình. Là những người nhanh trí, nhanh nhạy, có thể cống hiến rất nhiều thời gian và công sức trong các buổi thảo luận, các ENTP cũng mong bạn bè mình có thể làm điều tương tự.\n\n<i>“Một người bạn tuyệt vời đối với các ENTP là người có thể bảo vệ ý kiến của họ trong các buổi tranh luận với lý lẽ vững vàng, logic.”</i>\n\nĐối với những người thuộc nhóm tính cách ENTP, mục tiêu lớn nhất của họ khi tham gia các buổi thảo luận là để nâng cao kiến thức, và kể cả khi họ thất bại trong buổi tranh luận cũng không sao. Thất bại không khiến các ENTP chùn bước mà chỉ là bài học để họ cố gắng hơn vào lần tiếp theo.",
+                                },
+                                {
+                                    "titleChild": "Không bao giờ biết chán",
+                                    "content": "Các ENTP cũng biết nghỉ ngơi và tận hưởng niềm vui, nhưng niềm vui đối với họ chính là nhấc lên ly rượu và cùng nhau bàn luận về những vấn đề vĩ mô. Những Người nhìn xa rất giỏi giao tiếp. Với kiến thức uyên thâm, họ có thể nói về nhiều chủ đề, nhiều lĩnh vực, trừ những vấn đề liên quan tới cảm xúc vì đó là điểm yếu lớn nhất của các ENTP.",
+                                },
+                                {
+                                    "titleChild": "Vẫn là khuyết thiếu về cảm xúc",
+                                    "content": "Các ENTP sẽ rất bối rối khi có một người bạn đang buồn và cần có ai đó để tâm sự cùng, bởi chính bản thân họ cũng không biết nên dỗ dành người khác thế nào.\n\nNhững người thuộc nhóm tính cách ENTP có thể giải quyết các vướng mắc liên quan tới logic một cách dứt khoát, nhanh gọn, nhưng lại bối rối khi đối diện với những vấn đề đặt nặng cảm xúc.\n\nTệ hơn là khi rơi vào tình huống oái oăm ấy, các ENTP lại cố gắng xoay chuyển tình thế bằng cách đẩy sự việc vào một cuộc tranh luận. Họ không biết đặt mình vào địa vị của người khác để suy nghĩ thấu đáo mà chỉ sử dụng lý lẽ để áp chế vấn đề.\n\nNhưng các ENTP nên nhớ rằng: Họ có thể chiến thắng một cuộc tranh luận nhưng cũng có thể đánh mất một tình bạn đẹp.\n\nVì vậy, nếu bạn là người không quá để tâm tới lời nói của người khác và không ngại tranh luận thì các ENTP sẽ là những người bạn tuyệt vời.\n\nSẽ có khá nhiều người không hợp với tính cách của các ENTP, nhưng may mắn thay họ cũng không quá bận tâm về điều đó. Họ chỉ quan tâm về việc khi giao tiếp với bạn bè thì có người nói có người nghe, không để họ nói chuyện một mình là được.",
+                                },
+                            ],
+                        },
+                        {
+                            "title": "ENTP khi làm cha mẹ",
+                            "itemsChild": [
+                                {
+                                    "content": "Đa phần mọi người sẽ nghĩ rằng với tính cách bay bổng của các ENTP thì việc trở thành cha mẹ sẽ là một thử thách không hề đơn giản đối với họ. Và suy nghĩ đó là chính xác. Tuy nhiên thử thách lại là điều mà các ENTP khá mong đợi ở vai trò đặc biệt này. Những người thuộc nhóm tính cách ENTP coi trọng việc trở thành cha mẹ và bị ảnh hưởng bởi vai trò này khá nhiều. Trách nhiệm, con cái, tất cả những điều đó đều sẽ tác động lên cách sống của các ENTP, giúp họ phát huy điểm mạnh và khắc phục điểm yếu.",
+                                },
+                                {
+                                    "titleChild": "Nuôi nấng những tâm hồn tự do",
+                                    "content": "Vốn là những người không coi trọng nguyên tắc và quy định nên những Người nhìn xa cũng khuyến khích con mình được tự do suy nghĩ và làm những gì chúng muốn.\n\nHọ cho rằng tự lập là điều cần thiết nhất và không ai có thể trở nên hoàn hảo nếu thiếu tinh thần tự lập.\n\n<i>“Những người thuộc nhóm tính cách ENTP xây dựng môi trường sống thoải mái, không gò bó cho con cái họ, khuyến khích những đứa trẻ tự do khám phá để học thêm nhiều điều bổ ích.”</i>\n\nKhi những đứa trẻ lớn lên, các cha mẹ ENTP sẽ khuyến khích chúng nuôi dưỡng tư duy độc lập, biết nói lên suy nghĩ của mình.\n\nTuy nhiên, các ENTP sẽ hướng những đứa trẻ đưa ra ý kiến từ góc nhìn lý luận, có logic, lựa chọn những gì sẽ mang lại lợi ích cho mình thay vì những gì chỉ đơn giản là làm mình cảm thấy thích.\n\nĐiều này cũng khá dễ hiểu bởi cảm xúc chính là điểm yếu lớn nhất của các ENTP.\n\nTrong các cuộc tranh luận trong gia đình, các ENTP sẽ cần nửa kia của mình hoặc một ai đó giúp đỡ để họ không đi quá giới hạn rồi vô tình làm tổn thương người thân của mình.\n\nĐặc biệt khi những đứa trẻ đã bắt đầu bước vào độ tuổi thanh thiếu niên, trở nên nhạy cảm hơn rất nhiều.",
+                                },
+                                {
+                                    "titleChild": "Phương hướng giải quyết",
+                                    "content": "Tuy nhiên, sau tất cả thì những phụ huynh ENTP cũng nhận ra điều quan trọng nhất mà họ mong muốn ở những đứa trẻ là sự thông minh, tốt bụng và tinh thần tự lập cao. Và để đạt được mong đợi đó thì các ENTP cũng nên biết đặt mình vào địa vị của chúng để suy nghĩ thấu đáo hơn, cũng như học cách cân bằng cảm xúc và thể hiện tình yêu thương nhiều hơn.",
+                                },
+                            ],
+                        },
+                    ]
+                },
+                {
+                    "section": "Làm sao để thân thiết với ENTP",
+                    "items": [
+                        {
+                            "content": 'Vốn là những người không coi trọng nguyên tắc và quy định nên những Người nhìn xa cũng khuyến khích con mình được tự do suy nghĩ và làm những gì chúng muốn.\n\nHọ cho rằng tự lập là điều cần thiết nhất và không ai có thể trở nên hoàn hảo nếu thiếu tinh thần tự lập.\n\n<i>“Những người thuộc nhóm tính cách ENTP xây dựng môi trường sống thoải mái, không gò bó cho con cái họ, khuyến khích những đứa trẻ tự do khám phá để học thêm nhiều điều bổ ích.”</i>\n\nKhi những đứa trẻ lớn lên, các cha mẹ ENTP sẽ khuyến khích chúng nuôi dưỡng tư duy độc lập, biết nói lên suy nghĩ của mình.\n\nTuy nhiên, các ENTP sẽ hướng những đứa trẻ đưa ra ý kiến từ góc nhìn lý luận, có logic, lựa chọn những gì sẽ mang lại lợi ích cho mình thay vì những gì chỉ đơn giản là làm mình cảm thấy thích.\n\nĐiều này cũng khá dễ hiểu bởi cảm xúc chính là điểm yếu lớn nhất của các ENTP.\n\nTrong các cuộc tranh luận trong gia đình, các ENTP sẽ cần nửa kia của mình hoặc một ai đó giúp đỡ để họ không đi quá giới hạn rồi vô tình làm tổn thương người thân của mình.\n\nĐặc biệt khi những đứa trẻ đã bắt đầu bước vào độ tuổi thanh thiếu niên, trở nên nhạy cảm hơn rất nhiều.',
+                        },
+                    ],
+                },
+                {
+                    "section": "Con đường sự nghiệp",
+                    "items": [
+                        {
+                            "content": "Trong công việc, những người thuộc nhóm tính cách ENTP là những người nhiệt huyết và có năng suất làm việc cao.\n\nCác ENTP cũng rất hay hỗ trợ những người xung quanh nhưng không phải giúp đỡ về mặt con người mà là về những lĩnh vực chuyên môn.\n\nLà những người có tính cách khá linh hoạt, các ENTP có thể công tác ở nhiều mảng nghề nghiệp khác nhau, vì vậy cơ hội để họ tỏa sáng luôn rất nhiều.\n\n<i>“Người nhìn xa luôn mong muốn được động não và liên tục suy nghĩ, mong muốn một môi trường làm việc cho phép họ tham gia vào những dự án lớn, những ý tưởng hay, như vậy họ có thể thỏa sức sáng tạo và vận dụng năng lực của mình vào công việc.”</i>\n\nMột số nghề nghiệp rất phù hợp với tính cách của các ENTP như nhân viên kinh doanh, kỹ sư, diễn viên hoặc nhiếp ảnh gia.\n\nCác ENTP chỉ cần nắm rõ đâu là điểm mạnh cần phát huy, đâu là điểm yếu cần khắc phục thì họ có thể trở thành bất cứ ai mà họ muốn."
+                        },
+                        {
+                            "title": "Không ngừng tìm tòi",
+                            "content": "Khác hoàn toàn với những người anh em I (Hướng nội), các ENTP là những người hướng ngoại điển hình.\n\nHọ rất giỏi giao tiếp, kể cả qua văn bản hay qua đối thoại trực tiếp.\n\nTuy không thích quản lý hay bị quản lý, các ENTP vẫn là những ứng cử viên sáng giá cho vị trí lãnh đạo, truyền cảm hứng cho những người xung quanh bằng lời nói có tính thuyết phục, logic.\n\nNếu có ai đó cố phản bác lại các ENTP bằng những biện minh mang tính cảm xúc, thì những người thuộc nhóm ENTP sẵn sàng đáp lại bằng những lập luận sắc bén đáng tin.\n\nĐó là điểm mạnh không thể phủ nhận của các ENTP.\n\nMột công việc tốt sẽ cho các ENTP cơ hội sử dụng sức sáng tạo không giới hạn và theo đuổi nguồn kiến thức vô tận.\n\nNhững Người nhìn xa rất coi trọng việc học tập và nghiên cứu, vì vậy họ cũng rất thích hợp với các công việc như luật sư, tâm lý học, phân tích dữ liệu, nhà khoa học."
+                        },
+                        {
+                            "title": "Làm việc độc lập",
+                            "content": "Không gian tự do trong công việc là điều mà những người thuộc nhóm tính cách ENTP mong đợi, bởi họ luôn muốn được toàn tâm toàn ý cống hiến và làm tròn trách nhiệm.\n\nNhững nguyên tắc, quy định, luật lệ là những gì họ kị nhất và đôi khi sẽ cản trở quá trình trở thành nhân viên tốt, lãnh đạo tốt của các ENTP.\n\nChìa khóa thành công trong công việc của những Người nhìn xa là sự kiên nhẫn, từng bước một tiến lên để đạt được vị trí họ mong muốn, một vị trí với nhiều không gian tự do đủ lâu để cấp trên, cấp dưới và đồng nghiệp nhận ra khả năng của họ.\n\nTuy nhiên khuyết điểm của các ENTP lại là không đánh giá đúng năng lực của mình, thích ôm đồm dù khả năng không tới, nên đôi khi họ sẽ phạm phải sai lầm để rồi nhận ra không phải con đường nào cũng trải đầy hoa hồng."
+                        },
+                        {
+                            "title": "Những nghề nghiệp phù hợp",
+                            "content": "ENTP là những người có tính cách khá linh hoạt, có thể làm việc ở nhiều ngành nghề khác nhau.\n\nHọ cũng rất nhanh nhạy và có khả năng giải quyết vấn đề một cách nhanh chóng, triệt để, miễn là các ENTP biết được đâu là điểm mạnh điểm yếu của mình.\n\nCác ENTP yêu sự sáng tạo và thích đưa ra những ý tưởng mới, thỏa thích vùng vẫy trong những dự án mới.\n\nCác ENTP sở hữu sự năng nổ của đặc điểm E (Hướng ngoại), kết hợp với khuynh hướng phát triển toàn diện về mặt trí tuệ (NT) và kết thúc với tính tự phát của đặc điểm P (Linh hoạt), do đó trở thành doanh nhân cũng là lựa chọn không tệ đối với các ENTP.\n\nCác ENTP có kỹ năng giao tiếp tốt cả qua văn bản lẫn lời nói, có khả năng truyền cảm hứng qua từng con chữ, từng hành vi cử chỉ.\n\nDo đó, việc trở thành luật sư, nhà tâm lý học, nhà khoa học đều phù hợp với những Người nhìn xa. Chỉ cần cho họ đủ không gian sáng tạo và các ENTP có thể khai phá ra những tiềm năng vô tận trong họ.\n\nLà những người luôn không ngừng tò mò và muốn khám phá về thế giới, tiếp thu thêm nhiều kiến thức mới, thích làm việc trong không gian tự do, không bị ảnh hưởng nhiều bởi yếu tố cảm xúc là những đặc điểm khiến các ENTP có thể tỏa sáng ở vai trò nhiếp ảnh gia, phân tích hệ thống, lập trình viên, tư vấn viên.\n\nDưới đây là một số nghề nghiệp mà các ENTP có thể tham khảo:\n\n● Nhà tâm lý học\n\n● Luật sư\n\n● Tư vấn viên\n\n● Doanh nhân\n\n● Nhà khoa học\n\n● Kỹ sư\n\n● Nhiếp ảnh gia\n\n● Nhân viên đại diện bán hàng\n\n● Diễn viên\n\n● Marketing\n\n● Lập trình viên, chuyên gia máy tính\n\n● Phân tích cấu trúc dữ liệu"
+                        },
+                    ]
+                },
+                {
+                    "section": "Thói quen nơi công sở",
+                    "items": [
+                        {
+                            "content": "Những người thuộc nhóm tính cách ENTP có tiêu chuẩn cụ thể cho môi trường làm việc tương lai, nhưng không phải tiêu chuẩn nào cũng được đáp ứng. Họ tin tưởng rằng nhân tài sẽ luôn được trọng dụng, và cấp trên sẽ nhìn ra năng lực xuất chúng của họ, ghi nhận ý kiến, tiến hành tranh luận sôi nổi và tất cả cùng đưa ra nhận định của mình. Về phía các ENTP, họ biết chính xác mình muốn gì và cần làm gì khi rắc rối xảy ra trong quá trình tranh luận, bởi vậy công việc của các ENTP nhìn chung diễn ra khá suôn sẻ."
+                        },
+                        {
+                            "title": "ENTP khi là cấp dưới",
+                            "content": 'Tính cách của những người thuộc nhóm ENTP được thể hiện rất rõ khi họ là cấp dưới, bởi các ENTP thường xuyên đánh giá và hồ nghi ý tưởng của cấp trên, cũng như không mấy khi tuân theo các quy tắc, luật lệ được đưa ra.\n\nLà một người nhạy bén và sáng tạo, các ENTP thường đưa ra những phương hướng xử lý vấn đề vô cùng mới mẻ.\n\nNếu phương án họ đưa ra chưa phải phương án tối ưu thì các ENTP sẽ không ngần ngại nhận lỗi về mình để rút kinh nghiệm cho những lần sau.\n\nThách thức lớn nhất của các nhân viên ENTP là vị trí cấp dưới thường buộc họ phải làm những nhiệm vụ không mấy quan trọng và đôi khi rất tẻ nhạt, họ cũng phải nghe theo giao phó của cấp trên, và đó chính là ác mộng của các ENTP.\n\nNhững người quản lý nên biết cách tận dụng khả năng của các ENTP vào những nhiệm vụ thích hợp hơn để họ có thể phát huy tối đa khả năng của mình.'
+                        },
+                        {
+                            "title": "ENTP khi là đồng nghiệp",
+                            "content": "Đối với những người hướng tới kết quả cuối cùng thì các ENTP quả là những đồng nghiệp hết sức “điên rồ” với những ý nghĩ viển vông, với sức sáng tạo và đổi mới không ngừng của họ.\n\nTuy nhiên đối với những người có tính cách giống với các ENTP thì họ chính là nguồn cảm hứng vô tận.\n\nNếu một cuộc họp kết thúc bằng phương án đầu tiên được đưa ra thì các ENTP sẽ không hài lòng chút nào, họ sẽ tiếp tục mổ xẻ vấn đề và đưa ra đánh giá, cũng như gợi ý thêm nhiều phương hướng giải quyết khác.\n\nTuy vậy, nhờ tính cách dễ gần và quảng giao của mình thì các ENTP vẫn rất được chào đón tại nơi làm việc.\n\nVới kiến thức uyên thâm và khả năng giải quyết vấn đề thượng thừa, các ENTP là “địa chỉ” tin cậy để nhiều đồng nghiệp xin gợi ý cho những nan đề mà họ đang gặp phải."
+                        },
+                        {
+                            "title": "ENTP khi là cấp trên",
+                            "content": "Mục tiêu của các ENTP trong công việc không phải trở thành sếp, nhưng nếu đã ngồi vào vị trí đó thì họ sẽ có đủ không gian tự do để đưa ra ý kiến và áp dụng vào thực tiễn.\n\nNhững cấp trên ENTP thường là những người cởi mở và linh hoạt trong công việc, họ cho phép nhân viên cấp dưới được thỏa thích đóng góp ý kiến và đưa ra nhận xét.\n\nTuy điều này có khả năng gây ra hỗn loạn giữa các phòng ban khi gặp phải trường hợp “chín người mười ý”, nhưng các ENTP có khả năng nhìn nhận toàn diện và lựa chọn ra phương án có hiệu quả cao nhất.\n\nVới tính cách của mình, sẽ không có quá nhiều cấp dưới hài lòng với các ENTP, tuy nhiên điều họ mong mỏi là sự tôn trọng và công nhận năng lực hơn là được yêu thích.\n\nCác cấp trên ENTP là những người biết giữ vững lập trường và phản biện bằng lập luận sắc bén, vì vậy họ có đủ khả năng để bảo vệ đội nhóm của mình.\n\nThách thức của các ENTP khi làm cấp trên là khả năng tập trung kém hay “đứng núi này trông núi nọ”.\n\nNếu thấy một ý tưởng nào đó thú vị thì họ sẵn sàng bỏ dở công việc hiện tại để theo đuổi những điều mới mẻ hơn."
+                        },
+                    ]
+                },
+                {
+                    "section": "So sánh ENTP với INTP, ESTP",
+                    "items": [
+                        {
+                            "content": "Để hiểu sâu hơn về nhóm tính cách ENTP (Người nhìn xa), hãy cùng so sánh ENTP các nhóm tính cách khác có sự cùng tương đồng là I<b>NTP</b> (Nhà tư duy) và <b>E</b>S<b>TP</b> (Người thực thi)."
+                        },
+                        {
+                            "title": "Điểm giống nhau",
+                            "content": 'N - Lý trí và P - Linh hoạt: Cả ba nhóm tính cách này đều lý tính và sống theo quan điểm thực tiễn.\n\nHọ không bị ảnh hưởng quá nhiều bởi cảm xúc cá nhân khi đánh giá, phân tích một vấn đề nào đó.\n\nĐồng thời họ cũng không thích bó buộc trong những quy tắc, luật lệ sẵn có mà thích sáng tạo, tự do trong thế giới riêng của mình.\n\nTuy nhiên khi đối chiếu nhóm ENTP riêng với từng cặp INTP và ESTP, chúng tôi nhận thấy những điểm chung riêng ở mỗi cặp như sau:\n\n● E<b>NTP</b> và I<b>NTP</b>: Yêu thích sự sáng tạo, thường xuyên đưa ra những ý tưởng mới mẻ, độc đáo.\n\nHam tìm tòi, học hỏi và khám phá các kiến thức mới, nhất là các kiến thức trừu tượng.\n\nTheo đuổi sự tự do và thích làm việc độc lập.\n\n● <b>E</b>N<b>TP</b> và <b>E</b>S<b>TP</b>: Là những người thẳng thắn, bộc trực, thích đi vào trọng tâm vấn đề và đôi lúc không để ý đến cảm xúc của người khác.\n\nPhù hợp với những môi trường làm việc thoải mái, không gò bó.',
+                        },
+                        {
+                            "title": "Điểm khác nhau",
+                            "content": "Tìm hiểu kỹ hơn sự khác nhau giữa ba nhóm ENTP với INTP và ESTP qua bảng so sánh dưới đây:" 
+                        },
+                    ],
+                    "tables": [
+                        {
+                            "headers": ["Đặc điểm", "INTP", "ENTP", "ESTP"],
+                            "rows": [
+                                ["Diễn giải chữ viết tắt", "<b>I - Hướng nội</b><br>N - Trực giác<br>T - Lý trí<br>P - Linh hoạt", "<b>E - Hướng ngoại</b><br><b>N - Trực giác</b><br>T - Lý trí<br>P - Linh hoạt", "E - Hướng ngoại<br><b>S - Giác quan</b><br>T - Lý trí<br>P - Linh hoạt"],
+                                ["Cách tiếp cận thông tin", "Dựa trên những dữ liệu và số liệu thực tế để đánh giá vấn đề", "Dựa vào những kiến thức, năng lực của bản thân để phân tích vấn đề. Họ thường nảy ra nhiều ý tưởng sáng tạo khi tiếp cận các thông tin", "Tập trung vào những gì mình quan sát được bằng cả năm giác quan"],
+                                ["Trong các mối quan hệ", "- Vòng tròn bạn bè rất nhỏ, thường bị thu hút bởi những người có cùng đam mê trong lĩnh vực học thuật<br>- Đặt sự logic lên hàng đầu nên cũng không phải là chuyên gia trong chuyện tình cảm<br>- Dành hầu hết thời gian cho thế giới nội tâm của chính mình, không có nhu cầu kết giao nhiều", "- Là những người lạc quan, vui vẻ, nhiệt tình nhưng không được đánh giá cao về mặt cảm xúc<br>- Có xu hướng khởi xướng các cuộc tranh luận với mọi người bởi họ rất thích tranh luận<br>- Có nhiều ý tưởng mới mẻ để thúc đẩy sự gắn kết trong các mối quan hệ", "- Dễ dàng kết thân với người khác, là những người bạn tốt bụng và vui vẻ<br>- Tận tâm, biết săn sóc mọi người nhưng không thích những mối quan hệ bị trói buộc quá nhiều<br>- Thiếu đồng cảm và cũng không quá quan tâm đến việc người khác nghĩ gì về mình"],
+                                ["Trong công việc", "- Yêu thích những công việc cho phép họ thỏa thích phát huy sức sáng tạo và nghiên cứu<br>- Độc lập trong công việc, không thích quản lý và bị quản lý. Một số nghề nghiệp phù hợp như pháp y, tư vấn viên, nhà khoa học, thẩm phán, v.vv..<br>- Không phù hợp với các công việc yêu cầu sự tương tác cao giữa người với người và cần thể hiện cảm xúc nhiều", "- Mong muốn được tham gia vào những dự án lớn trong công việc để được suy nghĩ và động não liên tục<br>- Có khả năng lãnh đạo tốt, nhưng không thích quản lý người khác hay bị người khác quản lý<br>- Phù hợp trở thành luật sư, nhà khoa học, nhà tâm lý học, v.vv..", "- Thích với những công việc thoải mái, không gò bó, có cơ hội phát triển<br>- Ưu tiên những công việc cho phép họ thực thi thay vì lên chiến lược<br>- Một số công việc phù hợp với ESTP là nhân viên bán hàng, đàm phán kinh doanh, Marketing, diễn xuất, v.vv.."]
+                            ]
+                        }
+                    ],
+                    "content": "Tóm lại, cả 3 nhóm ENTP, INTP và ESTP đều yêu thích sự tự do, thích những công việc cho phép được họ được thỏa sức sáng tạo và sử dụng tối đa năng lực của bản thân.\n\nTuy nhiên cách họ tiếp cận thông tin và ứng xử với những mối quan hệ xung quanh mình lại có sự khác biệt rõ rệt.\n\nNếu ENTP và INTP đánh giá sự việc dựa nhiều vào trực giác (giác quan thứ sáu) thì với ESTP, trực giác là điểm yếu lớn nhất của họ, họ thiên về sử dụng cả năm giác quan để nhìn nhận và phân tích vấn đề.\n\nVề khía cạnh các mối quan hệ, trong khi nhóm ENTP và ESTP dễ dàng kết bạn, làm quen với nhiều người thì nhóm INTP lại hướng vào thế giới nội tâm nhiều hơn và chỉ những người có cùng tần số mới có thể kết bạn với họ được.\n\nNhững điểm khác biệt này làm nên chất riêng cho mỗi nhóm và ảnh hưởng tới cách họ phát triển cũng như định hình hướng đi trong cuộc đời." 
+                },
+                {
+                    "section": "Lời khuyên dành cho ENTP",
+                    "items": [
+                        {
+                            "title": "Học cách lắng nghe",
+                            "content": 'ENTP thường rất giỏi nói chuyện, thích tham gia vào các cuộc tranh luận và nảy số rất nhanh trong việc đưa ra quan điểm, lý lẽ của mình. Chính vì vậy mà ENTP có xu hướng ngắt lời hoặc nói lấn át ý người khác. Điều này có thể khiến các ENTP rơi vào thế khó khi phải làm việc với khách hàng, đối tác và tạo cảm giác không mấy vui vẻ cho những người xung quanh khi nói chuyện với họ. Học cách lắng nghe sẽ giúp ENTP xây dựng mối quan hệ tích cực hơn với mọi người và tiếp thu thêm được nhiều quan điểm, kiến thức quý giá.',
+                        },
+                        {
+                            "title": 'Mạnh dạn thực thi các ý tưởng',
+                            "content": 'ENTP rất yêu thích sự sáng tạo và luôn luôn nhìn nhận vấn đề ở nhiều góc độ để đưa ra những giải pháp độc đáo và tối ưu nhất. Tuy nhiên ENTP hay dừng ở khâu đưa ra ý kiến chứ chưa thực sự hành động để biến ý tưởng thành hiện thực. Những sáng kiến của bạn có thể mang lại những kết quả vượt trội mà bạn cũng không ngờ đến, vậy nên hãy lên kế hoạch và bắt tay thực hiện ngay các ý tưởng.',
+                        },
+                        {
+                            "title": "Học cách tổ chức và quản lí thời gian",
+                            "content": "Các ENTP rất dễ phân tâm và thường xuyên “đứng núi này trông núi nọ”. Nếu ENTP vẫn mãi không thể hoạch định và làm việc một cách rõ ràng, có tổ chức thì sẽ ảnh hưởng tiêu cực đến cuộc sống cá nhân và định hướng nghề nghiệp của chính họ. ENTP nên học cách sắp xếp, quản lý thời gian bằng cách đặt ra các mục tiêu rõ ràng cho từng đầu việc, lên kế hoạch những việc cần ưu tiên để đảm bảo cân bằng giữa công việc và cuộc sống."
+                        },
+                        {
+                            "title": "Rèn luyện sự khiêm tốn và cởi mở hơn",
+                            "content": "Cuối cùng, hãy mạnh dạn thừa nhận những hạn chế của chính mình và tôn trọng quan điểm của người khác, cùng tạo ra một môi trường thúc đẩy sự hợp tác và học hỏi chung."
                         },
                     ]
                 },
