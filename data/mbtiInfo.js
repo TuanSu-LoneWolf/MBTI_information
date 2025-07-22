@@ -2338,47 +2338,63 @@ export const mbtiData = {
         },
         {
             "code": "ENFJ",
-            "name": "Nhà tư duy",
-            "description": "INTP là những người yêu thích tìm tòi về thế giới xung quanh, về nhân sinh và vũ trụ. Giống với nhóm ISTP, các INTP cũng đánh giá sự vật sự việc và ra quyết định dựa trên tư duy logic thay vì cảm xúc hay ý kiến chủ quan. Những Nhà tư duy có khả năng tập trung cao độ và thích một mình tìm tòi về thế giới, họ muốn hoàn thiện bản thân ở tất cả những lĩnh vực mà mình yêu thích.",
-            "image": "../img/intp.png",
+            "name": "Người cho đi",
+            "description": "Nhóm tính cách ENFJ là những người có khả năng tác động mạnh tới người khác thông qua cả hành động lẫn lời nói. Họ là những người tham vọng nhưng không hề tư lợi mà luôn hướng đến mục tiêu và lợi ích chung của cộng đồng. Đặc biệt, khả năng thấu hiểu và đồng cảm mạnh mẽ khiến các ENFJ trở thành nhân tố quan trọng trong những lĩnh vực liên quan tới con người.",
+            "image": "../img/enfj.png",
             "details": [
                 {
                     "section": "Tổng quan",
                     "items": [
                         {
-                            "content": "<b>INTP (Nhà tư duy)</b> là những người yêu thích tìm tòi về thế giới xung quanh, về nhân sinh và vũ trụ. Giống với nhóm ISTP, các INTP cũng đánh giá sự vật sự việc và ra quyết định dựa trên tư duy logic thay vì cảm xúc hay ý kiến chủ quan. Những Nhà tư duy có khả năng tập trung cao độ và thích một mình tìm tòi về thế giới, họ muốn hoàn thiện bản thân ở tất cả những lĩnh vực mà mình yêu thích."
+                            "content": "Nhóm tính cách <b>ENFJ (Người cho đi)</b> là những người có khả năng tác động mạnh tới người khác thông qua cả hành động lẫn lời nói. Họ là những người tham vọng nhưng không hề tư lợi mà luôn hướng đến mục tiêu và lợi ích chung của cộng đồng. Đặc biệt, khả năng thấu hiểu và đồng cảm mạnh mẽ khiến các ENFJ trở thành nhân tố quan trọng trong những lĩnh vực liên quan tới con người."
                         },
                         {
-                            "title": "INTP là viết tắt của những chữ cái gì?",
-                            "content": "● <b>I - Hướng nội:</b> Đối với những người thuộc nhóm tính cách INTP, thế giới ẩn sâu bên trong mỗi chúng ta mới là thế giới thật. Ngược lại, thế giới bên ngoài là nơi thuộc về những người E - Hướng ngoại. \n\n● <b>N - Trực giác:</b> Bạn tập trung vào ý nghĩa của sự vật, sự việc, khác với những người có tính cách S - Giác quan sử dụng cả năm giác quan thị giác, thính giác, khứu giác, vị giác, cảm giác để nhìn nhận và đánh giá. \n\n● <b>T - Lý trí:</b> Bạn đưa ra quyết định dựa trên góc nhìn thực tế bằng số liệu và đo lường chính xác. Ngược lại, các F - Tình cảm ưu tiên đưa ra quyết định dựa trên cảm nhận cá nhân. \n\n● <b>P - Linh hoạt:</b> Bạn thỏa thích vẫy vùng trong thế giới của riêng mình với những quy tắc ngầm được bạn tự tay sắp xếp. Trái lại, những người thuộc nhóm J - Nguyên tắc lại cảm thấy ổn khi được áp cho những luật lệ được sắp đặt sẵn."
+                            "title": "ENFJ là viết tắt của những chữ cái gì?",
+                            "content": "● <b>E - Hướng ngoại:</b> Đối với bạn, thế giới bên ngoài mới là thế giới thực. Trái ngược với tính cách I - Hướng nội luôn đắm mình trong thế giới nội tâm.\n\n● <b>N - Trực giác:</b> Bạn tập trung vào ý nghĩa của sự vật, sự việc, khác với những người có tính cách S - Giác quan sử dụng cả năm giác quan thị giác, thính giác, khứu giác, vị giác, cảm giác để nhìn nhận và đánh giá.\n\n● <b>F - Cảm xúc:</b> Bạn đưa ra quyết định chủ yếu dựa trên cảm nhận cá nhân. Ngược lại, những người có tính cách T - Lý trí lại đưa ra quyết định dựa vào số liệu và đo lường chính xác.\n\n● <b>J - Nguyên tắc:</b> Bạn dựa vào cấu trúc sẵn có để thoải mái đưa ra quan điểm mà không phải mất công suy xét nhiều. Trong khi đó, những người thiên về tính cách P - Linh hoạt lại thích môi trường tự do và họ sẽ tự sắp đặt quy tắc bên trong cho mình."
                         },
                         {
-                            "title": "Cuộc sống thu mình",
-                            "content": 'Những người thuộc nhóm tính cách INTP sống trong vòng tròn của riêng mình, nơi họ tìm kiếm lời giải đáp cho những vấn đề cá nhân (thường là mang tính học thuật) mặc cho thế giới ngoài kia đang xoay vần ra sao.',
+                            "title": "Đối nhân xử thế",
+                            "content": 'Các ENFJ đặc biệt quan tâm tới những mối quan hệ giữa người với người. Họ có khả năng đồng cảm sâu sắc và có kỹ năng đối nhân xử thế vô cùng xuất sắc. Mục tiêu lớn nhất trong cuộc đời của mỗi ENFJ là mang lại niềm vui và lan tỏa tình yêu thương tới mọi người. Họ muốn cho đi và luôn tự hào khi được cho đi.',
                         },
                         {
-                            "title": "Tri thức là tất cả",
-                            "content": "Các INTP đánh giá cao tri thức hơn mọi thứ. Bộ não của họ liên tục hoạt động để tạo nên những lý thuyết mới và chứng minh cũng như phản biện những lý thuyết sẵn có. Đối với những Nhà tư duy, không có quy luật gì là bất biến, chỉ có logic là trường tồn. Họ sẵn sàng dành hàng giờ cho sự nghiệp học tập của mình, đắm chìm trong sách vở và tri thức. Là một người đam mê học hỏi như vậy nên các INTP cũng rất thích kết giao với những người bạn có thể cùng họ bàn luận về những lý thuyết kể trên."
+                            "title": '"Đi guốc trong bụng"',
+                            "content": "Các ENFJ hiểu chính xác người khác đang nghĩ gì và muốn gì như “đi guốc trong bụng”, vì vậy rất dễ để khiến những người xung quanh làm theo ý họ như một cách thao túng tâm lý (và điều này không mang nghĩa tiêu cực đâu nhé)."
                         },
                         {
-                            "title": 'Linh hoạt trong giới hạn',
-                            "content": "Các INTP không thích chỉ đạo người khác, cũng không thích thúc ép người khác theo ý mình. Trong hầu hết các tình huống, họ đều rất kiên nhẫn và linh hoạt, trừ khi bạn chạm tới “vảy ngược” là những lý thuyết mà họ đã dày công nghiên cứu, khi ấy các INTP có thể trở nên rất cố chấp."
+                            "title": 'Thương người hơn thương mình',
+                            "content": "Các ENFJ là những người vô cùng hướng ngoại, vì vậy những giây phút được tách biệt bản thân một mình để ngẫm nghĩ là vô cùng quan trọng với họ.\n\nTuy vậy thật khó để các ENFJ có thể dành thời gian suy ngẫm một mình bởi họ sẽ cảm thấy bế tắc và tiêu cực khi ở trong không gian tinh thần khép kín như vậy, đó không phải tính cách của họ, cũng không phải điều họ mong muốn, họ thích được tiếp xúc với nhiều người và thả hồn ở những không gian mở.\n\nCác ENFJ thích giúp đỡ mọi người, đôi khi họ sẵn sàng đặt lợi ích của người khác lên trên cả lợi ích của bản thân và coi đó như một niềm hạnh phúc.\n\nĐối với họ, việc xây dựng một mối quan hệ giữa người và người là vô cùng quan trọng, và họ sẽ dành thật nhiều tâm huyết vào việc duy trì mối quan hệ tuyệt vời với những người xung quanh.\n\nTrong vấn đề tình cảm, các ENFJ là những người rất đáng tin cậy và trung thành."
                         },
                         {
-                            "title": "Đề cao tính logic",
-                            "content": "Là một người yêu sự logic, các INTP không đánh giá những kết luận được đưa ra dựa trên tình cảm hoặc bị chi phối quá nhiều bởi cảm xúc.\n\nCác INTP cũng không phải là người dễ đồng cảm và thấu hiểu cảm xúc của những người xung quanh, tuy nhiên đây cũng là một điểm yếu cần khắc phục của họ. Việc thiếu tinh tế trong nhìn nhận về mặt cảm xúc sẽ khiến mối quan hệ giữa người và người trở nên khô khan, không có sự hỗ trợ lẫn nhau, thậm chí đôi khi các INTP có thể vô tình đưa ra những lời đánh giá có phần tiêu cực và làm tổn thương người khác."
+                            "title": 'Đầu "E" nhưng mà "E" trong "E dè"',
+                            "content": "So với những tính cách hướng ngoại khác thì các ENFJ có xu hướng dè dặt hơn trong việc bộc lộ suy nghĩ của bản thân mặc dù họ không hề tự ti một chút nào. Bởi có xu hướng tiếp xúc nhiều với những người xung quanh nên tính cách của các ENFJ khá linh hoạt, họ có thể thích nghi với nhiều kiểu người ở nhiều điều kiện khác nhau."
                         },
                         {
-                            "title": "Không giỏi diễn đạt bằng lời",
-                            "content": "Các INTP không phải là người có năng khiếu diễn giải bằng lời. Họ có thể khám phá ra vô vàn lý thuyết mới, học thêm được rất nhiều điều bổ ích, tuy nhiên lại chẳng thể cắt nghĩa những gì họ vừa tiếp thu được cho người khác. Sau khi đã một mình “chiến đấu” xong với mớ lý thuyết rối bòng bong, họ sẽ vô tư chuyển hẳn sang nghiên cứu một vấn đề khác mà không quan tâm xem người khác có hiểu được họ vừa làm gì hay không. Và sẽ thật đáng tiếc khi những tri thức chất lượng đó chỉ dành cho một người đúng không?"
+                            "title": "Ngắn gọn súc tích",
+                            "content": "Tuy nhiên điều đó không có nghĩa là ENFJ không biết đấu tranh cho tiếng nói của mình. Họ có khả năng truyền đạt thông tin một cách gãy gọn, súc tích. Phong cách giao tiếp thường thấy ở các ENFJ là cởi mở và vui vẻ, chỉ cần không đề cập tới những vấn đề quá riêng tư thì họ sẽ sẵn sàng trò chuyện không chút e dè."
                         },
                         {
-                            "title": "Độc lập và độc đáo",
-                            "content": "Các INTP thường rất độc lập và độc đáo trong lối tư duy. Họ luôn bị thu hút bởi những ý tưởng mới, vì vậy rất nhiều nghiên cứu khoa học đột phá trên thế giới được tìm ra bởi những người thuộc nhóm tính cách INTP."
+                            "title": "Thông minh, chính trực",
+                            "content": "ENFJ nổi tiếng là tuýp người thông minh, chính trực và thẳng thắn. Họ cũng có khả năng làm việc ở nhiều lĩnh vực khác nhau, thậm chí còn đạt kết quả khá tốt."
                         },
                         {
-                            "title": "Những người nổi tiếng mang tính cách INTP",
-                            "content": "● Albert Einstein\n\n● Charles Darwin\n\n● Marie Curie\n\n● Abraham Lincoln\n\n● Larry Page\n\n● Kristen Stewart\n\n● SUGA (BTS)\n\n● Soyeon ((G)I-DLE)"
+                            "title": "Tâm hồn đồng điệu",
+                            "content": "Trong công việc, các ENFJ thích hợp nhất với những công việc đòi hỏi tiếp xúc nhiều với khách hàng hoặc hợp tác với những phòng ban khác, bởi họ là những cá nhân xuất sắc trong việc đồng cảm và thấu hiểu người khác. Các ENFJ cũng rất giỏi truyền cảm hứng cho những người xung quanh, biến môi trường làm việc trở thành mái nhà chung ấm áp hơn."
+                        },
+                        {
+                            "title": "Ngăn nắp, gọn ràng",
+                            "content": "Những người ENFJ yêu sự ngăn nắp và gọn gàng trong công việc cũng như trong đời sống hàng ngày."
+                        },
+                        {
+                            "title": "Cảm xúc lấn át",
+                            "content": "Việc phải gạt đi cảm xúc để đưa ra quyết định rất khó đối với các ENFJ, thậm chí họ sẽ phải dựa vào người khác để có thể giữ một cái đầu lạnh để không đưa ra những nhận định chóng vánh, thiếu suy nghĩ."
+                        },
+                        {
+                            "title": "Những vị khách thân thiện",
+                            "content": "Nhìn chung, các ENFJ là những cá nhân thu hút, nhiệt tình, hòa nhã và thân thiện trong mối hệ với những người xung quanh. Đặc điểm này cho phép họ có khả năng thấu hiểu và thúc đẩy những người xung quanh khai phá ra tiềm năng mới, đây cũng là điều khiến các ENFJ rất tự hào ở bản thân."
+                        },
+                        {
+                            "title": "Những người nổi tiếng mang tính cách ENFJ",
+                            "content": "● Martin Luther King, Jr.\n\n● Nelson Mandela\n\n● Michael Jordan\n\n● Jennifer Lawrence\n\n● Emma Stone\n\n● Dino (Seventeen)\n\n● Jung Yunho (TVXQ)\n\n● Kim Jaejoong (JYJ)"
                         }
                     ]
                 },
@@ -2389,24 +2405,24 @@ export const mbtiData = {
                             "title": "Điểm mạnh",
                             "itemsChild": [
                                 {
-                                    "titleChild": "Giỏi phân tích",
-                                    "content": "Các INTP phân tích mọi điều mà họ bắt gặp, từ dữ liệu nghiên cứu đến hành vi của những người xung quanh. Điều này giúp họ có thể phát hiện ra những mối quan hệ và liên kết bất ngờ mà người khác vô tình bỏ qua.",
+                                    "titleChild": "Biết tiếp thu",
+                                    "content": "Tuy là những người biết bảo vệ quan điểm của mình nhưng các ENFJ vẫn rất chịu khó tiếp thu thêm ý kiến của người khác, kể cả những ý kiến đối lập trái chiều, bởi họ hiểu tầm quan trọng của việc bày tỏ quan điểm cá nhân.",
                                 },
                                 {
-                                    "titleChild": "Sáng tạo",
-                                    "content": "Nhờ trí tưởng tượng không ngừng nghỉ của mình, các INTP có thể đưa ra những ý tưởng sáng tạo độc đáo mà hầu hết mọi người sẽ không nghĩ đến. Tất nhiên, không phải tất cả những ý tưởng nào họ đưa ra đều khả thi nhưng cũng rất đáng ghi nhận để thực hiện sau này.",
+                                    "titleChild": "Tạo động lực và truyền cảm hứng",
+                                    "content": "Một trong những thế mạnh lớn nhất của ENFJ là luôn biết cách thuyết phục và động viên mọi người xung quanh, đồng thời tạo cảm hứng cho tất cả mọi người cùng hướng tới một môi trường tích cực.",
                                 },
                                 {
-                                    "titleChild": "Tư duy cởi mở",
-                                    "content": "Với trí tò mò và khát khao học hỏi mãnh liệt, các INTP có xu hướng tiếp thu những ý tưởng và cách thức làm việc mới - miễn là những ý tưởng đó dựa trên lập luận có căn cứ.",
+                                    "titleChild": "Giao tiếp, truyền đạt tốt",
+                                    "content": "Các ENFJ có kỹ năng truyền đạt cực kỳ tốt trong mọi ngữ cảnh. Điểm mạnh này giúp các ENFJ dễ dàng thăng tiến và gây thiện cảm với mọi người xung quanh. Các ENFJ thường không ngại đám đông và cực kỳ khôn khéo, với ai họ cũng có thể giao tiếp nói chuyện, kể những câu chuyện hấp dẫn và trở thành tâm điểm của của sự chú ý.",
                                 },
                                 {
-                                    "titleChild": "Ham tìm tòi",
-                                    "content": "Các INTP luôn tìm kiếm những mục tiêu, sở thích và lĩnh vực nghiên cứu mới. Ví dụ tuần này họ say mê với vật lý thì tuần kế tiếp đã có thể chìm đắm trong các video về chế tạo đàn guitar rồi. Khi cảm hứng ập đến, các INTP sẽ đặt hết tâm trí vào mối quan tâm mới của họ và học hỏi mọi điều có thể.",
+                                    "titleChild": "Vị tha",
+                                    "content": "Nhóm tính cách ENFJ ấp ủ một niềm mong mỏi sâu sắc, đó là trở thành động lực cho những sự thay đổi tích cực. Họ tin rằng chỉ với sự đồng lòng và đoàn kết của toàn nhân loại, thế giới sẽ trở nên tốt đẹp hơn.",
                                 },
                                 {
-                                    "titleChild": "Khách quan",
-                                    "content": 'Nhóm tính cách INTP chỉ quan tâm tới sự thật. Thay vì chỉ đơn giản chấp nhận những ý tưởng đã được định sẵn, họ sẽ đi tìm hiểu điều gì đang thật sự diễn ra ở phía sau. Họ cũng sẵn sàng đối mặt phản bác lại những quan điểm sai lệch mặc dù đôi khi điều đó là không dễ dàng. Đổi lại thì các INTP cũng mong muốn được người khác đối xử một cách công bằng như vậy.',
+                                    "titleChild": "Có sức hút, có tính thuyết phục cao",
+                                    "content": 'Với tính cách kiên định và lời nói truyền cảm hứng, các ENFJ rất hợp với vai trò lãnh đạo. Bất kể được bổ nhiệm vào vị trí nào thì họ cũng luôn đặt mục tiêu con người lên hàng đầu.\n\nNgoài ra, các ENFJ rất giỏi trong việc thuyết phục người khác, nhưng không phải với mục đích thao túng tâm lý mà là với mục đích tốt đẹp muốn người khác cải thiện bản thân, tiến bộ trong cuộc sống. Tính cách này giúp các ENFJ dễ dàng được người khác tín nhiệm và nghe theo.',
                                 },
                             ],
                         },
@@ -2414,24 +2430,28 @@ export const mbtiData = {
                             "title": "Điểm yếu",
                             "itemsChild": [
                                 {
-                                    "titleChild": "Tách biệt",
-                                    "content": 'Ngay khi đang ở cùng những người khác thì các INTP cũng có thể đắm chìm trong suy nghĩ của chính mình. Đến khi họ tập trung trở lại thì nhận ra cuộc trò chuyện đã được đưa tới những chủ đề tận đẩu tận đâu. Điều này có thể khiến họ cảm thấy bị tách biệt với mọi người, đặc biệt là trong những cuộc tụ họp có quy mô lớn.',
+                                    "titleChild": "Thiếu thực tế",
+                                    "content": 'Nhiều ENFJ tự ép bản thân phải bù đắp mọi sai lầm mà họ bắt gặp trên cuộc đời này, kể cả khi đó là vấn đề của người khác, và dĩ nhiên điều đó gần như là bất khả thi. Nếu quá sa đà vào việc “bất bình như thể đó là việc của mình” thì họ có thể rơi vào tình huống phải ôm đồm quá nhiều việc cùng lúc và kết quả là không thể giúp ích được cho ai.',
                                 },
                                 {
-                                    "titleChild": "Thiếu tế nhị",
-                                    "content": "Các INTP coi lý trí là chìa khóa giải quyết mọi vấn đề trong cuộc đời, vì vậy họ có thể đánh giá thấp tầm quan trọng của những giá trị về mặt tình cảm như sự cảm thông, lòng trắc ẩn hay những quy tắc mang giá trị truyền thống. Do đó, đôi khi họ có thể vô tình bị đánh giá là thiếu tế nhị dù cho họ có ý định tốt.",
+                                    "titleChild": "Nguyên tắc",
+                                    "content": "Các ENFJ là những người có nguyên tắc, biết phân biệt rạch ròi đúng - sai, và họ thường cho rằng mọi người cũng có (hoặc ít nhất là nên có) những nguyên tắc cơ bản giống như họ để cân bằng cuộc sống và đưa ra những quyết định đúng đắn hơn. Những cá nhân có xu hướng đi ngược lại những quy định, nguyên tắc ấy sẽ không được các ENFJ đánh giá cao.",
                                 },
                                 {
-                                    "titleChild": "Bất mãn",
-                                    "content": "Các INTP luôn cho rằng mọi chuyện đều có thể được cải thiện tốt hơn nhiều và nhiều nữa. Họ không ngừng tìm kiếm các vấn đề cần giải quyết, các chủ đề để tìm hiểu và những phương thức mới để tiếp cận. Tuy nhiên, nếu đi quá xa, lối tư duy này có thể khiến các INTP lãng phí công sức vào việc cải tổ những điều vốn đã rất tốt và bỏ bê những nhu cầu và trách nhiệm của mình.",
+                                    "titleChild": "Thái độ trịch thượng",
+                                    "content": "Những người thuộc nhóm tính cách ENFJ thích dạy bảo người khác, nhất là khi bị đụng tới niềm tin cốt lõi của họ. Tuy nhiên, đôi khi nỗ lực “khai sáng” người khác của các ENFJ có thể bị coi là thái độ bề trên, thiếu tôn trọng.",
                                 },
                                 {
-                                    "titleChild": "Thiếu kiên nhẫn",
-                                    "content": "Các INTP tự hào với kiến thức và ý tưởng của họ, tuy nhiên, họ thường không đủ kiên nhẫn khi giải thích lập luận của mình cho người khác. Nếu đối phương có vẻ không hứng thú hoặc không thể theo kịp cuộc trò chuyện thì các INTP có thể từ bỏ luôn việc giải thích.",
+                                    "titleChild": "Nóng tính, nóng vội",
+                                    "content": "Trong quá trình làm việc, các ENFJ luôn trong trạng thái đầy năng lượng và quyết tâm, và họ sẽ thúc ép những người xung quanh phải bắt nhịp được với guồng công việc của họ. Tuy nhiên không phải ai cũng có những phẩm chất trên để theo kịp các ENFJ, đa phần họ sẽ cảm thấy bức bối khi cứ liên tục bị dồn ép phải bắt tay hoàn thành công việc theo ý muốn của những Người cho đi.\n\nCác ENFJ cũng rất dễ hứng lên và lao đầu vào hành động mà chưa lên kế hoạch rõ ràng và cụ thể. Dễ dẫn đến hậu quả “nói trước bước không qua”.",
                                 },
                                 {
-                                    "titleChild": "Quá cầu toàn",
-                                    "content": 'Mong muốn hoàn thành công việc của các INTP có thể bị cản trở bởi chính tính cầu toàn của họ. Đôi khi, họ có thể chìm đắm vào việc phân tích các lựa chọn và rồi không thể đi đến quyết định nào cả. Họ cũng có thể từ bỏ các dự án khi thấy chúng không phù hợp với tầm nhìn lý tưởng của mình.',
+                                    "titleChild": "Cả nể",
+                                    "content": 'Lòng trắc ẩn là một trong những điểm mạnh nhất của nhóm tính cách ENFJ. Tính cách “thích làm dâu trăm họ”, ôm đồm vấn đề của người khác như là của mình thì sớm muộn cũng khiến các ENFJ dần kiệt quệ về mặt tinh thần lẫn thể chất.',
+                                },
+                                {
+                                    "titleChild": "Thiếu quyết đoán và thiếu logic",
+                                    "content": 'Các ENFJ thường không được lý trí cho lắm. Họ thường thiên về cảm xúc và dễ có tính thiên vị, không công bằng khi đưa ra quyết định.',
                                 }
                             ],
                         }
@@ -2441,71 +2461,75 @@ export const mbtiData = {
                     "section": "Mối quan hệ",
                     "items": [
                         {
-                            "content": 'Rất ít người có thể vượt qua sự am hiểu tường tận của các INTP, vì vậy thật sự không dễ dàng để kết giao với họ. Với một tâm trí luôn xoay quanh những ý tưởng mới, những đột phá mới, rất khó để các INTP có thể dành thời gian cho những mối quan hệ giữa người với người. Và kể cả khi đã trở thành bạn của các INTP thì cũng rất khó làm thân, trừ khi bạn có chung “tần sóng” với họ.\n\nCác INTP hầu như chỉ có một vòng tròn bạn bè nhỏ, những người có thể dành thời gian cùng họ trò chuyện, nghiên cứu, hỗ trợ về mặt tinh thần. Những người thuộc nhóm tính cách INTP thường bị thu hút bởi những người sở hữu tính đặc điểm NT trong tính cách, đây là những người bạn có thể cùng họ chia sẻ niềm đam mê thảo luận về lĩnh vực học thuật. Một khi đã trở nên thân thiết hơn với các INTP thì họ sẽ làm hết sức mình để mối quan hệ trở nên bền chặt hơn.\n\nCác INTP không phải những “chuyên gia tình cảm”. Nếu bạn gặp khó khăn, họ sẽ sẵn sàng giúp bạn nghĩ cách giải quyết một cách nhanh gọn nhất, nhưng đừng hy vọng rằng các INTP sẽ đồng cảm và thấu hiểu cho vấn đề của bạn. Không phải vì các INTP không có tình cảm, mà là tình cảm của họ đã bị chôn sâu dưới tầng tầng lớp lớp những không gian họ dành cho sự logic.\n\nTình bạn của các INTP luôn rất rõ ràng, kiên định, mạnh mẽ và chân thành. Họ không cố gắng kiểm soát bạn bè của mình cũng như không thích có những cảm xúc thái quá khi kết giao bạn bè. Những điều mà các INTP đánh giá cao trong quá trình xây dựng một tình bạn đẹp là sự trung thành, cùng nhau học hỏi, cùng nhau phát triển.\n\nNhìn chung, các INTP dành hầu hết thời gian để sống trong thế giới nội tâm của riêng mình, nơi luôn rộn ràng và náo nhiệt nhờ những ý tưởng mới và những suy nghĩ không ngừng nghỉ. Ngược lại, thế giới bên ngoài của các INTP lại khá nhẹ nhàng và ảm đạm. Họ không có nhu cầu kết giao thật nhiều mà chỉ cần những người mà họ thật sự quý trọng và ảnh hưởng nhiều đến họ. Tuy nhiên, một khi đã bước vào mối quan hệ thì các INTP là những người chân thành và chung thủy nhất, họ sẽ đối xử vô cùng tốt với bạn bè mình, đưa cho họ những lời khuyên tốt nhất, giúp họ giải quyết những phiền toái mà không ngại ngần gì.'
+                            "content": 'ENFJ được bạn bè đánh giá là người ấm áp và tốt bụng, họ thích kết giao và trò chuyện với những người mới, lắng nghe những câu chuyện mới. Tuy nhiên họ lại khá kén chọn và tỉ mỉ khi muốn làm thân với một ai đó, những điều mà họ tìm kiếm ở một mối quan hệ khăng khít là sự chân thành mà hai người dành cho nhau.\n\nMặc dù mang trong mình đặc điểm F (Tình cảm) và đặt nặng tình cảm trong một mối quan hệ nhưng các ENFJ cũng sẵn sàng đưa ra lời góp ý và phê bình từ tận đáy lòng khi gặp những chuyện bất bình. Tuy vậy thật khó để bạn có thể giận một ENFJ khi bị họ phê bình bởi lời nói của ENFJ quá đỗi ngọt ngào và chân thành.\n\nTrong tình bạn, những người thuộc nhóm tính cách ENFJ sẵn sàng giúp đỡ bạn bè mình một khi có thể, và điều đó khiến họ rất tự hào về bản thân. Các ENFJ có thể dành hàng giờ, hàng ngày hoặc hàng tháng để giúp đỡ ai đó nhận ra điểm mạnh điểm yếu của mình và hoàn thiện bản thân hơn trong tương lai. Đổi lại, những Người cho đi cũng hy vọng bạn bè có thể đối xử với họ chân thành như vậy.\n\nNhìn chung, các ENFJ luôn nhiệt tình và hết mình trong mọi mối quan hệ, họ đề cao sự trung thực và đồng cảm giữa người với người. Các ENFJ có khả năng ứng xử và ngoại giao tốt, chu đáo và ân cần với tất cả mọi người. Họ thích giúp đỡ người khác và cảm thấy mãn nguyện khi lòng tốt của mình được đặt đúng chỗ. Với những tình huống khó, những Người cho đi sẽ không ngần ngại thể hiện sự sắc sảo và nhạy bén của mình trong việc đưa ra quan điểm và tìm hướng giải quyết, sau đó họ sẽ giấu đi gai nhọn và trở về làm một chú cừu tốt bụng đáng yêu nhất trên đời.'
                         },
                         {
-                            "title": "INTP trong tình yêu",
+                            "title": "ENFJ trong tình yêu",
                             "itemsChild": [
                                 {
-                                    "content": "Những nét tính cách khác thường của các INTP sẽ tạo nên bất ngờ thú vị cho người yêu của họ. Bình thường họ là những người lý trí và dè dặt, nhưng một khi đã hạ lớp phòng thủ xuống, các INTP sẽ để lộ ra mặt tươi sáng của mình.\n\n<i>“Trong tình yêu, INTP có thể dùng khả năng sáng tạo của mình để làm mọi thứ luôn mới mẻ và tạo ra những bất ngờ nhỏ bé để khiến nửa kia cảm thấy đặc biệt.”</i>\n\nLà người hướng nội, các INTP thích ở một mình, nhưng điều đó không có nghĩa là họ không khao khát có người ở cạnh bên. Đối với những người thuộc kiểu tính cách này, một tình yêu lý tưởng không chỉ là người để cùng chia sẻ niềm vui, nỗi buồn mà còn là người có thể cùng họ thúc đẩy bản thân tiến bộ từng ngày.\n\n<i>“Các INTP muốn dành cả đời để theo đuổi tri thức, vì vậy họ hy vọng nửa kia của mình cũng có tầm nhìn tương tự.”</i>\n\nVới các INTP, việc tìm kiếm một đối tượng đáp ứng cùng lúc các tiêu chuẩn trên không phải điều dễ dàng. Họ có thể chần chừ khi bước ra ngoài thế giới và gặp gỡ mọi người. Ngay cả khi họ có hứng thú với ai đó, họ vẫn phải mất một khoảng thời gian để hạ quyết tâm chấp nhận rủi ro bị từ chối sau đó mới lấy hết can đảm để mời người đó đi chơi. Bởi vì trở thành trung tâm của sự chú ý khi bị từ chối tình cảm không phải là điều dễ dàng đối với bất kỳ ai, đặc biệt là đối với các INTP.",
+                                    "content": "Nhóm tính cách ENFJ không chấp nhận bất cứ điều gì không phù hợp với lý tưởng của họ, cả trong tình yêu cũng thế.\n\n<i>“Các ENFJ muốn yêu bằng vẻ đẹp tâm hồn hơn là vẻ đẹp ngoại hình.”</i>\n\nDù nhóm tính cách này có thể trông rất cởi mở, thậm chí đôi khi thích “thả thính” lung tung, nhưng họ không phải kiểu người có thể yêu từ cái nhìn đầu tiên. Các ENFJ có tiêu chuẩn khá cao trong việc lựa chọn bạn đời và họ cho rằng “tình yêu sét đánh” là vô cùng quý giá và chỉ đến khi chúng ta gặp được định mệnh của đời mình.",
                                 },
                                 {
-                                    "titleChild": "Sự gắn kết chân thực",
-                                    "content": "Các INTP rất nghiêm túc với mối quan hệ ngay từ khi bắt đầu, khi gặp được một người mà họ thật sự tôn trọng và thích ở bên.\n\nNgay từ những buổi hẹn hò đầu tiên, các INTP thường rất thẳng thắn, chân thành bày tỏ tình cảm của mình, và cũng khuyến khích đối phương mở lòng với họ. Họ có thể ít nói nhưng lại không hề nhút nhát. Đối với các INTP, việc thẳng thắn trong chuyện tình cảm sẽ giúp hai bên không xảy ra những hiểu lầm không đáng có.\n\nKhi yêu đương, nhu cầu của các INTP rất đơn giản. Họ không quan trọng quà cáp hay sự lãng mạn, không thích những lời tán dương ngọt ngào xã giao hay hỏi thăm hàng ngày như một thói quen. Vì vậy nếu bạn đã, đang và sẽ tiến tới mối quan hệ xa hơn với một INTP, hãy tập làm quen với điều đó.\n\nTuy nhiên, từ góc nhìn của chúng tôi, các INTP cần nỗ lực học hỏi cách thể hiện tình cảm với người yêu nếu bạn không muốn đối phương cảm thấy không được trân trọng và yêu thương.",
+                                    "titleChild": "Chủ động trong tình yêu",
+                                    "content": "Khi ENFJ phải lòng ai đó, họ thường yêu một cách mãnh liệt và không e dè. Nhóm tính cách ENFJ là một trong những kiểu người thích “tấn công” thay vì “phòng thủ”, họ thường là chủ động trước thay vì chờ đợi hoặc dè dặt dò xét tình cảm của đối phương.\n\nTrong tình yêu, sự “tấn công” không dè chừng từ các ENFJ quả là một điều mới lạ. Việc chủ động này, kết hợp với sự say mê khi gặp người mình thích, đã tạo nên sức hút không thể chối từ của những Người cho đi. Tuy nhiên, chủ động nhiều thì khả năng bị từ chối càng nhiều, và các ENFJ chấp nhận điều đó.\n\n<i>“Những người thuộc nhóm tính cách ENFJ là những nửa kia vô cùng chân thành và đáng tin, họ cũng sẵn sàng dành nhiều thời gian và nỗ lực để chứng minh tấm lòng son của mình.”</i>",
                                 },
                                 {
-                                    "titleChild": "Đối mặt với xung đột",
-                                    "content": "Các INTP không thích xung đột, họ có xu hướng né tránh khi phát sinh bất đồng về cảm xúc. Thay vì dành thời gian lắng nghe người yêu, các INTP sẽ sử dụng đầu óc logic của mình để chứng minh đối phương sai. Hoặc họ cũng có thể đưa ra các giải pháp đơn giản, hợp lý để giải quyết xung đột nhằm tránh việc phức tạp hóa vấn đề khiến mọi chuyện đi xa hơn.\n\n<i>“Khi xảy ra xung đột, các INTP có thể cố ý phớt lờ cảm xúc của đối phương cũng như chính mình trong một thời gian dài.”</i>\n\nKhi trưởng thành hơn, các INTP mới hiểu được rằng mọi người đều có nhu cầu về cảm xúc (kể cả họ) và đó là điều bình thường. Nhưng với những người sống duy lý như họ thì đây không hề là bài học dễ dàng, từ quá trình tiếp nhận tới công nhận vấn đề nằm ở chính mình. Song, việc nhận ra điều này có thể giúp các Nhà tư duy vượt qua những thách thức mà tất cả các mối quan hệ lâu dài đều gặp phải như kiểm soát cảm xúc.",
+                                    "titleChild": "Cùng vương tới ước mơ",
+                                    "content": "Ngay từ buổi hẹn hò đầu tiên, bạn đã có thể nhận thấy các ENFJ là những người rất sâu sắc qua cách họ gợi chuyện. Những Người cho đi sẽ không hỏi những câu hỏi xã giao như bạn làm nghề gì, bạn thích màu gì, bạn thích quần áo của thương hiệu nào. Thay vào đó, họ sẽ quan tâm nhiều hơn tới ước mơ và lý tưởng của bạn, những điều mà bạn mong đợi ở bản thân trong tương lai. Và nếu có cơ hội, họ sẽ tìm cách giúp bạn hiện thực hóa giấc mơ của mình.\n\n<i>“Đối với ENFJ, một trong những niềm vui lớn nhất của cuộc đời là giúp người khác hiện thực hóa giấc mơ của mình.”</i>\n\nNếu mối quan hệ giữa hai người tiến thêm một bước, các ENFJ có thể sẵn sàng coi mục tiêu của đối phương quan trọng như thể đó là mục tiêu của chính mình. Mặt trái của việc “ăn cơm nhà vác tù và hàng tổng” này là những Người cho đi có thể bỏ bê việc chăm sóc và nuôi dưỡng ước mơ của chính mình.\n\nMột vấn đề khác có thể nảy sinh trong mối quan hệ của các ENFJ là họ có thể tạo động lực hơi quá đà lên nửa kia của mình, gần như là thúc ép. Hệ quả là người yêu của các ENFJ có thể cảm thấy tức giận, cảm thấy bị đánh giá thấp hoặc thậm chí là tự ti vì nghĩ mình thật yếu kém. Đây là lý do mà những Người cho đi cần học cách từ tốn trong mọi mối quan hệ để có thể đi cùng nhau lâu dài.",
                                 },
                                 {
-                                    "titleChild": "Và con tim ta đã vui trở lại",
-                                    "content": "Các INTP có xu hướng sống trong thế giới nội tâm của riêng mình, nhưng rồi tình yêu ập đến kéo họ ra khỏi vùng an toàn của mình để tận hưởng niềm vui trọn vẹn.\n\nTrải nghiệm này có thể mang lại thay đổi lớn cho INTP, giúp họ phát hiện những điểm mạnh, những mặt thú vị tiềm ẩn mà chính họ cũng không nhận ra. Với trí tưởng tượng và sự sáng tạo vô hạn của mình, các INTP có thể trở thành những người yêu vô cùng nồng nhiệt và cống hiến hết mình cho tình yêu mà không đánh mất bản ngã của mình.",
+                                    "titleChild": "Một chặng đường dài",
+                                    "content": "Rất ít nhóm tính cách có được sự chung tình một cách tuyệt đối với đối tượng mà họ đã chọn như là các ENFJ. Họ nghiêm túc trong tình yêu cũng như trong mọi mối quan hệ. Ngay từ những ngày mới quen nhau, họ đã có ý tưởng xây dựng một câu chuyện tình yêu đẹp như cổ tích, và khi mối quan hệ chín muồi, họ sẽ biến điều đó thành hiện thực.\n\n<i>“Mặc dù các ENFJ biết cách tận hưởng từng phút giây trong cuộc sống, nhưng họ cũng hiểu rằng tình yêu không chỉ có niềm vui mà là sự bù trừ lẫn nhau về mặt tâm hồn.”</i>\n\nCác ENFJ quan tâm đến việc làm hài lòng người yêu của mình, sự nhạy bén giúp họ dễ dàng bắt sóng những thay đổi trong tâm trạng và mong muốn của đối phương. Miễn là họ không bỏ quên việc chăm chút bản thân thì các ENFJ có thể có được những mối quan hệ vô cùng tuyệt vời dựa trên sự chân thành, tin tưởng, hỗ trợ lẫn nhau - và tất nhiên là cả tình yêu.",
                                 },
                             ],
                         },
                         {
-                            "title": "INTP trong tình bạn",
+                            "title": "ENFJ trong tình bạn",
                             "itemsChild": [
                                 {
-                                    "content": "Giống như bất kỳ ai, các INTP tìm đến bạn bè để được sẻ chia về mặt tinh thần. Tuy nhiên ngoài chuyện kết bạn cho vui thì họ cũng cần những người bạn có hiểu biết, giàu tri thức để cùng bàn luận về những ý tưởng mà họ cho là thú vị. Không phải ai cũng đáp ứng được các tiêu chuẩn làm bạn của INTP, nhưng khi gặp người cùng “tần sóng” thì họ có thể trở nên thân thiết nhanh đến bất ngờ.",
+                                    "content": "Việc dễ dàng kết nối với mọi người khiến các ENFJ cảm thấy tràn đầy năng lượng. Trong tình bạn, họ luôn chân thành và thẳng thắn bởi các ENFJ là những người biết trân trọng tình bạn và coi đó như một phần không thể thiếu trong cuộc đời.",
                                 },
                                 {
-                                    "titleChild": "Kén cá chọn canh hay có chọn lọc?",
-                                    "content": "Các INTP là những người bạn hoạt bát, giàu trí tưởng tượng, luôn nói những điều thú vị hoặc bất ngờ. Bạn thân của các INTP thường có đam mê giống họ, nhất là trong chuyện học hỏi, tìm tòi những điều mới lạ. Tuy nhiên, việc kết giao bạn bè của các INTP cũng có ngoại lệ, đó là khi họ gặp được những người biết giữ vững lập trường và đấu tranh cho quan điểm của mình. Tính cách này vô cùng thu hút các INTP, những người thường xuyên “mềm không ăn, ăn cứng”.\n\nTình bạn của các INTP được xây dựng dựa trên nền tảng tri thức, được duy trì bằng cách trao đổi ý tưởng, lý thuyết và khái niệm. Những người không thể theo kịp nhịp độ sống của họ hoặc có sở thích khác biệt có thể bị họ phớt lờ hoặc gạt đi. Các INTP sẽ chỉ dành thời gian quý báu của mình để tiếp chuyện những người có cùng chí hướng.\n\n<i>“Phong cách sống của các INTP không áp dụng cho tất cả mọi người, nhưng không sao cả, đa số các INTP thích có vài người bạn tốt hơn là quá nhiều bạn xã giao.”</i>",
+                                    "titleChild": "Lắng nghe",
+                                    "content": "Rất ít nhóm tính cách sẵn sàng dành thời gian lắng nghe và tiếp thu quan điểm của người khác như các ENFJ. Với họ, việc khám phá những điều bí ẩn (thậm chí là có phần điên rồ) của những người xung quanh là thú vui thuần túy nhất, giúp họ có thể mở mang kiến thức và tiếp thu nhiều điều mới mẻ.\n\n<i>“Các ENFJ kết bạn với mọi kiểu người, kể cả những người có tư duy khác hẳn với họ.”</i>\n\nNhững người thuộc nhóm tính cách ENFJ chỉ không thích những người có tư tưởng bảo thủ và không chịu đổi mới, ngược lại, họ dễ kết thân nhất với những nhóm tính cách có suy nghĩ cởi mở như mình.\n\nTuy luôn niềm nở những lúc quây quần bên bạn bè nhưng chỉ khi ở cạnh những người thực sự thân thiết, các ENFJ mới sẵn sàng mở lòng, thậm chí trở nên có phần yếu đuối và dựa dẫm, vì họ biết mình đang được bảo vệ và nâng niu.",
                                 },
                                 {
-                                    "titleChild": "Ý nghĩa của tình bạn",
-                                    "content": "Khi bạn bè gặp vấn đề khó xử, các INTP sẽ nhiệt tình giúp đỡ bằng cách đưa ra những lời khuyên và giải pháp hợp lý. Họ có thể biến những tình huống phức tạp nhất thành đơn giản, phân tích ưu và nhược điểm rõ ràng để giúp bạn bè cân nhắc.\n\nTuy nhiên, những vấn đề liên quan đến cảm xúc có thể vượt ngoài khả năng của các INTP. Đối với họ, bài học lớn nhất và khó nhất về tình bạn là: đôi khi mọi người không cần họ dạy cách giải quyết vấn đề, mà chỉ cần một người ở bên để bầu bạn và sẻ chia những buồn vui trong cuộc sống.\n\n<i>“Các INTP thường cho rằng ưu thế lớn nhất của họ là trí tuệ, nhưng tình bạn có thể giúp họ nhận ra họ có nhiều thứ hơn để cống hiến cho thế giới ngoài những ý tưởng sáng tạo và đột phá của mình, một trái tim nhân hậu chẳng hạn.”</i>\n\nDần dần, các INTP có thể nhận ra rằng những cuộc trò chuyện sôi nổi và những buổi brainstorm thâu đêm cũng thú vị đấy, nhưng không phải là tất cả. Các INTP sẽ bỏ qua những điều hiện hữu bên ngoài để đào sâu vào vẻ đẹp tâm hồn tiềm ẩn. Trong một thế giới nơi mọi người bị ám ảnh với việc phải ép mình hòa nhập với tập thể, thì các INTP xuất hiện như một làn gió mới, truyền cảm hứng cho mọi người thoát khỏi khuôn khổ và tìm được tiếng nói của riêng mình.",
+                                    "titleChild": "Vượt qua những thăng trầm",
+                                    "content": "Các ENFJ là một trong những người bạn tốt mà ai cũng nên có trong đời. Họ tốt bụng, đáng tin cậy và luôn dành sự quan tâm nồng nhiệt cho người khác. Đổi lại, họ cũng muốn lòng tốt của mình được đón nhận và đáp lại bằng tất cả niềm thương yêu.\n\n<i>“Đối với mọi người, từ quen biết xã giao tới thân thiết như người một nhà, các ENFJ luôn cố gắng tạo dựng các mối quan hệ sâu sắc, ý nghĩa, bền chặt.”</i>\n\nCác ENFJ luôn sát cánh bên người bạn của mình, đặc biệt trong những giai đoạn khó khăn nhất. Những Người cho đi có thể thức cả đêm để giúp người bạn cùng nhà chuẩn bị một chiếc CV hoàn hảo trước buổi phỏng vấn, hoặc lên kế hoạch tổ chức sinh nhật vô cùng tỉ mỉ cho người bạn thân, tất cả đều vì một mục đích: mang lại niềm vui cho những người xung quanh.\n\n<i>“Nụ cười của bạn là điều vô giá đối với tôi.”</i>",
+                                },
+                                {
+                                    "titleChild": "Tìm kiếm sự cân bằng",
+                                    "content": "Lòng tốt được cho đi nhưng không phải bao giờ cũng được đáp lại đúng cách. Đối với sự giúp đỡ của các ENFJ, có người sẽ lựa chọn đón nhận một cách biết ơn, có người thì không, đơn giản vì họ cảm thấy không cần thiết hoặc đã tìm được sự giúp đỡ lớn hơn. Đây quả là một điều đáng tiếc cho các ENFJ, bản thân họ cũng sẽ rất thất vọng khi nhận ra những hy vọng và mong đợi mình đặt lên người khác bị đổ sông đổ bể.",
                                 }
                             ],
                         },
                         {
-                            "title": "INTP khi làm cha mẹ",
+                            "title": "ENFJ khi làm cha mẹ",
                             "itemsChild": [
                                 {
-                                    "content": "Khi làm cha mẹ, các INTP cũng gặp thách thức lớn giống như trong các mối quan hệ khác, đó là khi họ bối rối trước những thay đổi về mặt tâm sinh lý của con cái. Rõ ràng là trẻ nhỏ chưa thể phát triển hết khả năng tự chủ và suy luận logic như họ được.\n\nTuy nhiên, vai trò làm cha mẹ vẫn rất có ý nghĩa đối với các INTP. Với bản tính tò mò, ham học hỏi, những bậc cha mẹ INTP có thể tìm thấy niềm vui lớn khi dạy con khám phá thế giới. Là kiểu người khoan dung và tư duy cởi mở nên các INTP khuyến khích con cái tư duy độc lập, khám phá tri thức mới cũng như biết bày tỏ và bảo vệ quan điểm của bản thân.",
+                                    "content": "Các ENFJ sẽ dùng tất cả những kiến thức và kỹ năng mình có để thực hiện thiên chức làm cha mẹ của mình. Họ ý thức được tầm quan trọng của việc nuôi dạy những đứa trẻ nên người, giúp chúng trở thành những công dân có ích cho xã hội.\n\nĐể làm được điều này, các ENFJ cố gắng xây dựng một mái ấm đầy yêu thương, sẵn sàng chở che và ở phía sau làm hậu phương vững chắc cho những đứa trẻ. Họ cũng khuyến khích con cái mình được tự do và chủ động nêu lên quan điểm của mình.",
                                 },
                                 {
-                                    "titleChild": "Sống thật với chính mình",
-                                    "content": "Các bậc cha mẹ INTP không quan tâm đến kỳ vọng của xã hội, họ cũng không bị ám ảnh bởi ý kiến của những người xung quanh về việc họ nên và không nên làm gì. Họ cũng không bắt con cái mình phải đi theo lộ trình sống cơ bản như đi học > đi làm > kết hôn > mua nhà > sinh con > nghỉ hưu. Họ sẽ trao cho chúng quyền tự do làm chủ cuộc đời mình, miễn là trong khuôn khổ của những phép tắc cơ bản.\n\n<i>“Các INTP không thích kiểm soát con cái mà khuyến khích chúng xây dựng các nguyên tắc và quan điểm sống riêng. Đôi khi họ sẽ xuất hiện và đưa ra những gợi ý nho nhỏ để bọn trẻ có thêm góc nhìn về cuộc sống.”</i>\n\nSong, điều này không có nghĩa là INTP không có kỳ vọng nào với con cái. Họ luôn mong mỏi rằng những đứa trẻ có thể học được cách tự chủ và độc lập. Và khi chúng đủ lớn, bọn trẻ sẽ có khả năng tư duy phản biện cần thiết để đi theo tiếng gọi của con tim trên hành trình mình đã chọn.",
+                                    "titleChild": "Những bài học quan trọng trong cuộc sống",
+                                    "content": "Tuy nhiên, bản thân các ENFJ khi làm cha mẹ cũng khá cầu toàn. Họ muốn trao cho những đứa trẻ quyền tự do ngôn luận, nhưng là tự do trong khuôn phép, giữ gìn những đạo đức và lý tưởng tốt đẹp. Mặt khác, họ cũng không muốn chúng răm rắp nghe theo những gì người lớn chỉ dạy mà cần xây dựng lối tư duy riêng theo cách mình nhìn nhận cuộc sống.\n\n<i>“Các bậc cha mẹ ENFJ coi việc giúp đỡ con cái khám phá ra tiềm năng riêng biệt của mình là nghĩa vụ tuyệt vời.”</i>\n\nNhóm tính cách ENFJ thường đặt ra các quy tắc và ranh giới rõ ràng, phù hợp với lứa tuổi để con cái họ hiểu được hậu quả khi có những hành vi thiếu trách nhiệm. Dù đôi khi cư xử có phần nghiêm khắc nhưng những hành động đó đều xuất phát từ tình yêu thương và ý thức trách nhiệm lớn lao của mình.",
                                 },
                                 {
-                                    "titleChild": "Món quà của tự do",
-                                    "content": "Các INTP khuyến khích tính tò mò ở con cái, cho phép chúng tự do tiếp thu kiến thức và mở rộng vốn hiểu biết. Họ thường có cách giáo dục con cái khá thoải mái, thay vì áp đặt các quy tắc không cần thiết hoặc áp dụng thời gian biểu nghiêm ngặt, các bậc phụ huynh INTP sẽ tạo ra một môi trường an toàn và lành mạnh để những đứa trẻ tự do khám phá xung quanh.\n\nVới các INTP, để con cái tự lập là một sự tôn trọng. Nhưng với nhiều trẻ nhỏ (thậm chí thanh thiếu niên), sự tự do (đôi khi là quá mức) này cũng không phải điều tốt. Nếu trong gia đình không có những giới hạn hợp lý và chỉ dẫn của cha mẹ thì chúng có thể cảm thấy mình bị bỏ rơi, bơ vơ, phải tự mình khám phá thế giới, tự mình đặt ra câu hỏi và trả lời những câu hỏi ấy.\n\n<i>“Có một nghịch lý là, một gia đình với các quy tắc hợp lý và sự động viên của cha mẹ có thể chính là điều mà con cái của các INTP cần để trở thành một công dân tự lập.”</i>\n\nMay mắn thay, các INTP có đủ tư duy linh hoạt để hiểu rằng họ có thể khuyến khích con cái tự lập mà không cần buông tay quá mức. Họ có thể thiết lập lại sự cân bằng bằng cách đưa ra lời khuyên và có mặt để hỗ trợ bất cứ khi nào chúng cần. Họ cũng có thể đặt ra các giới hạn, quy tắc và hình phạt hợp lý với những hành vi sai trái để giúp con cái định hướng cuộc sống mà không cần dựa hoàn toàn vào khả năng tự chủ chưa hoàn thiện của bản thân chúng.",
+                                    "titleChild": "Kỳ vọng to lớn",
+                                    "content": "Các bậc phụ huynh ENFJ kỳ vọng rất nhiều vào con cái, luôn mong muốn chúng trở thành một người có ích cho xã hội, phát triển được điểm mạnh của mình để xây dựng một thế giới tốt đẹp hơn.\n\n<i>“Cha mẹ ENFJ tự hào khi có khả năng nhìn thấy tiềm năng ở người khác - đặc điểm này giúp họ nhận ra những đứa trẻ có thế mạnh gì và cần phát huy như thế nào.”</i>\n\nTuy nhiên, đôi khi các kỳ vọng của ENFJ dường như quá sức đối với con cái của họ. Những đứa trẻ cảm thấy rằng nếu chúng muốn giành được tình yêu thương của cha mẹ thì phải đáp ứng các tiêu chuẩn của họ — đôi khi là những tiêu chuẩn bất khả thi, vượt ra khỏi tầm với của chúng. Để giải quyết vấn đề này, các bậc cha mẹ ENFJ nên gần gũi và săn sóc với những đứa trẻ hơn để chúng cảm nhận được tình yêu thương thay vì áp lực thời thơ ấu.",
                                 },
                                 {
-                                    "titleChild": "Một thử thách xứng tầm",
-                                    "content": "Bên cạnh đó, việc hỗ trợ con cái về mặt tinh thần cũng là một trong những thách thức lớn nhất với các phụ huynh INTP.\n\nCác INTP muốn trao quyền cho con cái tự giải quyết vấn đề và đáp ứng nhu cầu của chính chúng. Đây là điều tốt, nhưng trẻ cũng cần nền tảng động viên, hỗ trợ ổn định - cùng với các quy tắc và giới hạn như đã đề cập ở trên - trước khi có thể tự mình giải quyết mọi việc. Để tạo dựng nền tảng này, các cha mẹ INTP sẽ cần ở bên để động viên và cổ vũ chúng thường xuyên.\n\n<i>“Việc thể hiện tình cảm có thể khiến các INTP lý trí cảm thấy ngại ngùng, tuy nhiên những lời nói và hành động này sẽ giúp đứa trẻ cảm thấy được yêu thương và an toàn trong vòng tay thân thuộc của cha mẹ.”</i>",
+                                    "titleChild": "Nền tảng vững tin",
+                                    "content": "Điều tích cực là cuối cùng thì các bậc phụ huynh ENFJ cũng nhận ra đâu mới là nhu cầu thật sự của những đứa trẻ. Vì vậy, song song với việc thúc đẩy sự phát triển về mặt nhận thức của con cái, họ sẽ xây dựng một môi trường phát triển lành mạnh với tình yêu thương đong đầy để chúng có thể yên tâm lớn lên.\n\n<i>“Các bậc cha mẹ ENFJ sẵn sàng làm bất cứ điều gì để con cái họ có thể phát triển hoàn hảo về vật chất lẫn tinh thần.”</i>\n\nVề phía những đứa trẻ, chúng biết đón nhận và trân trọng tình yêu thương mà cha mẹ dành cho mình. Dưới sự nuôi dưỡng và chăm sóc tận tình nhưng không kém phần nghiêm khắc của cha mẹ, con cái của các ENFJ sẽ học được cách đồng cảm, thấu hiểu và biết quan tâm tới những người xung quanh.",
                                 }
                             ],
                         },
                     ]
                 },
                 {
-                    "section": "Làm sao để thân thiết với INTP",
+                    "section": "Làm sao để thân thiết với ENFJ",
                     "items": [
                         {
-                            "content": "INTP là người hướng nội, không giỏi thể hiện cảm xúc nhưng sâu sắc, vì vậy để thân thiết với họ bạn cần thực sự hiểu họ, tin tưởng, chân thành, thẳng thắn và rõ ràng trong mọi vấn đề.\n\nĐối với INTP, việc có những cuộc trò chuyện sâu sắc và phức tạp thực sự rất thú vị và họ thích ở gần những người có thể khơi dậy khả năng sáng tạo của họ.\n\nMột số điều bạn cần lưu ý khi tiếp xúc với INTP:\n\n●    <b>Đừng cố tỏ ra thân thiện trong lần gặp mặt đầu tiên.</b> Nếu bạn muốn kết thân với INTP thì trong lần gặp đầu tiên đừng cố gắng tỏ ra thân thiện hay nhiệt tình thái quá, hãy cư xử một cách bình thường, nếu không họ sẽ cho rằng bạn là người giả tạo.\n\n●    <b>Hãy khơi gợi được sự hiếu kỳ hay tham vọng của INTP.</b> INTP không hứng thú với những người tiếp cận mình bằng tình cảm. Ngược lại họ tỏ ra hào hứng với những người khơi gợi được tham vọng tri thức. INTP sẽ thích kết thân với những người có cùng “tần sóng” về sự hiểu biết, giàu tri thức để cùng bàn luận về những điều mới mẻ mà họ cho là thú vị. Đó có thể là cùng nhau giải câu đố, chơi cờ, hoặc thậm chí là thảo luận những vấn đề khó nhằn mà chẳng ứng dụng được gì trong cuộc sống.\n\n●    <b>Hãy đặt câu hỏi về lĩnh vực mà INTP quan tâm, tự tin.</b> Ngoài việc trao đổi và tranh luận các ý tưởng mới với Nhà tư duy, bạn cũng có thể đặt câu hỏi về những lĩnh vực mà INTP tự tin nhất. Với tính cách là người có niềm đam mê trong việc chia sẻ về lĩnh vực học thuật, INTP sẽ hào hứng với việc giải thích và cho bạn câu trả lời vừa ý. Đừng quên chú ý lắng nghe và có lời khen ngợi INTP sau khi nhận được lời giải đáp.\n\n●    <b>Hãy khéo léo nhắc nhở họ.</b> Các INTP rất dễ quên nên khi đã là một thành phần trong vòng tròn kết giao của họ, bạn hãy khéo nhắc họ chú ý đồ đạc như túi xách, ví, điện thoại hay thậm chí là giờ hẹn.\n\n●    <b>INTP dễ dàng bị thu hút bởi những người biết giữ vững lập trường.</b> Có một ngoại lệ của INTP trong việc kết giao với mọi người là họ bị thu hút bởi những người biết giữ vững lập trường và đấu tranh cho quan điểm của mình. Nếu bạn là người có tính cách này thì dễ dàng nhận được cái gật đầu hứng thú từ INTP."
+                            "content": "Để trở nên thân thiết với ENFJ, bạn cần chú ý những điều sau:\n\n● <b>Mời các ENFJ tham gia hội nhóm và các hoạt động chung.</b> ENFJ là một trong những nhóm tính cách “quấn người” nhất. Bởi vậy, các ENFJ rất thích được rủ đi chơi, rủ tụ tập hay tham gia hoạt động nhóm có nhiều người. Nếu muốn làm thân với các ENFJ, bạn cần “đánh” đúng vào bản tính thân thiện, quảng giao của họ.\n\n● <b>Ôn hòa và điềm tĩnh khi tiếp cận.</b> ENFJ không phải tuýp tính cách thích đối chất hay tranh luận căng thẳng. Họ có thiên hướng thích những người ôn hòa và mềm mỏng. Trong một buổi tụ tập, các ENFJ dễ chú ý và có thiện cảm với những người nhẹ nhàng, điềm tĩnh và biết cách kết nối mọi người.\n\n● <b>Tử tế, chân thành.</b> Cần ghi nhớ rằng ENFJ là một trong những nhóm tính cách rất biết cảm thông và để ý tới cảm xúc của mọi người xung quanh. Hãy trung thực và thành thật khi trò chuyện với ENFJ, họ sẽ ghi nhận sự chân thành và cho bạn cơ hội kết giao. Tránh việc sử dụng từ ngữ thô tục, đưa chuyện hay gièm pha sau lưng người khác, các ENFJ không dễ dàng chia sẻ cảm xúc với những người không đáng tin.\n\n● <b>Đừng quá cứng nhắc, hãy thoải mái tự tin.</b> Các ENFJ rất hay tỏ ra đồng cảm và có xu hướng đeo một lớp mặt nạ lên để có thể hòa nhập với tất cả mọi người. Nhưng không chắc đó là cảm xúc thật của họ. Vì vậy nếu bạn tỏ ra dạn dĩ và cứng nhắc thì các ENFJ cũng sẽ e ngại trong việc chia sẻ với bạn. Ngược lại, nếu bạn thoải mái và thân thiện thì các ENFJ cũng sẽ thoải mái bày tỏ cảm xúc hơn.\n\n<i>“Đôi khi việc quá đỗi thân thiện, quảng giao dễ khiến người khác hiểu nhầm là ENFJ đang “có tình ý” với họ. Thực chất các ENFJ chỉ đang thể hiện sự tử tế và quan tâm tới đối phương chứ không có ý tán tỉnh.”</i>"
                         },
                     ],
                 },
@@ -2513,23 +2537,15 @@ export const mbtiData = {
                     "section": "Con đường sự nghiệp",
                     "items": [
                         {
-                            "content": "Với tư tưởng theo đuổi sự tự do, các INTP có thể khó tìm kiếm công việc và sự nghiệp phù hợp với họ. Họ có tính cách khác thường, quan điểm độc đáo, nên rất ít môi trường làm việc có thể khớp với yêu cầu của họ.\n\nNhưng với kiến thức uyên bác của mình, các INTP có thể tìm được công việc giúp họ phát huy được thế mạnh của mình. Với những phẩm chất hiếm có, cộng thêm một chút nỗ lực, đôi khi là một chút may mắn, các INTP có thể trở thành ngôi sao sáng trong nhiều lĩnh vực."
+                            "content": "Đứng trước những ngã rẽ của cuộc đời trên con đường sự nghiệp, các ENFJ sẽ ưu tiên công việc cho họ cơ hội tiếp xúc nhiều với con người, cụ thể là những công việc xã hội, bởi họ thích giúp đỡ người khác và nhìn những nỗ lực của mình được đền đáp bằng nụ cười hạnh phúc của những người xung quanh.\n\n<i>“Những người thuộc nhóm tính cách ENFJ gần như không bao giờ thiếu cảm hứng ở môi trường làm việc.”</i>"
                         },
                         {
-                            "title": "Khát khao khám phá",
-                            "content": "Các INTP khát khao khám phá, nhưng không phải theo những cách thông thường mà theo phương thức độc đáo của riêng họ. Họ bị cuốn hút vào vương quốc của những ý tưởng, thích đào sâu bản chất các sự vật, hiện tượng trong cuộc sống và nghiên cứu những bí ẩn của vũ trụ.\n\n<i>“Đối với các INTP, một ngày làm việc lý tưởng là được giải quyết những vấn đề tưởng như không thể giải quyết được.”</i>\n\nVới tính hiếu kỳ ngàn năm không đổi, các INTP có thể tìm thấy vẻ đẹp ẩn giấu trong những khái niệm mà người khác cảm thấy khô khan, nhàm chán. Tài năng phân tích và nghiên cứu của họ là điều vô giá trong hầu hết mọi lĩnh vực, và họ có đủ sự linh hoạt để tỏa sáng ở trong cả những lĩnh vực tưởng như không phù hợp với họ.\n\nBất kỳ công việc nào cho phép các INTP được thỏa thích phát huy sức sáng tạo của mình đều có thể khiến họ hài lòng vô tận."
+                            "title": "Khẳng định vị thế của mình",
+                            "content": "Nhờ kỹ năng xã hội tốt, các ENFJ có thể hoàn thành xuất sắc vai trò của mình trong những lĩnh vực liên quan tới con người, ví dụ như tổ chức sự kiện, tuyển dụng hoặc quan hệ công chúng. Những công việc như giảng dạy, tư vấn, huấn luyện và chăm sóc sức khỏe cộng đồng cũng rất phù hợp với những người thuộc nhóm tính cách ENFJ.\n\n<i>“Tuy vậy, dù mong muốn lớn nhất là làm việc trong lĩnh vực phục vụ cộng đồng nhưng các ENFJ vẫn luôn hướng tới sự thăng tiến trong công việc.”</i>\n\nĐược biết tới với khả năng lãnh đạo tài tình, những người thuộc nhóm tính cách ENFJ thường đảm nhiệm những vị trí quan trọng có sức ảnh hưởng trong một tổ chức, ví dụ như tổ chức tôn giáo, tổ chức từ thiện, tổ chức phi lợi nhuận, văn phòng nhà nước."
                         },
                         {
-                            "title": "Thúc đẩy động lực",
-                            "content": "Đôi khi, đồng nghiệp của các INTP có thể thấy họ thật khó hiểu. Không giống như những nhóm tính cách khác, các INTP không cho rằng họ cần phải gây ấn tượng với cấp trên hay trở nên thân thiết với mọi đồng nghiệp. Trên thực tế, họ không hứng thú với những hoạt động sinh ra để tạo động lực trong công việc cho người khác như team-building, nói chuyện phiếm lúc giải lao, chương trình văn hóa văn nghệ trong công ty.\n\nThay vào đó, trong công việc, những người thuộc nhóm tính cách INTP thường được thúc đẩy bởi chính tính tò mò và cầu toàn của mình. Các INTP hiếm khi nào thỏa mãn với hai chữ “đủ tốt”, và họ rất ghét bị gọi là bình thường hoặc tệ hơn là tầm thường. Tuy vậy, không phải với công việc nào họ cũng dành sự nỗ lực và tập trung như nhau. Đôi khi họ có thể bỏ qua những công việc bàn giấy nhàm chán để theo đuổi những mục tiêu hấp dẫn hơn.\n\n<i>“Tất cả những gì các INTP thực sự muốn là đắm mình trong một nhiệm vụ đủ thú vị, đủ kích thích mà không bị bất cứ ai làm phiền và gián đoạn công việc.”</i>\n\nMôi trường làm việc phù hợp với các INTP là môi trường được phân tầng theo cấu trúc nằm ngang, nơi công việc được phân theo từng đội nhóm nhỏ và thực hiện trọn gói thay vì giao việc theo cấp độ từ cao xuống thấp.\n\nNhững công việc nghiên cứu trong phòng thí nghiệm, tư vấn viên hoặc freelancer rất phù hợp với tính cách của các INTP."
-                        },
-                        {
-                            "title": "Kỹ năng xã hội",
-                            "content": "Gần như mọi bài đăng tuyển dụng công việc hiện nay đều yêu cầu ứng viên có kỹ năng mềm tốt. Tuy nhiên đa số các INTP lại cho rằng kỹ năng mềm đang được đánh giá quá cao. Đây cũng có thể là một nhận định đúng khi các nhà tuyển dụng ngày càng cần những nhân sự giỏi về chuyên môn, hiểu được các hệ thống phức tạp và biết tư duy phản biện như INTP.\n\nCác INTP thường khó phát triển được tiềm năng của bản thân khi làm những công việc đòi hỏi phải chiều chuộng cảm xúc của khách hàng hoặc đối tác như nhân viên chăm sóc khách hàng, telesales. Trong trường hợp “dòng đời đưa đẩy” và buộc phải làm việc ở lĩnh vực này, các INTP sẽ có vô vàn ý tưởng hay ho để khiến công việc này trở nên thú vị hơn."
-                        },
-                        {
-                            "title": "Những nghề nghiệp phù hợp",
-                            "content": "Việc yêu thích nghiên cứu ở nhiều lĩnh vực khác nhau khiến các INTP trở thành những nhân tố xuất sắc khi làm việc tại vị trí nhà khoa học (đặc biệt trong lĩnh vực vật lý hoặc hóa học), nhà phân tích hệ thống, nhà toán học, nhà sáng tạo game, lập trình viên, kỹ sư.\n\nCác INTP có xu hướng độc lập trong công việc và luôn đặt tiêu chuẩn cao cho bản thân cũng như đồng nghiệp, vì vậy hiển nhiên họ cũng thuộc tuýp người không thích quản lý và bị quản lý. Họ như “con sói cô độc” tự mình lang thang giữa sa mạc và tìm ra câu trả lời cho mọi vấn đề của bản thân. Một số nghề nghiệp có thể đáp ứng mặt tính cách này của các INTP là pháp y, tư vấn viên hoặc các công việc liên quan đến pháp lý, điều tra.\n\nNgược lại, những công việc yêu cầu quá nhiều tương tác giữa người và người hay yêu cầu cần thể hiện cảm xúc quá nhiều sẽ không phải lựa chọn hàng đầu của các INTP.\n\nDưới đây là các công việc phù hợp với INTP mà bạn có thể tham khảo:\n\n●    Nhà khoa học (đặc biệt trong nghiên cứu vật lý, hóa học)\n\n●    Chiến lược gia\n\n●    Giáo sư đại học\n\n●    Nhà Toán học\n\n●    Nhiếp ảnh gia\n\n●    Chuyên viên thiết lập kỹ thuật\n\n●    Lập trình viên\n\n●    Chuyên viên phân tích dữ liệu\n\n●    Nhà sáng tạo game\n\n●    Thẩm phán\n\n●    Luật sư\n\n●    Kỹ sư\n\n●    Người bảo vệ pháp lý và viên kiểm lâm\n\n●    Pháp y"
+                            "title": "Phát triển bản thân",
+                            "content": "Trong công việc, các ENFJ luôn mong chờ những nhiệm vụ và thử thách mới để từng bước hoàn thiện bản thân. Do đó, những công việc có tính chất lặp đi lặp lại sẽ khiến những Người cho đi nhanh chóng rơi vào trạng thái chán chường, nản chí.\n\n<i>“Trong thâm tâm, các ENFJ muốn những việc mình làm có thể mang lại nguồn năng lượng tích cực tới những người xung quanh.”</i>\n\nTrong số các nhóm tính cách MBTI thì ENFJ là nhóm có nhiều lựa chọn nghề nghiệp nhất, bởi họ là những cá nhân khá dễ chịu và mềm mỏng. Là một người thích mang niềm vui và hạnh phúc đến những người xung quanh, biết lắng nghe, biết thấu hiểu, dễ cảm thông, các ENFJ đặc biệt phù hợp với những công việc liên quan ở lĩnh vực bán hàng, tư vấn, tuyển dụng, báo chí, tâm lý.\n\nMặt khác, bởi những Người cho đi khá dễ bị chi phối bởi cảm xúc nên họ không có nhiều cơ hội thể hiện tốt nhất ở những công việc có áp lực cao, liên tục làm việc trong điều kiện căng thẳng, đòi hỏi tập trung cao độ như cảnh sát hình sự, bác sĩ cấp cứu, chuyên gia quân sự.\n\nCác ENFJ sẵn sàng cho đi và mong đợi những điều mình cho đi có thể giúp đỡ những người xung quanh, mang đến cho họ cuộc sống tốt đẹp hơn, đó là lý do mà những công việc trong lĩnh vực tôn giáo cũng rất phù hợp với họ.\n\nDưới đây là các công việc phù hợp với ENFJ mà bạn có thể tham khảo:\n\n● Chính trị gia\n\n● Nhà ngoại giao\n\n● Nhà tâm lý học\n\n● Công tác xã hội\n\n● Cố vấn\n\n● Nhà giáo\n\n● Nhà tư vấn\n\n● Quản lý nhân sự\n\n● Đại diện bán hàng\n\n● Tổ chức sự kiện\n\n● Nhà văn"
                         }
                     ]
                 },
@@ -2537,76 +2553,358 @@ export const mbtiData = {
                     "section": "Thói quen nơi công sở",
                     "items": [
                         {
-                            "content": "Đối với các INTP, họ không mong đợi hay đòi hỏi quá nhiều ở môi trường làm việc lý tưởng, họ chỉ đơn giản cần một không gian cho phép mình được phát huy những thế mạnh vốn có, nếu công việc đó không cần phải tương tác quá nhiều với khách hàng, đối tác hay các phòng ban khác thì càng tốt vì họ không phải là người giỏi xã giao.\n\nTuy nhiên, là một người có đầu óc nhanh nhạy, luôn không ngừng nảy ra những ý tưởng mới, những phương pháp mới thì một người đồng hành trong công việc là rất quan trọng với những người thuộc nhóm tính cách INTP."
+                            "content": "Các ENFJ là những người ấm áp và hòa đồng, cộng thêm đầu óc sáng tạo sẽ giúp họ có được lợi thế phát triển bản thân ở nhiều lĩnh vực khác nhau, cùng như dễ dàng hòa nhập với môi trường làm việc mới."
                         },
                         {
-                            "title": "INTP khi là nhân viên",
-                            "content": 'Khi được làm việc trong một môi trường làm việc cởi mở, linh hoạt, các nhân viên INTP sẽ phát huy được hết khả năng của mình, không ngừng sáng tạo và đổi mới. Ngược lại, nếu môi trường làm việc quá tù túng và kìm hãm thì những người thuộc nhóm tính cách INTP sẽ rất nhanh trở nên chán nản, thậm chí là bỏ bê công việc vì không có động lực để hoàn tất một cách chỉn chu nhất.\n\nTuy vậy, tin tốt đó là việc bắt đầu từ những vị trí thấp nhất trong nấc thang sự nghiệp sẽ có ích đối với các INTP. Những chức danh này giúp họ trau dồi những kỹ năng từ căn bản tới nâng cao để làm tiền đề cho những bước tiến xa hơn sau này.\n\nMặc dù các INTP có nhiều thế mạnh, nhưng họ vẫn có thể gặp khó khăn trong công việc, điển hình là khi gặp những vấn đề khó mà không thể giải quyết ngay lập tức. Song, các INTP hoàn toàn có thể tận dụng những thời khắc này để hoàn thiện bản thân về mặt chuyên môn và kinh nghiệm.'
+                            "title": "ENFJ khi là nhân viên",
+                            "content": 'Là nhân viên, các ENFJ muốn chứng minh năng lực và khẳng định giá trị của mình trong mắt cấp trên. Họ sẵn sàng nhận nhiệm vụ và có thể thực hiện nhanh chóng với thái độ niềm nở, không so đo, không cằn nhằn.\n\n<i>“Các ENFJ là những nhân viên chăm chỉ, đáng tin cậy và sẵn sàng giúp đỡ mọi người.”</i>\n\nTuy nhiên đặc điểm này cũng là một con dao hai lưỡi khi sự năng nổ trong công việc của họ bị một số cấp trên lợi dụng để dồn ép với khối lượng công việc lớn khiến họ thường xuyên phải tăng ca. Các ENFJ, dù có muốn hay không, vẫn sẽ cố hoàn thành công việc mà không kêu ca để giữ hòa khí ở môi trường làm việc.'
                         },
                         {
-                            "title": "INTP khi là đồng nghiệp",
-                            "content": "Ngoài việc trò chuyện xã giao thường ngày và trao đổi một vài kiến thức chuyên ngành, phần lớn thời gian các INTP sẽ cảm thấy đồng nghiệp mình có chút phiền khi liên tục ngắt đoạn dòng suy nghĩ của họ khi đang tập trung làm việc. Tuy nhiên, điều đó không có nghĩa là các INTP không muốn làm việc cùng đồng nghiệp, bởi việc kết hợp nhiều cái đầu trong công việc sẽ giúp vấn đề được giải quyết nhanh gọn hơn.\n\nDù các INTP thích tập trung vào một công việc nhất định nhưng họ cũng thích trải nghiệm ở nhiều lĩnh vực khác nhau. Bằng cách xây dựng mối quan hệ tốt đẹp với đồng nghiệp, họ có thể sẽ được khai sáng ở nhiều khía cạnh mà chính các INTP cũng chưa bao giờ ngờ tới."
+                            "title": "ENFJ khi là đồng nghiệp",
+                            "content": "Các ENFJ là những nhân tố vô cùng tài ba khi làm việc nhóm, bởi họ luôn tìm kiếm cơ hội để bản thân họ và đội nhóm cùng nhau phát triển, cùng nhau đi lên. Họ biết cách xây dựng một môi trường làm việc công bằng, bình đẳng, nơi mọi người — dù ở bất cứ vị trí nào — cũng có quyền nói lên ý kiến của mình.\n\nDù vậy, các ENFJ cũng nên cẩn trọng với những quyền hạn mà mình được trao, bởi không phải đồng nghiệp nào cũng nhận ra sự hồ hởi và nhiệt huyết của bạn trong công việc. Ngược lại, họ sẽ coi đó là một sự “vượt quyền” khi bạn cứ liên tục bảo họ phải làm cái này làm cái kia."
                         },
                         {
-                            "title": "INTP khi là cấp trên",
-                            "content": "Ở vị trí một nhà lãnh đạo, các INTP không quan tâm đến việc mình có bao nhiêu quyền hạn kiểm soát người khác. Thực tế, những vị sếp mang đặc điểm INTP thường giao nhiệm vụ căn bản cho cấp dưới, còn mình thì tập trung vào những đầu việc quan trọng và thú vị hơn.\n\nNhóm tính cách INTP thường sẽ là những vị cấp trên khá cởi mở và thoải mái, họ trao cho nhân viên của mình nhiều quyền tự quyết trong công việc. Tuy nhiên đừng vội mừng, vì những cấp trên INTP luôn đặt tiêu chuẩn cao trong công việc, cấp dưới của họ có thể làm bất cứ những gì mình thích miễn là hoàn thành một cách xuất sắc nếu không muốn bị phê bình thẳng tay.\n\nKhi dần tích lũy được kinh nghiệm, các cấp trên INTP có thể nhận ra rằng việc cân đối giữa phê bình và khích lệ sẽ nâng cao tinh thần cấp dưới để đạt kết quả tốt hơn."
+                            "title": "ENFJ khi là cấp trên",
+                            "content": "Nhiều ENFJ trời sinh đã là một người có khả năng lãnh đạo tài tình. Với vốn hiểu biết sâu rộng và khả năng truyền cảm hứng, họ sẽ không chỉ khiến bản thân mình được tỏa sáng mà còn giúp cả tập thể cùng đi lên.\n\n<i>“Cấp dưới của các ENFJ luôn được truyền cảm hứng và động lực trong công việc.”</i>\n\nCác ENFJ biết nhìn nhận điểm mạnh của mỗi người để giao những nhiệm vụ phù hợp. Như vậy, cấp dưới của họ cũng sẽ nhận thấy mình là một người có năng lực và được trọng dụng, từ đó nỗ lực hơn nữa để hoàn thành công việc được giao.\n\nTuy nhiên như vậy là chưa đủ, ngoài việc nắm được những thế mạnh của nhân viên, các cấp trên ENFJ cũng cần biết cấp dưới của mình đang yếu kém ở những mặt nào để nhanh chóng cải thiện và đưa xuống những nhiệm vụ vừa sức với họ, khuyến khích nhân viên từng bước hoàn thiện về mặt chuyên môn và kinh nghiệm."
                         },
                     ]
                 },
                 {
-                    "section": "So sánh INTP với ENTP, ISTP",
+                    "section": "So sánh ENFJ với INTJ, ENTP",
                     "items": [
                         {
-                            "content": "Khi so sánh INTP (Nhà tư duy) với những nhóm tính cách có sự tương đồng (E<b>NTP</b> - Người nhìn xa, <b>I</b>S<b>TP</b> - Nhà kỹ thuật), bạn sẽ hiểu hơn về đặc điểm tính cách nhóm INTP"
+                            "content": "Khi so sánh ENFJ (Người cho đi) với những nhóm tính cách khác có sự tương đồng (<b>I</b>N<b>FJ</b> - Người che chở, E<b>NFP</b> - Người truyền cảm hứng), bạn sẽ hiểu rõ hơn về đặc tính của nhóm ENFJ."
                         },
                         {
                             "title": "Điểm giống nhau",
-                            "content": 'T - Lý trí và P - Linh hoạt: Cả 3 nhóm tính cách này đều là những người lý trí, linh hoạt, có khả năng phân tích thông tin, xử lý logic, và hiệu quả trong cách tiếp cận và giải quyết vấn đề. Hơn nữa, cả INTP, ENTP, và ISTP đều có xu hướng làm việc độc lập và đưa ra quyết định dựa trên lý trí và kiến thức cá nhân.\n\nKhi đối chiếu INTP với ENTP, ISTP chúng tôi nhận thấy mỗi cặp sẽ có những điểm chung riêng như sau:\n\n●    I<b>NTP</b> và E<b>NTP</b>: Họ đều có xu hướng độc lập trong tư duy và suy nghĩ, nên thường giải quyết vấn đề theo cách riêng của mình, thay vì tuân theo quy tắc hay quan niệm xã hội chung.\n\n●    <b>I</b>N<b>TP</b> và <b>I</b>S<b>TP</b>: Họ không giỏi bộc lộ tình cảm, cảm xúc một cách chân thành trong các mối quan hệ.',
+                            "content": 'N (Trực giác) và F (Cảm xúc): Cả ba nhóm NF này đều có xu hướng suy nghĩ và ra quyết định dựa trên trực giác và cảm xúc. Họ sâu sắc, tinh tế, thích tương tác xã hội và luôn chú trọng đến cảm xúc của người khác.\n\nKhi đối chiếu ENFJ với từng nhóm INFJ, ENFP, chúng tôi nhận thấy giữa mỗi cặp sẽ có những điểm chung riêng như sau:\n\n● E<b>NFJ</b> và I<b>NFJ</b>: Cả hai nhóm đều hướng thiện và luôn nhiệt tình giúp đỡ mọi người có cuộc sống tốt hơn. ENFJ và INFJ cũng hết sức ôn hòa, ngại va chạm và tránh mâu thuẫn. Họ luôn hướng tới một môi trường yên bình nơi mà tất cả cùng vui vẻ, hòa đồng và có thể phát triển cùng nhau. Do cùng có yếu tố nguyên tắc (J - Judging) nên cả hai nhóm này đều có xu hướng tuân theo quy trình và kế hoạch khi hành động.\n\n● <b>ENF</b>J và <b>ENF</b>P: Đều hướng đến các mối quan hệ tích cực và lành mạnh, coi trọng vào những tiềm năng có thể xảy ra, có xu hướng lý tưởng hóa hơn là hiện thực hóa. Đồng thời, cả hai nhóm này đều rất cởi mở với những điều mới và tận hưởng quá trình khám phá. Do đều hướng ngoại (yếu tố E - Extrovert) nên cả ENFJ và ENFP đều rất ấm áp, dễ gần, quảng giao với khả năng giao tiếp tốt.',
                         },
                         {
                             "title": "Điểm khác nhau",
-                            "content": "INTP với ENTP, ISTP là những nhóm tính cách khác nhau, có những đặc điểm riêng biệt. Bạn sẽ thấy rõ điều này ở bảng dưới đây:" 
+                            "content": "Dù chỉ chênh nhau một chữ cái, song sự khác biệt giữa các nhóm tính cách này lại vô cùng rõ ràng. Bạn có thể thấy rõ điều này tại bảng so sánh sau:" 
                         },
                     ],
                     "tables": [
                         {
-                            "headers": ["Đặc điểm", "ENTP", "INTP", "ISTP"],
+                            "headers": ["Đặc điểm", "INFJ", "ENFJ", "ENFP"],
                             "rows": [
-                                ["Diễn giải chữ viết tắt", "<b>E - Hướng ngoại</b><br>N - Trực giác<br>T - Lý trí<br>P - Linh hoạt", "<b>I - Hướng nội</b><br><b>N - Trực giác</b><br>T - Lý trí<br>P - Linh hoạt", "I - Hướng nội<br><b>S - Cảnh giác</b><br>T - Lý trí<br>P - Linh hoạt"],
-                                ["Cách tiếp cận thông tin", "Dựa vào khả năng của bản thân để tự mình phân tích vấn đề từ nhiều góc độ và tìm ra giải pháp tối ưu", "Dựa trên những lập luận có căn cứ", "Dựa trên thông tin cụ thể, thực tế"],
-                                ["Trong các mối quan hệ", "- Không để ý đến việc kết giao, là người thoải mái, tự nhiên, có thể làm mọi người xung quanh vui vẻ<br>- Thích kết giao với những người thẳng thắn, trung thực, không vòng vo<br>- Đối với bạn bè thân thiết ENTP rất thích chọc ghẹo và mong chờ phản ứng từ đối phương", "- Không có nhu cầu kết giao, mà chỉ cần những người thật sự quý trọng và ảnh hưởng nhiều đến họ<br>- Thích kết giao với những người có chung sở thích và niềm đam mê<br>- Đối với INTP tình bạn đẹp là sự trung thành, cùng nhau học hỏi, cùng nhau phát triển", "- Thoải mái chấp nhận kết giao với cả những người có tính cách trái ngược bởi họ vốn cởi mở và thoải mái trong các mối quan hệ<br>- Thích kết giao với những người có chung sở thích<br>- Thích làm bạn với những người có tính cách năng động, sáng tạo"],
-                                ["Trong công việc", "- Là người có tính cách linh hoạt thích công việc như nhân viên kinh doanh, kỹ sư, diễn viên hoặc nhiếp ảnh gia<br>- Là người thích làm việc độc lập<br>- ENTP không thích phải lãnh đạo, dẫn dắt người khác mà muốn độc lập tự do", "- Thích công việc có tính sáng tạo như nghiên cứu trong phòng thí nghiệm, tư vấn viên hoặc freelancer<br>- Thích làm việc theo nhóm nhỏ<br>- Không phù hợp những công việc thiên về cảm xúc như nhân viên chăm sóc khách hàng, telesales", "- Tính tò mò, ưa tìm hiểu, thích tìm tòi phù hợp với những công việc như, thiết kế đồ họa hoặc pháp y<br>- Có khả năng làm việc độc lập<br>- Không hợp với những công việc mang hơi hướm truyền thống"]
+                                ["Diễn giải chữ viết tắt", "<b>I - Hướng nội</b><br>N - Trực giác<br>F - Cảm xúc<br>J - Nguyên tắc", "<b>E - Hướng ngoại</b><br>N - Trực giác<br>F - Cảm xúc<br><b>J - Nguyên tắc</b>", "E - Hướng ngoại<br>N - Trực giác<br>F - Cảm xúc<br><b>P - Linh hoạt</b>"],
+                                ["Cách tiếp cận thông tin", "- Dựa nhiều vào trực giác, kinh nghiệm của bản thân để tập trung xem xét ý nghĩa của từng sự vật, hiện tượng<br>- Có góc nhìn sâu sắc, đa chiều, độc lập thu thập thông tin trước rồi mới thảo luận cùng mọi người<br>- Có khả năng tiên đoán trước kết quả thông qua việc phân tích kỹ lưỡng", "- Cần liên tục tương tác với mọi người xung quanh để thu thập thông tin thông qua thảo luận nhóm, hợp tác chung, dự án chung<br>- Có thể gặp khó khăn trong việc sắp xếp các ý kiến phản hồi thu được do ý kiến chủ quan cá nhân chiếm ưu thế", "- Góc nhìn đa chiều, cởi mở, tiếp cận thông tin linh hoạt hơn<br>- Tận hưởng quá trình khám phá linh hoạt và thích nghi cao trong quá trình thu thập thông tin"],
+                                ["Trong các mối quan hệ", "- Chan hòa với mọi người. Ưa thích tụ tập nhóm nhỏ hơn là nhóm lớn<br>- Ưu tiên các cuộc hội thoại một một, mang tính cá nhân<br>- Kén chọn trong việc chọn vòng giao tiếp, coi trọng chất lượng hơn số lượng<br>- Cần thời gian một mình để nghỉ ngơi, suy nghĩ và đưa ra quyết định<br>- Bộc lộ cảm xúc tốt hơn thông qua viết lách, những cuộc hội thoại có chiều sâu, đề cao yếu tố chân thành và trung thực<br>- Bình tĩnh giải quyết mâu thuẫn thông qua lý lẽ và phân tích thấu đáo", "- Dễ kết giao, thích làm tâm điểm của đám đông<br>- Rất thích trao đổi với nhiều người, đa chủ đề. Không quan ngại khi gặp đám đông. Chủ động tìm đến các buổi tụ họp và thảo luận lớn nhằm mở mang tầm mắt<br>- Sẵn sàng chủ động làm quen và hosting các sự kiện, cởi mở trong việc kết giao người mới<br>- Cũng cần thời gian một mình nhưng không có nhu cầu nhiều thời gian riêng nhiều như INFJ<br>- Bản chất hoạt ngôn, có thể trình bày vấn đề thông qua diễn đạt lẫn hành động<br>- Khi gặp mâu thuẫn, ưu tiên sự hòa thuận và thống nhất trong mối quan hệ, đồng thời tìm cách để giải quyết mâu thuẫn triệt để", "- Quảng giao, chân thành và nồng nhiệt, tuy nhiên không ổn định và khó đoán<br>- Linh hoạt và tự phát chứ không nguyên tắc như ENFJ<br>- Khi gặp mâu thuẫn, không quá vội vã trong việc giải quyết vấn đề, có xu hướng thuận theo hoàn cảnh và từ từ gỡ rối<br>- Trong quá trình đưa ra quyết định, sẽ linh hoạt giữa nhiều phương án để tìm phương án tối ưu nhất, không quá quan trọng việc phải “chốt hạ” khẩn cấp như ENFJ<br>- Thoải mái, xởi lởi, hài hước và ít nguyên tắc hơn so với ENFJ"],
+                                ["Trong công việc", "- Hướng nội, tương tác 1-1 tốt hơn, phù hợp với dẫn dắt một nhóm nhỏ, biết lắng nghe và hỗ trợ đồng đội<br>- Không cương quyết bằng ENFJ song biết cách nhìn nhận sự việc qua góc nhìn của người khác<br>- Khả năng giải quyết mâu thuẫn tốt, biết cách dung hòa các ý kiến của mọi người<br>- Để đưa ra quyết định sẽ nhìn nhận từ nhiều khía cạnh, đồng thời dựa trên các giá trị và nguyên tắc cá nhân<br>- Khi căng thẳng trong công việc, INFJ cần thời gian riêng để tự ngẫm và giải tỏa áp lực, có xu hướng phức tạp hóa vấn đề khi stress", "- Xuất sắc trong teamwork, rất giỏi trong việc kết nối người với người, có khả năng dẫn dắt, động viên và truyền cảm hứng cho mọi người xung quanh, có tiềm năng trở thành lãnh đạo tốt<br>- Xuất sắc trong việc diễn đạt và trình bày ý kiến của bản thân, có năng khiếu thuyết trình trước đám đông<br>- Có khả năng thuyết phục cao, hướng đến môi trường làm việc tích cực và chan hòa<br>- Để đưa ra quyết định, có xu hướng tham vấn ý kiến của tất cả mọi người, đội nhóm<br>- Trong tình huống stress, ENFJ có thể cảm thấy bị áp lực khi luôn cố gắng đảm bảo mong muốn của tất cả mọi người", "- Sáng tạo, linh hoạt hơn ENFJ<br>- Thích khám phá và áp dụng quy trình mới<br>- Cũng xuất sắc trong việc diễn đạt và thuyết phục nhưng sẽ mang tính tự phát và ít nguyên tắc hơn so với ENFJ<br>- Ở cương vị leader, ENFP hướng đến sự đổi mới, có tầm nhìn và không ngại rủi ro<br>- Khi ở vai trò phải đưa ra quyết định, ENFP xem xét nhiều lựa chọn rồi mới quyết<br>- Trong trường hợp stress, ENFP cần hỗ trợ từ nhiều người để cân bằng và tập trung trở lại"]
                             ]
                         }
                     ],
-                    "content": "Cả 3 nhóm INTP với ENTP, ISTP đều là những người có tư duy logic và khá thoải mái kết giao trong các mối quan hệ. Tuy nhiên, cách họ tiếp cận thông tin, tương tác và ra quyết định lại có sự khác biệt rõ rệt.\n\nTheo đó, ENTP thích dựa vào bản thân để tìm ra vấn đề, trong khi INTP thường xuất sắc trong việc phân tích và lập luận có căn cứ, còn ISTP lại chú trọng vào thông tin cụ thể thực tế, điều này ít nhiều ảnh hưởng đến tích cách, sự khác biệt trong các mối quan hệ và phát triển bản thân." 
+                    "content": "Cả ba nhóm ENFJ, INFJ và ENFP đều có điểm chung trong cách thể hiện sự quan tâm đến người khác và tìm kiếm ý nghĩa trong cuộc sống. Tuy nhiên, cách họ tiếp cận thông tin, tương tác và ra quyết định lại có sự khác biệt rõ rệt.\n\nTrong khi ENFJ nổi bật với khả năng tổ chức và lãnh đạo, INFJ nhạy bén về mặt cảm xúc và có khả năng thấu hiểu người khác sâu sắc, thì ENFP lại hướng đến sự linh hoạt và sáng tạo hơn. Sự đa dạng này tạo nên những đặc điểm riêng biệt, thay đổi hoàn toàn cách họ xây dựng vòng tròn quan hệ cũng như định hình hướng đi trong cuộc đời." 
                 },
                 {
-                    "section": "Lời khuyên dành cho INTP",
+                    "section": "Lời khuyên dành cho ENFJ",
                     "items": [
                         {
-                            "title": "Trau dồi điểm mạnh và khắc phục điểm yếu",
-                            "content": "INTP có năng khiếu trong việc nắm vững các vấn đề logic, vì vậy bạn nên cho bản thân mình nhiều cơ hội để rèn luyện khả năng của mình. Bạn sẽ tìm được hạnh phúc thông qua những trải nghiệm đó.\n\nAi cũng có điểm yếu và các INTP cũng vậy. Hãy chấp nhận điểm yếu (mà không tự trách cứ bản thân) sẽ tạo cho bạn sức mạnh để thay đổi cuộc sống theo hướng tốt đẹp hơn."
+                            "content": "Để có cuộc sống viên mãn và hoàn chỉnh hơn, các ENFJ cần biết phát huy các thế mạnh và cân bằng các điểm yếu của mình.\n\nENFJ cực kỳ nổi bật với khả năng thấu hiểu, truyền cảm hứng và động viên mọi người xung quanh để tiến bộ và phát triển hơn. Bởi vậy, các ENFJ nên phát huy các thế mạnh sau:\n\n● Động viên và ghi nhận, khiến mọi người xung quanh cảm thấy được trân trọng\n\n● Gắn kết và giữ hòa khí giữa người với người ở môi trường tập thể\n\n● Thấu hiểu và giúp đỡ mọi người xung quanh hoàn thiện bản thân\n\nNgoài việc phát huy thế mạnh, ENFJ cần đầu tư thời gian khắc phục điểm yếu của bản thân."
                         },
                         {
-                            "title": "Bước ra khỏi vùng an toàn",
-                            "content": 'Cách duy nhất để INTP phát triển là cần ra khỏi vùng an toàn của mình, tập trung vào việc tiếp nhận càng nhiều thông tin càng tốt và cần cởi mở với bản thân để đón nhận những trải nghiệm mới, niềm vui mới.',
+                            "title": "Nhìn nhận mọi việc ở tầng sâu hơn",
+                            "content": 'Để sống hạnh phúc, các ENFJ nên nhìn nhận mọi việc có chiều sâu hơn. Đừng láu táu vội vã trong quyết định của mình, các ENFJ nên dành thời gian để cân nhắc kỹ lưỡng các chi tiết và xác định tiềm lực của mình trước khi bắt tay làm một dự án lớn.',
                         },
                         {
-                            "title": "Chịu trách nhiệm với chính bản thân mình",
-                            "content": "Đừng đổ lỗi cho người khác. Thay vào đó, hãy suy nghĩ về cách giải quyết, tìm kiếm giải pháp, và đưa ra quyết định có thể giúp bạn kiểm soát tốt hơn tình huống của mình, và ngày càng hoàn thiện phát triển bản thân. Bởi không ai có khả năng điều khiển cuộc sống của bạn hơn là chính bạn."
+                            "title": "Biết giới hạn của mình",
+                            "content": "Với tính cách ôm đồm và thích làm hài lòng người khác, các ENFJ rất dễ nhận về phần mình nhiều việc hơn thực tế họ có thể hoàn thành. Các ENFJ nên biết tự lượng sức mình trước khi nhận việc. Ngoài ra, thay vì chỉ chăm chú vào tổng khối lượng công việc để rồi cảm thấy bị “quá tải”, các ENFJ nên biết cách chia nhỏ công việc ra để dần đạt được mục tiêu."
                         },
                         {
-                            "title": "Bày tỏ cảm xúc của mình",
-                            "content": "INTP thường gặp khó khăn trong việc hiểu cảm giác, cảm xúc về một người khác. Vì vậy để duy trì phát triển một mối quan hệ tốt đẹp, hãy nói cho họ biết mỗi lần bạn nghĩ đến điều gì, đồng thời chia sẻ rõ ràng, thẳng thắn vấn đề với họ. Đây là cách tốt nhất để họ cảm thấy an toàn khi ở cạnh bạn, và cũng là một cơ hội để mối quan hệ ngày càng bền vững."
+                            "title": "Cần biết đối mặt với mâu thuẫn",
+                            "content": "Các ENFJ thường né tránh mâu thuẫn bằng mọi giá và thường cố gắng tỏ ra đồng tình với người khác chỉ vì ngại tranh cãi. ENFJ cần hiểu rằng mâu thuẫn là điều khó tránh khỏi trong cuộc sống. Đối mặt để giải quyết mâu thuẫn sẽ giúp mọi người hiểu nhau hơn, và đôi khi sẽ giúp gỡ rối khúc mắc, giúp mỗi cá nhân đạt được ý nguyện của mình. Các cuộc tranh luận, đối mặt với những ý kiến trái chiều đóng vai trò cốt lõi để trưởng thành và phát triển bản thân hơn."
                         },
                         {
-                            "title": "Học cách lắng nghe",
-                            "content": "Mỗi người đều có cuộc sống và quan điểm riêng. Vì vậy họ có quyền bày tỏ mong muốn nên INTP đừng gạt bỏ mọi thứ ngay lập tức, mà hãy để nó ngầm từ từ vào bạn, rồi từ đó hãy bắt đầu phán xét."
+                            "title": "Phát triển khả năng sáng tạo",
+                            "content": "Các ENFJ có thể hơi nguyên tắc đôi lúc mà bỏ qua sự sáng tạo và linh hoạt trong đời sống. Để hoàn thiện bản thân hơn, các ENFJ nên tập trung vào phát triển khía cạnh sáng tạo trong con người họ. Có thể thử viết lách, vẽ vời hay tham gia các hoạt động giúp phát huy tính sáng tạo.\n\nNgoài ra, ENFJ nên dành thời gian riêng tĩnh lặng một mình để thực sự tìm hiểu và khám phá nguyện vọng của bản thân."
+                        }
+                    ]
+                },
+            ]
+        },
+        {
+            "code": "ENTJ",
+            "name": "Người cho đi",
+            "description": "Nhóm tính cách ENFJ là những người có khả năng tác động mạnh tới người khác thông qua cả hành động lẫn lời nói. Họ là những người tham vọng nhưng không hề tư lợi mà luôn hướng đến mục tiêu và lợi ích chung của cộng đồng. Đặc biệt, khả năng thấu hiểu và đồng cảm mạnh mẽ khiến các ENFJ trở thành nhân tố quan trọng trong những lĩnh vực liên quan tới con người.",
+            "image": "../img/enfj.png",
+            "details": [
+                {
+                    "section": "Tổng quan",
+                    "items": [
+                        {
+                            "content": "Nhóm tính cách <b>ENFJ (Người cho đi)</b> là những người có khả năng tác động mạnh tới người khác thông qua cả hành động lẫn lời nói. Họ là những người tham vọng nhưng không hề tư lợi mà luôn hướng đến mục tiêu và lợi ích chung của cộng đồng. Đặc biệt, khả năng thấu hiểu và đồng cảm mạnh mẽ khiến các ENFJ trở thành nhân tố quan trọng trong những lĩnh vực liên quan tới con người."
                         },
                         {
-                            "title": "Tôn trọng các nguyên tắc xã hội",
-                            "content": "Bạn nên chấp nhận rằng xã hội được bao hàm bởi những nguyên tắc cơ bản, và nó sẽ không thể phát triển nếu những nguyên tắc đó không được thừa nhận và ủng hộ.\n\nTrong nền dân chủ, người ta phải bỏ phiếu. Gặp đèn đỏ, người ta phải dừng xe. Nếu họ không bỏ phiếu chỉ vì đối với họ điều đó không quan trọng, vậy ai sẽ là người nắm quyền? Nếu họ không dừng xe lại khi gặp đèn đỏ bởi điều đó không nằm trong kế hoạch của họ, vậy thì làm sao chúng ta có thể lái xe an toàn? Những ưu tiên và kế hoạch của bạn rất quan trọng, nhưng bạn phải thừa nhận rằng những vấn đề của thế giới bên ngoài cũng quan trọng không kém. Đừng gạt bỏ tầm quan trọng của những nguyên tắc, dù cho chúng không có ảnh hưởng trực tiếp đến cuộc sống của bạn."
+                            "title": "ENFJ là viết tắt của những chữ cái gì?",
+                            "content": "● <b>E - Hướng ngoại:</b> Đối với bạn, thế giới bên ngoài mới là thế giới thực. Trái ngược với tính cách I - Hướng nội luôn đắm mình trong thế giới nội tâm.\n\n● <b>N - Trực giác:</b> Bạn tập trung vào ý nghĩa của sự vật, sự việc, khác với những người có tính cách S - Giác quan sử dụng cả năm giác quan thị giác, thính giác, khứu giác, vị giác, cảm giác để nhìn nhận và đánh giá.\n\n● <b>F - Cảm xúc:</b> Bạn đưa ra quyết định chủ yếu dựa trên cảm nhận cá nhân. Ngược lại, những người có tính cách T - Lý trí lại đưa ra quyết định dựa vào số liệu và đo lường chính xác.\n\n● <b>J - Nguyên tắc:</b> Bạn dựa vào cấu trúc sẵn có để thoải mái đưa ra quan điểm mà không phải mất công suy xét nhiều. Trong khi đó, những người thiên về tính cách P - Linh hoạt lại thích môi trường tự do và họ sẽ tự sắp đặt quy tắc bên trong cho mình."
+                        },
+                        {
+                            "title": "Đối nhân xử thế",
+                            "content": 'Các ENFJ đặc biệt quan tâm tới những mối quan hệ giữa người với người. Họ có khả năng đồng cảm sâu sắc và có kỹ năng đối nhân xử thế vô cùng xuất sắc. Mục tiêu lớn nhất trong cuộc đời của mỗi ENFJ là mang lại niềm vui và lan tỏa tình yêu thương tới mọi người. Họ muốn cho đi và luôn tự hào khi được cho đi.',
+                        },
+                        {
+                            "title": '"Đi guốc trong bụng"',
+                            "content": "Các ENFJ hiểu chính xác người khác đang nghĩ gì và muốn gì như “đi guốc trong bụng”, vì vậy rất dễ để khiến những người xung quanh làm theo ý họ như một cách thao túng tâm lý (và điều này không mang nghĩa tiêu cực đâu nhé)."
+                        },
+                        {
+                            "title": 'Thương người hơn thương mình',
+                            "content": "Các ENFJ là những người vô cùng hướng ngoại, vì vậy những giây phút được tách biệt bản thân một mình để ngẫm nghĩ là vô cùng quan trọng với họ.\n\nTuy vậy thật khó để các ENFJ có thể dành thời gian suy ngẫm một mình bởi họ sẽ cảm thấy bế tắc và tiêu cực khi ở trong không gian tinh thần khép kín như vậy, đó không phải tính cách của họ, cũng không phải điều họ mong muốn, họ thích được tiếp xúc với nhiều người và thả hồn ở những không gian mở.\n\nCác ENFJ thích giúp đỡ mọi người, đôi khi họ sẵn sàng đặt lợi ích của người khác lên trên cả lợi ích của bản thân và coi đó như một niềm hạnh phúc.\n\nĐối với họ, việc xây dựng một mối quan hệ giữa người và người là vô cùng quan trọng, và họ sẽ dành thật nhiều tâm huyết vào việc duy trì mối quan hệ tuyệt vời với những người xung quanh.\n\nTrong vấn đề tình cảm, các ENFJ là những người rất đáng tin cậy và trung thành."
+                        },
+                        {
+                            "title": 'Đầu "E" nhưng mà "E" trong "E dè"',
+                            "content": "So với những tính cách hướng ngoại khác thì các ENFJ có xu hướng dè dặt hơn trong việc bộc lộ suy nghĩ của bản thân mặc dù họ không hề tự ti một chút nào. Bởi có xu hướng tiếp xúc nhiều với những người xung quanh nên tính cách của các ENFJ khá linh hoạt, họ có thể thích nghi với nhiều kiểu người ở nhiều điều kiện khác nhau."
+                        },
+                        {
+                            "title": "Ngắn gọn súc tích",
+                            "content": "Tuy nhiên điều đó không có nghĩa là ENFJ không biết đấu tranh cho tiếng nói của mình. Họ có khả năng truyền đạt thông tin một cách gãy gọn, súc tích. Phong cách giao tiếp thường thấy ở các ENFJ là cởi mở và vui vẻ, chỉ cần không đề cập tới những vấn đề quá riêng tư thì họ sẽ sẵn sàng trò chuyện không chút e dè."
+                        },
+                        {
+                            "title": "Thông minh, chính trực",
+                            "content": "ENFJ nổi tiếng là tuýp người thông minh, chính trực và thẳng thắn. Họ cũng có khả năng làm việc ở nhiều lĩnh vực khác nhau, thậm chí còn đạt kết quả khá tốt."
+                        },
+                        {
+                            "title": "Tâm hồn đồng điệu",
+                            "content": "Trong công việc, các ENFJ thích hợp nhất với những công việc đòi hỏi tiếp xúc nhiều với khách hàng hoặc hợp tác với những phòng ban khác, bởi họ là những cá nhân xuất sắc trong việc đồng cảm và thấu hiểu người khác. Các ENFJ cũng rất giỏi truyền cảm hứng cho những người xung quanh, biến môi trường làm việc trở thành mái nhà chung ấm áp hơn."
+                        },
+                        {
+                            "title": "Ngăn nắp, gọn ràng",
+                            "content": "Những người ENFJ yêu sự ngăn nắp và gọn gàng trong công việc cũng như trong đời sống hàng ngày."
+                        },
+                        {
+                            "title": "Cảm xúc lấn át",
+                            "content": "Việc phải gạt đi cảm xúc để đưa ra quyết định rất khó đối với các ENFJ, thậm chí họ sẽ phải dựa vào người khác để có thể giữ một cái đầu lạnh để không đưa ra những nhận định chóng vánh, thiếu suy nghĩ."
+                        },
+                        {
+                            "title": "Những vị khách thân thiện",
+                            "content": "Nhìn chung, các ENFJ là những cá nhân thu hút, nhiệt tình, hòa nhã và thân thiện trong mối hệ với những người xung quanh. Đặc điểm này cho phép họ có khả năng thấu hiểu và thúc đẩy những người xung quanh khai phá ra tiềm năng mới, đây cũng là điều khiến các ENFJ rất tự hào ở bản thân."
+                        },
+                        {
+                            "title": "Những người nổi tiếng mang tính cách ENFJ",
+                            "content": "● Martin Luther King, Jr.\n\n● Nelson Mandela\n\n● Michael Jordan\n\n● Jennifer Lawrence\n\n● Emma Stone\n\n● Dino (Seventeen)\n\n● Jung Yunho (TVXQ)\n\n● Kim Jaejoong (JYJ)"
+                        }
+                    ]
+                },
+                {
+                    "section": "Điểm mạnh và điểm yếu",
+                    "items": [
+                        {
+                            "title": "Điểm mạnh",
+                            "itemsChild": [
+                                {
+                                    "titleChild": "Biết tiếp thu",
+                                    "content": "Tuy là những người biết bảo vệ quan điểm của mình nhưng các ENFJ vẫn rất chịu khó tiếp thu thêm ý kiến của người khác, kể cả những ý kiến đối lập trái chiều, bởi họ hiểu tầm quan trọng của việc bày tỏ quan điểm cá nhân.",
+                                },
+                                {
+                                    "titleChild": "Tạo động lực và truyền cảm hứng",
+                                    "content": "Một trong những thế mạnh lớn nhất của ENFJ là luôn biết cách thuyết phục và động viên mọi người xung quanh, đồng thời tạo cảm hứng cho tất cả mọi người cùng hướng tới một môi trường tích cực.",
+                                },
+                                {
+                                    "titleChild": "Giao tiếp, truyền đạt tốt",
+                                    "content": "Các ENFJ có kỹ năng truyền đạt cực kỳ tốt trong mọi ngữ cảnh. Điểm mạnh này giúp các ENFJ dễ dàng thăng tiến và gây thiện cảm với mọi người xung quanh. Các ENFJ thường không ngại đám đông và cực kỳ khôn khéo, với ai họ cũng có thể giao tiếp nói chuyện, kể những câu chuyện hấp dẫn và trở thành tâm điểm của của sự chú ý.",
+                                },
+                                {
+                                    "titleChild": "Vị tha",
+                                    "content": "Nhóm tính cách ENFJ ấp ủ một niềm mong mỏi sâu sắc, đó là trở thành động lực cho những sự thay đổi tích cực. Họ tin rằng chỉ với sự đồng lòng và đoàn kết của toàn nhân loại, thế giới sẽ trở nên tốt đẹp hơn.",
+                                },
+                                {
+                                    "titleChild": "Có sức hút, có tính thuyết phục cao",
+                                    "content": 'Với tính cách kiên định và lời nói truyền cảm hứng, các ENFJ rất hợp với vai trò lãnh đạo. Bất kể được bổ nhiệm vào vị trí nào thì họ cũng luôn đặt mục tiêu con người lên hàng đầu.\n\nNgoài ra, các ENFJ rất giỏi trong việc thuyết phục người khác, nhưng không phải với mục đích thao túng tâm lý mà là với mục đích tốt đẹp muốn người khác cải thiện bản thân, tiến bộ trong cuộc sống. Tính cách này giúp các ENFJ dễ dàng được người khác tín nhiệm và nghe theo.',
+                                },
+                            ],
+                        },
+                        {
+                            "title": "Điểm yếu",
+                            "itemsChild": [
+                                {
+                                    "titleChild": "Thiếu thực tế",
+                                    "content": 'Nhiều ENFJ tự ép bản thân phải bù đắp mọi sai lầm mà họ bắt gặp trên cuộc đời này, kể cả khi đó là vấn đề của người khác, và dĩ nhiên điều đó gần như là bất khả thi. Nếu quá sa đà vào việc “bất bình như thể đó là việc của mình” thì họ có thể rơi vào tình huống phải ôm đồm quá nhiều việc cùng lúc và kết quả là không thể giúp ích được cho ai.',
+                                },
+                                {
+                                    "titleChild": "Nguyên tắc",
+                                    "content": "Các ENFJ là những người có nguyên tắc, biết phân biệt rạch ròi đúng - sai, và họ thường cho rằng mọi người cũng có (hoặc ít nhất là nên có) những nguyên tắc cơ bản giống như họ để cân bằng cuộc sống và đưa ra những quyết định đúng đắn hơn. Những cá nhân có xu hướng đi ngược lại những quy định, nguyên tắc ấy sẽ không được các ENFJ đánh giá cao.",
+                                },
+                                {
+                                    "titleChild": "Thái độ trịch thượng",
+                                    "content": "Những người thuộc nhóm tính cách ENFJ thích dạy bảo người khác, nhất là khi bị đụng tới niềm tin cốt lõi của họ. Tuy nhiên, đôi khi nỗ lực “khai sáng” người khác của các ENFJ có thể bị coi là thái độ bề trên, thiếu tôn trọng.",
+                                },
+                                {
+                                    "titleChild": "Nóng tính, nóng vội",
+                                    "content": "Trong quá trình làm việc, các ENFJ luôn trong trạng thái đầy năng lượng và quyết tâm, và họ sẽ thúc ép những người xung quanh phải bắt nhịp được với guồng công việc của họ. Tuy nhiên không phải ai cũng có những phẩm chất trên để theo kịp các ENFJ, đa phần họ sẽ cảm thấy bức bối khi cứ liên tục bị dồn ép phải bắt tay hoàn thành công việc theo ý muốn của những Người cho đi.\n\nCác ENFJ cũng rất dễ hứng lên và lao đầu vào hành động mà chưa lên kế hoạch rõ ràng và cụ thể. Dễ dẫn đến hậu quả “nói trước bước không qua”.",
+                                },
+                                {
+                                    "titleChild": "Cả nể",
+                                    "content": 'Lòng trắc ẩn là một trong những điểm mạnh nhất của nhóm tính cách ENFJ. Tính cách “thích làm dâu trăm họ”, ôm đồm vấn đề của người khác như là của mình thì sớm muộn cũng khiến các ENFJ dần kiệt quệ về mặt tinh thần lẫn thể chất.',
+                                },
+                                {
+                                    "titleChild": "Thiếu quyết đoán và thiếu logic",
+                                    "content": 'Các ENFJ thường không được lý trí cho lắm. Họ thường thiên về cảm xúc và dễ có tính thiên vị, không công bằng khi đưa ra quyết định.',
+                                }
+                            ],
+                        }
+                    ]
+                },
+                {
+                    "section": "Mối quan hệ",
+                    "items": [
+                        {
+                            "content": 'ENFJ được bạn bè đánh giá là người ấm áp và tốt bụng, họ thích kết giao và trò chuyện với những người mới, lắng nghe những câu chuyện mới. Tuy nhiên họ lại khá kén chọn và tỉ mỉ khi muốn làm thân với một ai đó, những điều mà họ tìm kiếm ở một mối quan hệ khăng khít là sự chân thành mà hai người dành cho nhau.\n\nMặc dù mang trong mình đặc điểm F (Tình cảm) và đặt nặng tình cảm trong một mối quan hệ nhưng các ENFJ cũng sẵn sàng đưa ra lời góp ý và phê bình từ tận đáy lòng khi gặp những chuyện bất bình. Tuy vậy thật khó để bạn có thể giận một ENFJ khi bị họ phê bình bởi lời nói của ENFJ quá đỗi ngọt ngào và chân thành.\n\nTrong tình bạn, những người thuộc nhóm tính cách ENFJ sẵn sàng giúp đỡ bạn bè mình một khi có thể, và điều đó khiến họ rất tự hào về bản thân. Các ENFJ có thể dành hàng giờ, hàng ngày hoặc hàng tháng để giúp đỡ ai đó nhận ra điểm mạnh điểm yếu của mình và hoàn thiện bản thân hơn trong tương lai. Đổi lại, những Người cho đi cũng hy vọng bạn bè có thể đối xử với họ chân thành như vậy.\n\nNhìn chung, các ENFJ luôn nhiệt tình và hết mình trong mọi mối quan hệ, họ đề cao sự trung thực và đồng cảm giữa người với người. Các ENFJ có khả năng ứng xử và ngoại giao tốt, chu đáo và ân cần với tất cả mọi người. Họ thích giúp đỡ người khác và cảm thấy mãn nguyện khi lòng tốt của mình được đặt đúng chỗ. Với những tình huống khó, những Người cho đi sẽ không ngần ngại thể hiện sự sắc sảo và nhạy bén của mình trong việc đưa ra quan điểm và tìm hướng giải quyết, sau đó họ sẽ giấu đi gai nhọn và trở về làm một chú cừu tốt bụng đáng yêu nhất trên đời.'
+                        },
+                        {
+                            "title": "ENFJ trong tình yêu",
+                            "itemsChild": [
+                                {
+                                    "content": "Nhóm tính cách ENFJ không chấp nhận bất cứ điều gì không phù hợp với lý tưởng của họ, cả trong tình yêu cũng thế.\n\n<i>“Các ENFJ muốn yêu bằng vẻ đẹp tâm hồn hơn là vẻ đẹp ngoại hình.”</i>\n\nDù nhóm tính cách này có thể trông rất cởi mở, thậm chí đôi khi thích “thả thính” lung tung, nhưng họ không phải kiểu người có thể yêu từ cái nhìn đầu tiên. Các ENFJ có tiêu chuẩn khá cao trong việc lựa chọn bạn đời và họ cho rằng “tình yêu sét đánh” là vô cùng quý giá và chỉ đến khi chúng ta gặp được định mệnh của đời mình.",
+                                },
+                                {
+                                    "titleChild": "Chủ động trong tình yêu",
+                                    "content": "Khi ENFJ phải lòng ai đó, họ thường yêu một cách mãnh liệt và không e dè. Nhóm tính cách ENFJ là một trong những kiểu người thích “tấn công” thay vì “phòng thủ”, họ thường là chủ động trước thay vì chờ đợi hoặc dè dặt dò xét tình cảm của đối phương.\n\nTrong tình yêu, sự “tấn công” không dè chừng từ các ENFJ quả là một điều mới lạ. Việc chủ động này, kết hợp với sự say mê khi gặp người mình thích, đã tạo nên sức hút không thể chối từ của những Người cho đi. Tuy nhiên, chủ động nhiều thì khả năng bị từ chối càng nhiều, và các ENFJ chấp nhận điều đó.\n\n<i>“Những người thuộc nhóm tính cách ENFJ là những nửa kia vô cùng chân thành và đáng tin, họ cũng sẵn sàng dành nhiều thời gian và nỗ lực để chứng minh tấm lòng son của mình.”</i>",
+                                },
+                                {
+                                    "titleChild": "Cùng vương tới ước mơ",
+                                    "content": "Ngay từ buổi hẹn hò đầu tiên, bạn đã có thể nhận thấy các ENFJ là những người rất sâu sắc qua cách họ gợi chuyện. Những Người cho đi sẽ không hỏi những câu hỏi xã giao như bạn làm nghề gì, bạn thích màu gì, bạn thích quần áo của thương hiệu nào. Thay vào đó, họ sẽ quan tâm nhiều hơn tới ước mơ và lý tưởng của bạn, những điều mà bạn mong đợi ở bản thân trong tương lai. Và nếu có cơ hội, họ sẽ tìm cách giúp bạn hiện thực hóa giấc mơ của mình.\n\n<i>“Đối với ENFJ, một trong những niềm vui lớn nhất của cuộc đời là giúp người khác hiện thực hóa giấc mơ của mình.”</i>\n\nNếu mối quan hệ giữa hai người tiến thêm một bước, các ENFJ có thể sẵn sàng coi mục tiêu của đối phương quan trọng như thể đó là mục tiêu của chính mình. Mặt trái của việc “ăn cơm nhà vác tù và hàng tổng” này là những Người cho đi có thể bỏ bê việc chăm sóc và nuôi dưỡng ước mơ của chính mình.\n\nMột vấn đề khác có thể nảy sinh trong mối quan hệ của các ENFJ là họ có thể tạo động lực hơi quá đà lên nửa kia của mình, gần như là thúc ép. Hệ quả là người yêu của các ENFJ có thể cảm thấy tức giận, cảm thấy bị đánh giá thấp hoặc thậm chí là tự ti vì nghĩ mình thật yếu kém. Đây là lý do mà những Người cho đi cần học cách từ tốn trong mọi mối quan hệ để có thể đi cùng nhau lâu dài.",
+                                },
+                                {
+                                    "titleChild": "Một chặng đường dài",
+                                    "content": "Rất ít nhóm tính cách có được sự chung tình một cách tuyệt đối với đối tượng mà họ đã chọn như là các ENFJ. Họ nghiêm túc trong tình yêu cũng như trong mọi mối quan hệ. Ngay từ những ngày mới quen nhau, họ đã có ý tưởng xây dựng một câu chuyện tình yêu đẹp như cổ tích, và khi mối quan hệ chín muồi, họ sẽ biến điều đó thành hiện thực.\n\n<i>“Mặc dù các ENFJ biết cách tận hưởng từng phút giây trong cuộc sống, nhưng họ cũng hiểu rằng tình yêu không chỉ có niềm vui mà là sự bù trừ lẫn nhau về mặt tâm hồn.”</i>\n\nCác ENFJ quan tâm đến việc làm hài lòng người yêu của mình, sự nhạy bén giúp họ dễ dàng bắt sóng những thay đổi trong tâm trạng và mong muốn của đối phương. Miễn là họ không bỏ quên việc chăm chút bản thân thì các ENFJ có thể có được những mối quan hệ vô cùng tuyệt vời dựa trên sự chân thành, tin tưởng, hỗ trợ lẫn nhau - và tất nhiên là cả tình yêu.",
+                                },
+                            ],
+                        },
+                        {
+                            "title": "ENFJ trong tình bạn",
+                            "itemsChild": [
+                                {
+                                    "content": "Việc dễ dàng kết nối với mọi người khiến các ENFJ cảm thấy tràn đầy năng lượng. Trong tình bạn, họ luôn chân thành và thẳng thắn bởi các ENFJ là những người biết trân trọng tình bạn và coi đó như một phần không thể thiếu trong cuộc đời.",
+                                },
+                                {
+                                    "titleChild": "Lắng nghe",
+                                    "content": "Rất ít nhóm tính cách sẵn sàng dành thời gian lắng nghe và tiếp thu quan điểm của người khác như các ENFJ. Với họ, việc khám phá những điều bí ẩn (thậm chí là có phần điên rồ) của những người xung quanh là thú vui thuần túy nhất, giúp họ có thể mở mang kiến thức và tiếp thu nhiều điều mới mẻ.\n\n<i>“Các ENFJ kết bạn với mọi kiểu người, kể cả những người có tư duy khác hẳn với họ.”</i>\n\nNhững người thuộc nhóm tính cách ENFJ chỉ không thích những người có tư tưởng bảo thủ và không chịu đổi mới, ngược lại, họ dễ kết thân nhất với những nhóm tính cách có suy nghĩ cởi mở như mình.\n\nTuy luôn niềm nở những lúc quây quần bên bạn bè nhưng chỉ khi ở cạnh những người thực sự thân thiết, các ENFJ mới sẵn sàng mở lòng, thậm chí trở nên có phần yếu đuối và dựa dẫm, vì họ biết mình đang được bảo vệ và nâng niu.",
+                                },
+                                {
+                                    "titleChild": "Vượt qua những thăng trầm",
+                                    "content": "Các ENFJ là một trong những người bạn tốt mà ai cũng nên có trong đời. Họ tốt bụng, đáng tin cậy và luôn dành sự quan tâm nồng nhiệt cho người khác. Đổi lại, họ cũng muốn lòng tốt của mình được đón nhận và đáp lại bằng tất cả niềm thương yêu.\n\n<i>“Đối với mọi người, từ quen biết xã giao tới thân thiết như người một nhà, các ENFJ luôn cố gắng tạo dựng các mối quan hệ sâu sắc, ý nghĩa, bền chặt.”</i>\n\nCác ENFJ luôn sát cánh bên người bạn của mình, đặc biệt trong những giai đoạn khó khăn nhất. Những Người cho đi có thể thức cả đêm để giúp người bạn cùng nhà chuẩn bị một chiếc CV hoàn hảo trước buổi phỏng vấn, hoặc lên kế hoạch tổ chức sinh nhật vô cùng tỉ mỉ cho người bạn thân, tất cả đều vì một mục đích: mang lại niềm vui cho những người xung quanh.\n\n<i>“Nụ cười của bạn là điều vô giá đối với tôi.”</i>",
+                                },
+                                {
+                                    "titleChild": "Tìm kiếm sự cân bằng",
+                                    "content": "Lòng tốt được cho đi nhưng không phải bao giờ cũng được đáp lại đúng cách. Đối với sự giúp đỡ của các ENFJ, có người sẽ lựa chọn đón nhận một cách biết ơn, có người thì không, đơn giản vì họ cảm thấy không cần thiết hoặc đã tìm được sự giúp đỡ lớn hơn. Đây quả là một điều đáng tiếc cho các ENFJ, bản thân họ cũng sẽ rất thất vọng khi nhận ra những hy vọng và mong đợi mình đặt lên người khác bị đổ sông đổ bể.",
+                                }
+                            ],
+                        },
+                        {
+                            "title": "ENFJ khi làm cha mẹ",
+                            "itemsChild": [
+                                {
+                                    "content": "Các ENFJ sẽ dùng tất cả những kiến thức và kỹ năng mình có để thực hiện thiên chức làm cha mẹ của mình. Họ ý thức được tầm quan trọng của việc nuôi dạy những đứa trẻ nên người, giúp chúng trở thành những công dân có ích cho xã hội.\n\nĐể làm được điều này, các ENFJ cố gắng xây dựng một mái ấm đầy yêu thương, sẵn sàng chở che và ở phía sau làm hậu phương vững chắc cho những đứa trẻ. Họ cũng khuyến khích con cái mình được tự do và chủ động nêu lên quan điểm của mình.",
+                                },
+                                {
+                                    "titleChild": "Những bài học quan trọng trong cuộc sống",
+                                    "content": "Tuy nhiên, bản thân các ENFJ khi làm cha mẹ cũng khá cầu toàn. Họ muốn trao cho những đứa trẻ quyền tự do ngôn luận, nhưng là tự do trong khuôn phép, giữ gìn những đạo đức và lý tưởng tốt đẹp. Mặt khác, họ cũng không muốn chúng răm rắp nghe theo những gì người lớn chỉ dạy mà cần xây dựng lối tư duy riêng theo cách mình nhìn nhận cuộc sống.\n\n<i>“Các bậc cha mẹ ENFJ coi việc giúp đỡ con cái khám phá ra tiềm năng riêng biệt của mình là nghĩa vụ tuyệt vời.”</i>\n\nNhóm tính cách ENFJ thường đặt ra các quy tắc và ranh giới rõ ràng, phù hợp với lứa tuổi để con cái họ hiểu được hậu quả khi có những hành vi thiếu trách nhiệm. Dù đôi khi cư xử có phần nghiêm khắc nhưng những hành động đó đều xuất phát từ tình yêu thương và ý thức trách nhiệm lớn lao của mình.",
+                                },
+                                {
+                                    "titleChild": "Kỳ vọng to lớn",
+                                    "content": "Các bậc phụ huynh ENFJ kỳ vọng rất nhiều vào con cái, luôn mong muốn chúng trở thành một người có ích cho xã hội, phát triển được điểm mạnh của mình để xây dựng một thế giới tốt đẹp hơn.\n\n<i>“Cha mẹ ENFJ tự hào khi có khả năng nhìn thấy tiềm năng ở người khác - đặc điểm này giúp họ nhận ra những đứa trẻ có thế mạnh gì và cần phát huy như thế nào.”</i>\n\nTuy nhiên, đôi khi các kỳ vọng của ENFJ dường như quá sức đối với con cái của họ. Những đứa trẻ cảm thấy rằng nếu chúng muốn giành được tình yêu thương của cha mẹ thì phải đáp ứng các tiêu chuẩn của họ — đôi khi là những tiêu chuẩn bất khả thi, vượt ra khỏi tầm với của chúng. Để giải quyết vấn đề này, các bậc cha mẹ ENFJ nên gần gũi và săn sóc với những đứa trẻ hơn để chúng cảm nhận được tình yêu thương thay vì áp lực thời thơ ấu.",
+                                },
+                                {
+                                    "titleChild": "Nền tảng vững tin",
+                                    "content": "Điều tích cực là cuối cùng thì các bậc phụ huynh ENFJ cũng nhận ra đâu mới là nhu cầu thật sự của những đứa trẻ. Vì vậy, song song với việc thúc đẩy sự phát triển về mặt nhận thức của con cái, họ sẽ xây dựng một môi trường phát triển lành mạnh với tình yêu thương đong đầy để chúng có thể yên tâm lớn lên.\n\n<i>“Các bậc cha mẹ ENFJ sẵn sàng làm bất cứ điều gì để con cái họ có thể phát triển hoàn hảo về vật chất lẫn tinh thần.”</i>\n\nVề phía những đứa trẻ, chúng biết đón nhận và trân trọng tình yêu thương mà cha mẹ dành cho mình. Dưới sự nuôi dưỡng và chăm sóc tận tình nhưng không kém phần nghiêm khắc của cha mẹ, con cái của các ENFJ sẽ học được cách đồng cảm, thấu hiểu và biết quan tâm tới những người xung quanh.",
+                                }
+                            ],
+                        },
+                    ]
+                },
+                {
+                    "section": "Làm sao để thân thiết với ENFJ",
+                    "items": [
+                        {
+                            "content": "Để trở nên thân thiết với ENFJ, bạn cần chú ý những điều sau:\n\n● <b>Mời các ENFJ tham gia hội nhóm và các hoạt động chung.</b> ENFJ là một trong những nhóm tính cách “quấn người” nhất. Bởi vậy, các ENFJ rất thích được rủ đi chơi, rủ tụ tập hay tham gia hoạt động nhóm có nhiều người. Nếu muốn làm thân với các ENFJ, bạn cần “đánh” đúng vào bản tính thân thiện, quảng giao của họ.\n\n● <b>Ôn hòa và điềm tĩnh khi tiếp cận.</b> ENFJ không phải tuýp tính cách thích đối chất hay tranh luận căng thẳng. Họ có thiên hướng thích những người ôn hòa và mềm mỏng. Trong một buổi tụ tập, các ENFJ dễ chú ý và có thiện cảm với những người nhẹ nhàng, điềm tĩnh và biết cách kết nối mọi người.\n\n● <b>Tử tế, chân thành.</b> Cần ghi nhớ rằng ENFJ là một trong những nhóm tính cách rất biết cảm thông và để ý tới cảm xúc của mọi người xung quanh. Hãy trung thực và thành thật khi trò chuyện với ENFJ, họ sẽ ghi nhận sự chân thành và cho bạn cơ hội kết giao. Tránh việc sử dụng từ ngữ thô tục, đưa chuyện hay gièm pha sau lưng người khác, các ENFJ không dễ dàng chia sẻ cảm xúc với những người không đáng tin.\n\n● <b>Đừng quá cứng nhắc, hãy thoải mái tự tin.</b> Các ENFJ rất hay tỏ ra đồng cảm và có xu hướng đeo một lớp mặt nạ lên để có thể hòa nhập với tất cả mọi người. Nhưng không chắc đó là cảm xúc thật của họ. Vì vậy nếu bạn tỏ ra dạn dĩ và cứng nhắc thì các ENFJ cũng sẽ e ngại trong việc chia sẻ với bạn. Ngược lại, nếu bạn thoải mái và thân thiện thì các ENFJ cũng sẽ thoải mái bày tỏ cảm xúc hơn.\n\n<i>“Đôi khi việc quá đỗi thân thiện, quảng giao dễ khiến người khác hiểu nhầm là ENFJ đang “có tình ý” với họ. Thực chất các ENFJ chỉ đang thể hiện sự tử tế và quan tâm tới đối phương chứ không có ý tán tỉnh.”</i>"
+                        },
+                    ],
+                },
+                {
+                    "section": "Con đường sự nghiệp",
+                    "items": [
+                        {
+                            "content": "Đứng trước những ngã rẽ của cuộc đời trên con đường sự nghiệp, các ENFJ sẽ ưu tiên công việc cho họ cơ hội tiếp xúc nhiều với con người, cụ thể là những công việc xã hội, bởi họ thích giúp đỡ người khác và nhìn những nỗ lực của mình được đền đáp bằng nụ cười hạnh phúc của những người xung quanh.\n\n<i>“Những người thuộc nhóm tính cách ENFJ gần như không bao giờ thiếu cảm hứng ở môi trường làm việc.”</i>"
+                        },
+                        {
+                            "title": "Khẳng định vị thế của mình",
+                            "content": "Nhờ kỹ năng xã hội tốt, các ENFJ có thể hoàn thành xuất sắc vai trò của mình trong những lĩnh vực liên quan tới con người, ví dụ như tổ chức sự kiện, tuyển dụng hoặc quan hệ công chúng. Những công việc như giảng dạy, tư vấn, huấn luyện và chăm sóc sức khỏe cộng đồng cũng rất phù hợp với những người thuộc nhóm tính cách ENFJ.\n\n<i>“Tuy vậy, dù mong muốn lớn nhất là làm việc trong lĩnh vực phục vụ cộng đồng nhưng các ENFJ vẫn luôn hướng tới sự thăng tiến trong công việc.”</i>\n\nĐược biết tới với khả năng lãnh đạo tài tình, những người thuộc nhóm tính cách ENFJ thường đảm nhiệm những vị trí quan trọng có sức ảnh hưởng trong một tổ chức, ví dụ như tổ chức tôn giáo, tổ chức từ thiện, tổ chức phi lợi nhuận, văn phòng nhà nước."
+                        },
+                        {
+                            "title": "Phát triển bản thân",
+                            "content": "Trong công việc, các ENFJ luôn mong chờ những nhiệm vụ và thử thách mới để từng bước hoàn thiện bản thân. Do đó, những công việc có tính chất lặp đi lặp lại sẽ khiến những Người cho đi nhanh chóng rơi vào trạng thái chán chường, nản chí.\n\n<i>“Trong thâm tâm, các ENFJ muốn những việc mình làm có thể mang lại nguồn năng lượng tích cực tới những người xung quanh.”</i>\n\nTrong số các nhóm tính cách MBTI thì ENFJ là nhóm có nhiều lựa chọn nghề nghiệp nhất, bởi họ là những cá nhân khá dễ chịu và mềm mỏng. Là một người thích mang niềm vui và hạnh phúc đến những người xung quanh, biết lắng nghe, biết thấu hiểu, dễ cảm thông, các ENFJ đặc biệt phù hợp với những công việc liên quan ở lĩnh vực bán hàng, tư vấn, tuyển dụng, báo chí, tâm lý.\n\nMặt khác, bởi những Người cho đi khá dễ bị chi phối bởi cảm xúc nên họ không có nhiều cơ hội thể hiện tốt nhất ở những công việc có áp lực cao, liên tục làm việc trong điều kiện căng thẳng, đòi hỏi tập trung cao độ như cảnh sát hình sự, bác sĩ cấp cứu, chuyên gia quân sự.\n\nCác ENFJ sẵn sàng cho đi và mong đợi những điều mình cho đi có thể giúp đỡ những người xung quanh, mang đến cho họ cuộc sống tốt đẹp hơn, đó là lý do mà những công việc trong lĩnh vực tôn giáo cũng rất phù hợp với họ.\n\nDưới đây là các công việc phù hợp với ENFJ mà bạn có thể tham khảo:\n\n● Chính trị gia\n\n● Nhà ngoại giao\n\n● Nhà tâm lý học\n\n● Công tác xã hội\n\n● Cố vấn\n\n● Nhà giáo\n\n● Nhà tư vấn\n\n● Quản lý nhân sự\n\n● Đại diện bán hàng\n\n● Tổ chức sự kiện\n\n● Nhà văn"
+                        }
+                    ]
+                },
+                {
+                    "section": "Thói quen nơi công sở",
+                    "items": [
+                        {
+                            "content": "Các ENFJ là những người ấm áp và hòa đồng, cộng thêm đầu óc sáng tạo sẽ giúp họ có được lợi thế phát triển bản thân ở nhiều lĩnh vực khác nhau, cùng như dễ dàng hòa nhập với môi trường làm việc mới."
+                        },
+                        {
+                            "title": "ENFJ khi là nhân viên",
+                            "content": 'Là nhân viên, các ENFJ muốn chứng minh năng lực và khẳng định giá trị của mình trong mắt cấp trên. Họ sẵn sàng nhận nhiệm vụ và có thể thực hiện nhanh chóng với thái độ niềm nở, không so đo, không cằn nhằn.\n\n<i>“Các ENFJ là những nhân viên chăm chỉ, đáng tin cậy và sẵn sàng giúp đỡ mọi người.”</i>\n\nTuy nhiên đặc điểm này cũng là một con dao hai lưỡi khi sự năng nổ trong công việc của họ bị một số cấp trên lợi dụng để dồn ép với khối lượng công việc lớn khiến họ thường xuyên phải tăng ca. Các ENFJ, dù có muốn hay không, vẫn sẽ cố hoàn thành công việc mà không kêu ca để giữ hòa khí ở môi trường làm việc.'
+                        },
+                        {
+                            "title": "ENFJ khi là đồng nghiệp",
+                            "content": "Các ENFJ là những nhân tố vô cùng tài ba khi làm việc nhóm, bởi họ luôn tìm kiếm cơ hội để bản thân họ và đội nhóm cùng nhau phát triển, cùng nhau đi lên. Họ biết cách xây dựng một môi trường làm việc công bằng, bình đẳng, nơi mọi người — dù ở bất cứ vị trí nào — cũng có quyền nói lên ý kiến của mình.\n\nDù vậy, các ENFJ cũng nên cẩn trọng với những quyền hạn mà mình được trao, bởi không phải đồng nghiệp nào cũng nhận ra sự hồ hởi và nhiệt huyết của bạn trong công việc. Ngược lại, họ sẽ coi đó là một sự “vượt quyền” khi bạn cứ liên tục bảo họ phải làm cái này làm cái kia."
+                        },
+                        {
+                            "title": "ENFJ khi là cấp trên",
+                            "content": "Nhiều ENFJ trời sinh đã là một người có khả năng lãnh đạo tài tình. Với vốn hiểu biết sâu rộng và khả năng truyền cảm hứng, họ sẽ không chỉ khiến bản thân mình được tỏa sáng mà còn giúp cả tập thể cùng đi lên.\n\n<i>“Cấp dưới của các ENFJ luôn được truyền cảm hứng và động lực trong công việc.”</i>\n\nCác ENFJ biết nhìn nhận điểm mạnh của mỗi người để giao những nhiệm vụ phù hợp. Như vậy, cấp dưới của họ cũng sẽ nhận thấy mình là một người có năng lực và được trọng dụng, từ đó nỗ lực hơn nữa để hoàn thành công việc được giao.\n\nTuy nhiên như vậy là chưa đủ, ngoài việc nắm được những thế mạnh của nhân viên, các cấp trên ENFJ cũng cần biết cấp dưới của mình đang yếu kém ở những mặt nào để nhanh chóng cải thiện và đưa xuống những nhiệm vụ vừa sức với họ, khuyến khích nhân viên từng bước hoàn thiện về mặt chuyên môn và kinh nghiệm."
+                        },
+                    ]
+                },
+                {
+                    "section": "So sánh ENFJ với INTJ, ENTP",
+                    "items": [
+                        {
+                            "content": "Khi so sánh ENFJ (Người cho đi) với những nhóm tính cách khác có sự tương đồng (<b>I</b>N<b>FJ</b> - Người che chở, E<b>NFP</b> - Người truyền cảm hứng), bạn sẽ hiểu rõ hơn về đặc tính của nhóm ENFJ."
+                        },
+                        {
+                            "title": "Điểm giống nhau",
+                            "content": 'N (Trực giác) và F (Cảm xúc): Cả ba nhóm NF này đều có xu hướng suy nghĩ và ra quyết định dựa trên trực giác và cảm xúc. Họ sâu sắc, tinh tế, thích tương tác xã hội và luôn chú trọng đến cảm xúc của người khác.\n\nKhi đối chiếu ENFJ với từng nhóm INFJ, ENFP, chúng tôi nhận thấy giữa mỗi cặp sẽ có những điểm chung riêng như sau:\n\n● E<b>NFJ</b> và I<b>NFJ</b>: Cả hai nhóm đều hướng thiện và luôn nhiệt tình giúp đỡ mọi người có cuộc sống tốt hơn. ENFJ và INFJ cũng hết sức ôn hòa, ngại va chạm và tránh mâu thuẫn. Họ luôn hướng tới một môi trường yên bình nơi mà tất cả cùng vui vẻ, hòa đồng và có thể phát triển cùng nhau. Do cùng có yếu tố nguyên tắc (J - Judging) nên cả hai nhóm này đều có xu hướng tuân theo quy trình và kế hoạch khi hành động.\n\n● <b>ENF</b>J và <b>ENF</b>P: Đều hướng đến các mối quan hệ tích cực và lành mạnh, coi trọng vào những tiềm năng có thể xảy ra, có xu hướng lý tưởng hóa hơn là hiện thực hóa. Đồng thời, cả hai nhóm này đều rất cởi mở với những điều mới và tận hưởng quá trình khám phá. Do đều hướng ngoại (yếu tố E - Extrovert) nên cả ENFJ và ENFP đều rất ấm áp, dễ gần, quảng giao với khả năng giao tiếp tốt.',
+                        },
+                        {
+                            "title": "Điểm khác nhau",
+                            "content": "Dù chỉ chênh nhau một chữ cái, song sự khác biệt giữa các nhóm tính cách này lại vô cùng rõ ràng. Bạn có thể thấy rõ điều này tại bảng so sánh sau:" 
+                        },
+                    ],
+                    "tables": [
+                        {
+                            "headers": ["Đặc điểm", "INFJ", "ENFJ", "ENFP"],
+                            "rows": [
+                                ["Diễn giải chữ viết tắt", "<b>I - Hướng nội</b><br>N - Trực giác<br>F - Cảm xúc<br>J - Nguyên tắc", "<b>E - Hướng ngoại</b><br>N - Trực giác<br>F - Cảm xúc<br><b>J - Nguyên tắc</b>", "E - Hướng ngoại<br>N - Trực giác<br>F - Cảm xúc<br><b>P - Linh hoạt</b>"],
+                                ["Cách tiếp cận thông tin", "- Dựa nhiều vào trực giác, kinh nghiệm của bản thân để tập trung xem xét ý nghĩa của từng sự vật, hiện tượng<br>- Có góc nhìn sâu sắc, đa chiều, độc lập thu thập thông tin trước rồi mới thảo luận cùng mọi người<br>- Có khả năng tiên đoán trước kết quả thông qua việc phân tích kỹ lưỡng", "- Cần liên tục tương tác với mọi người xung quanh để thu thập thông tin thông qua thảo luận nhóm, hợp tác chung, dự án chung<br>- Có thể gặp khó khăn trong việc sắp xếp các ý kiến phản hồi thu được do ý kiến chủ quan cá nhân chiếm ưu thế", "- Góc nhìn đa chiều, cởi mở, tiếp cận thông tin linh hoạt hơn<br>- Tận hưởng quá trình khám phá linh hoạt và thích nghi cao trong quá trình thu thập thông tin"],
+                                ["Trong các mối quan hệ", "- Chan hòa với mọi người. Ưa thích tụ tập nhóm nhỏ hơn là nhóm lớn<br>- Ưu tiên các cuộc hội thoại một một, mang tính cá nhân<br>- Kén chọn trong việc chọn vòng giao tiếp, coi trọng chất lượng hơn số lượng<br>- Cần thời gian một mình để nghỉ ngơi, suy nghĩ và đưa ra quyết định<br>- Bộc lộ cảm xúc tốt hơn thông qua viết lách, những cuộc hội thoại có chiều sâu, đề cao yếu tố chân thành và trung thực<br>- Bình tĩnh giải quyết mâu thuẫn thông qua lý lẽ và phân tích thấu đáo", "- Dễ kết giao, thích làm tâm điểm của đám đông<br>- Rất thích trao đổi với nhiều người, đa chủ đề. Không quan ngại khi gặp đám đông. Chủ động tìm đến các buổi tụ họp và thảo luận lớn nhằm mở mang tầm mắt<br>- Sẵn sàng chủ động làm quen và hosting các sự kiện, cởi mở trong việc kết giao người mới<br>- Cũng cần thời gian một mình nhưng không có nhu cầu nhiều thời gian riêng nhiều như INFJ<br>- Bản chất hoạt ngôn, có thể trình bày vấn đề thông qua diễn đạt lẫn hành động<br>- Khi gặp mâu thuẫn, ưu tiên sự hòa thuận và thống nhất trong mối quan hệ, đồng thời tìm cách để giải quyết mâu thuẫn triệt để", "- Quảng giao, chân thành và nồng nhiệt, tuy nhiên không ổn định và khó đoán<br>- Linh hoạt và tự phát chứ không nguyên tắc như ENFJ<br>- Khi gặp mâu thuẫn, không quá vội vã trong việc giải quyết vấn đề, có xu hướng thuận theo hoàn cảnh và từ từ gỡ rối<br>- Trong quá trình đưa ra quyết định, sẽ linh hoạt giữa nhiều phương án để tìm phương án tối ưu nhất, không quá quan trọng việc phải “chốt hạ” khẩn cấp như ENFJ<br>- Thoải mái, xởi lởi, hài hước và ít nguyên tắc hơn so với ENFJ"],
+                                ["Trong công việc", "- Hướng nội, tương tác 1-1 tốt hơn, phù hợp với dẫn dắt một nhóm nhỏ, biết lắng nghe và hỗ trợ đồng đội<br>- Không cương quyết bằng ENFJ song biết cách nhìn nhận sự việc qua góc nhìn của người khác<br>- Khả năng giải quyết mâu thuẫn tốt, biết cách dung hòa các ý kiến của mọi người<br>- Để đưa ra quyết định sẽ nhìn nhận từ nhiều khía cạnh, đồng thời dựa trên các giá trị và nguyên tắc cá nhân<br>- Khi căng thẳng trong công việc, INFJ cần thời gian riêng để tự ngẫm và giải tỏa áp lực, có xu hướng phức tạp hóa vấn đề khi stress", "- Xuất sắc trong teamwork, rất giỏi trong việc kết nối người với người, có khả năng dẫn dắt, động viên và truyền cảm hứng cho mọi người xung quanh, có tiềm năng trở thành lãnh đạo tốt<br>- Xuất sắc trong việc diễn đạt và trình bày ý kiến của bản thân, có năng khiếu thuyết trình trước đám đông<br>- Có khả năng thuyết phục cao, hướng đến môi trường làm việc tích cực và chan hòa<br>- Để đưa ra quyết định, có xu hướng tham vấn ý kiến của tất cả mọi người, đội nhóm<br>- Trong tình huống stress, ENFJ có thể cảm thấy bị áp lực khi luôn cố gắng đảm bảo mong muốn của tất cả mọi người", "- Sáng tạo, linh hoạt hơn ENFJ<br>- Thích khám phá và áp dụng quy trình mới<br>- Cũng xuất sắc trong việc diễn đạt và thuyết phục nhưng sẽ mang tính tự phát và ít nguyên tắc hơn so với ENFJ<br>- Ở cương vị leader, ENFP hướng đến sự đổi mới, có tầm nhìn và không ngại rủi ro<br>- Khi ở vai trò phải đưa ra quyết định, ENFP xem xét nhiều lựa chọn rồi mới quyết<br>- Trong trường hợp stress, ENFP cần hỗ trợ từ nhiều người để cân bằng và tập trung trở lại"]
+                            ]
+                        }
+                    ],
+                    "content": "Cả ba nhóm ENFJ, INFJ và ENFP đều có điểm chung trong cách thể hiện sự quan tâm đến người khác và tìm kiếm ý nghĩa trong cuộc sống. Tuy nhiên, cách họ tiếp cận thông tin, tương tác và ra quyết định lại có sự khác biệt rõ rệt.\n\nTrong khi ENFJ nổi bật với khả năng tổ chức và lãnh đạo, INFJ nhạy bén về mặt cảm xúc và có khả năng thấu hiểu người khác sâu sắc, thì ENFP lại hướng đến sự linh hoạt và sáng tạo hơn. Sự đa dạng này tạo nên những đặc điểm riêng biệt, thay đổi hoàn toàn cách họ xây dựng vòng tròn quan hệ cũng như định hình hướng đi trong cuộc đời." 
+                },
+                {
+                    "section": "Lời khuyên dành cho ENFJ",
+                    "items": [
+                        {
+                            "content": "Để có cuộc sống viên mãn và hoàn chỉnh hơn, các ENFJ cần biết phát huy các thế mạnh và cân bằng các điểm yếu của mình.\n\nENFJ cực kỳ nổi bật với khả năng thấu hiểu, truyền cảm hứng và động viên mọi người xung quanh để tiến bộ và phát triển hơn. Bởi vậy, các ENFJ nên phát huy các thế mạnh sau:\n\n● Động viên và ghi nhận, khiến mọi người xung quanh cảm thấy được trân trọng\n\n● Gắn kết và giữ hòa khí giữa người với người ở môi trường tập thể\n\n● Thấu hiểu và giúp đỡ mọi người xung quanh hoàn thiện bản thân\n\nNgoài việc phát huy thế mạnh, ENFJ cần đầu tư thời gian khắc phục điểm yếu của bản thân."
+                        },
+                        {
+                            "title": "Nhìn nhận mọi việc ở tầng sâu hơn",
+                            "content": 'Để sống hạnh phúc, các ENFJ nên nhìn nhận mọi việc có chiều sâu hơn. Đừng láu táu vội vã trong quyết định của mình, các ENFJ nên dành thời gian để cân nhắc kỹ lưỡng các chi tiết và xác định tiềm lực của mình trước khi bắt tay làm một dự án lớn.',
+                        },
+                        {
+                            "title": "Biết giới hạn của mình",
+                            "content": "Với tính cách ôm đồm và thích làm hài lòng người khác, các ENFJ rất dễ nhận về phần mình nhiều việc hơn thực tế họ có thể hoàn thành. Các ENFJ nên biết tự lượng sức mình trước khi nhận việc. Ngoài ra, thay vì chỉ chăm chú vào tổng khối lượng công việc để rồi cảm thấy bị “quá tải”, các ENFJ nên biết cách chia nhỏ công việc ra để dần đạt được mục tiêu."
+                        },
+                        {
+                            "title": "Cần biết đối mặt với mâu thuẫn",
+                            "content": "Các ENFJ thường né tránh mâu thuẫn bằng mọi giá và thường cố gắng tỏ ra đồng tình với người khác chỉ vì ngại tranh cãi. ENFJ cần hiểu rằng mâu thuẫn là điều khó tránh khỏi trong cuộc sống. Đối mặt để giải quyết mâu thuẫn sẽ giúp mọi người hiểu nhau hơn, và đôi khi sẽ giúp gỡ rối khúc mắc, giúp mỗi cá nhân đạt được ý nguyện của mình. Các cuộc tranh luận, đối mặt với những ý kiến trái chiều đóng vai trò cốt lõi để trưởng thành và phát triển bản thân hơn."
+                        },
+                        {
+                            "title": "Phát triển khả năng sáng tạo",
+                            "content": "Các ENFJ có thể hơi nguyên tắc đôi lúc mà bỏ qua sự sáng tạo và linh hoạt trong đời sống. Để hoàn thiện bản thân hơn, các ENFJ nên tập trung vào phát triển khía cạnh sáng tạo trong con người họ. Có thể thử viết lách, vẽ vời hay tham gia các hoạt động giúp phát huy tính sáng tạo.\n\nNgoài ra, ENFJ nên dành thời gian riêng tĩnh lặng một mình để thực sự tìm hiểu và khám phá nguyện vọng của bản thân."
                         }
                     ]
                 },
