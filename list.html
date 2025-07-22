@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
+    <link rel="icon" type="image/svg+xml" href="./img/logo/Logo_CC_tron_khong_chu.svg">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MBTI Personality Types</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>16 Personality Types</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./css/list.css">
 </head>
 <body>
     <div class="container">
@@ -51,37 +53,6 @@
 
         </div>
 
-        <!-- Trang chi tiết MBTI -->
-        <div id="detail-page" class="detail-page">
-            <div class="list-layout detail-layout">
-
-                <div class="detail-header">
-                    <div class="top-header">
-                        <button class="back-btn" onclick="showListPage()">← Quay lại danh sách</button>
-                        <div id="detail-code" class="detail-code"></div>
-                    </div>
-                    <img id="detail-image" class="detail-image" />
-                    <div class="bottom-header">
-                        <div id="detail-description" class="detail-description"></div>
-                        <button class="test-btn">Khám phá tính cách của bạn</button>
-                    </div>
-                </div>
-
-                <div id="detail-container" class="detail-container">
-                    <div class="left-detail-container">
-                        <div class="tableofcontents">
-                            <div class="tableofcontents-header" id="tableofcontents-header"></div>
-                            <!-- Đề mục JS render -->
-                        </div>
-                    </div>
-                    <div class="right-detail-container">
-                        <div class="right-detail-header" id="right-detail-header"></div>
-                        <!-- Nội dung chi tiết JS render -->
-                    </div>
-                </div>
-
-            </div>
-
             <div class="btn-nav">
                 <img class="menu" src="./img/menu.png" />
             </div>
@@ -89,6 +60,6 @@
 
     </div>
 
-    <script type="module" src="script.js"></script>
+    <script type="module" src="./js/list.js"></script>
 </body>
 </html>

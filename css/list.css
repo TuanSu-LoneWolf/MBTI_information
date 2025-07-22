@@ -1,0 +1,436 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background: linear-gradient(180deg, #12338c 0%, #764ba2 100%);
+  min-height: 100vh;
+}
+
+@font-face {
+  font-family: 'UTM Americana BE';
+  src: url('../fonts/UTM\ AmericanaBEx.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+a {
+  all: unset;
+}
+
+.container {
+  width: 100%;
+}
+
+#opposite {
+  background-color: #f6f3ea;
+  height: auto;
+}
+
+.list-layout {
+  max-width: 1170px;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+.btn-nav {
+  display: none;
+}
+
+#grid-opposite {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  padding-bottom: 25px;
+}
+
+.card {
+  background-color: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 20px;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+
+.card-note {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.number {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 20px;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  color: #1d4ed8;
+  padding: 8px;
+  background-color: rgb(239 246 255);
+}
+
+.card-note p {
+  font-size: 16px;
+  color: #12338c;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+#end-opposite {
+  text-align: justify;
+  color: #12338c;
+  font-style: italic;
+}
+
+#header-opposite {
+  display: flex;
+  align-items: center;
+  gap: 70px;
+  margin-bottom: 28px;
+}
+
+#header-opposite h1 {
+  font-size: 32px;
+  color: #12338c;
+}
+
+#header-opposite p {
+  text-align: justify;
+  font-size: 16px;
+  color: #12338c;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 40px;
+  color: white;
+}
+
+.header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.header p {
+  font-size: 1.2rem;
+  opacity: 0.9;
+}
+
+/* MBTI List Page */
+
+.list-page {
+  width: 100%;
+  padding: 40px 0;
+}
+
+#list-page {
+  background: linear-gradient(0deg, #667eea 0%, #764ba2 100%);
+  position: relative;
+}
+
+.carousel-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.mbti-grid {
+  display: flex;
+  transition: transform 1s ease-in-out;
+  width: 200%;
+}
+
+.mbti-page {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 24px;
+  padding: 20px;
+}
+
+.mbti-card {
+  width: 100%;
+  height: 408px;
+  perspective: 1000px;
+  cursor: pointer;
+}
+
+.card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+.mbti-card:hover .card-inner {
+  transform: rotateY(180deg);
+}
+
+.card-front, .card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  border-radius: 24px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+  box-sizing: border-box;
+  background: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card-front img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  border-radius: 20px;
+}
+
+.card-front h3 {
+  display: flex;
+  font-family: 'UTM Americana BE', sans-serif;
+  align-items: center;
+  height: 60px;
+  font-size: 79px;
+  font-weight: 700;
+  letter-spacing: .05em;
+}
+
+.card-front p {
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  font-size: 18px;
+  font-family: 'UTM Americana BE', sans-serif;
+  padding: 2px 0;
+}
+
+.card-back {
+  transform: rotateY(180deg);
+  background-color: #f6f3ea;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 32px;
+  margin-bottom: 22px;
+  text-align: center;
+  justify-content: center;
+}
+
+.nav-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 30px;
+  background: rgba(255, 255, 255, 0.8);
+  border: none;
+  cursor: pointer;
+  z-index: 10;
+  padding: 8px 12px;
+  border-radius: 50%;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.left-arrow {
+  left: 10px;
+}
+
+.right-arrow {
+  right: 10px;
+}
+
+.dots-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.dot {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  margin: 0 6px;
+  border-radius: 50%;
+  background: #ccc;
+}
+
+.dot.active {
+  background: #333;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Responsive Design */
+
+/* ≤ 1100px */
+@media (max-width: 1100px) {
+  .mbti-page {
+    grid-template-columns: repeat(2, 4fr);
+    grid-gap: 20px;
+    padding: 0;
+  }
+
+  .card-inner {
+    display: none;
+  }
+
+  .mbti-card {
+    width: 100%;
+    height: 120px;
+    backface-visibility: hidden;
+    border-radius: 24px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+    background: white;
+    display: flex;
+    border-bottom-left-radius: 8px;
+    border-top-left-radius: 8px;
+  }
+
+  .mbti-card img {
+    height: 100%;
+    width: auto;
+    border-radius: 8px;
+  }
+
+  .card-front-title {
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    flex: 1;
+    padding: 16px;
+    gap: 8px;
+  }
+
+  .card-front-title h3,
+  .card-front-title p {
+    display: none;
+  }
+
+  .mobile-item-code {
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 1.2;
+  }
+
+  .mobile-desc {
+    line-height: 1.2;
+    font-size: 13px;
+  }
+
+  #header-opposite h1 {
+    font-size: 32px;
+    line-height: 1.2;
+  }
+}
+
+/* ≤ 768px */
+@media (max-width: 768px) {
+  .mbti-page {
+    grid-template-columns: 1fr;
+  }
+
+  .header h1 {
+    font-size: 2rem;
+  }
+
+  #header-opposite {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  #header-opposite h1 {
+    font-size: 24px;
+    line-height: 1.2;
+  }
+
+  .header p {
+    font-size: 1rem;
+  }
+
+  #grid-opposite,
+  .mbti-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .mbti-grid {
+    gap: 15px;
+  }
+}
+
+/* ≤ 480px */
+@media (max-width: 480px) {
+  
+}
+
+/* ≤ 330px */
+@media (max-width: 330px) {
+  
+}

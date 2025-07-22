@@ -179,7 +179,7 @@ export const mbtiData = {
             "code": "ISTJ",
             "name": "Người trách nhiệm",
             "description": "ISTJ nổi tiếng là những người cần mẫn và có trách nhiệm, một khi đã cam kết thì họ sẽ cố gắng làm cho đến cùng. Logic, thành thật và có nguyên tắc là ba đặc điểm nổi trội nhất chúng ta có thể bắt gặp ở các ISTJ. Trong đời sống thường nhật, ISTJ thường là tuýp người hướng nội nhưng họ sẵn sàng cho bạn những lời khuyên hữu ích khi bạn cần đến họ.",
-            "image": "/img/istj.png",
+            "image": "../img/istj.png",
             "details": [
                 {
                     "section": "Tổng quan",
@@ -449,7 +449,7 @@ export const mbtiData = {
             "code": "ISFP",
             "name": "Người nghệ sĩ",
             "description": "Ẩn dưới vẻ ngoài trầm lặng, ISFP sở hữu một trái tim tràn đầy nhiệt huyết của người nghệ sĩ. Họ vừa hướng nội vừa hướng ngoại, dễ vui dễ buồn, khó đoán và tự phát. ISFP cũng là người yêu tự do và đam mê trải nghiệm, biết lắng nghe và quan tâm đến những người xung quanh.",
-            "image": "./img/isfp.png",
+            "image": "../img/isfp.png",
             "details": [
                 {
                     "section": "Tổng quan",
@@ -709,7 +709,7 @@ export const mbtiData = {
             "code": "INFP",
             "name": "Người lý tưởng hóa",
             "description": "Các INFP khá điềm tĩnh, thậm chí có phần nhút nhát và cả nể, rất ngại từ chối người khác. Tuy vậy, ẩn sâu bên trong họ là một tâm hồn nồng nhiệt và đam mê bất diệt. Các INFP sống có lý tưởng, có mục đích, họ biết mình cần gì, muốn gì và nên làm gì. Chủ nghĩa cá nhân cũng là một đặc điểm nổi bật ở những người thuộc nhóm tính cách INFP.",
-            "image": "./img/infp.png",
+            "image": "../img/infp.png",
             "details": [
                 {
                     "section": "Tổng quan",
@@ -981,7 +981,7 @@ export const mbtiData = {
             "code": "INTJ",
             "name": "Nhà khoa học",
             "description": "INTJ được xem là nhóm tính cách bí ẩn và thông minh nhất. Họ thường đóng vai trò “chìa khóa” giải quyết vấn đề trong những tình huống hóc búa. Tinh thần lạc quan, luôn nhìn vào mặt tích cực khiến các INTJ có thể nhìn ra điểm sáng ngay cả trong những tình cảnh “éo le” nhất. Những người thuộc nhóm tính cách INTJ có tinh thần học hỏi cao, không ngừng khai phá những giới hạn mới của bản thân để tạo ra sự đổi mới tích cực cho môi trường xung quanh.",
-            "image": "./img/intj.png",
+            "image": "../img/intj.png",
             "details": [
                 {
                     "section": "Tổng quan",
@@ -1269,7 +1269,7 @@ export const mbtiData = {
             "code": "ISFJ",
             "name": "Người nuôi dưỡng",
             "description": "ISFJ là nhóm tính cách phổ biến và đặc biệt toả sáng với lòng vị tha luôn đong đầy. Các ISFJ như những tấm khiên vững chắc nhất, sẵn sàng hi sinh vì những người mà họ yêu thương và trân quý. ISFJ đồng thời cũng có khả năng thấu cảm sâu sắc, có khả năng tạo nên một bầu không gian yên bình, ấm áp và an tâm tuyệt đối cho những người ở cạnh bên.",
-            "image": "./img/isfj.png",
+            "image": "../img/isfj.png",
             "details": [
                 {
                     "section": "Tổng quan",
@@ -1557,7 +1557,7 @@ export const mbtiData = {
             "code": "ISTP",
             "name": "Nhà kỹ thuật",
             "description": "ISTP là nhóm tính cách tôn thờ sự logic. Họ dành nhiều thời gian để quan sát và đánh giá mọi vật mọi việc dựa trên bằng chứng và lý lẽ, kể cả trong chuyện tình cảm. ISTP cũng là tuýp người thiên về trường phái “làm nhiều hơn nói”, có khả năng ứng phó với những tình huống bất ngờ và xử lý khủng hoảng một cách xuất sắc.",
-            "image": "./img/istp.png",
+            "image": "../img/istp.png",
             "details": [
                 {
                     "section": "Tổng quan",
@@ -1820,7 +1820,7 @@ export const mbtiData = {
             "code": "INFJ",
             "name": "Người che chở",
             "description": "INFJ là những người có tư duy sâu sắc và vô cùng nhạy bén trong việc nắm bắt tâm lý của người khác. Họ sở hữu lòng trắc ẩn vĩ đại, tràn đầy khát vọng mãnh liệt về một thế giới tốt đẹp hơn. Chính vì vậy, các INFJ luôn đặt tâm huyết vào việc xây dựng mối quan hệ, coi việc giúp đỡ, động viên người khác như một phần không thể thiếu trong cuộc sống.",
-            "image": "./img/infj.png",
+            "image": "../img/infj.png",
             "details": [
                 {
                     "section": "Tổng quan",
@@ -2064,7 +2064,7 @@ export const mbtiData = {
             "code": "INTP",
             "name": "Nhà tư duy",
             "description": "INTP là những người yêu thích tìm tòi về thế giới xung quanh, về nhân sinh và vũ trụ. Giống với nhóm ISTP, các INTP cũng đánh giá sự vật sự việc và ra quyết định dựa trên tư duy logic thay vì cảm xúc hay ý kiến chủ quan. Những Nhà tư duy có khả năng tập trung cao độ và thích một mình tìm tòi về thế giới, họ muốn hoàn thiện bản thân ở tất cả những lĩnh vực mà mình yêu thích.",
-            "image": "./img/intp.png",
+            "image": "../img/intp.png",
             "details": [
                 {
                     "section": "Tổng quan",
@@ -2340,7 +2340,7 @@ export const mbtiData = {
             "code": "ENFJ",
             "name": "Nhà tư duy",
             "description": "INTP là những người yêu thích tìm tòi về thế giới xung quanh, về nhân sinh và vũ trụ. Giống với nhóm ISTP, các INTP cũng đánh giá sự vật sự việc và ra quyết định dựa trên tư duy logic thay vì cảm xúc hay ý kiến chủ quan. Những Nhà tư duy có khả năng tập trung cao độ và thích một mình tìm tòi về thế giới, họ muốn hoàn thiện bản thân ở tất cả những lĩnh vực mà mình yêu thích.",
-            "image": "./img/intp.png",
+            "image": "../img/intp.png",
             "details": [
                 {
                     "section": "Tổng quan",
