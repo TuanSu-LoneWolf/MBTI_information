@@ -2625,63 +2625,51 @@ export const mbtiData = {
         },
         {
             "code": "ENTJ",
-            "name": "Người cho đi",
-            "description": "Nhóm tính cách ENFJ là những người có khả năng tác động mạnh tới người khác thông qua cả hành động lẫn lời nói. Họ là những người tham vọng nhưng không hề tư lợi mà luôn hướng đến mục tiêu và lợi ích chung của cộng đồng. Đặc biệt, khả năng thấu hiểu và đồng cảm mạnh mẽ khiến các ENFJ trở thành nhân tố quan trọng trong những lĩnh vực liên quan tới con người.",
-            "image": "../img/enfj.png",
+            "name": "Nhà điều hành",
+            "description": "ENTJ là những nhà lãnh đạo bẩm sinh, giỏi quan sát và đưa ra nhận định, cũng như luôn tìm ra những hướng giải quyết tối ưu cho vấn đề. Với khả năng phân tích và suy luận tốt, các ENTJ không ngừng đưa ra những ý tưởng mới. Nhóm tính cách này cũng thể hiện vai trò của mình trong việc sắp xếp, lãnh đạo và quản lý con người để đạt được mục tiêu chung.",
+            "image": "../img/entj.png",
             "details": [
                 {
                     "section": "Tổng quan",
                     "items": [
                         {
-                            "content": "Nhóm tính cách <b>ENFJ (Người cho đi)</b> là những người có khả năng tác động mạnh tới người khác thông qua cả hành động lẫn lời nói. Họ là những người tham vọng nhưng không hề tư lợi mà luôn hướng đến mục tiêu và lợi ích chung của cộng đồng. Đặc biệt, khả năng thấu hiểu và đồng cảm mạnh mẽ khiến các ENFJ trở thành nhân tố quan trọng trong những lĩnh vực liên quan tới con người."
+                            "content": "Có khoảng 3% dân số mang tính cách này, <b>ENTJ (Nhà điều hành)</b> có cá tính rất lôi cuốn, lý trí và nhạy bén."
                         },
                         {
-                            "title": "ENFJ là viết tắt của những chữ cái gì?",
-                            "content": "● <b>E - Hướng ngoại:</b> Đối với bạn, thế giới bên ngoài mới là thế giới thực. Trái ngược với tính cách I - Hướng nội luôn đắm mình trong thế giới nội tâm.\n\n● <b>N - Trực giác:</b> Bạn tập trung vào ý nghĩa của sự vật, sự việc, khác với những người có tính cách S - Giác quan sử dụng cả năm giác quan thị giác, thính giác, khứu giác, vị giác, cảm giác để nhìn nhận và đánh giá.\n\n● <b>F - Cảm xúc:</b> Bạn đưa ra quyết định chủ yếu dựa trên cảm nhận cá nhân. Ngược lại, những người có tính cách T - Lý trí lại đưa ra quyết định dựa vào số liệu và đo lường chính xác.\n\n● <b>J - Nguyên tắc:</b> Bạn dựa vào cấu trúc sẵn có để thoải mái đưa ra quan điểm mà không phải mất công suy xét nhiều. Trong khi đó, những người thiên về tính cách P - Linh hoạt lại thích môi trường tự do và họ sẽ tự sắp đặt quy tắc bên trong cho mình."
+                            "title": "ENTJ là viết tắt của những chữ cái gì?",
+                            "content": "● <b>E - Hướng ngoại:</b> Đối với bạn, thế giới bên ngoài mới là thế giới thực. Trái ngược với tính cách I - Hướng nội luôn đắm mình trong thế giới nội tâm.\n\n● <b>N - Trực giác:</b> Bạn tập trung vào ý nghĩa của sự vật, sự việc, khác với những người có tính cách S - Giác quan sử dụng cả năm giác quan thị giác, thính giác, khứu giác, vị giác, cảm giác để nhìn nhận và đánh giá.\n\n● <b>T - Lý trí:</b> Bạn đưa ra quyết định dựa trên góc nhìn thực tế bằng số liệu và đo lường chính xác. Ngược lại, các F - Cảm xúc ưu tiên đưa ra quyết định dựa trên cảm nhận cá nhân.\n\n● <b>J - Nguyên tắc:</b> Bạn dựa vào cấu trúc sẵn có để thoải mái đưa ra quan điểm mà không phải mất công suy xét nhiều. Trong khi đó, những người thiên về tính cách P - Linh hoạt lại thích môi trường tự do và họ sẽ tự sắp đặt quy tắc bên trong cho mình."
                         },
                         {
-                            "title": "Đối nhân xử thế",
-                            "content": 'Các ENFJ đặc biệt quan tâm tới những mối quan hệ giữa người với người. Họ có khả năng đồng cảm sâu sắc và có kỹ năng đối nhân xử thế vô cùng xuất sắc. Mục tiêu lớn nhất trong cuộc đời của mỗi ENFJ là mang lại niềm vui và lan tỏa tình yêu thương tới mọi người. Họ muốn cho đi và luôn tự hào khi được cho đi.',
+                            "title": "Nhà lãnh đạo bẩm sinh",
+                            "content": 'Các ENTJ là những nhà lãnh đạo bẩm sinh nhờ khả năng tiếp thu và nắm bắt thông tin tốt, cũng như nhạy bén trong việc tìm ra giải pháp hiệu quả. Ở mọi khía cạnh trong cuộc sống, họ đều nhìn ra những thách thức và muốn mình chính là người đứng ra để tìm cách vượt qua chúng. Họ cũng thường là những người chịu trách nhiệm sau cùng cho một tập thể.',
                         },
                         {
-                            "title": '"Đi guốc trong bụng"',
-                            "content": "Các ENFJ hiểu chính xác người khác đang nghĩ gì và muốn gì như “đi guốc trong bụng”, vì vậy rất dễ để khiến những người xung quanh làm theo ý họ như một cách thao túng tâm lý (và điều này không mang nghĩa tiêu cực đâu nhé)."
+                            "title": 'Ưu tiên sự nghiệp',
+                            "content": "Các ENTJ đặt rất nhiều tâm trí vào con đường sự nghiệp của mình, cũng như dễ dàng hòa nhập với môi trường làm việc. Nhờ tầm nhìn xa trông rộng cũng như biết nhìn nhận vấn đề trên nhiều góc độ để tìm ra hướng giải quyết toàn vẹn nhất. Những Nhà điều hành thường rất thành công trên thương trường, họ làm việc không biết mệt mỏi và luôn tràn đầy nhiệt huyết trong công việc."
                         },
                         {
-                            "title": 'Thương người hơn thương mình',
-                            "content": "Các ENFJ là những người vô cùng hướng ngoại, vì vậy những giây phút được tách biệt bản thân một mình để ngẫm nghĩ là vô cùng quan trọng với họ.\n\nTuy vậy thật khó để các ENFJ có thể dành thời gian suy ngẫm một mình bởi họ sẽ cảm thấy bế tắc và tiêu cực khi ở trong không gian tinh thần khép kín như vậy, đó không phải tính cách của họ, cũng không phải điều họ mong muốn, họ thích được tiếp xúc với nhiều người và thả hồn ở những không gian mở.\n\nCác ENFJ thích giúp đỡ mọi người, đôi khi họ sẵn sàng đặt lợi ích của người khác lên trên cả lợi ích của bản thân và coi đó như một niềm hạnh phúc.\n\nĐối với họ, việc xây dựng một mối quan hệ giữa người và người là vô cùng quan trọng, và họ sẽ dành thật nhiều tâm huyết vào việc duy trì mối quan hệ tuyệt vời với những người xung quanh.\n\nTrong vấn đề tình cảm, các ENFJ là những người rất đáng tin cậy và trung thành."
+                            "title": 'Nói không với lỗi lầm',
+                            "content": "Các ENTJ không muốn phạm lỗi hay bị phạm lỗi, càng không thích việc tái phạm, họ không có đủ kiên nhẫn với tác phong làm việc kém hiệu quả. Những người thuộc nhóm tính cách ENTJ có thể trở nên khắc nghiệt khi sự kiên nhẫn của họ bị thách thức, bởi họ không phải là những người có thể đặt mình vào địa vị của người khác để suy nghĩ, mà bản thân họ cũng không thấy cần thiết phải làm vậy."
                         },
                         {
-                            "title": 'Đầu "E" nhưng mà "E" trong "E dè"',
-                            "content": "So với những tính cách hướng ngoại khác thì các ENFJ có xu hướng dè dặt hơn trong việc bộc lộ suy nghĩ của bản thân mặc dù họ không hề tự ti một chút nào. Bởi có xu hướng tiếp xúc nhiều với những người xung quanh nên tính cách của các ENFJ khá linh hoạt, họ có thể thích nghi với nhiều kiểu người ở nhiều điều kiện khác nhau."
+                            "title": 'Quyết đoán',
+                            "content": "Các ENTJ là những người rất quyết đoán, họ đưa ra quyết định nhanh chóng và có thể giải thích cặn kẽ quan điểm của mình cho tất cả mọi người. Tuy nhiên, trước khi đi đến kết luận cuối cùng thì những người thuộc nhóm tính cách ENTJ nên suy xét kỹ càng dựa theo những thông tin đã nắm bắt ban đầu để không phạm bất cứ sai lầm không đáng có nào."
                         },
                         {
-                            "title": "Ngắn gọn súc tích",
-                            "content": "Tuy nhiên điều đó không có nghĩa là ENFJ không biết đấu tranh cho tiếng nói của mình. Họ có khả năng truyền đạt thông tin một cách gãy gọn, súc tích. Phong cách giao tiếp thường thấy ở các ENFJ là cởi mở và vui vẻ, chỉ cần không đề cập tới những vấn đề quá riêng tư thì họ sẽ sẵn sàng trò chuyện không chút e dè."
+                            "title": "Sống tình cảm",
+                            "content": "Mặc dù các ENTJ không thường đặt mình vào địa vị của người khác thế nhưng họ vẫn là những người sống tình cảm, mặc dù đa phần thời gian họ sẽ cố giấu đi những suy nghĩ thật của mình vì cho rằng như vậy rất yếu đuối. Tuy nhiên việc đưa ra nhận định chóng vánh mà không để ý tới cảm xúc của người khác đôi khi có thể dẫn tới những hệ quả tiêu cực không lường trước được."
                         },
                         {
-                            "title": "Thông minh, chính trực",
-                            "content": "ENFJ nổi tiếng là tuýp người thông minh, chính trực và thẳng thắn. Họ cũng có khả năng làm việc ở nhiều lĩnh vực khác nhau, thậm chí còn đạt kết quả khá tốt."
+                            "title": "Sôi nổi, nhiệt tình",
+                            "content": "Các ENTJ thích tương tác với mọi người. Là một người hướng ngoại, nguồn năng lượng chủ yếu mà họ nhận được chủ yếu tới từ bên ngoài, nhất là những buổi trao đổi lý thú về một vấn đề mà họ quan tâm, với những người có cùng quan điểm với mình.\n\nTất nhiên ý kiến trái chiều là không thể tránh khỏi trong các buổi trò chuyện, tuy nhiên với tài ăn nói và kỹ năng giao tiếp tuyệt vời, các ENTJ có thể khiến cả những người tự tin nhất phải suy xét lại quan điểm của mình mà dần dà hướng về phía các ENTJ."
                         },
                         {
-                            "title": "Tâm hồn đồng điệu",
-                            "content": "Trong công việc, các ENFJ thích hợp nhất với những công việc đòi hỏi tiếp xúc nhiều với khách hàng hoặc hợp tác với những phòng ban khác, bởi họ là những cá nhân xuất sắc trong việc đồng cảm và thấu hiểu người khác. Các ENFJ cũng rất giỏi truyền cảm hứng cho những người xung quanh, biến môi trường làm việc trở thành mái nhà chung ấm áp hơn."
+                            "title": "Tinh thần trách nhiệm cao",
+                            "content": "Những người thuộc nhóm tính cách ENTJ khi ở nhà cũng chịu nhiều trách nhiệm như trong công việc. Các ENTJ muốn trang hoàng cho ngôi nhà của mình theo những tiêu chí: đẹp và đầy đủ chức năng. Trong việc nuôi dạy con trẻ, họ cũng hy vọng những đứa trẻ có thể nhận được giáo dục đầy đủ, được hỗ trợ toàn diện cả về mặt thể chất lẫn tinh thần. Các ENTJ cũng rất tận tâm và hòa hợp với vợ/chồng mình.\n\nỞ các ENTJ hội tụ đầy đủ những phẩm chất của một cá nhân mẫu mực và quyền lực, có tầm nhìn xa và sự quyết tâm để dẫn dắt cả một tập thể."
                         },
                         {
-                            "title": "Ngăn nắp, gọn ràng",
-                            "content": "Những người ENFJ yêu sự ngăn nắp và gọn gàng trong công việc cũng như trong đời sống hàng ngày."
-                        },
-                        {
-                            "title": "Cảm xúc lấn át",
-                            "content": "Việc phải gạt đi cảm xúc để đưa ra quyết định rất khó đối với các ENFJ, thậm chí họ sẽ phải dựa vào người khác để có thể giữ một cái đầu lạnh để không đưa ra những nhận định chóng vánh, thiếu suy nghĩ."
-                        },
-                        {
-                            "title": "Những vị khách thân thiện",
-                            "content": "Nhìn chung, các ENFJ là những cá nhân thu hút, nhiệt tình, hòa nhã và thân thiện trong mối hệ với những người xung quanh. Đặc điểm này cho phép họ có khả năng thấu hiểu và thúc đẩy những người xung quanh khai phá ra tiềm năng mới, đây cũng là điều khiến các ENFJ rất tự hào ở bản thân."
-                        },
-                        {
-                            "title": "Những người nổi tiếng mang tính cách ENFJ",
-                            "content": "● Martin Luther King, Jr.\n\n● Nelson Mandela\n\n● Michael Jordan\n\n● Jennifer Lawrence\n\n● Emma Stone\n\n● Dino (Seventeen)\n\n● Jung Yunho (TVXQ)\n\n● Kim Jaejoong (JYJ)"
+                            "title": "Những người nổi tiếng mang tính cách ENTJ",
+                            "content": "● Napoleon Bonaparte\n\n● Steve Jobs\n\n● Charlize Theron\n\n● Gordon Ramsay\n\n● Margaret Thatcher\n\n● Adele\n\n● Dwayne Johnson (The Rock)\n\n● Kim Mingyu (SEVENTEEN)"
                         }
                     ]
                 },
@@ -2692,24 +2680,28 @@ export const mbtiData = {
                             "title": "Điểm mạnh",
                             "itemsChild": [
                                 {
-                                    "titleChild": "Biết tiếp thu",
-                                    "content": "Tuy là những người biết bảo vệ quan điểm của mình nhưng các ENFJ vẫn rất chịu khó tiếp thu thêm ý kiến của người khác, kể cả những ý kiến đối lập trái chiều, bởi họ hiểu tầm quan trọng của việc bày tỏ quan điểm cá nhân.",
+                                    "titleChild": "Hướng tới hiệu quả",
+                                    "content": "Đối với những người thuộc nhóm tính cách ENTJ, làm việc không hiệu quả không chỉ ảnh hưởng tới kết quả cuối cùng mà còn là một sự phung phí thời gian, tiền bạc, công sức, thể hiện khả năng yếu kém và lười biếng của người đó.",
                                 },
                                 {
-                                    "titleChild": "Tạo động lực và truyền cảm hứng",
-                                    "content": "Một trong những thế mạnh lớn nhất của ENFJ là luôn biết cách thuyết phục và động viên mọi người xung quanh, đồng thời tạo cảm hứng cho tất cả mọi người cùng hướng tới một môi trường tích cực.",
+                                    "titleChild": "Tràn đầy năng lượng",
+                                    "content": "Thay vì mất nhiều thời gian để suy nghĩ về việc được - mất thì các ENTJ sẽ bắt tay vào thực hiện ngay và luôn với tâm thế đầy nhiệt huyết và năng lượng, hướng tới kết quả cuối cùng.",
                                 },
                                 {
-                                    "titleChild": "Giao tiếp, truyền đạt tốt",
-                                    "content": "Các ENFJ có kỹ năng truyền đạt cực kỳ tốt trong mọi ngữ cảnh. Điểm mạnh này giúp các ENFJ dễ dàng thăng tiến và gây thiện cảm với mọi người xung quanh. Các ENFJ thường không ngại đám đông và cực kỳ khôn khéo, với ai họ cũng có thể giao tiếp nói chuyện, kể những câu chuyện hấp dẫn và trở thành tâm điểm của của sự chú ý.",
+                                    "titleChild": "Tự tin",
+                                    "content": "Bạn sẽ không bao giờ làm tốt điều gì nếu bạn không tự tin vào bản thân, và các ENTJ là những người luôn tin tưởng vào khả năng của mình. Họ biết mình muốn gì, cần làm gì và có thể làm gì, những Nhà điều hành luôn trong tâm thái chuẩn bị kỹ lưỡng để sẵn sàng chiến đấu.",
                                 },
                                 {
-                                    "titleChild": "Vị tha",
-                                    "content": "Nhóm tính cách ENFJ ấp ủ một niềm mong mỏi sâu sắc, đó là trở thành động lực cho những sự thay đổi tích cực. Họ tin rằng chỉ với sự đồng lòng và đoàn kết của toàn nhân loại, thế giới sẽ trở nên tốt đẹp hơn.",
+                                    "titleChild": "Ý chí mạnh mẽ",
+                                    "content": "Những người thuộc nhóm tính cách ENTJ hướng tới mục tiêu cuối cùng và họ sẽ không bỏ cuộc giữa chừng. Những khó khăn, thử thách không thể ngăn họ dừng bước mà dường như còn tiếp cho họ thêm ý chí kiên cường và quyết tâm mạnh mẽ.",
                                 },
                                 {
-                                    "titleChild": "Có sức hút, có tính thuyết phục cao",
-                                    "content": 'Với tính cách kiên định và lời nói truyền cảm hứng, các ENFJ rất hợp với vai trò lãnh đạo. Bất kể được bổ nhiệm vào vị trí nào thì họ cũng luôn đặt mục tiêu con người lên hàng đầu.\n\nNgoài ra, các ENFJ rất giỏi trong việc thuyết phục người khác, nhưng không phải với mục đích thao túng tâm lý mà là với mục đích tốt đẹp muốn người khác cải thiện bản thân, tiến bộ trong cuộc sống. Tính cách này giúp các ENFJ dễ dàng được người khác tín nhiệm và nghe theo.',
+                                    "titleChild": "Giỏi lên chiến lược",
+                                    "content": 'Những Nhà điều hành nhìn nhận vấn đề dựa trên cốt lõi của chúng, họ sẽ xem xét vấn đề từ nhiều góc độ để có thể đưa ra đánh giá khách quan nhất. Theo đó, các ENTJ không chỉ giải quyết vấn đề triệt để mà còn lấy đó làm đòn bẩy để nghiên cứu ra các phương án khác hiệu quả hơn gấp nhiều lần phương án hiện tại.',
+                                },
+                                {
+                                    "titleChild": "Lôi cuốn và truyền cảm hứng",
+                                    "content": 'Những phẩm chất trên kết hợp lại tạo nên nguồn cảm hứng và tiếp thêm năng lượng cho những người xung quanh, đặc biệt khi các ENTJ ở vị trí của một nhà lãnh đạo. Nhờ vậy, những vị sếp ENTJ sẽ không phải một mình chèo lái con thuyền mang tên công việc mà sẽ có sự bang trợ đầy nhiệt huyết từ đội nhóm của mình.\n\n<i>“Các ENTJ cũng hết sức hoạt ngôn và biết cách thuyết phục người khác dưới sự dẫn dắt của họ.”</i>',
                                 },
                             ],
                         },
@@ -2717,28 +2709,36 @@ export const mbtiData = {
                             "title": "Điểm yếu",
                             "itemsChild": [
                                 {
-                                    "titleChild": "Thiếu thực tế",
-                                    "content": 'Nhiều ENFJ tự ép bản thân phải bù đắp mọi sai lầm mà họ bắt gặp trên cuộc đời này, kể cả khi đó là vấn đề của người khác, và dĩ nhiên điều đó gần như là bất khả thi. Nếu quá sa đà vào việc “bất bình như thể đó là việc của mình” thì họ có thể rơi vào tình huống phải ôm đồm quá nhiều việc cùng lúc và kết quả là không thể giúp ích được cho ai.',
+                                    "titleChild": "Cứng đầu",
+                                    "content": 'Sự tự tin và quyết tâm đôi khi hơi thái quá của các ENTJ có thể khiến họ trở nên hiếu thắng và cố chấp. Họ rất miễn cưỡng khi nhận lỗi sai về mình và cố gắng dành “kèo trên” trong mọi cuộc tranh luận dù là nhỏ nhất.',
                                 },
                                 {
-                                    "titleChild": "Nguyên tắc",
-                                    "content": "Các ENFJ là những người có nguyên tắc, biết phân biệt rạch ròi đúng - sai, và họ thường cho rằng mọi người cũng có (hoặc ít nhất là nên có) những nguyên tắc cơ bản giống như họ để cân bằng cuộc sống và đưa ra những quyết định đúng đắn hơn. Những cá nhân có xu hướng đi ngược lại những quy định, nguyên tắc ấy sẽ không được các ENFJ đánh giá cao.",
+                                    "titleChild": "Chuyên quyền và áp đặt",
+                                    "content": "Các ENTJ là những người luôn thích chỉ đạo người khác. Đôi khi trong mắt mọi người họ sẽ trở nên hống hách và chuyên quyền. Ngoài ra, các ENTJ không thích tốn thời gian vào những người không có cùng quan điểm với họ bởi họ nghĩ bản thân mình luôn là đúng nhất.\n\nNếu ý thức được việc đặt mình vào vị trí người khác để nhìn nhận sự việc thì điểm yếu này của ENTJ hoàn toàn có thể được khắc phục.",
                                 },
                                 {
-                                    "titleChild": "Thái độ trịch thượng",
-                                    "content": "Những người thuộc nhóm tính cách ENFJ thích dạy bảo người khác, nhất là khi bị đụng tới niềm tin cốt lõi của họ. Tuy nhiên, đôi khi nỗ lực “khai sáng” người khác của các ENFJ có thể bị coi là thái độ bề trên, thiếu tôn trọng.",
+                                    "titleChild": "Không khoan nhượng, dễ gây tranh cãi",
+                                    "content": "Những người thuộc nhóm tính cách ENTJ sẽ không bỏ qua cho bất cứ ai cản bước họ trên con đường tiến đến với mục tiêu của mình, đặc biệt là những người hay đưa ra ý kiến trái chiều dựa trên lập luận mang tính chủ quan. Bản tính quá bộc trực, thích đối chất và có phần hơn thua của ENTJ cũng khiến mọi người xung quanh lảng tránh và đề phòng vì không muốn phải tranh luận với họ.",
                                 },
                                 {
-                                    "titleChild": "Nóng tính, nóng vội",
-                                    "content": "Trong quá trình làm việc, các ENFJ luôn trong trạng thái đầy năng lượng và quyết tâm, và họ sẽ thúc ép những người xung quanh phải bắt nhịp được với guồng công việc của họ. Tuy nhiên không phải ai cũng có những phẩm chất trên để theo kịp các ENFJ, đa phần họ sẽ cảm thấy bức bối khi cứ liên tục bị dồn ép phải bắt tay hoàn thành công việc theo ý muốn của những Người cho đi.\n\nCác ENFJ cũng rất dễ hứng lên và lao đầu vào hành động mà chưa lên kế hoạch rõ ràng và cụ thể. Dễ dẫn đến hậu quả “nói trước bước không qua”.",
+                                    "titleChild": "Hạn chế trong việc lắng nghe, thấu hiểu",
+                                    "content": "Các ENTJ không phải là những người có khả năng cao trong việc thấu hiểu hay đồng cảm với người khác. Họ cũng không có nhu cầu trong việc lắng nghe xúc cảm của người khác. Điều này dễ khiến mọi người xung quanh cảm nhận ENTJ khá đáng sợ và có phần khó để kết giao cùng.",
                                 },
                                 {
-                                    "titleChild": "Cả nể",
-                                    "content": 'Lòng trắc ẩn là một trong những điểm mạnh nhất của nhóm tính cách ENFJ. Tính cách “thích làm dâu trăm họ”, ôm đồm vấn đề của người khác như là của mình thì sớm muộn cũng khiến các ENFJ dần kiệt quệ về mặt tinh thần lẫn thể chất.',
+                                    "titleChild": "Thiếu kiên nhẫn",
+                                    "content": 'Một số người luôn cần nhiều thời gian để nghiền ngẫm kỹ càng trước khi đưa ra quyết định, và các ENTJ không thích điều ấy một chút nào. Họ sẽ đánh giá cá nhân đó là không đủ khả năng chuyên môn, và lo sợ rằng những người như vậy sẽ cản bước mình trong quá trình làm việc.',
                                 },
                                 {
-                                    "titleChild": "Thiếu quyết đoán và thiếu logic",
-                                    "content": 'Các ENFJ thường không được lý trí cho lắm. Họ thường thiên về cảm xúc và dễ có tính thiên vị, không công bằng khi đưa ra quyết định.',
+                                    "titleChild": "Kiêu kỳ",
+                                    "content": 'Những Nhà điều hành coi trọng người có đầu óc nhanh nhạy, vững vàng, ngược lại, họ đánh giá thấp những người không bắt kịp tốc độ của họ. Tính cách này sẽ khiến nhiều người sẽ cảm thấy rụt rè khi ở cạnh các ENTJ.',
+                                },
+                                {
+                                    "titleChild": "Không giỏi kiềm chế cảm xúc",
+                                    "content": 'Những đặc điểm trên kết hợp lại và tạo nên một ENTJ thiếu kiên nhẫn và không giỏi kiềm chế cảm xúc. Họ thường gạt những yếu tố tình cảm qua một bên và chỉ tập trung vào cốt lõi vấn đề, vì vậy đôi khi Nhà điều hành sẽ vô tình làm tổn thương những người xung quanh mà không hề hay biết, đặc biệt là trong những tình huống căng thẳng.\n\nTrong những trường hợp không vui hay phật ý, các ENTJ cũng có xu hướng thể hiện rõ hơn sự độc tài, lãnh đạm và áp đặt của mình. Tệ nhất là khi áp lực hay căng thẳng quá lớn, các ENTJ có xu hướng “nổ tung” vì không kìm chế được.',
+                                },
+                                {
+                                    "titleChild": "Lạnh lùng và có phần tàn nhẫn",
+                                    "content": 'Cũng bởi quá đặt nặng vấn đề hiệu quả lên hàng đầu mà bỏ qua tất cả các tiểu tiết xung quanh nên đôi khi các ENTJ bị đánh giá là những người có tính cách lạnh lùng và khó gần.',
                                 }
                             ],
                         }
@@ -2748,75 +2748,67 @@ export const mbtiData = {
                     "section": "Mối quan hệ",
                     "items": [
                         {
-                            "content": 'ENFJ được bạn bè đánh giá là người ấm áp và tốt bụng, họ thích kết giao và trò chuyện với những người mới, lắng nghe những câu chuyện mới. Tuy nhiên họ lại khá kén chọn và tỉ mỉ khi muốn làm thân với một ai đó, những điều mà họ tìm kiếm ở một mối quan hệ khăng khít là sự chân thành mà hai người dành cho nhau.\n\nMặc dù mang trong mình đặc điểm F (Tình cảm) và đặt nặng tình cảm trong một mối quan hệ nhưng các ENFJ cũng sẵn sàng đưa ra lời góp ý và phê bình từ tận đáy lòng khi gặp những chuyện bất bình. Tuy vậy thật khó để bạn có thể giận một ENFJ khi bị họ phê bình bởi lời nói của ENFJ quá đỗi ngọt ngào và chân thành.\n\nTrong tình bạn, những người thuộc nhóm tính cách ENFJ sẵn sàng giúp đỡ bạn bè mình một khi có thể, và điều đó khiến họ rất tự hào về bản thân. Các ENFJ có thể dành hàng giờ, hàng ngày hoặc hàng tháng để giúp đỡ ai đó nhận ra điểm mạnh điểm yếu của mình và hoàn thiện bản thân hơn trong tương lai. Đổi lại, những Người cho đi cũng hy vọng bạn bè có thể đối xử với họ chân thành như vậy.\n\nNhìn chung, các ENFJ luôn nhiệt tình và hết mình trong mọi mối quan hệ, họ đề cao sự trung thực và đồng cảm giữa người với người. Các ENFJ có khả năng ứng xử và ngoại giao tốt, chu đáo và ân cần với tất cả mọi người. Họ thích giúp đỡ người khác và cảm thấy mãn nguyện khi lòng tốt của mình được đặt đúng chỗ. Với những tình huống khó, những Người cho đi sẽ không ngần ngại thể hiện sự sắc sảo và nhạy bén của mình trong việc đưa ra quan điểm và tìm hướng giải quyết, sau đó họ sẽ giấu đi gai nhọn và trở về làm một chú cừu tốt bụng đáng yêu nhất trên đời.'
+                            "content": 'Trong mọi mối quan hệ, các ENTJ là những người trọng chữ “tín” hơn vàng. Nếu đã hứa hẹn với ai đó thì họ sẽ tìm mọi cách để thực hiện.\n\nĐối với những cuộc tranh luận, các ENTJ sẽ luôn cố gắng đưa ra thật nhiều luận điểm giá trị để dành phần thắng. Những Nhà điều hành không phải những người hiếu thắng, tuy nhiên việc chứng minh mình phải đúng dường như đã ăn sâu vào tính cách của họ.\n\nNếu nhìn thoáng qua, bạn hẳn sẽ nghĩ các ENTJ là những người khó gần, bởi họ luôn thể hiện sự mạnh mẽ và gai góc của mình ra bên ngoài. Tuy vậy, những người thuộc nhóm tính cách ENTJ lại sống rất tình cảm, họ luôn âm thầm để ý và quan tâm tới tất cả những người xung quanh.\n\nCác ENTJ không phải những người thích giữ quan điểm cho riêng mình mà luôn muốn công khai với cả thế giới về cách họ nhìn nhận vấn đề. Đối với người thân, bạn bè, nếu không hài lòng điều gì thì các ENTJ sẽ thẳng thắn nói ra chứ không “tẩm ngẩm tầm ngầm” đánh giá người khác.\n\nNhững người thuộc nhóm tính cách ENTJ rất thích thảo luận với bạn bè, đặc biệt nếu cuộc trò chuyện tập trung vào lĩnh vực mà họ quan tâm, bởi họ luôn không ngừng tìm cách cải thiện và nâng cao trình độ của bản thân.\n\nNhìn chung, các ENTJ luôn nhiệt tình và nỗ lực hết mình trong các mối quan hệ của mình. Phương châm của ENTJ là "học, học nữa, học mãi" nên họ sẽ cố gắng tiếp thu và biến mọi thứ thành bài học kinh nghiệm của mình. Và việc trao đổi kiến thức chính là cách tốt nhất để làm sâu sắc thêm tình bạn với các ENTJ.\n\nNgoài ra, các ENTJ cũng là những người hành động nhiều hơn là nói. Do không giỏi thể hiện cảm xúc nên nếu yêu quý ai, họ sẽ chủ động quan tâm chăm sóc, tặng quà, khen ngợi hay hỏi thăm xin ý kiến của người đó.'
                         },
                         {
-                            "title": "ENFJ trong tình yêu",
+                            "title": "ENTJ trong tình yêu",
                             "itemsChild": [
                                 {
-                                    "content": "Nhóm tính cách ENFJ không chấp nhận bất cứ điều gì không phù hợp với lý tưởng của họ, cả trong tình yêu cũng thế.\n\n<i>“Các ENFJ muốn yêu bằng vẻ đẹp tâm hồn hơn là vẻ đẹp ngoại hình.”</i>\n\nDù nhóm tính cách này có thể trông rất cởi mở, thậm chí đôi khi thích “thả thính” lung tung, nhưng họ không phải kiểu người có thể yêu từ cái nhìn đầu tiên. Các ENFJ có tiêu chuẩn khá cao trong việc lựa chọn bạn đời và họ cho rằng “tình yêu sét đánh” là vô cùng quý giá và chỉ đến khi chúng ta gặp được định mệnh của đời mình.",
+                                    "content": "Trong mọi mối quan hệ, đặc biệt là tình yêu, thì những người thuộc nhóm tính cách ENTJ luôn xác định rõ những gì mình muốn và những gì cần phải làm để đạt được mục đích đó ngay từ sớm. Họ cũng sẽ bắt tay vào thực hiện với tâm thế tràn đầy năng lượng và nhiệt huyết.\n\nTrong tình yêu, các ENTJ sẽ là những người chủ động trước, họ biết dẫn dắt nửa kia của mình và nhận trách nhiệm để đảm bảo cho mọi thứ diễn ra mượt, suôn sẻ, đôi bên cùng vui vẻ. Họ coi trọng tình yêu và muốn chuyện tình của họ sẽ kéo dài thật lâu mãi về sau.",
                                 },
                                 {
-                                    "titleChild": "Chủ động trong tình yêu",
-                                    "content": "Khi ENFJ phải lòng ai đó, họ thường yêu một cách mãnh liệt và không e dè. Nhóm tính cách ENFJ là một trong những kiểu người thích “tấn công” thay vì “phòng thủ”, họ thường là chủ động trước thay vì chờ đợi hoặc dè dặt dò xét tình cảm của đối phương.\n\nTrong tình yêu, sự “tấn công” không dè chừng từ các ENFJ quả là một điều mới lạ. Việc chủ động này, kết hợp với sự say mê khi gặp người mình thích, đã tạo nên sức hút không thể chối từ của những Người cho đi. Tuy nhiên, chủ động nhiều thì khả năng bị từ chối càng nhiều, và các ENFJ chấp nhận điều đó.\n\n<i>“Những người thuộc nhóm tính cách ENFJ là những nửa kia vô cùng chân thành và đáng tin, họ cũng sẵn sàng dành nhiều thời gian và nỗ lực để chứng minh tấm lòng son của mình.”</i>",
+                                    "titleChild": "Chủ động dẫn dắt, dứt khoát",
+                                    "content": "Những người thuộc nhóm tính cách ENTJ đặt rất nhiều tâm huyết để vun vén cho tình yêu của mình. Với óc sáng tạo vô tận, họ thường khiến nửa kia của mình vui vẻ với những bất ngờ nho nhỏ trong những buổi hẹn hò. Tuy nhiên, các ENTJ cũng rất quan tâm đến tính khả thi và cái kết cho câu chuyện tình yêu của họ. Một khi các ENTJ nhận thấy rằng mối quan hệ này sẽ không đi tới đâu thì họ sẽ là người chủ động nói lời chia tay và cắt đứt quan hệ, nhanh đến mức nửa kia của họ còn chưa kịp hiểu chuyện gì đang diễn ra.\n\n<i>“Khi đã chia tay, các ENTJ sẽ một đi không trở lại, không bao giờ níu kéo. Sẽ không bao giờ có chuyện các ENTJ nhắn tin hay đề cập quay lại với người cũ.”</i>",
                                 },
                                 {
-                                    "titleChild": "Cùng vương tới ước mơ",
-                                    "content": "Ngay từ buổi hẹn hò đầu tiên, bạn đã có thể nhận thấy các ENFJ là những người rất sâu sắc qua cách họ gợi chuyện. Những Người cho đi sẽ không hỏi những câu hỏi xã giao như bạn làm nghề gì, bạn thích màu gì, bạn thích quần áo của thương hiệu nào. Thay vào đó, họ sẽ quan tâm nhiều hơn tới ước mơ và lý tưởng của bạn, những điều mà bạn mong đợi ở bản thân trong tương lai. Và nếu có cơ hội, họ sẽ tìm cách giúp bạn hiện thực hóa giấc mơ của mình.\n\n<i>“Đối với ENFJ, một trong những niềm vui lớn nhất của cuộc đời là giúp người khác hiện thực hóa giấc mơ của mình.”</i>\n\nNếu mối quan hệ giữa hai người tiến thêm một bước, các ENFJ có thể sẵn sàng coi mục tiêu của đối phương quan trọng như thể đó là mục tiêu của chính mình. Mặt trái của việc “ăn cơm nhà vác tù và hàng tổng” này là những Người cho đi có thể bỏ bê việc chăm sóc và nuôi dưỡng ước mơ của chính mình.\n\nMột vấn đề khác có thể nảy sinh trong mối quan hệ của các ENFJ là họ có thể tạo động lực hơi quá đà lên nửa kia của mình, gần như là thúc ép. Hệ quả là người yêu của các ENFJ có thể cảm thấy tức giận, cảm thấy bị đánh giá thấp hoặc thậm chí là tự ti vì nghĩ mình thật yếu kém. Đây là lý do mà những Người cho đi cần học cách từ tốn trong mọi mối quan hệ để có thể đi cùng nhau lâu dài.",
+                                    "titleChild": "Chủ động giải quyết mâu thuẫn, không vòng vo",
+                                    "content": "Trong mối quan hệ yêu đương, các ENTJ luôn là những người tiên phong trong việc giải quyết các mâu thuẫn, cãi vã chứ không có xu hướng “silent treatment” như nhiều nhóm tính cách hướng nội khác. Với ENTJ, tranh luận để tìm ra cách giải quyết vấn đề triệt để thì sẽ tốt hơn là im lặng hay lảng tránh. Tuy nhiên, họ có thể có vấn đề với việc lắng nghe cảm xúc của người đối diện vì các ENTJ thường bỏ qua các vấn đề cảm xúc mà chỉ tập trung vào logic trong lúc giải quyết vấn đề.",
                                 },
                                 {
-                                    "titleChild": "Một chặng đường dài",
-                                    "content": "Rất ít nhóm tính cách có được sự chung tình một cách tuyệt đối với đối tượng mà họ đã chọn như là các ENFJ. Họ nghiêm túc trong tình yêu cũng như trong mọi mối quan hệ. Ngay từ những ngày mới quen nhau, họ đã có ý tưởng xây dựng một câu chuyện tình yêu đẹp như cổ tích, và khi mối quan hệ chín muồi, họ sẽ biến điều đó thành hiện thực.\n\n<i>“Mặc dù các ENFJ biết cách tận hưởng từng phút giây trong cuộc sống, nhưng họ cũng hiểu rằng tình yêu không chỉ có niềm vui mà là sự bù trừ lẫn nhau về mặt tâm hồn.”</i>\n\nCác ENFJ quan tâm đến việc làm hài lòng người yêu của mình, sự nhạy bén giúp họ dễ dàng bắt sóng những thay đổi trong tâm trạng và mong muốn của đối phương. Miễn là họ không bỏ quên việc chăm chút bản thân thì các ENFJ có thể có được những mối quan hệ vô cùng tuyệt vời dựa trên sự chân thành, tin tưởng, hỗ trợ lẫn nhau - và tất nhiên là cả tình yêu.",
-                                },
-                            ],
-                        },
-                        {
-                            "title": "ENFJ trong tình bạn",
-                            "itemsChild": [
-                                {
-                                    "content": "Việc dễ dàng kết nối với mọi người khiến các ENFJ cảm thấy tràn đầy năng lượng. Trong tình bạn, họ luôn chân thành và thẳng thắn bởi các ENFJ là những người biết trân trọng tình bạn và coi đó như một phần không thể thiếu trong cuộc đời.",
+                                    "titleChild": "Có thể có xu hướng gia trưởng và áp đặt",
+                                    "content": "Các ENTJ vốn dĩ thích người khác làm theo ý mình. Họ có lối sống quy củ và có tổ chức theo tiêu chuẩn riêng và họ cũng kỳ vọng người bạn đời của mình tuân theo quy chuẩn này.\n\nCác ENTJ cũng có tiêu chuẩn cao trong việc lựa chọn bạn đời. Về bản chất, các ENTJ hết sức tham vọng và đề cao sự nghiệp. Vì vậy, họ cũng kỳ vọng người bạn đời của mình là một người độc lập cảm xúc và hết lòng ủng hộ cho mục tiêu của họ.",
                                 },
                                 {
-                                    "titleChild": "Lắng nghe",
-                                    "content": "Rất ít nhóm tính cách sẵn sàng dành thời gian lắng nghe và tiếp thu quan điểm của người khác như các ENFJ. Với họ, việc khám phá những điều bí ẩn (thậm chí là có phần điên rồ) của những người xung quanh là thú vui thuần túy nhất, giúp họ có thể mở mang kiến thức và tiếp thu nhiều điều mới mẻ.\n\n<i>“Các ENFJ kết bạn với mọi kiểu người, kể cả những người có tư duy khác hẳn với họ.”</i>\n\nNhững người thuộc nhóm tính cách ENFJ chỉ không thích những người có tư tưởng bảo thủ và không chịu đổi mới, ngược lại, họ dễ kết thân nhất với những nhóm tính cách có suy nghĩ cởi mở như mình.\n\nTuy luôn niềm nở những lúc quây quần bên bạn bè nhưng chỉ khi ở cạnh những người thực sự thân thiết, các ENFJ mới sẵn sàng mở lòng, thậm chí trở nên có phần yếu đuối và dựa dẫm, vì họ biết mình đang được bảo vệ và nâng niu.",
-                                },
-                                {
-                                    "titleChild": "Vượt qua những thăng trầm",
-                                    "content": "Các ENFJ là một trong những người bạn tốt mà ai cũng nên có trong đời. Họ tốt bụng, đáng tin cậy và luôn dành sự quan tâm nồng nhiệt cho người khác. Đổi lại, họ cũng muốn lòng tốt của mình được đón nhận và đáp lại bằng tất cả niềm thương yêu.\n\n<i>“Đối với mọi người, từ quen biết xã giao tới thân thiết như người một nhà, các ENFJ luôn cố gắng tạo dựng các mối quan hệ sâu sắc, ý nghĩa, bền chặt.”</i>\n\nCác ENFJ luôn sát cánh bên người bạn của mình, đặc biệt trong những giai đoạn khó khăn nhất. Những Người cho đi có thể thức cả đêm để giúp người bạn cùng nhà chuẩn bị một chiếc CV hoàn hảo trước buổi phỏng vấn, hoặc lên kế hoạch tổ chức sinh nhật vô cùng tỉ mỉ cho người bạn thân, tất cả đều vì một mục đích: mang lại niềm vui cho những người xung quanh.\n\n<i>“Nụ cười của bạn là điều vô giá đối với tôi.”</i>",
-                                },
-                                {
-                                    "titleChild": "Tìm kiếm sự cân bằng",
-                                    "content": "Lòng tốt được cho đi nhưng không phải bao giờ cũng được đáp lại đúng cách. Đối với sự giúp đỡ của các ENFJ, có người sẽ lựa chọn đón nhận một cách biết ơn, có người thì không, đơn giản vì họ cảm thấy không cần thiết hoặc đã tìm được sự giúp đỡ lớn hơn. Đây quả là một điều đáng tiếc cho các ENFJ, bản thân họ cũng sẽ rất thất vọng khi nhận ra những hy vọng và mong đợi mình đặt lên người khác bị đổ sông đổ bể.",
+                                    "titleChild": "Tình yêu táo bạo",
+                                    "content": "Khi tình yêu đã bước vào giai đoạn chín muồi và hai người bắt đầu đi sâu vào tìm hiểu đối phương thì các ENTJ sẽ “bùng nổ” năng lượng, đặc biệt trong vấn đề giường chiếu. Khi ở trên giường, sự tự tin khiến đời sống tình dục của các ENTJ trở nên thú vị hơn, đa dạng hơn, họ cũng có rất nhiều ý tưởng hay ho táo bạo để thực hiện với bạn đời của mình.\n\nBên cạnh đó, trong tình yêu, những Nhà điều hành luôn định hướng phát triển kỹ năng và cải thiện vốn hiểu biết của mình, dù là qua những lời khen hay phê bình, chỉ cần nghe hợp lý là được. Đổi lại, họ cũng muốn nửa kia của mình làm điều tương tự để cùng nhau học hỏi. Tuy vậy, các ENTJ cũng nên nhớ rằng phê bình không phải bao giờ cũng tốt, mà còn cần để ý tới cảm xúc của người bạn đời để tránh vô tình gây tổn thương cho họ, bởi không phải ai cũng nhận ra rằng bạn phê bình chỉ vì muốn tốt cho họ mà thôi.\n\n<i>“Đối mặt với vấn đề gì cũng nên giữ cân bằng về lý trí lẫn cảm xúc, phê bình xen lẫn khen ngợi, như vậy thì nửa kia của các ENTJ mới không bị tổn thương bởi những lời nói khi vô tình lúc hữu ý của họ.”</i>\n\nCác ENTJ sẽ hòa hợp nhất với những người suy nghĩ thiên về Trực giác (N), hoặc có thể có một hai mặt trái ngược để cân bằng hơn trong mối quan hệ. Những Nhà điều hành trưởng thành sẽ nhìn ra mong muốn của bạn đời, và hiểu rằng kể cả những người lý trí nhất cũng nên được chăm chút về mặt cảm xúc. May mắn thay, cuối cùng các ENTJ cũng nhận ra rằng hòa giải đôi bên là phương thuốc tốt nhất cho mọi vấn đề, vì vậy họ có thể duy trì được mối quan hệ yêu đương lâu dài bền chặt.",
                                 }
                             ],
                         },
                         {
-                            "title": "ENFJ khi làm cha mẹ",
+                            "title": "ENTJ trong tình bạn",
                             "itemsChild": [
                                 {
-                                    "content": "Các ENFJ sẽ dùng tất cả những kiến thức và kỹ năng mình có để thực hiện thiên chức làm cha mẹ của mình. Họ ý thức được tầm quan trọng của việc nuôi dạy những đứa trẻ nên người, giúp chúng trở thành những công dân có ích cho xã hội.\n\nĐể làm được điều này, các ENFJ cố gắng xây dựng một mái ấm đầy yêu thương, sẵn sàng chở che và ở phía sau làm hậu phương vững chắc cho những đứa trẻ. Họ cũng khuyến khích con cái mình được tự do và chủ động nêu lên quan điểm của mình.",
+                                    "content": "Như trong hầu hết các khía cạnh khác của cuộc sống, các ENTJ cũng mong đợi được phát triển bản thân và tìm nguồn cảm hứng thông qua các mối quan hệ. Họ thường kết giao với những người có chung niềm đam mê, chung mong muốn được học hỏi, tiếp thu kiến thức mới. Không quá dễ dàng để trở thành bạn của các ENTJ vì họ có khá nhiều tiêu chuẩn khi kết giao với người mới, nhưng khi đã trở thành bạn bè thì các ENTJ sẽ rất chăm chút cho mối quan hệ và đối xử với họ vô cùng tử tế. Các ENTJ cũng có xu hướng bảo vệ - bao bọc thái quá với những người mà họ coi là bạn bè thân thiết.\n\n<i>“Với bản tính độc lập, tự cường, các ENTJ cảm thấy rất khó khăn trong việc chia sẻ nỗi lòng riêng tư hay những khó khăn của mình vì họ cho rằng như thế là yếu đuối.”</i>\n\nCác ENTJ không phải kiểu bạn dễ dàng lắng nghe những chia sẻ cảm xúc hay trút bầu tâm sự nhưng họ sẽ là những người bạn giúp đưa ra hướng giải quyết nhanh gọn và có ích. Ngoài ra, các ENTJ cũng hết sức động viên, hỗ trợ bạn bè của mình để trở thành một phiên bản tốt hơn, có cuộc sống hoàn thiện hơn.\n\nTrong một số trường hợp, các ENTJ sẽ chủ động lên kế hoạch, đồng thời đưa ra quyết định trước những người bạn của mình do ý nghĩ chủ quan của ENTJ luôn thấy bản thân là đúng nhất. Các ENTJ cũng rất thích làm host trong các buổi tụ tập, gặp mặt hay picnic cùng bạn bè.",
                                 },
                                 {
-                                    "titleChild": "Những bài học quan trọng trong cuộc sống",
-                                    "content": "Tuy nhiên, bản thân các ENFJ khi làm cha mẹ cũng khá cầu toàn. Họ muốn trao cho những đứa trẻ quyền tự do ngôn luận, nhưng là tự do trong khuôn phép, giữ gìn những đạo đức và lý tưởng tốt đẹp. Mặt khác, họ cũng không muốn chúng răm rắp nghe theo những gì người lớn chỉ dạy mà cần xây dựng lối tư duy riêng theo cách mình nhìn nhận cuộc sống.\n\n<i>“Các bậc cha mẹ ENFJ coi việc giúp đỡ con cái khám phá ra tiềm năng riêng biệt của mình là nghĩa vụ tuyệt vời.”</i>\n\nNhóm tính cách ENFJ thường đặt ra các quy tắc và ranh giới rõ ràng, phù hợp với lứa tuổi để con cái họ hiểu được hậu quả khi có những hành vi thiếu trách nhiệm. Dù đôi khi cư xử có phần nghiêm khắc nhưng những hành động đó đều xuất phát từ tình yêu thương và ý thức trách nhiệm lớn lao của mình.",
+                                    "titleChild": "Thu hẹp khoảng cách",
+                                    "content": "Trước sự thể hiện mạnh mẽ của những người thuộc nhóm tính cách ENTJ, chỉ những người vững vàng nhất mới giữ được lập trường nhất quán. Với điểm yếu cố hữu là cách không thấu hiểu cảm xúc người khác và không biết kiềm chế đúng mực, đôi khi các ENTJ sẽ đẩy cuộc trò chuyện bình thường của mình với bạn bè lên thành những lời tranh luận gắt gỏng. Đây là điều họ nên cải thiện để không vô tình làm mích lòng những người xung quanh. Việc kết bạn với những người có tính cách khá trái ngược như những bạn bè thuộc nhóm Trực giác (N) để có thể học cách cân bằng cảm xúc, thu hẹp khoảng cách giữa suy luận logic và sự hài hòa trong giao tiếp.\n\nTuy vậy, phần lớn bạn bè của các ENTJ là những người thiên về logic, vì vậy họ có thể thường xuyên chia sẻ quan điểm và ý tưởng với nhau. Các ENTJ sẽ rất hòa hợp với những người có chung sở thích và lối suy luận, họ sẵn sàng dành hàng giờ để “tám chuyện” với bạn bè, cũng như luôn có mặt khi bạn của mình cần giúp đỡ. Ngược lại, đối với những người thiên về suy nghĩ thực tế và không biết các ENTJ cứ luôn muốn tranh luận để làm gì thì sẽ bị ngó lơ mọi lúc.",
+                                }
+                            ],
+                        },
+                        {
+                            "title": "ENTJ khi làm cha mẹ",
+                            "itemsChild": [
+                                {
+                                    "content": "Với tư cách là cha mẹ, các ENTJ luôn phải kìm nén ý chí mạnh mẽ và lối suy nghĩ logic của mình để nhường chỗ cho những cảm xúc chân thật hơn mà họ muốn dành cho con cái. Bởi lẽ, trẻ con thường không đủ khả năng phân tích vấn đề để hiểu hết những suy nghĩ của cha mẹ, điều đó đòi hỏi các cha mẹ ENTJ cần khéo léo hơn trong cách giao tiếp với con cái.\n\nNhững Nhà điều hành coi trọng việc trở thành cha mẹ, họ cũng hiểu rõ tầm quan trọng của mình trong việc nuôi dạy con cái nên người.\n\nNhững người thuộc nhóm tính cách ENTJ coi những đứa trẻ chính là hình ảnh phản chiếu của bản thân, vì vậy họ mong muốn chúng sẽ trở nên thông minh, độc lập, luôn cố gắng hết mình vì mục tiêu — những điều đó đều được ưu tiên trước những phẩm chất về mặt đạo đức.\n\n<i>“Các ENTJ đặt kỳ vọng cao ở con cái của họ, mong muốn con cái của mình thành công và khiến cho họ nở mày nở mặt.”</i>",
                                 },
                                 {
-                                    "titleChild": "Kỳ vọng to lớn",
-                                    "content": "Các bậc phụ huynh ENFJ kỳ vọng rất nhiều vào con cái, luôn mong muốn chúng trở thành một người có ích cho xã hội, phát triển được điểm mạnh của mình để xây dựng một thế giới tốt đẹp hơn.\n\n<i>“Cha mẹ ENFJ tự hào khi có khả năng nhìn thấy tiềm năng ở người khác - đặc điểm này giúp họ nhận ra những đứa trẻ có thế mạnh gì và cần phát huy như thế nào.”</i>\n\nTuy nhiên, đôi khi các kỳ vọng của ENFJ dường như quá sức đối với con cái của họ. Những đứa trẻ cảm thấy rằng nếu chúng muốn giành được tình yêu thương của cha mẹ thì phải đáp ứng các tiêu chuẩn của họ — đôi khi là những tiêu chuẩn bất khả thi, vượt ra khỏi tầm với của chúng. Để giải quyết vấn đề này, các bậc cha mẹ ENFJ nên gần gũi và săn sóc với những đứa trẻ hơn để chúng cảm nhận được tình yêu thương thay vì áp lực thời thơ ấu.",
+                                    "titleChild": "Xây dựng lòng khoan dung",
+                                    "content": "Các cha mẹ ENTJ tôn trọng sự khác biệt quan điểm, họ tin rằng mỗi người có một suy nghĩ và chúng đều đáng quý. Nhưng nếu trong gia đình nổ ra một cuộc tranh luận nào đó thì họ lại muốn ý kiến của mình được chấp nhận vì mình là cha mẹ. Sự nghiêm khắc này về lâu dài có thể gây nên những hiểu lầm không đáng có giữa cha mẹ và con cái, vì vậy các ENTJ nên linh hoạt trong việc tiếp thu ý kiến và đưa ra đánh giá khách quan hơn.\n\nKhi những cuộc tranh luận trong gia đình thiên về những vấn đề thiên về mặt cảm xúc hơn thì các ENTJ hoàn toàn bất lực. Họ không hề có năng khiếu trong việc thấu hiểu người khác, đặc biệt là đối với những đứa trẻ đang bắt đầu bước vào độ tuổi thanh thiếu niên và trở nên nhạy cảm hơn rất nhiều. Về phía con cái của các ENTJ, chúng cũng gặp khó khăn trong việc giao tiếp với cha mẹ vì không biết mở lời ra sao và diễn đạt như thế nào. Sự mất liên kết về cảm xúc giữa hai thế hệ sẽ gây ra những cuộc chiến tranh lạnh không đáng có.\n\n<i>“Bằng việc học cách kiềm chế cảm xúc và chậm rãi thấu hiểu con cái, các bậc phụ huynh ENTJ sẽ giảm thiểu những xung đột không đáng có trong mái ấm của mình.”</i>",
                                 },
                                 {
-                                    "titleChild": "Nền tảng vững tin",
-                                    "content": "Điều tích cực là cuối cùng thì các bậc phụ huynh ENFJ cũng nhận ra đâu mới là nhu cầu thật sự của những đứa trẻ. Vì vậy, song song với việc thúc đẩy sự phát triển về mặt nhận thức của con cái, họ sẽ xây dựng một môi trường phát triển lành mạnh với tình yêu thương đong đầy để chúng có thể yên tâm lớn lên.\n\n<i>“Các bậc cha mẹ ENFJ sẵn sàng làm bất cứ điều gì để con cái họ có thể phát triển hoàn hảo về vật chất lẫn tinh thần.”</i>\n\nVề phía những đứa trẻ, chúng biết đón nhận và trân trọng tình yêu thương mà cha mẹ dành cho mình. Dưới sự nuôi dưỡng và chăm sóc tận tình nhưng không kém phần nghiêm khắc của cha mẹ, con cái của các ENFJ sẽ học được cách đồng cảm, thấu hiểu và biết quan tâm tới những người xung quanh.",
+                                    "titleChild": "Bồi dưỡng tính độc lập",
+                                    "content": "Những bậc cha mẹ ENTJ nên nhớ rằng một phần của tính độc lập là có khả năng tự sắp xếp công việc và lịch trình trong một khoảng thời gian nhất định, vạch ra lộ trình cho bản thân ở một mức độ nào đó. Vì vậy họ cũng cần cho con cái không gian tự do để chúng tự quyết định những điều nên và không nên làm thay vì quyết định thay chúng. Chỉ khi vấp phải sai lầm và tự mình học cách khắc phục thì những đứa trẻ mới trưởng thành và độc lập hơn.",
                                 }
                             ],
                         },
                     ]
                 },
                 {
-                    "section": "Làm sao để thân thiết với ENFJ",
+                    "section": "Làm sao để thân thiết với ENTJ",
                     "items": [
                         {
-                            "content": "Để trở nên thân thiết với ENFJ, bạn cần chú ý những điều sau:\n\n● <b>Mời các ENFJ tham gia hội nhóm và các hoạt động chung.</b> ENFJ là một trong những nhóm tính cách “quấn người” nhất. Bởi vậy, các ENFJ rất thích được rủ đi chơi, rủ tụ tập hay tham gia hoạt động nhóm có nhiều người. Nếu muốn làm thân với các ENFJ, bạn cần “đánh” đúng vào bản tính thân thiện, quảng giao của họ.\n\n● <b>Ôn hòa và điềm tĩnh khi tiếp cận.</b> ENFJ không phải tuýp tính cách thích đối chất hay tranh luận căng thẳng. Họ có thiên hướng thích những người ôn hòa và mềm mỏng. Trong một buổi tụ tập, các ENFJ dễ chú ý và có thiện cảm với những người nhẹ nhàng, điềm tĩnh và biết cách kết nối mọi người.\n\n● <b>Tử tế, chân thành.</b> Cần ghi nhớ rằng ENFJ là một trong những nhóm tính cách rất biết cảm thông và để ý tới cảm xúc của mọi người xung quanh. Hãy trung thực và thành thật khi trò chuyện với ENFJ, họ sẽ ghi nhận sự chân thành và cho bạn cơ hội kết giao. Tránh việc sử dụng từ ngữ thô tục, đưa chuyện hay gièm pha sau lưng người khác, các ENFJ không dễ dàng chia sẻ cảm xúc với những người không đáng tin.\n\n● <b>Đừng quá cứng nhắc, hãy thoải mái tự tin.</b> Các ENFJ rất hay tỏ ra đồng cảm và có xu hướng đeo một lớp mặt nạ lên để có thể hòa nhập với tất cả mọi người. Nhưng không chắc đó là cảm xúc thật của họ. Vì vậy nếu bạn tỏ ra dạn dĩ và cứng nhắc thì các ENFJ cũng sẽ e ngại trong việc chia sẻ với bạn. Ngược lại, nếu bạn thoải mái và thân thiện thì các ENFJ cũng sẽ thoải mái bày tỏ cảm xúc hơn.\n\n<i>“Đôi khi việc quá đỗi thân thiện, quảng giao dễ khiến người khác hiểu nhầm là ENFJ đang “có tình ý” với họ. Thực chất các ENFJ chỉ đang thể hiện sự tử tế và quan tâm tới đối phương chứ không có ý tán tỉnh.”</i>"
+                            "content": "●     <b>Thẳng thắn và chân thành.</b> ENTJ nổi tiếng là thích thảo luận trực diện vì vậy họ sẽ không thích những người vòng vo tam quốc hay nói nước đôi. ENTJ cũng không phải tuýp người dễ hiểu được ẩn ý đâu nên nếu thực sự muốn kết thân với họ, bạn hãy trình bày thẳng thắn cảm xúc của bạn cho họ hiểu.\n\n●     <b>Tôn trọng sự độc lập của ENTJ.</b> ENTJ luôn thích độc lập và tự chủ. Điều này đúng với cả ENTJ nữ lẫn ENTJ nam. Trong mối quan hệ kể cả thân thiết thì cũng vẫn sẽ có khoảng cách nhất định. Hãy tôn trọng không gian riêng và nhu cầu tự do của các ENTJ, bạn sẽ dễ để lại ấn tượng với họ.\n\n●     <b>Gắn kết qua các cuộc thảo luận đòi hỏi sự động não.</b> ENTJ rất dễ bị cuốn hút bởi những cuộc thảo luận về các vấn đề hóc búa đòi hỏi phải động não. Càng khó họ càng thích. Hãy tìm hiểu sở thích của ENTJ và chủ động nêu lên vấn đề nan giải thuộc chủ đề mà họ quan tâm, các ENTJ sẽ cực kỳ có hứng thú tham gia buổi thảo luận.\n\n●     <b>Các ENTJ thích những người có tài năng và tham vọng.</b> Bản thân các ENTJ là những người rất tham vọng và có chí tiến thủ. Vì vậy, không có gì là ngạc nhiên khi họ dễ bị thu hút bởi những người có cùng chí hướng. Nếu bạn là người có sở thích riêng, cá tính, biết rõ mình muốn gì, có mục đích sống và có tinh thần cố gắng cao, bạn sẽ rất dễ được các ENTJ để ý và chủ động kết bạn.\n\n●     <b>Khéo léo và mềm mỏng khi tiếp nhận thông tin từ ENTJ.</b> ENTJ nổi tiếng là thẳng thắn và có cái tôi to. Vì vậy khi các ENTJ chủ động đóng góp ý kiến cho bạn, kể cả bạn không đồng tình với họ thì cũng đừng vội phản đối gay gắt ngay. Họ sẽ không thích bị phản đối một cách quá thẳng thừng và sẽ dễ nổi nóng trong trường hợp ấy. Nếu ý kiến của họ có ích với bạn, việc bạn đồng tình và tán dương sẽ rất dễ để gây thiện cảm với các ENTJ.\n\n●     <b>Tôn trọng thời gian của các ENTJ.</b> Các ENTJ là người rất tham vọng và luôn tập trung vào sự tiến bộ của bản thân. Họ dành rất nhiều thời gian để trau dồi kiến thức và rèn luyện bản thân. Các ENTJ thường cực kỳ bận rộn với một lịch trình dày đặc. Vì vậy, đừng làm các ENTJ mất thì giờ với những việc vô bổ không có mục đích, họ sẽ không có hứng thú đâu. Hãy tôn trọng quỹ thời gian và nỗ lực của ENTJ, bạn sẽ nhận lại sự tôn trọng từ phía họ."
                         },
                     ],
                 },
@@ -2824,15 +2816,19 @@ export const mbtiData = {
                     "section": "Con đường sự nghiệp",
                     "items": [
                         {
-                            "content": "Đứng trước những ngã rẽ của cuộc đời trên con đường sự nghiệp, các ENFJ sẽ ưu tiên công việc cho họ cơ hội tiếp xúc nhiều với con người, cụ thể là những công việc xã hội, bởi họ thích giúp đỡ người khác và nhìn những nỗ lực của mình được đền đáp bằng nụ cười hạnh phúc của những người xung quanh.\n\n<i>“Những người thuộc nhóm tính cách ENFJ gần như không bao giờ thiếu cảm hứng ở môi trường làm việc.”</i>"
+                            "content": "Trong công việc, sự táo bạo và nhiệt huyết của những người thuộc nhóm tính cách ENTJ mới được thể hiện rõ ràng nhất, và họ là những ứng cử viên sáng giá nhất cho vị trí lãnh đạo. Bản thân các ENTJ cũng cảm thấy hài lòng khi đạt được vị trí cao trong công việc, được đồng nghiệp và cấp dưới kính trọng. Với tầm nhìn và trí thông minh, cũng như sự quyết tâm của các ENTJ sẽ giúp các nhiệm vụ luôn được hoàn thành đúng hạn với tiêu chuẩn cao nhất."
                         },
                         {
-                            "title": "Khẳng định vị thế của mình",
-                            "content": "Nhờ kỹ năng xã hội tốt, các ENFJ có thể hoàn thành xuất sắc vai trò của mình trong những lĩnh vực liên quan tới con người, ví dụ như tổ chức sự kiện, tuyển dụng hoặc quan hệ công chúng. Những công việc như giảng dạy, tư vấn, huấn luyện và chăm sóc sức khỏe cộng đồng cũng rất phù hợp với những người thuộc nhóm tính cách ENFJ.\n\n<i>“Tuy vậy, dù mong muốn lớn nhất là làm việc trong lĩnh vực phục vụ cộng đồng nhưng các ENFJ vẫn luôn hướng tới sự thăng tiến trong công việc.”</i>\n\nĐược biết tới với khả năng lãnh đạo tài tình, những người thuộc nhóm tính cách ENFJ thường đảm nhiệm những vị trí quan trọng có sức ảnh hưởng trong một tổ chức, ví dụ như tổ chức tôn giáo, tổ chức từ thiện, tổ chức phi lợi nhuận, văn phòng nhà nước."
+                            "title": "Một tầm nhìn, một sứ mệnh",
+                            "content": "Trong lĩnh vực kinh doanh, sự quyết đoán của các ENTJ giúp họ đạt được sự ngưỡng mộ trong công việc. Với tính cách dứt khoát, những doanh nhân thuộc nhóm tính cách ENTJ sẽ giúp đội nhóm của mình phát triển đúng hướng và hoàn thành công việc kịp tiến độ.\n\n<i>“Đối với những Nhà điều hành, thất bại mà điều họ không bao giờ nghĩ tới. Các ENTJ vạch ra tầm nhìn một cách rõ ràng sau đó định ra chiến lược thực thi. Họ biết chính xác mình muốn gì và cần làm gì.”</i>\n\nTrật tự và có nguyên tắc là chìa khóa dẫn tới thành công của các ENTJ, họ rất không vừa mắt những người có thái độ làm việc cẩu thả, kém cỏi, trì trệ, lười biếng. Vì đã xác định tầm nhìn rõ ràng cho toàn bộ kế hoạch của mình nên các ENTJ cũng có những tiêu chuẩn đi kèm cho bản thân và những người cùng tham gia dự án. Khả năng lên chiến lược “xuất thần” này giúp các ENTJ phù hợp với công việc luật sư, thẩm phán.\n\nLà một người có khả năng giao tiếp ngắn gọn, súc tích, dễ hiểu, nên họ rất phù hợp với công việc kinh doanh. Những người thuộc nhóm tính cách ENTJ cũng rất muốn học hỏi thêm nhiều kiến thức mới, kết hợp với kỹ năng vốn có để hoàn thành công việc tốt nhất."
                         },
                         {
-                            "title": "Phát triển bản thân",
-                            "content": "Trong công việc, các ENFJ luôn mong chờ những nhiệm vụ và thử thách mới để từng bước hoàn thiện bản thân. Do đó, những công việc có tính chất lặp đi lặp lại sẽ khiến những Người cho đi nhanh chóng rơi vào trạng thái chán chường, nản chí.\n\n<i>“Trong thâm tâm, các ENFJ muốn những việc mình làm có thể mang lại nguồn năng lượng tích cực tới những người xung quanh.”</i>\n\nTrong số các nhóm tính cách MBTI thì ENFJ là nhóm có nhiều lựa chọn nghề nghiệp nhất, bởi họ là những cá nhân khá dễ chịu và mềm mỏng. Là một người thích mang niềm vui và hạnh phúc đến những người xung quanh, biết lắng nghe, biết thấu hiểu, dễ cảm thông, các ENFJ đặc biệt phù hợp với những công việc liên quan ở lĩnh vực bán hàng, tư vấn, tuyển dụng, báo chí, tâm lý.\n\nMặt khác, bởi những Người cho đi khá dễ bị chi phối bởi cảm xúc nên họ không có nhiều cơ hội thể hiện tốt nhất ở những công việc có áp lực cao, liên tục làm việc trong điều kiện căng thẳng, đòi hỏi tập trung cao độ như cảnh sát hình sự, bác sĩ cấp cứu, chuyên gia quân sự.\n\nCác ENFJ sẵn sàng cho đi và mong đợi những điều mình cho đi có thể giúp đỡ những người xung quanh, mang đến cho họ cuộc sống tốt đẹp hơn, đó là lý do mà những công việc trong lĩnh vực tôn giáo cũng rất phù hợp với họ.\n\nDưới đây là các công việc phù hợp với ENFJ mà bạn có thể tham khảo:\n\n● Chính trị gia\n\n● Nhà ngoại giao\n\n● Nhà tâm lý học\n\n● Công tác xã hội\n\n● Cố vấn\n\n● Nhà giáo\n\n● Nhà tư vấn\n\n● Quản lý nhân sự\n\n● Đại diện bán hàng\n\n● Tổ chức sự kiện\n\n● Nhà văn"
+                            "title": "Kỳ vọng lớn lao",
+                            "content": "Trong lĩnh vực kinh doanh, sự quyết đoán của các ENTJ giúp họ đạt được sự ngưỡng mộ trong công việc. Với tính cách dứt khoát, những doanh nhân thuộc nhóm tính cách ENTJ sẽ giúp đội nhóm của mình phát triển đúng hướng và hoàn thành công việc kịp tiến độ.\n\n<i>“Đối với những Nhà điều hành, thất bại mà điều họ không bao giờ nghĩ tới. Các ENTJ vạch ra tầm nhìn một cách rõ ràng sau đó định ra chiến lược thực thi. Họ biết chính xác mình muốn gì và cần làm gì.”</i>\n\nTrật tự và có nguyên tắc là chìa khóa dẫn tới thành công của các ENTJ, họ rất không vừa mắt những người có thái độ làm việc cẩu thả, kém cỏi, trì trệ, lười biếng. Vì đã xác định tầm nhìn rõ ràng cho toàn bộ kế hoạch của mình nên các ENTJ cũng có những tiêu chuẩn đi kèm cho bản thân và những người cùng tham gia dự án. Khả năng lên chiến lược “xuất thần” này giúp các ENTJ phù hợp với công việc luật sư, thẩm phán.\n\nLà một người có khả năng giao tiếp ngắn gọn, súc tích, dễ hiểu, nên họ rất phù hợp với công việc kinh doanh. Những người thuộc nhóm tính cách ENTJ cũng rất muốn học hỏi thêm nhiều kiến thức mới, kết hợp với kỹ năng vốn có để hoàn thành công việc tốt nhất."
+                        },
+                        {
+                            "title": "ENTJ phù hợp với nghề nghiệp gì?",
+                            "content": "ENTJ rất thích việc chuyển các ý tưởng thành kế hoạch hành động, thích thực thi hơn là lý thuyết, đây là một trong những ưu điểm của họ và cũng là điều các ENTJ tìm kiếm trên con đường sự nghiệp. Những đặc điểm này khiến cho ENTJ xuất sắc trong các vị trí: giám đốc điều hành, doanh nhân, chiến lược gia - họ có đủ nghị lực và quyết tâm để triển khai ý tưởng dù vẫn còn tồn đọng nhiều trở ngại trên con đường đến với thành công.\n\nNhững người có loại tính cách này thường có kỹ năng lãnh đạo tuyệt vời và cực kỳ ham học. Thiếu năng lực, lười biếng và kém hiệu quả là những điều mà các ENTJ không mong muốn bắt gặp ở nơi làm việc. Điều này làm cho ENTJ trở thành những người đồng nghiệp, những cấp trên có phần nghiêm khắc và khắt khe, nhưng lợi thế mà tính cách này mang lại là sự hiệu quả và khách quan trong công việc. Những đặc điểm trên kết hợp lại khiến luật sư, thẩm phán, quản trị kinh doanh hoặc giáo sư đại học trở thành những ngành nghề rất hợp với những Nhà điều hành.\n\nCác ENTJ rất phù hợp với vai trò tổ chức và lãnh đạo. Họ có khả năng nhận biết và phân tích vấn đề, cũng như đưa ra các giải pháp sáng tạo cho sự tồn tại và phát triển của tổ chức trong ngắn hạn và dài hạn. Các ENTJ rất muốn trở thành người dẫn đầu vì vậy họ cảm thấy bị gò bó khi phải nghe theo chỉ dẫn của người khác.\n\nDưới đây là một số nghề nghiệp phù hợp mà các ENTJ có thể tham khảo:\n\n●     Doanh nhân\n\n●     Xây dựng tổ chức/doanh nghiệp/công ty\n\n●     Giám đốc điều hành\n\n●     Quản trị doanh nghiệp\n\n●     Cố vấn về máy tính\n\n●     Quan tòa, luật sư\n\n●     Giảng viên"
                         }
                     ]
                 },
@@ -2840,71 +2836,388 @@ export const mbtiData = {
                     "section": "Thói quen nơi công sở",
                     "items": [
                         {
-                            "content": "Các ENFJ là những người ấm áp và hòa đồng, cộng thêm đầu óc sáng tạo sẽ giúp họ có được lợi thế phát triển bản thân ở nhiều lĩnh vực khác nhau, cùng như dễ dàng hòa nhập với môi trường làm việc mới."
+                            "content": "Đối với những người thuộc nhóm tính cách ENTJ, văn phòng làm việc là nơi giúp họ thể hiện được tính cách thật một cách tự nhiên nhất. Họ có phương pháp giao tiếp tự nhiên, cuốn hút, khả năng lãnh đạo tài tình và kỹ năng xử lý công việc chuyên nghiệp. Bản thân các ENTJ cũng ưu tiên được làm việc ở vị trí lãnh đạo hơn là những vị trí không được nắm nhiều quyền điều hành trong tay.\n\n<i>“Tuy vậy, những người thuộc nhóm tính cách ENTJ là những người khá nghiêm khắc, họ có thể thích nghi với bất kỳ tình huống nào bằng cách khẳng định năng lực của bản thân trong công việc và chủ động hoàn thành những nhiệm vụ khó nhằn nhất.”</i>"
                         },
                         {
-                            "title": "ENFJ khi là nhân viên",
-                            "content": 'Là nhân viên, các ENFJ muốn chứng minh năng lực và khẳng định giá trị của mình trong mắt cấp trên. Họ sẵn sàng nhận nhiệm vụ và có thể thực hiện nhanh chóng với thái độ niềm nở, không so đo, không cằn nhằn.\n\n<i>“Các ENFJ là những nhân viên chăm chỉ, đáng tin cậy và sẵn sàng giúp đỡ mọi người.”</i>\n\nTuy nhiên đặc điểm này cũng là một con dao hai lưỡi khi sự năng nổ trong công việc của họ bị một số cấp trên lợi dụng để dồn ép với khối lượng công việc lớn khiến họ thường xuyên phải tăng ca. Các ENFJ, dù có muốn hay không, vẫn sẽ cố hoàn thành công việc mà không kêu ca để giữ hòa khí ở môi trường làm việc.'
+                            "title": "ENTJ khi là nhân viên",
+                            "content": 'Vị trí cấp dưới là vị trí mang tới nhiều thử thách nhất cho những người thuộc nhóm tính cách ENTJ, và họ phải nỗ lực rất nhiều để đạt được sự hài lòng trong công việc. Họ liên tục nhập những nhiệm vụ khó và cố gắng hoàn thiện một cách xuất sắc để thể hiện năng lực của bản thân, và để chứng tỏ rằng không gì là không thể chỉ cần bạn đủ chăm chỉ.\n\nNếu quá trình xử lý công việc bị chậm trễ, họ có thể rơi vào tình trạng xao nhãng và mất phương hướng một chút. Ngược lại nếu mọi việc đi theo đúng tiến độ thì các ENTJ sẽ bắt kịp rất nhanh và xử lý gọn gàng.\n\nTrong công việc, nếu ENTJ bị cấp trên phê bình hoặc chỉ trích, thay vì nổi giận thì họ sẽ chọn cách tiếp thu để rút kinh nghiệm cho lần sau. Bởi vậy tiêu chuẩn của những nhân viên thuộc nhóm ENTJ trong công việc luôn rất cao. Họ là kiểu người sẵn sàng gắn bó và cống hiến hết mình cho công việc, miễn là cấp trên của họ cũng làm tròn bổn phận của mình.'
                         },
                         {
-                            "title": "ENFJ khi là đồng nghiệp",
-                            "content": "Các ENFJ là những nhân tố vô cùng tài ba khi làm việc nhóm, bởi họ luôn tìm kiếm cơ hội để bản thân họ và đội nhóm cùng nhau phát triển, cùng nhau đi lên. Họ biết cách xây dựng một môi trường làm việc công bằng, bình đẳng, nơi mọi người — dù ở bất cứ vị trí nào — cũng có quyền nói lên ý kiến của mình.\n\nDù vậy, các ENFJ cũng nên cẩn trọng với những quyền hạn mà mình được trao, bởi không phải đồng nghiệp nào cũng nhận ra sự hồ hởi và nhiệt huyết của bạn trong công việc. Ngược lại, họ sẽ coi đó là một sự “vượt quyền” khi bạn cứ liên tục bảo họ phải làm cái này làm cái kia."
+                            "title": "ENTJ khi là đồng nghiệp",
+                            "content": "ENTJ là những người rất quảng giao và sẵn sàng chia sẻ ý tưởng của mình cùng các đồng nghiệp. Là những người có “máu lãnh đạo” bẩm sinh, họ sẽ chủ động là người đại diện đứng ra để dẫn dắt mọi người trong đội nhóm để giải quyết vấn đề. Các ENTJ thích làm việc cùng những người đồng cấp miễn là họ ứng xử đúng với vị trí của mình, những người lười biếng hoặc có thái độ bất hợp tác sẽ bị các ENTJ cho vào “blacklist” ngay lập tức.\n\nNhững Nhà điều hành là những người có ý chí mạnh mẽ, thậm chí đôi khi thể hiện sự ra lệnh thái quá. Họ thích kèm cặp và truyền cảm hứng cho các đồng nghiệp, nhưng đôi khi lại hơi hống hách."
                         },
                         {
-                            "title": "ENFJ khi là cấp trên",
-                            "content": "Nhiều ENFJ trời sinh đã là một người có khả năng lãnh đạo tài tình. Với vốn hiểu biết sâu rộng và khả năng truyền cảm hứng, họ sẽ không chỉ khiến bản thân mình được tỏa sáng mà còn giúp cả tập thể cùng đi lên.\n\n<i>“Cấp dưới của các ENFJ luôn được truyền cảm hứng và động lực trong công việc.”</i>\n\nCác ENFJ biết nhìn nhận điểm mạnh của mỗi người để giao những nhiệm vụ phù hợp. Như vậy, cấp dưới của họ cũng sẽ nhận thấy mình là một người có năng lực và được trọng dụng, từ đó nỗ lực hơn nữa để hoàn thành công việc được giao.\n\nTuy nhiên như vậy là chưa đủ, ngoài việc nắm được những thế mạnh của nhân viên, các cấp trên ENFJ cũng cần biết cấp dưới của mình đang yếu kém ở những mặt nào để nhanh chóng cải thiện và đưa xuống những nhiệm vụ vừa sức với họ, khuyến khích nhân viên từng bước hoàn thiện về mặt chuyên môn và kinh nghiệm."
+                            "title": "ENTJ khi là cấp trên",
+                            "content": "Những người lãnh đạo thuộc nhóm tính cách ENTJ có khả năng giao tiếp tự nhiên, lôi cuốn và xác định mục tiêu rõ ràng trong công việc: Hoàn thành nhiệm vụ với hiệu quả cao nhất có thể. Các ENTJ là những nhà lãnh đạo bẩm sinh, có năng lực xây dựng chiến lược, xác định điểm mạnh và điểm yếu của từng nhân viên, kết hợp đội nhóm để mỗi người đều có thể phát huy hết khả năng của mình.\n\nNgoài việc nâng cao tinh thần của mỗi người thì mục tiêu của các ENTJ còn là hoàn thành công việc một cách xuất sắc. Những cá nhân có biểu hiện làm việc kém hiệu quả hoặc lười biếng sẽ bị đánh giá thấp và có khả năng bị loại trừ khỏi đội nhóm."
                         },
                     ]
                 },
                 {
-                    "section": "So sánh ENFJ với INTJ, ENTP",
+                    "section": "So sánh ENTJ với INTJ, ENTP",
                     "items": [
                         {
-                            "content": "Khi so sánh ENFJ (Người cho đi) với những nhóm tính cách khác có sự tương đồng (<b>I</b>N<b>FJ</b> - Người che chở, E<b>NFP</b> - Người truyền cảm hứng), bạn sẽ hiểu rõ hơn về đặc tính của nhóm ENFJ."
+                            "content": "Khi so sánh ENTJ (Nhà điều hành) với những nhóm tính cách khác có sự tương đồng (I<b>NTJ</b> - Nhà khoa học, <b>ENT</b>P - Người nhìn xa), bạn sẽ hiểu rõ hơn về đặc tính của nhóm ENTJ."
                         },
                         {
                             "title": "Điểm giống nhau",
-                            "content": 'N (Trực giác) và F (Cảm xúc): Cả ba nhóm NF này đều có xu hướng suy nghĩ và ra quyết định dựa trên trực giác và cảm xúc. Họ sâu sắc, tinh tế, thích tương tác xã hội và luôn chú trọng đến cảm xúc của người khác.\n\nKhi đối chiếu ENFJ với từng nhóm INFJ, ENFP, chúng tôi nhận thấy giữa mỗi cặp sẽ có những điểm chung riêng như sau:\n\n● E<b>NFJ</b> và I<b>NFJ</b>: Cả hai nhóm đều hướng thiện và luôn nhiệt tình giúp đỡ mọi người có cuộc sống tốt hơn. ENFJ và INFJ cũng hết sức ôn hòa, ngại va chạm và tránh mâu thuẫn. Họ luôn hướng tới một môi trường yên bình nơi mà tất cả cùng vui vẻ, hòa đồng và có thể phát triển cùng nhau. Do cùng có yếu tố nguyên tắc (J - Judging) nên cả hai nhóm này đều có xu hướng tuân theo quy trình và kế hoạch khi hành động.\n\n● <b>ENF</b>J và <b>ENF</b>P: Đều hướng đến các mối quan hệ tích cực và lành mạnh, coi trọng vào những tiềm năng có thể xảy ra, có xu hướng lý tưởng hóa hơn là hiện thực hóa. Đồng thời, cả hai nhóm này đều rất cởi mở với những điều mới và tận hưởng quá trình khám phá. Do đều hướng ngoại (yếu tố E - Extrovert) nên cả ENFJ và ENFP đều rất ấm áp, dễ gần, quảng giao với khả năng giao tiếp tốt.',
+                            "content": 'N - Intuition (Trực giác): Cả 3 nhóm tính cách này đều có xu hướng suy nghĩ theo tính chiến lược và cực kỳ quyết đoán. Cả 3 nhóm tính này đều nổi bật với sự tự tin, tính độc lập tự chủ và có khả năng lãnh đạo, dẫn dắt người khác.\n\nKhi đối chiếu ENTJ với từng nhóm INTJ, ENTP, chúng tôi nhận thấy giữa mỗi cặp sẽ có những điểm chung riêng như sau:\n\n●     E<b>NTJ</b> và I<b>NTJ</b>: Dù ENTJ hướng ngoại và INTJ hướng nội nhưng hai nhóm tính cách này có rất nhiều điểm tương đồng. Cả hai nhóm tính cách này đều rất thông minh và được mệnh danh là “ông trùm tư duy” trong 16 nhóm tính cách. ENTJ và INTJ đều đề cao hiệu quả công việc, cục kỳ hứng thú với các vấn đề hóc búa và đòi hỏi sự động não. ENTJ và INTJ đều cực kỳ xuất chúng trong việc tìm ra hướng giải quyết cho các vấn đề. Cả hai nhóm tính cách này đều tư duy thiên về lý trí hơn là cảm xúc. Những người thuộc hai nhóm tính cách này thường có xu hướng lên kế hoạch kỹ càng trước khi hành động và đều có tính kiểm soát cao.\n\n●     <b>ENT</b>J và <b>ENT</b>P: Hai nhóm tính cách này đều hướng ngoại, đều cực kỳ chủ động và tự lực cánh sinh. Những người thuộc hai nhóm tính cách này đều không ngại đối chất trực diện cũng như siêu tập trung trong việc giải quyết vấn đề triệt để.',
                         },
                         {
                             "title": "Điểm khác nhau",
-                            "content": "Dù chỉ chênh nhau một chữ cái, song sự khác biệt giữa các nhóm tính cách này lại vô cùng rõ ràng. Bạn có thể thấy rõ điều này tại bảng so sánh sau:" 
+                            "content": "Dù chỉ chênh nhau một chữ cái, song sự khác biệt giữa các nhóm này lại cách nhau cả dải ngân hà. Bạn có thể thấy rõ điều này tại bảng so sánh sau:" 
                         },
                     ],
                     "tables": [
                         {
-                            "headers": ["Đặc điểm", "INFJ", "ENFJ", "ENFP"],
+                            "headers": ["Đặc điểm", "INTJ", "ENTJ", "ENTP"],
                             "rows": [
-                                ["Diễn giải chữ viết tắt", "<b>I - Hướng nội</b><br>N - Trực giác<br>F - Cảm xúc<br>J - Nguyên tắc", "<b>E - Hướng ngoại</b><br>N - Trực giác<br>F - Cảm xúc<br><b>J - Nguyên tắc</b>", "E - Hướng ngoại<br>N - Trực giác<br>F - Cảm xúc<br><b>P - Linh hoạt</b>"],
-                                ["Cách tiếp cận thông tin", "- Dựa nhiều vào trực giác, kinh nghiệm của bản thân để tập trung xem xét ý nghĩa của từng sự vật, hiện tượng<br>- Có góc nhìn sâu sắc, đa chiều, độc lập thu thập thông tin trước rồi mới thảo luận cùng mọi người<br>- Có khả năng tiên đoán trước kết quả thông qua việc phân tích kỹ lưỡng", "- Cần liên tục tương tác với mọi người xung quanh để thu thập thông tin thông qua thảo luận nhóm, hợp tác chung, dự án chung<br>- Có thể gặp khó khăn trong việc sắp xếp các ý kiến phản hồi thu được do ý kiến chủ quan cá nhân chiếm ưu thế", "- Góc nhìn đa chiều, cởi mở, tiếp cận thông tin linh hoạt hơn<br>- Tận hưởng quá trình khám phá linh hoạt và thích nghi cao trong quá trình thu thập thông tin"],
-                                ["Trong các mối quan hệ", "- Chan hòa với mọi người. Ưa thích tụ tập nhóm nhỏ hơn là nhóm lớn<br>- Ưu tiên các cuộc hội thoại một một, mang tính cá nhân<br>- Kén chọn trong việc chọn vòng giao tiếp, coi trọng chất lượng hơn số lượng<br>- Cần thời gian một mình để nghỉ ngơi, suy nghĩ và đưa ra quyết định<br>- Bộc lộ cảm xúc tốt hơn thông qua viết lách, những cuộc hội thoại có chiều sâu, đề cao yếu tố chân thành và trung thực<br>- Bình tĩnh giải quyết mâu thuẫn thông qua lý lẽ và phân tích thấu đáo", "- Dễ kết giao, thích làm tâm điểm của đám đông<br>- Rất thích trao đổi với nhiều người, đa chủ đề. Không quan ngại khi gặp đám đông. Chủ động tìm đến các buổi tụ họp và thảo luận lớn nhằm mở mang tầm mắt<br>- Sẵn sàng chủ động làm quen và hosting các sự kiện, cởi mở trong việc kết giao người mới<br>- Cũng cần thời gian một mình nhưng không có nhu cầu nhiều thời gian riêng nhiều như INFJ<br>- Bản chất hoạt ngôn, có thể trình bày vấn đề thông qua diễn đạt lẫn hành động<br>- Khi gặp mâu thuẫn, ưu tiên sự hòa thuận và thống nhất trong mối quan hệ, đồng thời tìm cách để giải quyết mâu thuẫn triệt để", "- Quảng giao, chân thành và nồng nhiệt, tuy nhiên không ổn định và khó đoán<br>- Linh hoạt và tự phát chứ không nguyên tắc như ENFJ<br>- Khi gặp mâu thuẫn, không quá vội vã trong việc giải quyết vấn đề, có xu hướng thuận theo hoàn cảnh và từ từ gỡ rối<br>- Trong quá trình đưa ra quyết định, sẽ linh hoạt giữa nhiều phương án để tìm phương án tối ưu nhất, không quá quan trọng việc phải “chốt hạ” khẩn cấp như ENFJ<br>- Thoải mái, xởi lởi, hài hước và ít nguyên tắc hơn so với ENFJ"],
-                                ["Trong công việc", "- Hướng nội, tương tác 1-1 tốt hơn, phù hợp với dẫn dắt một nhóm nhỏ, biết lắng nghe và hỗ trợ đồng đội<br>- Không cương quyết bằng ENFJ song biết cách nhìn nhận sự việc qua góc nhìn của người khác<br>- Khả năng giải quyết mâu thuẫn tốt, biết cách dung hòa các ý kiến của mọi người<br>- Để đưa ra quyết định sẽ nhìn nhận từ nhiều khía cạnh, đồng thời dựa trên các giá trị và nguyên tắc cá nhân<br>- Khi căng thẳng trong công việc, INFJ cần thời gian riêng để tự ngẫm và giải tỏa áp lực, có xu hướng phức tạp hóa vấn đề khi stress", "- Xuất sắc trong teamwork, rất giỏi trong việc kết nối người với người, có khả năng dẫn dắt, động viên và truyền cảm hứng cho mọi người xung quanh, có tiềm năng trở thành lãnh đạo tốt<br>- Xuất sắc trong việc diễn đạt và trình bày ý kiến của bản thân, có năng khiếu thuyết trình trước đám đông<br>- Có khả năng thuyết phục cao, hướng đến môi trường làm việc tích cực và chan hòa<br>- Để đưa ra quyết định, có xu hướng tham vấn ý kiến của tất cả mọi người, đội nhóm<br>- Trong tình huống stress, ENFJ có thể cảm thấy bị áp lực khi luôn cố gắng đảm bảo mong muốn của tất cả mọi người", "- Sáng tạo, linh hoạt hơn ENFJ<br>- Thích khám phá và áp dụng quy trình mới<br>- Cũng xuất sắc trong việc diễn đạt và thuyết phục nhưng sẽ mang tính tự phát và ít nguyên tắc hơn so với ENFJ<br>- Ở cương vị leader, ENFP hướng đến sự đổi mới, có tầm nhìn và không ngại rủi ro<br>- Khi ở vai trò phải đưa ra quyết định, ENFP xem xét nhiều lựa chọn rồi mới quyết<br>- Trong trường hợp stress, ENFP cần hỗ trợ từ nhiều người để cân bằng và tập trung trở lại"]
+                                ["Diễn giải chữ viết tắt", "<b>I - Hướng nội</b><br>N - Trực giác<br>T - Lý trí<br>J - Nguyên tắc", "<b>E - Hướng ngoại</b><br>N - Trực giác<br>T - Lý trí<br><b>J - Nguyên tắc</b>", "E - Hướng ngoại<br>N - Trực giác<br>T - Lý trí<br><b>P - Linh hoạt</b>"],
+                                ["Cách tiếp cận thông tin", "Chủ động tiếp cận thông tin tuy nhiên không thích làm trung tâm của đám đông. Thích độc lập tìm tòi và tiếp cận vấn đề", "Chủ động tiếp cận thông tin rồi dựa vào kinh nghiệm bản thân để đưa ra phương án tối ưu nhất cho tập thể. Rất quyết đoán, đồng thời đề cao ý kiến của bản thân, có thể có xu hướng áp đặt", "Chủ động tuy nhiên sẽ linh hoạt hơn về mặt xem xét các phương án có thể áp dụng. Tự phát, dễ thích nghi với hoàn cảnh"],
+                                ["Trong các mối quan hệ", "- Thường ngại thử cái mới<br>- Không có nhu cầu lắng nghe hay “buôn dưa lê” mà không có mục đích, thường lắng nghe với một mục đích duy nhất là giúp người khác giải quyết vấn đề của họ một cách thực tiễn và logic. Tập trung vào nội tâm của bản thân hơn là mọi người xung quanh<br>- Có xu hướng theo đuổi thứ mình muốn đến cùng.<br>- Trong tình yêu, INTJ ít bộc lộ cảm xúc cá nhân nhưng sẽ thể hiện tình cảm qua hành động và nỗ lực. INTJ phù hợp với một người bạn đời tôn trọng sự độc lập, để yên cho các INTJ theo đuổi ước vọng và biết ghi nhận mọi cố gắng của INTJ", "- Có hứng thú với những điều mới, mối kết giao mới nhưng cần biết trước điều đó có giá trị hay lợi ích thực tế không<br>- Khó để tập trung lắng nghe người khác giãi bày tâm sự trong những cuộc hội thoại vô bổ, không có thông tin hữu ích. Tuy nhiên, các ENTJ sẵn sàng lắng nghe nếu bạn là đối tượng mà họ thích và muốn gây ấn tượng<br>- Tràn đầy năng lượng và nhiệt huyết khi theo đuổi nhưng sẽ nhanh bỏ cuộc nếu nhận thấy không có kết quả.<br>- Trong tình yêu, ENTJ ổn định và có thể làm chỗ dựa vững chãi nhưng thường có xu hướng áp đặt. ENTJ phù hợp với một người bạn đời luôn ủng hộ tham vọng cá nhân của ENTJ và nhất nhất nghe theo họ", "- Thích những điều mới, năng động trong việc mở rộng vòng tròn xã hội, không nhất thiết phải theo nguyên tắc hay giá trị cốt lõi nào<br>- Không thích lắng nghe các vấn đề liên quan đến cảm xúc. Có thể “đánh trống lảng” để không phải nói về các vấn đề cảm xúc<br>- ENTP có xu hướng ủng hộ và động viên người bạn đời của mình theo đuổi ước vọng cá nhân. Tuy nhiên, các ENTP có thể không ổn định mà hay tùy hứng và mơ mộng. ENTP phù hợp với người bạn đời linh hoạt và biết tùy cơ ứng biến với mọi thay đổi đến từ phía ENTP"],
+                                ["Trong công việc", "- INTJ cực kỳ tập trung vào việc hoàn thành mục tiêu. Họ sẽ thường suy nghĩ đường lối chiến lược riêng và thực thi đến khi có kết quả mới thông báo<br>- INTJ không thích làm tâm điểm của đám đông mà chỉ tập trung vào việc của họ", "- ENTJ thường rất hoạt ngôn và sẽ có xu hướng thu thập nguồn lực từ nhiều phía để thực hiện theo kế hoạch mà ENTJ đã đề ra<br>- ENTJ thích làm tâm điểm của đám đông, thích chỉ đạo và dẫn dắt mọi người", "- ENTP thích khám phá và tìm hiểu vấn đề. Họ có xu hướng thuyết phục và thảo luận kỹ càng với mọi người xung quanh trước khi đưa ra phương án hành động tối ưu nhất"]
                             ]
                         }
                     ],
-                    "content": "Cả ba nhóm ENFJ, INFJ và ENFP đều có điểm chung trong cách thể hiện sự quan tâm đến người khác và tìm kiếm ý nghĩa trong cuộc sống. Tuy nhiên, cách họ tiếp cận thông tin, tương tác và ra quyết định lại có sự khác biệt rõ rệt.\n\nTrong khi ENFJ nổi bật với khả năng tổ chức và lãnh đạo, INFJ nhạy bén về mặt cảm xúc và có khả năng thấu hiểu người khác sâu sắc, thì ENFP lại hướng đến sự linh hoạt và sáng tạo hơn. Sự đa dạng này tạo nên những đặc điểm riêng biệt, thay đổi hoàn toàn cách họ xây dựng vòng tròn quan hệ cũng như định hình hướng đi trong cuộc đời." 
+                    "content": "Cả ba nhóm ENTJ, INTJ và ENTP đều thể hiện rõ sự tự tin và nhạy bén trong cách tiếp cận thông tin cũng như tương tác xã hội. Họ có khả năng tiếp thu nhanh, tính trực giác cao và luôn quyết đoán mỗi khi cần đưa ra quyết định.\n\nTuy nhiên, sự khác biệt giữa các chữ cái E (Hướng ngoại) - I (Hướng nội), J (Nguyên tắc) - P (Linh hoạt) đã định trước sự khác biệt ẩn sâu bên trong mỗi nhóm tính cách.\n\nTrong khi ENTJ có xu hướng chỉ đạo và muốn trở thành tâm điểm của đám đông thì INTJ lại khá độc lập, chỉ tập trung vào mục tiêu của riêng mình; ENTP thì linh hoạt hơn, luôn biết cách thương thảo với những người xung quanh để đi tới phương án tối ưu nhất. Sự đa dạng này khiến ba nhóm có cách tiếp cận cuộc sống và con người hoàn toàn khác nhau, hình thành những hướng đi riêng và tô điểm thêm cho cuộc sống muôn màu muôn vẻ." 
                 },
                 {
                     "section": "Lời khuyên dành cho ENFJ",
                     "items": [
                         {
-                            "content": "Để có cuộc sống viên mãn và hoàn chỉnh hơn, các ENFJ cần biết phát huy các thế mạnh và cân bằng các điểm yếu của mình.\n\nENFJ cực kỳ nổi bật với khả năng thấu hiểu, truyền cảm hứng và động viên mọi người xung quanh để tiến bộ và phát triển hơn. Bởi vậy, các ENFJ nên phát huy các thế mạnh sau:\n\n● Động viên và ghi nhận, khiến mọi người xung quanh cảm thấy được trân trọng\n\n● Gắn kết và giữ hòa khí giữa người với người ở môi trường tập thể\n\n● Thấu hiểu và giúp đỡ mọi người xung quanh hoàn thiện bản thân\n\nNgoài việc phát huy thế mạnh, ENFJ cần đầu tư thời gian khắc phục điểm yếu của bản thân."
+                            "title": "Phát huy thế mạnh của mình",
+                            "content": 'Tận dụng cơ hội để cho người khác thấy được khả năng đánh giá tình huống và sự nhanh nhạy trong khi giải quyết vấn đề. Chủ động dẫn dắt mọi người khi phải đối mặt với tình huống khó khăn, cho họ thấy tiềm năng lãnh đạo của bạn.',
                         },
                         {
-                            "title": "Nhìn nhận mọi việc ở tầng sâu hơn",
-                            "content": 'Để sống hạnh phúc, các ENFJ nên nhìn nhận mọi việc có chiều sâu hơn. Đừng láu táu vội vã trong quyết định của mình, các ENFJ nên dành thời gian để cân nhắc kỹ lưỡng các chi tiết và xác định tiềm lực của mình trước khi bắt tay làm một dự án lớn.',
+                            "title": "Khắc phục khuyết điểm",
+                            "content": "Nên nhớ rằng không ai hoàn hảo và bạn cũng vậy, bạn cũng có những khuyết điểm của mình. Quan điểm của bạn không phải là tất cả. Mọi việc diễn ra như thế nào có thể không ảnh hưởng tới bạn, nhưng nó có thể tác động tới người khác. Hãy thử cho phép mọi việc diễn ra một cách tự nhiên và rút ra bài học cho mình."
                         },
                         {
-                            "title": "Biết giới hạn của mình",
-                            "content": "Với tính cách ôm đồm và thích làm hài lòng người khác, các ENFJ rất dễ nhận về phần mình nhiều việc hơn thực tế họ có thể hoàn thành. Các ENFJ nên biết tự lượng sức mình trước khi nhận việc. Ngoài ra, thay vì chỉ chăm chú vào tổng khối lượng công việc để rồi cảm thấy bị “quá tải”, các ENFJ nên biết cách chia nhỏ công việc ra để dần đạt được mục tiêu."
+                            "title": "Tìm kiếm những người có cùng quan điểm",
+                            "content": "Đừng mong mình sẽ trở thành người đa cảm hay quá nồng nhiệt. Các mối quan hệ vững chắc nhất của bạn với người khác bắt nguồn từ lý trí, chứ không phải từ tình cảm hay cảm xúc. Bạn nên chú ý đến nhu cầu tình cảm của người khác, hãy thể hiện tình cảm và sự tôn trọng chân thành đối với họ bằng chính con người thật của bạn. Hãy luôn là chính mình! Khi đó bạn sẽ tìm được bạn đồng hành trên con đường chinh phục thử thách."
                         },
                         {
-                            "title": "Cần biết đối mặt với mâu thuẫn",
-                            "content": "Các ENFJ thường né tránh mâu thuẫn bằng mọi giá và thường cố gắng tỏ ra đồng tình với người khác chỉ vì ngại tranh cãi. ENFJ cần hiểu rằng mâu thuẫn là điều khó tránh khỏi trong cuộc sống. Đối mặt để giải quyết mâu thuẫn sẽ giúp mọi người hiểu nhau hơn, và đôi khi sẽ giúp gỡ rối khúc mắc, giúp mỗi cá nhân đạt được ý nguyện của mình. Các cuộc tranh luận, đối mặt với những ý kiến trái chiều đóng vai trò cốt lõi để trưởng thành và phát triển bản thân hơn."
+                            "title": "Dành thời gian để tìm hiếu suy nghĩ của mọi người",
+                            "content": "Bạn cần bày tỏ quan điểm của mình với mọi người và quan tâm hơn những suy nghĩ của họ về tình huống đó. Khi đó bạn có thể sẽ xem xét lại các nhu cầu của họ một cách khách quan, và nếu như họ cũng đồng quan điểm với bạn thì nó sẽ mang lại một sự hòa hợp tốt trong công việc cũng như trong các mối quan hệ."
                         },
                         {
-                            "title": "Phát triển khả năng sáng tạo",
-                            "content": "Các ENFJ có thể hơi nguyên tắc đôi lúc mà bỏ qua sự sáng tạo và linh hoạt trong đời sống. Để hoàn thiện bản thân hơn, các ENFJ nên tập trung vào phát triển khía cạnh sáng tạo trong con người họ. Có thể thử viết lách, vẽ vời hay tham gia các hoạt động giúp phát huy tính sáng tạo.\n\nNgoài ra, ENFJ nên dành thời gian riêng tĩnh lặng một mình để thực sự tìm hiểu và khám phá nguyện vọng của bản thân."
+                            "title": "Chịu trách nhiệm với chính bản thân mình",
+                            "content": "Đừng bao giờ đổ lỗi những rắc rối của bạn lên đầu người khác. Hãy cố gắng tự tìm kiếm giải pháp. Không một ai có khả năng hiểu bạn và kiểm soát cuộc sống của bạn tốt hơn bản thân bạn."
+                        },
+                        {
+                            "title": "Dành nhiều thời gian để phân tích mọi mặt của vấn đề",
+                            "content": "Bạn đừng bỏ qua các đánh giá mang tính trừu tượng, có vẻ khó hiểu hay những đánh giá thẩm mỹ, tình cảm phức tạp từ người khác hay từ chính bản thân bạn. Bạn nên cố gắng tìm hiểu về các vấn đề đó vì nó có ảnh hưởng đến công việc của bạn.\n\nNếu bạn thấy căng thẳng thì nên tạm gác công việc qua một bên, thôi suy nghĩ và lo lắng, hãy để cho tinh thần bạn thư thái khi đó các ý tưởng ấy sẽ tự đến với bạn, đôi khi các ý tưởng hay giải pháp tốt nó đến lúc bạn đang đi bộ thư giãn, hay đang tắm, v.vv.."
+                        },
+                        {
+                            "title": "Khi mất bình tĩnh, bạn sẽ thất bại",
+                            "content": "Năng lực tiềm tàng và những hiểu biết sáng suốt của bạn chính là một thế mạnh, nhưng nó sẽ trở nên nguy hiểm nếu sử dụng không đúng và bạn có thể rơi vào trạng thái cảm xúc mà bạn không thể kiểm soát được.\n\nNên nhớ rằng không phải ai cũng có cách nhìn sự việc giống như bạn và có năng lực cá nhân mạnh như bạn, một khi nỗ lực giúp đỡ họ của bạn bị thất bại, điều đó sẽ khiến cho bạn tức giận và bỏ rơi. Bạn không nên xử sự như vậy. Hãy điều chỉnh suy nghĩ của mình, và cho phép người khác quyền riêng tư và khi đó bạn sẽ trưởng thành hơn."
+                        },
+                        {
+                            "title": "Nhìn nhận một cách tích cực",
+                            "content": "Đừng quá soi mói những mặt hạn chế của người khác, bạn sẽ làm họ khó chịu đấy. Họ đang cần sự giúp đỡ của bạn và bạn cần họ để thấu hiểu vấn đề. Bạn có thể giỏi hơn họ trong một số lĩnh vực, và ngược lại, họ cũng có thể giỏi hơn bạn ở một vài lĩnh vực khác. Bạn hãy biến những cảm xúc của người khác thành sức mạnh chứ đừng nên xem nó là một trở ngại đối với bạn."
+                        },
+                        {
+                            "title": "Suy nghĩ tích cực và luôn lạc quan",
+                            "content": "Hãy cố gắng nhận ra những giá trị mà cuộc sống đã dành riêng cho bạn, bạn bè và gia đình bạn. Tự hào vì mình là một người tốt và không cho phép những tác nhân bên ngoài kiểm soát bạn, cố gắng thư giãn và tận hưởng từng khoảnh khắc hạnh phúc bên mọi người. Nên nhớ rằng: Không có gì quan trọng hơn hạnh phúc do chính bạn tạo ra."
+                        }
+                    ]
+                },
+            ]
+        },
+        {
+            "code": "ESFJ",
+            "name": "Nhà điều hành",
+            "description": "ENTJ là những nhà lãnh đạo bẩm sinh, giỏi quan sát và đưa ra nhận định, cũng như luôn tìm ra những hướng giải quyết tối ưu cho vấn đề. Với khả năng phân tích và suy luận tốt, các ENTJ không ngừng đưa ra những ý tưởng mới. Nhóm tính cách này cũng thể hiện vai trò của mình trong việc sắp xếp, lãnh đạo và quản lý con người để đạt được mục tiêu chung.",
+            "image": "../img/entj.png",
+            "details": [
+                {
+                    "section": "Tổng quan",
+                    "items": [
+                        {
+                            "content": "Có khoảng 3% dân số mang tính cách này, <b>ENTJ (Nhà điều hành)</b> có cá tính rất lôi cuốn, lý trí và nhạy bén."
+                        },
+                        {
+                            "title": "ENTJ là viết tắt của những chữ cái gì?",
+                            "content": "● <b>E - Hướng ngoại:</b> Đối với bạn, thế giới bên ngoài mới là thế giới thực. Trái ngược với tính cách I - Hướng nội luôn đắm mình trong thế giới nội tâm.\n\n● <b>N - Trực giác:</b> Bạn tập trung vào ý nghĩa của sự vật, sự việc, khác với những người có tính cách S - Giác quan sử dụng cả năm giác quan thị giác, thính giác, khứu giác, vị giác, cảm giác để nhìn nhận và đánh giá.\n\n● <b>T - Lý trí:</b> Bạn đưa ra quyết định dựa trên góc nhìn thực tế bằng số liệu và đo lường chính xác. Ngược lại, các F - Cảm xúc ưu tiên đưa ra quyết định dựa trên cảm nhận cá nhân.\n\n● <b>J - Nguyên tắc:</b> Bạn dựa vào cấu trúc sẵn có để thoải mái đưa ra quan điểm mà không phải mất công suy xét nhiều. Trong khi đó, những người thiên về tính cách P - Linh hoạt lại thích môi trường tự do và họ sẽ tự sắp đặt quy tắc bên trong cho mình."
+                        },
+                        {
+                            "title": "Nhà lãnh đạo bẩm sinh",
+                            "content": 'Các ENTJ là những nhà lãnh đạo bẩm sinh nhờ khả năng tiếp thu và nắm bắt thông tin tốt, cũng như nhạy bén trong việc tìm ra giải pháp hiệu quả. Ở mọi khía cạnh trong cuộc sống, họ đều nhìn ra những thách thức và muốn mình chính là người đứng ra để tìm cách vượt qua chúng. Họ cũng thường là những người chịu trách nhiệm sau cùng cho một tập thể.',
+                        },
+                        {
+                            "title": 'Ưu tiên sự nghiệp',
+                            "content": "Các ENTJ đặt rất nhiều tâm trí vào con đường sự nghiệp của mình, cũng như dễ dàng hòa nhập với môi trường làm việc. Nhờ tầm nhìn xa trông rộng cũng như biết nhìn nhận vấn đề trên nhiều góc độ để tìm ra hướng giải quyết toàn vẹn nhất. Những Nhà điều hành thường rất thành công trên thương trường, họ làm việc không biết mệt mỏi và luôn tràn đầy nhiệt huyết trong công việc."
+                        },
+                        {
+                            "title": 'Nói không với lỗi lầm',
+                            "content": "Các ENTJ không muốn phạm lỗi hay bị phạm lỗi, càng không thích việc tái phạm, họ không có đủ kiên nhẫn với tác phong làm việc kém hiệu quả. Những người thuộc nhóm tính cách ENTJ có thể trở nên khắc nghiệt khi sự kiên nhẫn của họ bị thách thức, bởi họ không phải là những người có thể đặt mình vào địa vị của người khác để suy nghĩ, mà bản thân họ cũng không thấy cần thiết phải làm vậy."
+                        },
+                        {
+                            "title": 'Quyết đoán',
+                            "content": "Các ENTJ là những người rất quyết đoán, họ đưa ra quyết định nhanh chóng và có thể giải thích cặn kẽ quan điểm của mình cho tất cả mọi người. Tuy nhiên, trước khi đi đến kết luận cuối cùng thì những người thuộc nhóm tính cách ENTJ nên suy xét kỹ càng dựa theo những thông tin đã nắm bắt ban đầu để không phạm bất cứ sai lầm không đáng có nào."
+                        },
+                        {
+                            "title": "Sống tình cảm",
+                            "content": "Mặc dù các ENTJ không thường đặt mình vào địa vị của người khác thế nhưng họ vẫn là những người sống tình cảm, mặc dù đa phần thời gian họ sẽ cố giấu đi những suy nghĩ thật của mình vì cho rằng như vậy rất yếu đuối. Tuy nhiên việc đưa ra nhận định chóng vánh mà không để ý tới cảm xúc của người khác đôi khi có thể dẫn tới những hệ quả tiêu cực không lường trước được."
+                        },
+                        {
+                            "title": "Sôi nổi, nhiệt tình",
+                            "content": "Các ENTJ thích tương tác với mọi người. Là một người hướng ngoại, nguồn năng lượng chủ yếu mà họ nhận được chủ yếu tới từ bên ngoài, nhất là những buổi trao đổi lý thú về một vấn đề mà họ quan tâm, với những người có cùng quan điểm với mình.\n\nTất nhiên ý kiến trái chiều là không thể tránh khỏi trong các buổi trò chuyện, tuy nhiên với tài ăn nói và kỹ năng giao tiếp tuyệt vời, các ENTJ có thể khiến cả những người tự tin nhất phải suy xét lại quan điểm của mình mà dần dà hướng về phía các ENTJ."
+                        },
+                        {
+                            "title": "Tinh thần trách nhiệm cao",
+                            "content": "Những người thuộc nhóm tính cách ENTJ khi ở nhà cũng chịu nhiều trách nhiệm như trong công việc. Các ENTJ muốn trang hoàng cho ngôi nhà của mình theo những tiêu chí: đẹp và đầy đủ chức năng. Trong việc nuôi dạy con trẻ, họ cũng hy vọng những đứa trẻ có thể nhận được giáo dục đầy đủ, được hỗ trợ toàn diện cả về mặt thể chất lẫn tinh thần. Các ENTJ cũng rất tận tâm và hòa hợp với vợ/chồng mình.\n\nỞ các ENTJ hội tụ đầy đủ những phẩm chất của một cá nhân mẫu mực và quyền lực, có tầm nhìn xa và sự quyết tâm để dẫn dắt cả một tập thể."
+                        },
+                        {
+                            "title": "Những người nổi tiếng mang tính cách ENTJ",
+                            "content": "● Napoleon Bonaparte\n\n● Steve Jobs\n\n● Charlize Theron\n\n● Gordon Ramsay\n\n● Margaret Thatcher\n\n● Adele\n\n● Dwayne Johnson (The Rock)\n\n● Kim Mingyu (SEVENTEEN)"
+                        }
+                    ]
+                },
+                {
+                    "section": "Điểm mạnh và điểm yếu",
+                    "items": [
+                        {
+                            "title": "Điểm mạnh",
+                            "itemsChild": [
+                                {
+                                    "titleChild": "Hướng tới hiệu quả",
+                                    "content": "Đối với những người thuộc nhóm tính cách ENTJ, làm việc không hiệu quả không chỉ ảnh hưởng tới kết quả cuối cùng mà còn là một sự phung phí thời gian, tiền bạc, công sức, thể hiện khả năng yếu kém và lười biếng của người đó.",
+                                },
+                                {
+                                    "titleChild": "Tràn đầy năng lượng",
+                                    "content": "Thay vì mất nhiều thời gian để suy nghĩ về việc được - mất thì các ENTJ sẽ bắt tay vào thực hiện ngay và luôn với tâm thế đầy nhiệt huyết và năng lượng, hướng tới kết quả cuối cùng.",
+                                },
+                                {
+                                    "titleChild": "Tự tin",
+                                    "content": "Bạn sẽ không bao giờ làm tốt điều gì nếu bạn không tự tin vào bản thân, và các ENTJ là những người luôn tin tưởng vào khả năng của mình. Họ biết mình muốn gì, cần làm gì và có thể làm gì, những Nhà điều hành luôn trong tâm thái chuẩn bị kỹ lưỡng để sẵn sàng chiến đấu.",
+                                },
+                                {
+                                    "titleChild": "Ý chí mạnh mẽ",
+                                    "content": "Những người thuộc nhóm tính cách ENTJ hướng tới mục tiêu cuối cùng và họ sẽ không bỏ cuộc giữa chừng. Những khó khăn, thử thách không thể ngăn họ dừng bước mà dường như còn tiếp cho họ thêm ý chí kiên cường và quyết tâm mạnh mẽ.",
+                                },
+                                {
+                                    "titleChild": "Giỏi lên chiến lược",
+                                    "content": 'Những Nhà điều hành nhìn nhận vấn đề dựa trên cốt lõi của chúng, họ sẽ xem xét vấn đề từ nhiều góc độ để có thể đưa ra đánh giá khách quan nhất. Theo đó, các ENTJ không chỉ giải quyết vấn đề triệt để mà còn lấy đó làm đòn bẩy để nghiên cứu ra các phương án khác hiệu quả hơn gấp nhiều lần phương án hiện tại.',
+                                },
+                                {
+                                    "titleChild": "Lôi cuốn và truyền cảm hứng",
+                                    "content": 'Những phẩm chất trên kết hợp lại tạo nên nguồn cảm hứng và tiếp thêm năng lượng cho những người xung quanh, đặc biệt khi các ENTJ ở vị trí của một nhà lãnh đạo. Nhờ vậy, những vị sếp ENTJ sẽ không phải một mình chèo lái con thuyền mang tên công việc mà sẽ có sự bang trợ đầy nhiệt huyết từ đội nhóm của mình.\n\n<i>“Các ENTJ cũng hết sức hoạt ngôn và biết cách thuyết phục người khác dưới sự dẫn dắt của họ.”</i>',
+                                },
+                            ],
+                        },
+                        {
+                            "title": "Điểm yếu",
+                            "itemsChild": [
+                                {
+                                    "titleChild": "Cứng đầu",
+                                    "content": 'Sự tự tin và quyết tâm đôi khi hơi thái quá của các ENTJ có thể khiến họ trở nên hiếu thắng và cố chấp. Họ rất miễn cưỡng khi nhận lỗi sai về mình và cố gắng dành “kèo trên” trong mọi cuộc tranh luận dù là nhỏ nhất.',
+                                },
+                                {
+                                    "titleChild": "Chuyên quyền và áp đặt",
+                                    "content": "Các ENTJ là những người luôn thích chỉ đạo người khác. Đôi khi trong mắt mọi người họ sẽ trở nên hống hách và chuyên quyền. Ngoài ra, các ENTJ không thích tốn thời gian vào những người không có cùng quan điểm với họ bởi họ nghĩ bản thân mình luôn là đúng nhất.\n\nNếu ý thức được việc đặt mình vào vị trí người khác để nhìn nhận sự việc thì điểm yếu này của ENTJ hoàn toàn có thể được khắc phục.",
+                                },
+                                {
+                                    "titleChild": "Không khoan nhượng, dễ gây tranh cãi",
+                                    "content": "Những người thuộc nhóm tính cách ENTJ sẽ không bỏ qua cho bất cứ ai cản bước họ trên con đường tiến đến với mục tiêu của mình, đặc biệt là những người hay đưa ra ý kiến trái chiều dựa trên lập luận mang tính chủ quan. Bản tính quá bộc trực, thích đối chất và có phần hơn thua của ENTJ cũng khiến mọi người xung quanh lảng tránh và đề phòng vì không muốn phải tranh luận với họ.",
+                                },
+                                {
+                                    "titleChild": "Hạn chế trong việc lắng nghe, thấu hiểu",
+                                    "content": "Các ENTJ không phải là những người có khả năng cao trong việc thấu hiểu hay đồng cảm với người khác. Họ cũng không có nhu cầu trong việc lắng nghe xúc cảm của người khác. Điều này dễ khiến mọi người xung quanh cảm nhận ENTJ khá đáng sợ và có phần khó để kết giao cùng.",
+                                },
+                                {
+                                    "titleChild": "Thiếu kiên nhẫn",
+                                    "content": 'Một số người luôn cần nhiều thời gian để nghiền ngẫm kỹ càng trước khi đưa ra quyết định, và các ENTJ không thích điều ấy một chút nào. Họ sẽ đánh giá cá nhân đó là không đủ khả năng chuyên môn, và lo sợ rằng những người như vậy sẽ cản bước mình trong quá trình làm việc.',
+                                },
+                                {
+                                    "titleChild": "Kiêu kỳ",
+                                    "content": 'Những Nhà điều hành coi trọng người có đầu óc nhanh nhạy, vững vàng, ngược lại, họ đánh giá thấp những người không bắt kịp tốc độ của họ. Tính cách này sẽ khiến nhiều người sẽ cảm thấy rụt rè khi ở cạnh các ENTJ.',
+                                },
+                                {
+                                    "titleChild": "Không giỏi kiềm chế cảm xúc",
+                                    "content": 'Những đặc điểm trên kết hợp lại và tạo nên một ENTJ thiếu kiên nhẫn và không giỏi kiềm chế cảm xúc. Họ thường gạt những yếu tố tình cảm qua một bên và chỉ tập trung vào cốt lõi vấn đề, vì vậy đôi khi Nhà điều hành sẽ vô tình làm tổn thương những người xung quanh mà không hề hay biết, đặc biệt là trong những tình huống căng thẳng.\n\nTrong những trường hợp không vui hay phật ý, các ENTJ cũng có xu hướng thể hiện rõ hơn sự độc tài, lãnh đạm và áp đặt của mình. Tệ nhất là khi áp lực hay căng thẳng quá lớn, các ENTJ có xu hướng “nổ tung” vì không kìm chế được.',
+                                },
+                                {
+                                    "titleChild": "Lạnh lùng và có phần tàn nhẫn",
+                                    "content": 'Cũng bởi quá đặt nặng vấn đề hiệu quả lên hàng đầu mà bỏ qua tất cả các tiểu tiết xung quanh nên đôi khi các ENTJ bị đánh giá là những người có tính cách lạnh lùng và khó gần.',
+                                }
+                            ],
+                        }
+                    ]
+                },
+                {
+                    "section": "Mối quan hệ",
+                    "items": [
+                        {
+                            "content": 'Trong mọi mối quan hệ, các ENTJ là những người trọng chữ “tín” hơn vàng. Nếu đã hứa hẹn với ai đó thì họ sẽ tìm mọi cách để thực hiện.\n\nĐối với những cuộc tranh luận, các ENTJ sẽ luôn cố gắng đưa ra thật nhiều luận điểm giá trị để dành phần thắng. Những Nhà điều hành không phải những người hiếu thắng, tuy nhiên việc chứng minh mình phải đúng dường như đã ăn sâu vào tính cách của họ.\n\nNếu nhìn thoáng qua, bạn hẳn sẽ nghĩ các ENTJ là những người khó gần, bởi họ luôn thể hiện sự mạnh mẽ và gai góc của mình ra bên ngoài. Tuy vậy, những người thuộc nhóm tính cách ENTJ lại sống rất tình cảm, họ luôn âm thầm để ý và quan tâm tới tất cả những người xung quanh.\n\nCác ENTJ không phải những người thích giữ quan điểm cho riêng mình mà luôn muốn công khai với cả thế giới về cách họ nhìn nhận vấn đề. Đối với người thân, bạn bè, nếu không hài lòng điều gì thì các ENTJ sẽ thẳng thắn nói ra chứ không “tẩm ngẩm tầm ngầm” đánh giá người khác.\n\nNhững người thuộc nhóm tính cách ENTJ rất thích thảo luận với bạn bè, đặc biệt nếu cuộc trò chuyện tập trung vào lĩnh vực mà họ quan tâm, bởi họ luôn không ngừng tìm cách cải thiện và nâng cao trình độ của bản thân.\n\nNhìn chung, các ENTJ luôn nhiệt tình và nỗ lực hết mình trong các mối quan hệ của mình. Phương châm của ENTJ là "học, học nữa, học mãi" nên họ sẽ cố gắng tiếp thu và biến mọi thứ thành bài học kinh nghiệm của mình. Và việc trao đổi kiến thức chính là cách tốt nhất để làm sâu sắc thêm tình bạn với các ENTJ.\n\nNgoài ra, các ENTJ cũng là những người hành động nhiều hơn là nói. Do không giỏi thể hiện cảm xúc nên nếu yêu quý ai, họ sẽ chủ động quan tâm chăm sóc, tặng quà, khen ngợi hay hỏi thăm xin ý kiến của người đó.'
+                        },
+                        {
+                            "title": "ENTJ trong tình yêu",
+                            "itemsChild": [
+                                {
+                                    "content": "Trong mọi mối quan hệ, đặc biệt là tình yêu, thì những người thuộc nhóm tính cách ENTJ luôn xác định rõ những gì mình muốn và những gì cần phải làm để đạt được mục đích đó ngay từ sớm. Họ cũng sẽ bắt tay vào thực hiện với tâm thế tràn đầy năng lượng và nhiệt huyết.\n\nTrong tình yêu, các ENTJ sẽ là những người chủ động trước, họ biết dẫn dắt nửa kia của mình và nhận trách nhiệm để đảm bảo cho mọi thứ diễn ra mượt, suôn sẻ, đôi bên cùng vui vẻ. Họ coi trọng tình yêu và muốn chuyện tình của họ sẽ kéo dài thật lâu mãi về sau.",
+                                },
+                                {
+                                    "titleChild": "Chủ động dẫn dắt, dứt khoát",
+                                    "content": "Những người thuộc nhóm tính cách ENTJ đặt rất nhiều tâm huyết để vun vén cho tình yêu của mình. Với óc sáng tạo vô tận, họ thường khiến nửa kia của mình vui vẻ với những bất ngờ nho nhỏ trong những buổi hẹn hò. Tuy nhiên, các ENTJ cũng rất quan tâm đến tính khả thi và cái kết cho câu chuyện tình yêu của họ. Một khi các ENTJ nhận thấy rằng mối quan hệ này sẽ không đi tới đâu thì họ sẽ là người chủ động nói lời chia tay và cắt đứt quan hệ, nhanh đến mức nửa kia của họ còn chưa kịp hiểu chuyện gì đang diễn ra.\n\n<i>“Khi đã chia tay, các ENTJ sẽ một đi không trở lại, không bao giờ níu kéo. Sẽ không bao giờ có chuyện các ENTJ nhắn tin hay đề cập quay lại với người cũ.”</i>",
+                                },
+                                {
+                                    "titleChild": "Chủ động giải quyết mâu thuẫn, không vòng vo",
+                                    "content": "Trong mối quan hệ yêu đương, các ENTJ luôn là những người tiên phong trong việc giải quyết các mâu thuẫn, cãi vã chứ không có xu hướng “silent treatment” như nhiều nhóm tính cách hướng nội khác. Với ENTJ, tranh luận để tìm ra cách giải quyết vấn đề triệt để thì sẽ tốt hơn là im lặng hay lảng tránh. Tuy nhiên, họ có thể có vấn đề với việc lắng nghe cảm xúc của người đối diện vì các ENTJ thường bỏ qua các vấn đề cảm xúc mà chỉ tập trung vào logic trong lúc giải quyết vấn đề.",
+                                },
+                                {
+                                    "titleChild": "Có thể có xu hướng gia trưởng và áp đặt",
+                                    "content": "Các ENTJ vốn dĩ thích người khác làm theo ý mình. Họ có lối sống quy củ và có tổ chức theo tiêu chuẩn riêng và họ cũng kỳ vọng người bạn đời của mình tuân theo quy chuẩn này.\n\nCác ENTJ cũng có tiêu chuẩn cao trong việc lựa chọn bạn đời. Về bản chất, các ENTJ hết sức tham vọng và đề cao sự nghiệp. Vì vậy, họ cũng kỳ vọng người bạn đời của mình là một người độc lập cảm xúc và hết lòng ủng hộ cho mục tiêu của họ.",
+                                },
+                                {
+                                    "titleChild": "Tình yêu táo bạo",
+                                    "content": "Khi tình yêu đã bước vào giai đoạn chín muồi và hai người bắt đầu đi sâu vào tìm hiểu đối phương thì các ENTJ sẽ “bùng nổ” năng lượng, đặc biệt trong vấn đề giường chiếu. Khi ở trên giường, sự tự tin khiến đời sống tình dục của các ENTJ trở nên thú vị hơn, đa dạng hơn, họ cũng có rất nhiều ý tưởng hay ho táo bạo để thực hiện với bạn đời của mình.\n\nBên cạnh đó, trong tình yêu, những Nhà điều hành luôn định hướng phát triển kỹ năng và cải thiện vốn hiểu biết của mình, dù là qua những lời khen hay phê bình, chỉ cần nghe hợp lý là được. Đổi lại, họ cũng muốn nửa kia của mình làm điều tương tự để cùng nhau học hỏi. Tuy vậy, các ENTJ cũng nên nhớ rằng phê bình không phải bao giờ cũng tốt, mà còn cần để ý tới cảm xúc của người bạn đời để tránh vô tình gây tổn thương cho họ, bởi không phải ai cũng nhận ra rằng bạn phê bình chỉ vì muốn tốt cho họ mà thôi.\n\n<i>“Đối mặt với vấn đề gì cũng nên giữ cân bằng về lý trí lẫn cảm xúc, phê bình xen lẫn khen ngợi, như vậy thì nửa kia của các ENTJ mới không bị tổn thương bởi những lời nói khi vô tình lúc hữu ý của họ.”</i>\n\nCác ENTJ sẽ hòa hợp nhất với những người suy nghĩ thiên về Trực giác (N), hoặc có thể có một hai mặt trái ngược để cân bằng hơn trong mối quan hệ. Những Nhà điều hành trưởng thành sẽ nhìn ra mong muốn của bạn đời, và hiểu rằng kể cả những người lý trí nhất cũng nên được chăm chút về mặt cảm xúc. May mắn thay, cuối cùng các ENTJ cũng nhận ra rằng hòa giải đôi bên là phương thuốc tốt nhất cho mọi vấn đề, vì vậy họ có thể duy trì được mối quan hệ yêu đương lâu dài bền chặt.",
+                                }
+                            ],
+                        },
+                        {
+                            "title": "ENTJ trong tình bạn",
+                            "itemsChild": [
+                                {
+                                    "content": "Như trong hầu hết các khía cạnh khác của cuộc sống, các ENTJ cũng mong đợi được phát triển bản thân và tìm nguồn cảm hứng thông qua các mối quan hệ. Họ thường kết giao với những người có chung niềm đam mê, chung mong muốn được học hỏi, tiếp thu kiến thức mới. Không quá dễ dàng để trở thành bạn của các ENTJ vì họ có khá nhiều tiêu chuẩn khi kết giao với người mới, nhưng khi đã trở thành bạn bè thì các ENTJ sẽ rất chăm chút cho mối quan hệ và đối xử với họ vô cùng tử tế. Các ENTJ cũng có xu hướng bảo vệ - bao bọc thái quá với những người mà họ coi là bạn bè thân thiết.\n\n<i>“Với bản tính độc lập, tự cường, các ENTJ cảm thấy rất khó khăn trong việc chia sẻ nỗi lòng riêng tư hay những khó khăn của mình vì họ cho rằng như thế là yếu đuối.”</i>\n\nCác ENTJ không phải kiểu bạn dễ dàng lắng nghe những chia sẻ cảm xúc hay trút bầu tâm sự nhưng họ sẽ là những người bạn giúp đưa ra hướng giải quyết nhanh gọn và có ích. Ngoài ra, các ENTJ cũng hết sức động viên, hỗ trợ bạn bè của mình để trở thành một phiên bản tốt hơn, có cuộc sống hoàn thiện hơn.\n\nTrong một số trường hợp, các ENTJ sẽ chủ động lên kế hoạch, đồng thời đưa ra quyết định trước những người bạn của mình do ý nghĩ chủ quan của ENTJ luôn thấy bản thân là đúng nhất. Các ENTJ cũng rất thích làm host trong các buổi tụ tập, gặp mặt hay picnic cùng bạn bè.",
+                                },
+                                {
+                                    "titleChild": "Thu hẹp khoảng cách",
+                                    "content": "Trước sự thể hiện mạnh mẽ của những người thuộc nhóm tính cách ENTJ, chỉ những người vững vàng nhất mới giữ được lập trường nhất quán. Với điểm yếu cố hữu là cách không thấu hiểu cảm xúc người khác và không biết kiềm chế đúng mực, đôi khi các ENTJ sẽ đẩy cuộc trò chuyện bình thường của mình với bạn bè lên thành những lời tranh luận gắt gỏng. Đây là điều họ nên cải thiện để không vô tình làm mích lòng những người xung quanh. Việc kết bạn với những người có tính cách khá trái ngược như những bạn bè thuộc nhóm Trực giác (N) để có thể học cách cân bằng cảm xúc, thu hẹp khoảng cách giữa suy luận logic và sự hài hòa trong giao tiếp.\n\nTuy vậy, phần lớn bạn bè của các ENTJ là những người thiên về logic, vì vậy họ có thể thường xuyên chia sẻ quan điểm và ý tưởng với nhau. Các ENTJ sẽ rất hòa hợp với những người có chung sở thích và lối suy luận, họ sẵn sàng dành hàng giờ để “tám chuyện” với bạn bè, cũng như luôn có mặt khi bạn của mình cần giúp đỡ. Ngược lại, đối với những người thiên về suy nghĩ thực tế và không biết các ENTJ cứ luôn muốn tranh luận để làm gì thì sẽ bị ngó lơ mọi lúc.",
+                                }
+                            ],
+                        },
+                        {
+                            "title": "ENTJ khi làm cha mẹ",
+                            "itemsChild": [
+                                {
+                                    "content": "Với tư cách là cha mẹ, các ENTJ luôn phải kìm nén ý chí mạnh mẽ và lối suy nghĩ logic của mình để nhường chỗ cho những cảm xúc chân thật hơn mà họ muốn dành cho con cái. Bởi lẽ, trẻ con thường không đủ khả năng phân tích vấn đề để hiểu hết những suy nghĩ của cha mẹ, điều đó đòi hỏi các cha mẹ ENTJ cần khéo léo hơn trong cách giao tiếp với con cái.\n\nNhững Nhà điều hành coi trọng việc trở thành cha mẹ, họ cũng hiểu rõ tầm quan trọng của mình trong việc nuôi dạy con cái nên người.\n\nNhững người thuộc nhóm tính cách ENTJ coi những đứa trẻ chính là hình ảnh phản chiếu của bản thân, vì vậy họ mong muốn chúng sẽ trở nên thông minh, độc lập, luôn cố gắng hết mình vì mục tiêu — những điều đó đều được ưu tiên trước những phẩm chất về mặt đạo đức.\n\n<i>“Các ENTJ đặt kỳ vọng cao ở con cái của họ, mong muốn con cái của mình thành công và khiến cho họ nở mày nở mặt.”</i>",
+                                },
+                                {
+                                    "titleChild": "Xây dựng lòng khoan dung",
+                                    "content": "Các cha mẹ ENTJ tôn trọng sự khác biệt quan điểm, họ tin rằng mỗi người có một suy nghĩ và chúng đều đáng quý. Nhưng nếu trong gia đình nổ ra một cuộc tranh luận nào đó thì họ lại muốn ý kiến của mình được chấp nhận vì mình là cha mẹ. Sự nghiêm khắc này về lâu dài có thể gây nên những hiểu lầm không đáng có giữa cha mẹ và con cái, vì vậy các ENTJ nên linh hoạt trong việc tiếp thu ý kiến và đưa ra đánh giá khách quan hơn.\n\nKhi những cuộc tranh luận trong gia đình thiên về những vấn đề thiên về mặt cảm xúc hơn thì các ENTJ hoàn toàn bất lực. Họ không hề có năng khiếu trong việc thấu hiểu người khác, đặc biệt là đối với những đứa trẻ đang bắt đầu bước vào độ tuổi thanh thiếu niên và trở nên nhạy cảm hơn rất nhiều. Về phía con cái của các ENTJ, chúng cũng gặp khó khăn trong việc giao tiếp với cha mẹ vì không biết mở lời ra sao và diễn đạt như thế nào. Sự mất liên kết về cảm xúc giữa hai thế hệ sẽ gây ra những cuộc chiến tranh lạnh không đáng có.\n\n<i>“Bằng việc học cách kiềm chế cảm xúc và chậm rãi thấu hiểu con cái, các bậc phụ huynh ENTJ sẽ giảm thiểu những xung đột không đáng có trong mái ấm của mình.”</i>",
+                                },
+                                {
+                                    "titleChild": "Bồi dưỡng tính độc lập",
+                                    "content": "Những bậc cha mẹ ENTJ nên nhớ rằng một phần của tính độc lập là có khả năng tự sắp xếp công việc và lịch trình trong một khoảng thời gian nhất định, vạch ra lộ trình cho bản thân ở một mức độ nào đó. Vì vậy họ cũng cần cho con cái không gian tự do để chúng tự quyết định những điều nên và không nên làm thay vì quyết định thay chúng. Chỉ khi vấp phải sai lầm và tự mình học cách khắc phục thì những đứa trẻ mới trưởng thành và độc lập hơn.",
+                                }
+                            ],
+                        },
+                    ]
+                },
+                {
+                    "section": "Làm sao để thân thiết với ENTJ",
+                    "items": [
+                        {
+                            "content": "●     <b>Thẳng thắn và chân thành.</b> ENTJ nổi tiếng là thích thảo luận trực diện vì vậy họ sẽ không thích những người vòng vo tam quốc hay nói nước đôi. ENTJ cũng không phải tuýp người dễ hiểu được ẩn ý đâu nên nếu thực sự muốn kết thân với họ, bạn hãy trình bày thẳng thắn cảm xúc của bạn cho họ hiểu.\n\n●     <b>Tôn trọng sự độc lập của ENTJ.</b> ENTJ luôn thích độc lập và tự chủ. Điều này đúng với cả ENTJ nữ lẫn ENTJ nam. Trong mối quan hệ kể cả thân thiết thì cũng vẫn sẽ có khoảng cách nhất định. Hãy tôn trọng không gian riêng và nhu cầu tự do của các ENTJ, bạn sẽ dễ để lại ấn tượng với họ.\n\n●     <b>Gắn kết qua các cuộc thảo luận đòi hỏi sự động não.</b> ENTJ rất dễ bị cuốn hút bởi những cuộc thảo luận về các vấn đề hóc búa đòi hỏi phải động não. Càng khó họ càng thích. Hãy tìm hiểu sở thích của ENTJ và chủ động nêu lên vấn đề nan giải thuộc chủ đề mà họ quan tâm, các ENTJ sẽ cực kỳ có hứng thú tham gia buổi thảo luận.\n\n●     <b>Các ENTJ thích những người có tài năng và tham vọng.</b> Bản thân các ENTJ là những người rất tham vọng và có chí tiến thủ. Vì vậy, không có gì là ngạc nhiên khi họ dễ bị thu hút bởi những người có cùng chí hướng. Nếu bạn là người có sở thích riêng, cá tính, biết rõ mình muốn gì, có mục đích sống và có tinh thần cố gắng cao, bạn sẽ rất dễ được các ENTJ để ý và chủ động kết bạn.\n\n●     <b>Khéo léo và mềm mỏng khi tiếp nhận thông tin từ ENTJ.</b> ENTJ nổi tiếng là thẳng thắn và có cái tôi to. Vì vậy khi các ENTJ chủ động đóng góp ý kiến cho bạn, kể cả bạn không đồng tình với họ thì cũng đừng vội phản đối gay gắt ngay. Họ sẽ không thích bị phản đối một cách quá thẳng thừng và sẽ dễ nổi nóng trong trường hợp ấy. Nếu ý kiến của họ có ích với bạn, việc bạn đồng tình và tán dương sẽ rất dễ để gây thiện cảm với các ENTJ.\n\n●     <b>Tôn trọng thời gian của các ENTJ.</b> Các ENTJ là người rất tham vọng và luôn tập trung vào sự tiến bộ của bản thân. Họ dành rất nhiều thời gian để trau dồi kiến thức và rèn luyện bản thân. Các ENTJ thường cực kỳ bận rộn với một lịch trình dày đặc. Vì vậy, đừng làm các ENTJ mất thì giờ với những việc vô bổ không có mục đích, họ sẽ không có hứng thú đâu. Hãy tôn trọng quỹ thời gian và nỗ lực của ENTJ, bạn sẽ nhận lại sự tôn trọng từ phía họ."
+                        },
+                    ],
+                },
+                {
+                    "section": "Con đường sự nghiệp",
+                    "items": [
+                        {
+                            "content": "Trong công việc, sự táo bạo và nhiệt huyết của những người thuộc nhóm tính cách ENTJ mới được thể hiện rõ ràng nhất, và họ là những ứng cử viên sáng giá nhất cho vị trí lãnh đạo. Bản thân các ENTJ cũng cảm thấy hài lòng khi đạt được vị trí cao trong công việc, được đồng nghiệp và cấp dưới kính trọng. Với tầm nhìn và trí thông minh, cũng như sự quyết tâm của các ENTJ sẽ giúp các nhiệm vụ luôn được hoàn thành đúng hạn với tiêu chuẩn cao nhất."
+                        },
+                        {
+                            "title": "Một tầm nhìn, một sứ mệnh",
+                            "content": "Trong lĩnh vực kinh doanh, sự quyết đoán của các ENTJ giúp họ đạt được sự ngưỡng mộ trong công việc. Với tính cách dứt khoát, những doanh nhân thuộc nhóm tính cách ENTJ sẽ giúp đội nhóm của mình phát triển đúng hướng và hoàn thành công việc kịp tiến độ.\n\n<i>“Đối với những Nhà điều hành, thất bại mà điều họ không bao giờ nghĩ tới. Các ENTJ vạch ra tầm nhìn một cách rõ ràng sau đó định ra chiến lược thực thi. Họ biết chính xác mình muốn gì và cần làm gì.”</i>\n\nTrật tự và có nguyên tắc là chìa khóa dẫn tới thành công của các ENTJ, họ rất không vừa mắt những người có thái độ làm việc cẩu thả, kém cỏi, trì trệ, lười biếng. Vì đã xác định tầm nhìn rõ ràng cho toàn bộ kế hoạch của mình nên các ENTJ cũng có những tiêu chuẩn đi kèm cho bản thân và những người cùng tham gia dự án. Khả năng lên chiến lược “xuất thần” này giúp các ENTJ phù hợp với công việc luật sư, thẩm phán.\n\nLà một người có khả năng giao tiếp ngắn gọn, súc tích, dễ hiểu, nên họ rất phù hợp với công việc kinh doanh. Những người thuộc nhóm tính cách ENTJ cũng rất muốn học hỏi thêm nhiều kiến thức mới, kết hợp với kỹ năng vốn có để hoàn thành công việc tốt nhất."
+                        },
+                        {
+                            "title": "Kỳ vọng lớn lao",
+                            "content": "Trong lĩnh vực kinh doanh, sự quyết đoán của các ENTJ giúp họ đạt được sự ngưỡng mộ trong công việc. Với tính cách dứt khoát, những doanh nhân thuộc nhóm tính cách ENTJ sẽ giúp đội nhóm của mình phát triển đúng hướng và hoàn thành công việc kịp tiến độ.\n\n<i>“Đối với những Nhà điều hành, thất bại mà điều họ không bao giờ nghĩ tới. Các ENTJ vạch ra tầm nhìn một cách rõ ràng sau đó định ra chiến lược thực thi. Họ biết chính xác mình muốn gì và cần làm gì.”</i>\n\nTrật tự và có nguyên tắc là chìa khóa dẫn tới thành công của các ENTJ, họ rất không vừa mắt những người có thái độ làm việc cẩu thả, kém cỏi, trì trệ, lười biếng. Vì đã xác định tầm nhìn rõ ràng cho toàn bộ kế hoạch của mình nên các ENTJ cũng có những tiêu chuẩn đi kèm cho bản thân và những người cùng tham gia dự án. Khả năng lên chiến lược “xuất thần” này giúp các ENTJ phù hợp với công việc luật sư, thẩm phán.\n\nLà một người có khả năng giao tiếp ngắn gọn, súc tích, dễ hiểu, nên họ rất phù hợp với công việc kinh doanh. Những người thuộc nhóm tính cách ENTJ cũng rất muốn học hỏi thêm nhiều kiến thức mới, kết hợp với kỹ năng vốn có để hoàn thành công việc tốt nhất."
+                        },
+                        {
+                            "title": "ENTJ phù hợp với nghề nghiệp gì?",
+                            "content": "ENTJ rất thích việc chuyển các ý tưởng thành kế hoạch hành động, thích thực thi hơn là lý thuyết, đây là một trong những ưu điểm của họ và cũng là điều các ENTJ tìm kiếm trên con đường sự nghiệp. Những đặc điểm này khiến cho ENTJ xuất sắc trong các vị trí: giám đốc điều hành, doanh nhân, chiến lược gia - họ có đủ nghị lực và quyết tâm để triển khai ý tưởng dù vẫn còn tồn đọng nhiều trở ngại trên con đường đến với thành công.\n\nNhững người có loại tính cách này thường có kỹ năng lãnh đạo tuyệt vời và cực kỳ ham học. Thiếu năng lực, lười biếng và kém hiệu quả là những điều mà các ENTJ không mong muốn bắt gặp ở nơi làm việc. Điều này làm cho ENTJ trở thành những người đồng nghiệp, những cấp trên có phần nghiêm khắc và khắt khe, nhưng lợi thế mà tính cách này mang lại là sự hiệu quả và khách quan trong công việc. Những đặc điểm trên kết hợp lại khiến luật sư, thẩm phán, quản trị kinh doanh hoặc giáo sư đại học trở thành những ngành nghề rất hợp với những Nhà điều hành.\n\nCác ENTJ rất phù hợp với vai trò tổ chức và lãnh đạo. Họ có khả năng nhận biết và phân tích vấn đề, cũng như đưa ra các giải pháp sáng tạo cho sự tồn tại và phát triển của tổ chức trong ngắn hạn và dài hạn. Các ENTJ rất muốn trở thành người dẫn đầu vì vậy họ cảm thấy bị gò bó khi phải nghe theo chỉ dẫn của người khác.\n\nDưới đây là một số nghề nghiệp phù hợp mà các ENTJ có thể tham khảo:\n\n●     Doanh nhân\n\n●     Xây dựng tổ chức/doanh nghiệp/công ty\n\n●     Giám đốc điều hành\n\n●     Quản trị doanh nghiệp\n\n●     Cố vấn về máy tính\n\n●     Quan tòa, luật sư\n\n●     Giảng viên"
+                        }
+                    ]
+                },
+                {
+                    "section": "Thói quen nơi công sở",
+                    "items": [
+                        {
+                            "content": "Đối với những người thuộc nhóm tính cách ENTJ, văn phòng làm việc là nơi giúp họ thể hiện được tính cách thật một cách tự nhiên nhất. Họ có phương pháp giao tiếp tự nhiên, cuốn hút, khả năng lãnh đạo tài tình và kỹ năng xử lý công việc chuyên nghiệp. Bản thân các ENTJ cũng ưu tiên được làm việc ở vị trí lãnh đạo hơn là những vị trí không được nắm nhiều quyền điều hành trong tay.\n\n<i>“Tuy vậy, những người thuộc nhóm tính cách ENTJ là những người khá nghiêm khắc, họ có thể thích nghi với bất kỳ tình huống nào bằng cách khẳng định năng lực của bản thân trong công việc và chủ động hoàn thành những nhiệm vụ khó nhằn nhất.”</i>"
+                        },
+                        {
+                            "title": "ENTJ khi là nhân viên",
+                            "content": 'Vị trí cấp dưới là vị trí mang tới nhiều thử thách nhất cho những người thuộc nhóm tính cách ENTJ, và họ phải nỗ lực rất nhiều để đạt được sự hài lòng trong công việc. Họ liên tục nhập những nhiệm vụ khó và cố gắng hoàn thiện một cách xuất sắc để thể hiện năng lực của bản thân, và để chứng tỏ rằng không gì là không thể chỉ cần bạn đủ chăm chỉ.\n\nNếu quá trình xử lý công việc bị chậm trễ, họ có thể rơi vào tình trạng xao nhãng và mất phương hướng một chút. Ngược lại nếu mọi việc đi theo đúng tiến độ thì các ENTJ sẽ bắt kịp rất nhanh và xử lý gọn gàng.\n\nTrong công việc, nếu ENTJ bị cấp trên phê bình hoặc chỉ trích, thay vì nổi giận thì họ sẽ chọn cách tiếp thu để rút kinh nghiệm cho lần sau. Bởi vậy tiêu chuẩn của những nhân viên thuộc nhóm ENTJ trong công việc luôn rất cao. Họ là kiểu người sẵn sàng gắn bó và cống hiến hết mình cho công việc, miễn là cấp trên của họ cũng làm tròn bổn phận của mình.'
+                        },
+                        {
+                            "title": "ENTJ khi là đồng nghiệp",
+                            "content": "ENTJ là những người rất quảng giao và sẵn sàng chia sẻ ý tưởng của mình cùng các đồng nghiệp. Là những người có “máu lãnh đạo” bẩm sinh, họ sẽ chủ động là người đại diện đứng ra để dẫn dắt mọi người trong đội nhóm để giải quyết vấn đề. Các ENTJ thích làm việc cùng những người đồng cấp miễn là họ ứng xử đúng với vị trí của mình, những người lười biếng hoặc có thái độ bất hợp tác sẽ bị các ENTJ cho vào “blacklist” ngay lập tức.\n\nNhững Nhà điều hành là những người có ý chí mạnh mẽ, thậm chí đôi khi thể hiện sự ra lệnh thái quá. Họ thích kèm cặp và truyền cảm hứng cho các đồng nghiệp, nhưng đôi khi lại hơi hống hách."
+                        },
+                        {
+                            "title": "ENTJ khi là cấp trên",
+                            "content": "Những người lãnh đạo thuộc nhóm tính cách ENTJ có khả năng giao tiếp tự nhiên, lôi cuốn và xác định mục tiêu rõ ràng trong công việc: Hoàn thành nhiệm vụ với hiệu quả cao nhất có thể. Các ENTJ là những nhà lãnh đạo bẩm sinh, có năng lực xây dựng chiến lược, xác định điểm mạnh và điểm yếu của từng nhân viên, kết hợp đội nhóm để mỗi người đều có thể phát huy hết khả năng của mình.\n\nNgoài việc nâng cao tinh thần của mỗi người thì mục tiêu của các ENTJ còn là hoàn thành công việc một cách xuất sắc. Những cá nhân có biểu hiện làm việc kém hiệu quả hoặc lười biếng sẽ bị đánh giá thấp và có khả năng bị loại trừ khỏi đội nhóm."
+                        },
+                    ]
+                },
+                {
+                    "section": "So sánh ENTJ với INTJ, ENTP",
+                    "items": [
+                        {
+                            "content": "Khi so sánh ENTJ (Nhà điều hành) với những nhóm tính cách khác có sự tương đồng (I<b>NTJ</b> - Nhà khoa học, <b>ENT</b>P - Người nhìn xa), bạn sẽ hiểu rõ hơn về đặc tính của nhóm ENTJ."
+                        },
+                        {
+                            "title": "Điểm giống nhau",
+                            "content": 'N - Intuition (Trực giác): Cả 3 nhóm tính cách này đều có xu hướng suy nghĩ theo tính chiến lược và cực kỳ quyết đoán. Cả 3 nhóm tính này đều nổi bật với sự tự tin, tính độc lập tự chủ và có khả năng lãnh đạo, dẫn dắt người khác.\n\nKhi đối chiếu ENTJ với từng nhóm INTJ, ENTP, chúng tôi nhận thấy giữa mỗi cặp sẽ có những điểm chung riêng như sau:\n\n●     E<b>NTJ</b> và I<b>NTJ</b>: Dù ENTJ hướng ngoại và INTJ hướng nội nhưng hai nhóm tính cách này có rất nhiều điểm tương đồng. Cả hai nhóm tính cách này đều rất thông minh và được mệnh danh là “ông trùm tư duy” trong 16 nhóm tính cách. ENTJ và INTJ đều đề cao hiệu quả công việc, cục kỳ hứng thú với các vấn đề hóc búa và đòi hỏi sự động não. ENTJ và INTJ đều cực kỳ xuất chúng trong việc tìm ra hướng giải quyết cho các vấn đề. Cả hai nhóm tính cách này đều tư duy thiên về lý trí hơn là cảm xúc. Những người thuộc hai nhóm tính cách này thường có xu hướng lên kế hoạch kỹ càng trước khi hành động và đều có tính kiểm soát cao.\n\n●     <b>ENT</b>J và <b>ENT</b>P: Hai nhóm tính cách này đều hướng ngoại, đều cực kỳ chủ động và tự lực cánh sinh. Những người thuộc hai nhóm tính cách này đều không ngại đối chất trực diện cũng như siêu tập trung trong việc giải quyết vấn đề triệt để.',
+                        },
+                        {
+                            "title": "Điểm khác nhau",
+                            "content": "Dù chỉ chênh nhau một chữ cái, song sự khác biệt giữa các nhóm này lại cách nhau cả dải ngân hà. Bạn có thể thấy rõ điều này tại bảng so sánh sau:" 
+                        },
+                    ],
+                    "tables": [
+                        {
+                            "headers": ["Đặc điểm", "INTJ", "ENTJ", "ENTP"],
+                            "rows": [
+                                ["Diễn giải chữ viết tắt", "<b>I - Hướng nội</b><br>N - Trực giác<br>T - Lý trí<br>J - Nguyên tắc", "<b>E - Hướng ngoại</b><br>N - Trực giác<br>T - Lý trí<br><b>J - Nguyên tắc</b>", "E - Hướng ngoại<br>N - Trực giác<br>T - Lý trí<br><b>P - Linh hoạt</b>"],
+                                ["Cách tiếp cận thông tin", "Chủ động tiếp cận thông tin tuy nhiên không thích làm trung tâm của đám đông. Thích độc lập tìm tòi và tiếp cận vấn đề", "Chủ động tiếp cận thông tin rồi dựa vào kinh nghiệm bản thân để đưa ra phương án tối ưu nhất cho tập thể. Rất quyết đoán, đồng thời đề cao ý kiến của bản thân, có thể có xu hướng áp đặt", "Chủ động tuy nhiên sẽ linh hoạt hơn về mặt xem xét các phương án có thể áp dụng. Tự phát, dễ thích nghi với hoàn cảnh"],
+                                ["Trong các mối quan hệ", "- Thường ngại thử cái mới<br>- Không có nhu cầu lắng nghe hay “buôn dưa lê” mà không có mục đích, thường lắng nghe với một mục đích duy nhất là giúp người khác giải quyết vấn đề của họ một cách thực tiễn và logic. Tập trung vào nội tâm của bản thân hơn là mọi người xung quanh<br>- Có xu hướng theo đuổi thứ mình muốn đến cùng.<br>- Trong tình yêu, INTJ ít bộc lộ cảm xúc cá nhân nhưng sẽ thể hiện tình cảm qua hành động và nỗ lực. INTJ phù hợp với một người bạn đời tôn trọng sự độc lập, để yên cho các INTJ theo đuổi ước vọng và biết ghi nhận mọi cố gắng của INTJ", "- Có hứng thú với những điều mới, mối kết giao mới nhưng cần biết trước điều đó có giá trị hay lợi ích thực tế không<br>- Khó để tập trung lắng nghe người khác giãi bày tâm sự trong những cuộc hội thoại vô bổ, không có thông tin hữu ích. Tuy nhiên, các ENTJ sẵn sàng lắng nghe nếu bạn là đối tượng mà họ thích và muốn gây ấn tượng<br>- Tràn đầy năng lượng và nhiệt huyết khi theo đuổi nhưng sẽ nhanh bỏ cuộc nếu nhận thấy không có kết quả.<br>- Trong tình yêu, ENTJ ổn định và có thể làm chỗ dựa vững chãi nhưng thường có xu hướng áp đặt. ENTJ phù hợp với một người bạn đời luôn ủng hộ tham vọng cá nhân của ENTJ và nhất nhất nghe theo họ", "- Thích những điều mới, năng động trong việc mở rộng vòng tròn xã hội, không nhất thiết phải theo nguyên tắc hay giá trị cốt lõi nào<br>- Không thích lắng nghe các vấn đề liên quan đến cảm xúc. Có thể “đánh trống lảng” để không phải nói về các vấn đề cảm xúc<br>- ENTP có xu hướng ủng hộ và động viên người bạn đời của mình theo đuổi ước vọng cá nhân. Tuy nhiên, các ENTP có thể không ổn định mà hay tùy hứng và mơ mộng. ENTP phù hợp với người bạn đời linh hoạt và biết tùy cơ ứng biến với mọi thay đổi đến từ phía ENTP"],
+                                ["Trong công việc", "- INTJ cực kỳ tập trung vào việc hoàn thành mục tiêu. Họ sẽ thường suy nghĩ đường lối chiến lược riêng và thực thi đến khi có kết quả mới thông báo<br>- INTJ không thích làm tâm điểm của đám đông mà chỉ tập trung vào việc của họ", "- ENTJ thường rất hoạt ngôn và sẽ có xu hướng thu thập nguồn lực từ nhiều phía để thực hiện theo kế hoạch mà ENTJ đã đề ra<br>- ENTJ thích làm tâm điểm của đám đông, thích chỉ đạo và dẫn dắt mọi người", "- ENTP thích khám phá và tìm hiểu vấn đề. Họ có xu hướng thuyết phục và thảo luận kỹ càng với mọi người xung quanh trước khi đưa ra phương án hành động tối ưu nhất"]
+                            ]
+                        }
+                    ],
+                    "content": "Cả ba nhóm ENTJ, INTJ và ENTP đều thể hiện rõ sự tự tin và nhạy bén trong cách tiếp cận thông tin cũng như tương tác xã hội. Họ có khả năng tiếp thu nhanh, tính trực giác cao và luôn quyết đoán mỗi khi cần đưa ra quyết định.\n\nTuy nhiên, sự khác biệt giữa các chữ cái E (Hướng ngoại) - I (Hướng nội), J (Nguyên tắc) - P (Linh hoạt) đã định trước sự khác biệt ẩn sâu bên trong mỗi nhóm tính cách.\n\nTrong khi ENTJ có xu hướng chỉ đạo và muốn trở thành tâm điểm của đám đông thì INTJ lại khá độc lập, chỉ tập trung vào mục tiêu của riêng mình; ENTP thì linh hoạt hơn, luôn biết cách thương thảo với những người xung quanh để đi tới phương án tối ưu nhất. Sự đa dạng này khiến ba nhóm có cách tiếp cận cuộc sống và con người hoàn toàn khác nhau, hình thành những hướng đi riêng và tô điểm thêm cho cuộc sống muôn màu muôn vẻ." 
+                },
+                {
+                    "section": "Lời khuyên dành cho ENFJ",
+                    "items": [
+                        {
+                            "title": "Phát huy thế mạnh của mình",
+                            "content": 'Tận dụng cơ hội để cho người khác thấy được khả năng đánh giá tình huống và sự nhanh nhạy trong khi giải quyết vấn đề. Chủ động dẫn dắt mọi người khi phải đối mặt với tình huống khó khăn, cho họ thấy tiềm năng lãnh đạo của bạn.',
+                        },
+                        {
+                            "title": "Khắc phục khuyết điểm",
+                            "content": "Nên nhớ rằng không ai hoàn hảo và bạn cũng vậy, bạn cũng có những khuyết điểm của mình. Quan điểm của bạn không phải là tất cả. Mọi việc diễn ra như thế nào có thể không ảnh hưởng tới bạn, nhưng nó có thể tác động tới người khác. Hãy thử cho phép mọi việc diễn ra một cách tự nhiên và rút ra bài học cho mình."
+                        },
+                        {
+                            "title": "Tìm kiếm những người có cùng quan điểm",
+                            "content": "Đừng mong mình sẽ trở thành người đa cảm hay quá nồng nhiệt. Các mối quan hệ vững chắc nhất của bạn với người khác bắt nguồn từ lý trí, chứ không phải từ tình cảm hay cảm xúc. Bạn nên chú ý đến nhu cầu tình cảm của người khác, hãy thể hiện tình cảm và sự tôn trọng chân thành đối với họ bằng chính con người thật của bạn. Hãy luôn là chính mình! Khi đó bạn sẽ tìm được bạn đồng hành trên con đường chinh phục thử thách."
+                        },
+                        {
+                            "title": "Dành thời gian để tìm hiếu suy nghĩ của mọi người",
+                            "content": "Bạn cần bày tỏ quan điểm của mình với mọi người và quan tâm hơn những suy nghĩ của họ về tình huống đó. Khi đó bạn có thể sẽ xem xét lại các nhu cầu của họ một cách khách quan, và nếu như họ cũng đồng quan điểm với bạn thì nó sẽ mang lại một sự hòa hợp tốt trong công việc cũng như trong các mối quan hệ."
+                        },
+                        {
+                            "title": "Chịu trách nhiệm với chính bản thân mình",
+                            "content": "Đừng bao giờ đổ lỗi những rắc rối của bạn lên đầu người khác. Hãy cố gắng tự tìm kiếm giải pháp. Không một ai có khả năng hiểu bạn và kiểm soát cuộc sống của bạn tốt hơn bản thân bạn."
+                        },
+                        {
+                            "title": "Dành nhiều thời gian để phân tích mọi mặt của vấn đề",
+                            "content": "Bạn đừng bỏ qua các đánh giá mang tính trừu tượng, có vẻ khó hiểu hay những đánh giá thẩm mỹ, tình cảm phức tạp từ người khác hay từ chính bản thân bạn. Bạn nên cố gắng tìm hiểu về các vấn đề đó vì nó có ảnh hưởng đến công việc của bạn.\n\nNếu bạn thấy căng thẳng thì nên tạm gác công việc qua một bên, thôi suy nghĩ và lo lắng, hãy để cho tinh thần bạn thư thái khi đó các ý tưởng ấy sẽ tự đến với bạn, đôi khi các ý tưởng hay giải pháp tốt nó đến lúc bạn đang đi bộ thư giãn, hay đang tắm, v.vv.."
+                        },
+                        {
+                            "title": "Khi mất bình tĩnh, bạn sẽ thất bại",
+                            "content": "Năng lực tiềm tàng và những hiểu biết sáng suốt của bạn chính là một thế mạnh, nhưng nó sẽ trở nên nguy hiểm nếu sử dụng không đúng và bạn có thể rơi vào trạng thái cảm xúc mà bạn không thể kiểm soát được.\n\nNên nhớ rằng không phải ai cũng có cách nhìn sự việc giống như bạn và có năng lực cá nhân mạnh như bạn, một khi nỗ lực giúp đỡ họ của bạn bị thất bại, điều đó sẽ khiến cho bạn tức giận và bỏ rơi. Bạn không nên xử sự như vậy. Hãy điều chỉnh suy nghĩ của mình, và cho phép người khác quyền riêng tư và khi đó bạn sẽ trưởng thành hơn."
+                        },
+                        {
+                            "title": "Nhìn nhận một cách tích cực",
+                            "content": "Đừng quá soi mói những mặt hạn chế của người khác, bạn sẽ làm họ khó chịu đấy. Họ đang cần sự giúp đỡ của bạn và bạn cần họ để thấu hiểu vấn đề. Bạn có thể giỏi hơn họ trong một số lĩnh vực, và ngược lại, họ cũng có thể giỏi hơn bạn ở một vài lĩnh vực khác. Bạn hãy biến những cảm xúc của người khác thành sức mạnh chứ đừng nên xem nó là một trở ngại đối với bạn."
+                        },
+                        {
+                            "title": "Suy nghĩ tích cực và luôn lạc quan",
+                            "content": "Hãy cố gắng nhận ra những giá trị mà cuộc sống đã dành riêng cho bạn, bạn bè và gia đình bạn. Tự hào vì mình là một người tốt và không cho phép những tác nhân bên ngoài kiểm soát bạn, cố gắng thư giãn và tận hưởng từng khoảnh khắc hạnh phúc bên mọi người. Nên nhớ rằng: Không có gì quan trọng hơn hạnh phúc do chính bạn tạo ra."
                         }
                     ]
                 },
