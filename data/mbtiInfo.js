@@ -4253,7 +4253,7 @@ export const mbtiData = {
                     "content": "Cả ba nhóm tính cách ESFP, ISFP và ESTP đều là những người sở hữu bộ óc sáng tạo cùng khả năng ứng biến và thích nghi nhanh. Tuy nhiên, ESFP quảng giao và hướng ngoại, là người thu hút sự chú ý trong mỗi lần xuất hiện. ISFP khép mình, giàu tình cảm và khao khát sự công nhận, ESTP năng động, luôn muốn được trải nghiệm những điều mới mẻ, họ tận hưởng từng phút giây được sống trên cuộc đời này. Tuy chỉ khác nhau một chữ cái nhưng cách tiếp cận, xử lý thông tin và hướng đi của ba nhóm tính cách này lại cực kỳ khác biệt, từ đó tạo nên những màu sắc riêng." 
                 },
                 {
-                    "section": "Lời khuyên dành cho ENTP",
+                    "section": "Lời khuyên dành cho ESFP",
                     "items": [
                         {
                             "title": "Kiềm chế tính bốc đồng",
@@ -4277,55 +4277,55 @@ export const mbtiData = {
         },
         {
             "code": "ESTP",
-            "name": "Người trình diễn",
-            "description": "Đối với các ESFP, cuộc sống là sàn catwalk và họ chính là tâm điểm chú ý của mọi cuộc vui. Tuy ham vui là vậy nhưng bản chất của các ESFP vẫn là những người có trái tim ấm áp, biết quan tâm và giúp đỡ người khác. Họ biết lắng nghe và đồng cảm với vấn đề của những người xung quanh.",
-            "image": "../img/esfp.png",
+            "name": "Người thực thi",
+            "description": "Là những cá nhân năng động và hoạt bát, các ESTP rất yêu những hoạt động thể chất. Điều đó cũng được thể hiện rất rõ trong việc giải quyết vấn đề một cách dứt khoát và nhanh chóng của họ. Những Người thực thi luôn mang trong mình tinh thần lạc quan bất diệt, “always look on the bright side”.",
+            "image": "../img/estp.png",
             "details": [
                 {
                     "section": "Tổng quan",
                     "items": [
                         {
-                            "content": "<b>ESFP (Người trình diễn)</b> là nhóm tính cách tích cực và lạc quan nhất, có khoảng 7.5% dân số mang tính cách này."
+                            "content": "Là những cá nhân năng động là hoạt bát, các <b>ESTP (Người thực thi)</b> rất yêu những hoạt động thể chất. Điều đó cũng được thể hiện rất rõ trong việc giải quyết vấn đề một cách dứt khoát và nhanh chóng của các họ. Những Người thực thi luôn mang trong mình tinh thần lạc quan bất diệt, “always look on the bright side”."
                         },
                         {
-                            "title": "ESFP là viết tắt của những chữ cái gì?",
+                            "title": "ESTP là viết tắt của những chữ cái gì?",
                             "content": "● <b>E - Hướng ngoại:</b> Đối với bạn, thế giới bên ngoài mới là thế giới thực. Trái ngược với tính cách I - Hướng nội luôn đắm mình trong thế giới nội tâm.\n\n● <b>S - Giác quan:</b> Bạn tập trung vào những gì mình quan sát được bằng năm giác quan (thính giác, khứu giác, thị giác, vị giác, xúc giác).\n\n● <b>F - Cảm xúc:</b> Bạn đưa ra quyết định chủ yếu dựa trên cảm xúc. Ngược lại, những người có tính cách T - Lý trí lại đưa ra quyết định dựa vào số liệu và đo lường chính xác.\n\n● <b>P - Linh hoạt:</b> Bạn thỏa thích vẫy vùng trong thế giới của riêng mình với những quy tắc ngầm được bạn tự tay sắp xếp. Trái lại, những người thuộc nhóm J - Nguyên tắc lại cảm thấy ổn khi được áp cho những luật lệ được sắp đặt sẵn."
                         },
                         {
-                            "title": "Tâm điểm của sự chú ý",
-                            "content": 'Các ESFP là những người hòa đồng và thích những điều mới mẻ. Họ luôn vui vẻ, lạc quan và muốn trở thành tâm điểm của sự chú ý. Đôi khi những kịch tích trong cuộc sống lại là những trải nghiệm vô cùng quý giá mà các ESFP muốn được trải qua.\n\nĐối với những người thuộc nhóm tính cách ESFP, cuộc sống là một sàn diễn, còn họ là những nhân vật chính được hàng ngàn con mắt dõi theo. Những người thuộc nhóm tính cách ESFP thích là tâm điểm của sự chú ý. Trong một bữa tiệc, các ESFP luôn là những người biết khuấy động bầu không khí và ở lại tới sau cùng.',
+                            "title": "Thẳng thắn, bộc trực",
+                            "content": 'Đúng như cái tên của mình, những Người thực thi ESTP có tính cách thẳng thắn, bộc trực. Họ thích việc thực thi và luôn ưu tiên bắt tay vào làm việc ngay lập tức, thậm chí đôi khi không màng tới những hậu quả có thể xảy đến. Họ sống trọn cho thì hiện tại, quan tâm tới những điều đã và đang xảy tới chứ không suy xét kỹ tới vấn đề cảm xúc nội tâm hay lý thuyết suông.',
                         },
                         {
-                            "title": 'Trái tim đồng cảm',
-                            "content": "Các ESFP có khả năng giao tiếp tốt, thường có vai trò đứng ra làm người hòa giải trong các cuộc tranh luận. Là những người thường xuyên đưa ra kết luận trên góc nhìn cá nhân, các ESFP là những người biết đồng cảm và đặt mình vào địa vị người khác để suy nghĩ. Họ biết đọc những cảm xúc dù là nhỏ nhất qua nét mặt và cử chỉ của người khác. Đối mặt với một người bạn đang gặp những vấn đề tiêu cực trong cuộc sống, các ESFP sẽ không ngần ngại dang rộng bàn tay ôm họ vào lòng, sau đó gợi ý những phương hướng giải quyết mang tính thực tiễn nhất. Có thể lời khuyên mà những người thuộc nhóm tính cách ESFP đưa ra không phải là đáp án tối ưu, nhưng chắc chắn có thể thực hiện được và phát huy tác dụng ngay lập tức."
+                            "title": 'Giỏi đọc vị người khác',
+                            "content": "ESTP là người có khả năng đọc vị người khác khá tốt dù chỉ quan sát qua nét mặt hay cử chỉ. Điều này giúp những Người thực thi lựa chọn cách hành xử phù hợp với từng đối tượng ở từng thời điểm khác nhau."
                         },
                         {
-                            "title": 'Trau dồi lý trí',
+                            "title": 'Đúng - sai rõ ràng',
                             "content": "Các ESFP là người có tinh thần thoải mái, đôi khi có phần ham chơi. Đây là lý do mà nhiều Người trình diễn đang ngày càng trau dồi và cải thiện đặc điểm T (Lý trí) của mình để có thể đưa ra những quyết định đúng đắn ở thời khắc quan trọng."
                         },
                         {
-                            "title": 'Hòa đồng',
-                            "content": "Các ESFP rất yêu quý những người xung quanh mình, và bản thân họ cũng được nhiều người yêu quý, đây cũng là điều mà họ rất trân trọng. Các ESFP luôn đối xử ấm áp và hào phóng với mọi người xung quanh, coi ai cũng là bạn."
+                            "title": 'Hoạt ngôn',
+                            "content": "Các ESTP là những người vô cùng hoạt ngôn, họ nói hay và cũng hay nói. Tuy nhiên những người thuộc nhóm tính cách ESTP cũng cần cẩn trọng trong lời nói của mình để không vô tình gây tổn thương tới những người xung quanh."
                         },
                         {
-                            "title": "Đơn giản và thiết thực",
-                            "content": "Khi phải đối mặt với áp lực, những người thuộc nhóm tính cách ESFP thường bị những suy nghĩ tiêu cực bủa vây trong tâm trí và khiến họ rối bời, bởi bản chất các ESTP vốn là những người luôn tươi sáng và hướng về những điều tích cực. Khi có quá nhiều suy nghĩ dồn nén trong đầu, các ESFP sẽ chọn cách đơn giản và thiết thực nhất để giải quyết vấn đề."
+                            "title": "Giỏi ứng biến",
+                            "content": "Các ESTP rất giỏi ứng biến trong giao tiếp, họ có thể uyển chuyển xử lý tình huống một cách mượt mà và không làm mất lòng những người xung quanh."
                         },
                         {
-                            "title": "Giỏi thực hành hơn lý thuyết",
-                            "content": "Các ESFP là những người có suy nghĩ thực tiễn mặc dù họ không thích bị trói buộc vào bất cứ quy định hay quy tắc nào. Những người thuộc nhóm tính cách ESFP thích làm việc theo phong cách “tới đâu hay tới đó”, tin tưởng vào khả năng ứng biến của mình trong công việc. Họ cũng giỏi thực hành hơn lý thuyết. Các ESFP luôn né tránh những giả thuyết mơ hồ vì bản thân họ đã thiếu hụt đặc điểm N (Trực giác). Đây là điều khiến những Người trình diễn luôn đạt kết quả xuất sắc trong các môn học thiên về thực hành trên trường lớp."
+                            "title": "Điểm yếu trực giác",
+                            "content": "Trực giác là điểm yếu lớn nhất của những người thuộc nhóm tính cách ESTP. Họ không có quá nhiều kiên nhẫn dành cho những điều mang đậm tính lý thuyết và phi thực tiễn. Bản thân các ESTP cũng không tin vào trực giác của mình lẫn của người khác."
                         },
                         {
-                            "title": "Đánh giá cao vẻ đẹp thẩm mỹ",
-                            "content": "Các ESFP là những người đánh giá cao vẻ đẹp thẩm mỹ đi liền với sự hài hòa về không gian và chức năng. Nếu được sở hữu một căn nhà riêng, họ sẽ trang trí ngôi nhà thật lộng lẫy, được trang bị đầy đủ nội - ngoại thất với đầy đủ những chức năng cần thiết. Những người thuộc nhóm tính cách ESFP cũng là những người rất biết thưởng thức, ví dụ như trong lĩnh vực thời trang, ẩm thực."
+                            "title": "Không thích gò bó",
+                            "content": "Những Người thực thi thường gặp nhiều rắc rối ở trường, đặc biệt ở cấp trung học vì đây là cấp học tập trung rất nhiều vào lý thuyết sách vở. Điều này khiến các ESTP dễ dàng chán nản mỗi khi lên lớp khi thấy những gì mình đang học thật vô nghĩa và chẳng thể áp dụng vào cuộc sống thường ngày.\n\nCác ESTP là những người yêu sự linh hoạt, vì vậy họ cũng hy vọng mình tìm được một công việc thoải mái không gò bó. Ngược lại, những công việc có tính lặp đi lặp lại, không có quá nhiều cơ hội để đột phá sẽ khiến các ESTP nhanh chóng bỏ cuộc."
                         },
                         {
-                            "title": "Tinh thần đồng đội",
-                            "content": "Các ESFP là những người có <b>tinh thần đồng đội</b> tuyệt vời, luôn cố gắng vì mục tiêu chung và hạn chế tới mức tối đa không gây rắc rối trong một tập thể. Họ sẽ phát huy được tốt nhất năng lực của mình trong môi trường yêu cầu kỹ năng giao tiếp và quản trị con người tốt. Là những người thích nhịp sống hối hả, những người thuộc nhóm tính cách ESFP lựa chọn nghề nghiệp linh hoạt về thời gian, đa dạng về nhiệm vụ, không mang tính chất lặp lại ngày qua ngày."
+                            "title": "Doanh nhân thành đạt",
+                            "content": "Là những người vô cùng nhiệt tình và tràn đầy năng lượng, những Người thực thi đặc biệt thành công ở vị trí doanh nhân. Các ESTP cũng có thể đưa ra quyết định một cách nhanh chóng, ít khi phải mất thời gian suy nghĩ do đã có định hướng rõ ràng.\n\nNhìn chung, các ESTP là những người thực tế, giỏi quan sát, hài hước, biết chấp nhận rủi ro để nhanh chóng bắt tay vào thực thi. Họ cũng là những người có khả năng truyền cảm hứng và động lực cho những người xung quanh."
                         },
                         {
-                            "title": "Những người nổi tiếng mang tính cách ESFP:",
-                            "content": "● Miley Cyrus\n\n● Wonyoung (IVE)\n\n● Nayeon (TWICE)\n\n● Kylie Jenner\n\n● Cristiano Ronaldo\n\n● Justin Bieber\n\n● Serena Williams\n\n● Princess Anna (Frozen)"
+                            "title": "Những người nổi tiếng mang tính cách ESTP:",
+                            "content": "● Donald Trump\n\n● George W. Bush\n\n● Mike Tyson\n\n● Angelina Jolie\n\n● Park Ji Min (Jimin)\n\n● Eddie Murphy\n\n● Miley Cyrus\n\n● Bruce Willis\n\n● Madonna\n\n● John Wayne"
                         }
                     ]
                 },
@@ -4336,28 +4336,28 @@ export const mbtiData = {
                             "title": "Điểm mạnh",
                             "itemsChild": [
                                 {
-                                    "titleChild": "Ham học hỏi",
-                                    "content": "Các ESFP luôn tràn đầy năng lượng và nhiệt huyết, họ luôn không ngừng tìm tòi, khám phá và thử sức với những điều mới lạ.",
+                                    "titleChild": "Tràn đầy nhiệt huyết",
+                                    "content": "Những người có tính cách ESTP luôn tràn đầy năng lượng và sức sống. Họ dám vượt qua giới hạn, khám phá và áp dụng những ý tưởng mới vào công việc và cuộc sống hàng ngày.",
                                 },
                                 {
-                                    "titleChild": "Thực tiễn",
-                                    "content": "Những người thuộc nhóm tính cách ESFP yêu thích học hỏi kiến thức và quan điểm triết học. Họ muốn có thêm hiểu biết để tìm ra những ý tưởng mới, có hiệu quả cao để áp dụng vào việc giải quyết những vấn đề thực tiễn. Đó cũng là lý do họ không có hứng thú với những cuộc thảo luận vô nghĩa chỉ mang tính giả thuyết hoặc vẫn chỉ đang nằm trên giấy tờ.",
+                                    "titleChild": "Lý tính và thực tế",
+                                    "content": "Những người thuộc nhóm tính cách ESTP là những người lý trí và sống theo quan điểm thực tiễn, họ quan tâm tới những điều đã và đang thực sự xảy ra thay vì tốn thời gian vào những cuộc tranh luận đầy cảm tính.",
                                 },
                                 {
-                                    "titleChild": "Độc đáo",
-                                    "content": "Là một người có tính cách kết hợp giữa sự táo bạo và tính thực tiễn, Người trình diễn có khả năng tìm ra những ý tưởng và giải pháp mới và sáng tạo, độc đáo mà chưa ai nghĩ tới trước đó.",
+                                    "titleChild": "Sáng tạo",
+                                    "content": "Kết hợp giữa tính táo bạo và tính thực tế, người thuộc nhóm tính cách ESTP thích thử nghiệm những ý tưởng độc đáo mà bạn sẽ không thể nào đoán trước được. Đây là mặt tính cách có thể giúp các ESTP tạo nên được những bước đột phá trong công việc.",
                                 },
                                 {
-                                    "titleChild": "Nhanh nhạy",
-                                    "content": "Các ESFP rất nhạy bén, họ dễ dàng nhận thấy khi có điều gì đó đang thay đổi và khi nào chúng cần phải thay đổi. Sự nhạy bén này giúp những người thuộc nhóm tính cách này dễ dàng nắm bắt tâm trạng, suy nghĩ của người khác.",
+                                    "titleChild": "Phán đoán tốt",
+                                    "content": "Họ có thể nhận ra khi nào có sự thay đổi và khi nào cần thay đổi. Họ có thể phát hiện cả những thay đổi dù là nhỏ nhất của một người thông qua những biến đổi trong hành động thường nhật.",
                                 },
                                 {
                                     "titleChild": "Thẳng thắn",
-                                    "content": 'Những người thuộc nhóm tính cách ESFP không yêu thích những tình tiết mập mờ, “hại não”, họ luôn thẳng thắn chia sẻ suy nghĩ và ý kiến của mình với mọi người xung quanh một cách chân thành nhất.',
+                                    "content": 'Các ESTP là những người thích giao tiếp trực diện, thẳng thắn và trung thực khi nói chuyện. Họ thích đi vào trọng tâm vấn đề hơn là diễn giải dài dòng sâu xa.',
                                 },
                                 {
-                                    "titleChild": "Quảng giao",
-                                    "content": 'Tất cả những đặc điểm trên góp phần tạo nên một ESFP rất quảng giao, một nhà lãnh đạo trời sinh. Họ luôn sẵn lòng tương tác với mọi người xung quanh và mở rộng vòng bạn bè.',
+                                    "titleChild": "Hòa đồng",
+                                    "content": 'Những phẩm chất trên giúp các ESTP trở thành nhà lãnh đạo bẩm sinh. Khả năng giao tiếp tốt và sự dứt khoát khi đưa ra quyết định ở những thời khắc quan trọng sẽ giúp những người thuộc nhóm tính cách ESTP có được sự ủng hộ và tôn trọng từ nhân viên cấp dưới.',
                                 },
                             ],
                         },
@@ -4365,28 +4365,20 @@ export const mbtiData = {
                             "title": "Điểm yếu",
                             "itemsChild": [
                                 {
-                                    "titleChild": "Thiếu nhạy bén",
-                                    "content": 'Những người thuộc nhóm tính cách ESFP luôn đề cao lý trí và tính logic lên trên cảm xúc. Những tình huống buộc phải đưa ra quyết định bằng cảm xúc sẽ khiến các ESFP bối rối và không cảm thấy thoải mái. Không chỉ vậy, họ cũng rất miễn cưỡng và gặp khó khăn trong việc xác định cảm xúc của chính bản thân mình.',
+                                    "titleChild": "Thiếu đồng cảm",
+                                    "content": 'Đối với nhóm tính cách ESTP, cảm xúc luôn bị xếp sau những điều thực tế. Dù rất giỏi giao tiếp và trong việc xử lý các tình huống nhưng nhìn chung sự thẳng thắn và bộc trực của các ESTP lại không giúp được gì trong những vấn đề liên quan tới tình cảm.',
                                 },
                                 {
                                     "titleChild": "Thiếu kiên nhẫn",
-                                    "content": "Những Người trình diễn luôn thực hiện công việc theo tốc độ của mình, vì vậy các ESFP sẽ rất khó chịu nếu phải đứng lại và bỏ dở công việc chỉ vì một cá nhân không bắt kịp tập thể.",
+                                    "content": "Những người ESTP sống nhanh và luôn ở trong trạng thái tràn đầy năng lượng. Đứng trước bất cứ việc gì họ cũng nóng lòng bắt tay vào thực thi mà không màng đến hậu quả có thể xảy ra. Điều này có thể dẫn tới nhiều sai lầm không đáng có trong công việc cũng như trong cuộc sống.",
                                 },
                                 {
-                                    "titleChild": "Mạo hiểm",
-                                    "content": "Sự thiếu kiên nhẫn có thể dẫn tới việc các ESFP quá nóng vội mà đưa những quyết định cuối cùng mà không lường trước được những rủi ro trước mắt.",
+                                    "titleChild": "Bỏ qua bức tranh tổng thể",
+                                    "content": "Người ESTP có thể vì quá tập trung vào những chi tiết nhỏ mà bỏ lỡ tổng thể lớn hơn. Họ có thể dễ dàng giải quyết từng giai đoạn của một dự án một cách hoàn hảo, nhưng cuối cùng thì cả dự án vẫn thất bại nếu các giai đoạn ấy không ăn khớp với nhau và không hướng tới mục tiêu chung của toàn dự án.",
                                 },
                                 {
-                                    "titleChild": "Tùy hứng",
-                                    "content": "Nếu những người thuộc nhóm tính cách ESFP nhìn thấy cơ hội trước mắt, họ sẽ làm tất cả để nắm lấy cơ hội đó mà bỏ qua tất cả các quy tắc cơ bản. Điều này có thể có thể giúp các ESFP hoàn thành công việc của mình nhưng cũng tiềm ẩn rất nhiều rủi ro về lâu về dài.",
-                                },
-                                {
-                                    "titleChild": "Tầm nhìn hẹp",
-                                    "content": 'Chỉ nắm bắt và tận hưởng những khoảnh khắc trước mắt dễ khiến các ESFP bỏ qua những điều lớn lao hơn ở phía sau. Họ có thể xử lý tốt những vấn đề ở hiện tại nhưng chỉ ở thời điểm ấy mà thôi, còn khi gộp chung toàn bộ dự án để xem xét từ đầu tới cuối thì các phần đã được xử lý lại không hề ăn khớp với nhau. Điều đó sẽ dẫn tới sự thất bại tất yếu của dự án nếu những người thuộc nhóm tính cách ESFP không biết nhìn rộng hơn toàn bộ và xử lý một cách logic, mạch lạc.',
-                                },
-                                {
-                                    "titleChild": "Không muốn bị bó buộc",
-                                    "content": 'Những Người trình diễn không thích sự gò bó, họ cũng không thích những công việc lặp đi lặp lại mỗi ngày, bởi đó không phải cách họ tận hưởng cuộc sống. Các ESFP thiên về thực hành và ứng dụng. Vì vậy, ở những môi trường như trường học hoặc làm việc ở nơi quá trầm, các ESFP sẽ phải nỗ lực gấp đôi gấp ba để duy trì sự tập trung.',
+                                    "titleChild": "Nổi loạn",
+                                    "content": "Người ESTP không bị gò bó trong khuôn khổ. Họ không thích làm những việc lặp đi lặp lại, tuân thủ các quy tắc cứng nhắc, ngồi yên một chỗ trong giờ học. Họ có thiên hướng hành động và thực hành. Các môi trường như trường học và những công việc cấp độ cơ bản có thể quá tẻ nhạt đối với họ, khiến họ phải nỗ lực phi thường để có thể tập trung.",
                                 },
                             ],
                         }
@@ -4396,59 +4388,63 @@ export const mbtiData = {
                     "section": "Mối quan hệ",
                     "items": [
                         {
-                            "content": 'Những người thuộc nhóm tính cách ESFP có vòng bạn bè rất rộng bởi họ là những người rất vui vẻ và hòa đồng. Họ có rất nhiều sở thích và đam mê để chia sẻ với bạn bè. Điều này không có nghĩa là các ESFP là những người hòa đồng theo kiểu “xã giao” mà họ thật sự đặt trái tim vào việc xây dựng và vun đắp cho tình bạn của mình.\n\nCác ESFP có thể chơi thân với cả những nhóm tính cách khác, bởi họ là những người thẳng thắn, sòng phẳng, niết khi nào nên nói gì, làm gì và khi nào không nên.\n\nCác ESFP thường tìm cách né tránh những cuộc thảo luận về kiến thức chuyên ngành hay lĩnh vực nào nó cần vận dụng quá nhiều logic. Ngược lại, họ thích cùng nhau tản bộ và nói chuyện phiếm cùng bạn bè hơn. Đó là lý do các ESFP khá khó kết giao với những người có đặc điểm (NT) hoặc (NF) trong tính cách.\n\nNhìn chung, các ESFP là những người vui tính. Họ biết nắm bắt và sống trọn từng phút giây, từng khoảnh khắc. Họ tốt bụng và tinh tế trong từng hành động săn sóc dù là nhỏ nhất với những người xung quanh. Ngược lại, những người thuộc nhóm tính cách ESFP không thích những mối quan hệ quá rắc rối, đòi hỏi họ phải liên tục đoán tâm trạng người khác, hồ nghi xem mọi người đang nghĩ gì, đang muốn gì hay không muốn gì.'
+                            "content": 'Các ESTP là những người rất khoan dung và mở lòng với bạn bè. Là những người có trí tưởng tượng phong phú cùng nguồn năng lượng dường như là vô tận, bạn sẽ không bao giờ cảm thấy nhàm chán nếu kết giao với những Người thực thi.\n\nCác ESTP rất dễ kết bạn bởi sự thân thiện và hòa đồng của mình. Mặt khác, họ cũng không quá để ý tới việc người khác nghĩ về mình hay đánh giá mình ra sao. Khi ra ngoài vui chơi cùng bạn bè, các ESTP thường chọn những hoạt động thể chất năng động thay vì chỉ ngồi nói về nhân sinh và triết lý. Đa phần các ESTP đều thích những bộ môn mạo hiểm bởi chúng khiến họ cảm thấy phấn khích và bị kích thích mọi giác quan.\n\nNhìn chung, các ESTP là những người bạn tốt bụng và vui vẻ, luôn muốn cùng những người thân cận tận hưởng trọn vẹn từng khoảnh khắc trong cuộc sống. Những người thuộc nhóm tính cách ESTP luôn nhiệt tình và hồ hởi trong các mối quan hệ, và họ dễ dàng truyền nguồn cảm hứng vô tận này tới những người xung quanh. Đa phần những người thuộc nhóm tính cách ESTP không thích các mối quan hệ trói buộc quá nhiều, dù họ là người vô cùng tận tâm và biết săn sóc mọi người.'
                         },
                         {
-                            "title": "ESFP trong tình yêu",
+                            "title": "ESTP trong tình yêu",
                             "itemsChild": [
                                 {
-                                    "content": "Khi yêu đương với các ESFP, bạn sẽ không thể biết rõ rằng liệu nửa kia có muốn theo đuổi một mối quan hệ lâu dài với mình không, ví dụ như kết thúc đẹp với một đám cưới trong mơ chẳng hạn, bởi những người thuộc nhóm tính cách ESFP luôn tận hưởng cuộc sống ở thời điểm hiện tại, không lên một kế hoạch cụ thể nào cho tương lai. Tuy nhiên đó cũng có thể coi là một điểm thú vị của các ESFP khi muốn dành những bất ngờ to lớn cho nửa kia của mình.\n\n<i>“Chuyện tình của những Người trình diễn không bao giờ nhàm chán. Với tính cách vui vẻ, năng động, những người thuộc nhóm ESFP có thể nghĩ ra rất nhiều hoạt động mà hai người có thể cùng nhau làm để hâm nóng tình cảm đôi bên.”</i>\n\nCác ESFP yêu những ý tưởng mới và những cuộc thảo luận mang tính triết học về một vấn đề vĩ mô nào đó, và không gì tuyệt vời hơn khi người bạn đời của họ có thể lắng nghe và chia sẻ quan điểm của mình với nhau.",
+                                    "content": "Trong tình yêu, các ESTP không phải kiểu người chú trọng tới chuyện kết hôn. Thay vì mòn mỏi chờ đợi đến ngày cưới thì họ tập trung tận hưởng tất cả những điều thú vị của cuộc sống ở thì hiện tại. Các ESTP không dành nhiều thời gian lập kế hoạch cho tương lai, thế nhưng sự nhiệt tình và khó đoán của họ khiến họ lại vô tình trở thành điểm hấp dẫn trong mắt nhiều người.\n\n<i>“Việc yêu đương với các ESTP không bao giờ là nhàm chán bởi họ luôn có hàng trăm cách có thể khiến bạn vui vẻ cả ngày.”</i>",
                                 },
                                 {
-                                    "titleChild": "Thử thách trong tình yêu",
-                                    "content": "Những người thuộc nhóm tính cách ESFP hầu như không e dè trong chuyện giường chiếu. Đối với họ, tình dục là nơi họ có thể thử nghiệm nhiều ý tưởng thú vị mới. Mặt khác, các ESFP cũng luôn sẵn sàng đón nhận và tiếp thu ý kiến từ nửa kia của mình. Tuy nhiên, các ESFP lại khá tách biệt những tiếp xúc về mặt thể xác với cảm xúc thật. Với họ, chuyện giường chiếu không phải phương thức để thể hiện tình yêu mà chỉ là gia vị để hâm nóng tình cảm lứa đôi.\n\nVề lâu dài, tình yêu của những người thuộc nhóm tính cách ESFP gần như sẽ “dậm chân tại chỗ”. Họ dễ vui nhưng cũng dễ chán, và khi rơi vào bế tắc thì các ESFP sẽ đưa ra những quyết định mà không ai có thể lường trước được. Thậm chí nếu nửa kia không bắt kịp với nhịp độ của họ, các ESFP sẽ suy nghĩ tới việc “dứt áo ra đi” tìm tình yêu mới. Mọi người có nghĩ rằng đó là một hành động tồi tệ không? Thực ra các ESFP suy nghĩ rất đơn giản, họ nghĩ rằng nếu một mối quan hệ đã được định trước là không đi đến đâu thì tại sao lại phải giả vờ để níu kéo?",
+                                    "titleChild": "Khó duy trì mối quan hệ nghiêm túc",
+                                    "content": "Nhóm tính cách ESTP không hề dè dặt trong chuyện chăn gối. Họ thích chuyện đó và luôn chào đón những ý tưởng mới khi đã nắm chắc nhu cầu của đối phương. Tuy nhiên, những người thuộc nhóm tính cách ESTP thường tách biệt quan hệ thể xác với tình cảm đơn thuần, một bộ phận không nhỏ các ESTP có thể lên giường cả với những người mình không yêu. Trong khi đó, một số nhóm tính cách khác lại coi chuyện giường chiếu là một cách thú vị để thể hiện tình yêu, và thật tệ khi hai người có hai quan điểm trái ngược như vậy lại gặp được nhau, dẫn đến vô số những vấn đề nan giải trong tình yêu sau này.\n\nSau một thời gian dài tìm hiểu, tình yêu của các ESTP sẽ được nâng lên một tầm cao mới. Tuy nhiên do tính cách mau chán, hay đứng núi này trông núi nọ nên nếu người yêu hiện tại không còn khiến họ thấy hứng thú nữa thì các ESTP có thể đi tìm ngay một tình yêu mới. Không phải vì các ESTP là những con người bội bạc, mà là do họ nghĩ rằng: “Mình không còn thấy hạnh phúc khi ở bên anh ấy/cô ấy nữa thì làm sao mình phải giả vờ?”.",
                                 },
                                 {
-                                    "titleChild": "Hãy cứ yêu thôi",
-                                    "content": "Giống như những mối quan hệ khác, tình yêu luôn cần đủ kiên nhẫn và tận tâm, mỗi ngày bồi đắp thêm chút tình cảm. Những Người trình diễn cũng có đủ kiên trì để thích nghi và giữ lửa tình yêu. Việc duy trì một mối quan hệ lành mạnh là cơ hội tốt nhất để các ESFP thể hiện tài năng của mình trong việc nắm bắt thay đổi về mặt cảm xúc và hành vi của những người họ yêu, đồng thời phát huy tối đa kỹ năng giải quyết xích mích giữa cặp đôi. Bên cạnh đó, những người thuộc nhóm tính cách này cũng có thể cải thiện khả năng điều khiển cảm xúc và lập kế hoạch dài hạn, ví dụ như một đám cưới đẹp như mơ.",
+                                    "titleChild": "Yêu không ngần ngại",
+                                    "content": "Mối quan hệ yêu đương luôn cần sự chủ động, cố gắng, nỗ lực và kiên nhẫn tới từ cả hai phía. Ngọn lửa tình yêu không phải lúc nào cũng bùng cháy mãnh liệt mà đôi khi sẽ lay lắt như ngọn đèn trước gió, và đây là lúc các ESTP cần phát huy mọi điểm mạnh của mình để giữ lửa tình yêu. Hãy quan sát hành động và biểu cảm của đối phương, đoán xem họ đang muốn gì và cần gì, từ đó tìm ra cách ứng xử phù hợp để níu giữ lại đoạn tình cảm đẹp đẽ này.",
                                 },
                             ],
                         },
                         {
-                            "title": "ESFP trong tình bạn",
+                            "title": "ESTP trong tình bạn",
                             "itemsChild": [
                                 {
-                                    "content": "Các ESFP chính xác là tuýp người thuộc về những cuộc chơi thâu đêm suốt sáng, họ luôn tràn đầy sinh lực, đầy ắp trí tưởng tượng và không biết mệt mỏi là gì. Các ESFP cũng thích tìm tòi và khám phá những điều mới mẻ.",
+                                    "content": "ESTP chính xác là con người của tiệc tùng. Với trí tưởng tượng phong phú cùng nguồn năng lượng tưởng sẽ không bao giờ cạn kiệt, việc kết giao với các ESTP không bao giờ là nhàm chán. Đồng thời, các ESTP cũng là những người hòa đồng, khoan dung và đủ tinh tế để mang tới cho bạn bè mình những bất ngờ thú vị nho nhỏ trong cuộc sống, do đó họ được rất nhiều người quý mến.",
                                 },
                                 {
-                                    "titleChild": "Cháy lửa đam mê",
-                                    "content": "Những hoạt động thể chất như thể thao ngoài trời là lựa chọn hoàn hảo cho các ESFP vì ở đó họ thể kết giao thêm nhiều bạn bè mới. Những Người thuộc nhóm tính cách ESFP rất hòa đồng và dễ kết giao, có thể nói rằng các ESFP đi tới đâu là quen tới đó. Những Người trình diễn biết bắt trọn từng khoảnh khắc và tận hưởng say mê từng phút giây. Họ dường như trời sinh đã rất tự tin về bản thân nên các ESFP hầu như không bị ảnh hưởng bởi lời nói ra vào của những người xung quanh.\n\nTrong các cuộc thảo luận chung, các ESFP sẽ đóng góp ý kiến một cách vô cùng thực tiễn một cách thẳng thắn thay vì lòng vòng và thăm dò cảm xúc của những người xung quanh. Các ESFP cũng thích nói về những vấn đề đang hiện hữu hơn là những gì có thể xảy đến trong tương lai một cách mơ hồ.",
+                                    "titleChild": "Sống với đam mê",
+                                    "content": "Các ESTP thích những hoạt động thể chất như các môn thể thao, đây cũng là môi trường lý tưởng để họ giao lưu kết bạn. Thêm vào đó, những người thuộc nhóm tính cách ESTP có sẵn sự tự tin “từ trong trứng nước”, họ sẵn sàng giao lưu với mọi người tới từ nhiều nơi khác nhau, có địa vị xã hội khác nhau mà không hề lo lắng người khác sẽ nghĩ gì về mình, miễn là họ có tiếng nói chung.\n\nCác cuộc đối thoại mang tính vĩ mô sẽ không thu hút được sự chú ý của các ESTP, đặc biệt là những vấn đề liên quan tới chính trị và tôn giáo. Bởi là những người quá bộc trực, các ESTP sẽ nêu ra quan điểm của mình một cách thẳng thắn, gần như không màng tới hậu quả.",
+                                },
+                                {
+                                    "titleChild": "Cuộc phiêu lưu đang đợi bạn phía trước",
+                                    "content": "<i>“Nhóm tính cách ESTP ghét phải ngồi không, nhất là khi họ đang buồn chán.”</i>\n\nCác ESTP thích rong ruổi trên những con đường xa, khám phá mọi ngóc ngách trong cuộc sống với tâm trạng vui tươi đầy nhiệt huyết. Những Người thực thi không hề sợ đám đông, họ sẵn sàng trở thành tâm điểm trên sân khấu và còn muốn bạn bè tham gia cùng mình. Các ESTP không phải là người sợ bị từ chối. Bị từ chối đối với họ đơn giản là vuột mất một cơ hội sẵn có để mở ra những cơ hội mới, điều họ làm đơn giản là một cái nhún vai ‘tôi ổn’ rồi tiếp tục vững bước trên con đường của mình.",
                                 },
                             ],
                         },
                         {
-                            "title": "ESFP khi làm cha mẹ",
+                            "title": "ESTP khi làm cha mẹ",
                             "itemsChild": [
                                 {
-                                    "content": "Các ESFP là hình mẫu cha mẹ lý tưởng của vô số đứa trẻ bởi họ vui tính, tốt bụng và rất thấu hiểu người khác. Các phụ huynh ESFP sẵn sàng dành thời gian quây quần bên gia đình và vui đùa cùng những đứa trẻ.",
+                                    "content": "Các ESTP được coi là hình mẫu phụ huynh lý tưởng trong mắt những đứa trẻ. Họ vui vẻ, hoạt bát, sẵn sàng dành nhiều thời gian ở bên con cái, hiểu được chúng cần gì và muốn gì.",
                                 },
                                 {
                                     "titleChild": "Tự do khám phá",
-                                    "content": "Những cha mẹ thuộc nhóm tính cách ESFP yêu thích những hoạt động mang tính thực hành nhiều hơn là lý thuyết. Các bộ môn thể thao, leo núi, đi bộ, v.vv.. thường rất được chú trọng trong gia đình của các ESFP. Ngoài ra, là một người khá tùy hứng và không thích bó mình vào những lịch trình cố định, những bậc phụ huynh ESFP cũng không bắt buộc những đứa trẻ phải tham gia vào các câu lạc bộ hay hoạt động đội nhóm ở trường. Và nếu đứa nhỏ nhà các ESFP không thích chơi bóng đá thì sao? Không sao cả, tôi cá là nó sẽ có nhiều thứ hay ho khác để làm.\n\n<i>“Điều tuyệt vời nhất ở các ESFP là họ luôn lắng nghe và tôn trọng ý kiến của những đứa trẻ.”</i>\n\nCác ESFP trao cho con cái quyền tự do và khuyến khích chúng nghe theo mách bảo của trái tim và hãy bỏ ngoài tai những lời đàm tiếu. Họ cũng rất quan tâm đến con cái cũng như luôn theo sát những hoạt động thường ngày của chúng, để ý từng thay đổi nhỏ để kịp thời dạy dỗ lại nếu con họ có lỡ “lầm đường lạc lối”.\n\nTuy vậy thì các ESFP vẫn phải đối mặt với một trong những thách thức khó nhằn nhất của hầu hết cha mẹ trên thế giới này trong việc thể hiện cảm xúc. Họ coi cảm xúc là một sự cản trở vô lý và gây xao nhãng cho mọi quyết định hơn là công cụ để kết nối yêu thương. Về lâu dài điều này dễ sinh ra hiểu nhầm giữa cha mẹ - con cái khi cả hai bên đều không nhìn thấu tình cảm của nhau.",
+                                    "content": "Thay vì khuyên những đứa trẻ cần làm gì thì các ESTP sẽ trực tiếp tham gia cùng con cái, nhất là trong những hoạt động thường nhật ở nhà hoặc trên lớp nếu có thể. Họ khuyến khích chúng tích cực tham gia vào các hoạt động rèn luyện thể chất hoặc các bộ môn mang tính thực tiễn cao. Là một người không thích bị rập khuôn vào những lịch trình gò bó, các ESTP để con cái tự do tham gia vào các câu lạc bộ mà chúng muốn, họ sẽ ủng hộ chúng hết mình.\n\n<i>“Có lẽ điều tuyệt vời nhất của các bậc cha mẹ ESTP là họ tôn trọng lời nói của những đứa trẻ, sẵn sàng lắng nghe chúng như một thành viên lớn trong gia đình.”</i>\n\nNhững bậc phụ huynh ESTP thích để những đứa trẻ tự do khám phá, tự tìm ra lời đáp cho những câu hỏi của mình mà không cần bận tâm ánh mắt của người đời. Bản thân họ sẽ theo sát từng bước đi của con cái để đảm bảo sẽ không có gì sai sót xảy ra.\n\nGiống như những nhóm tính cách thiếu hụt đặc điểm F (Cảm xúc), các ESTP gặp vấn đề lớn trong việc thể hiện tình cảm của mình trong gia đình, bởi họ coi cảm xúc chỉ là thứ yếu có thể gây phân tâm trong việc nuôi dạy những đứa trẻ nên người.",
                                 },
                                 {
-                                    "titleChild": "Gắn bó lâu dài",
-                                    "content": "Đối với các ESFP, trở thành cha mẹ là cơ hội tuyệt vời giúp họ có thể cải thiện được những hạn chế về mặt cảm xúc. Thông qua việc cùng những đứa trẻ tham gia vào các hoạt động thể dục thể thao và khám phá kiến thức mới, các cha mẹ ESFP có thể xây dựng một mối liên kết vững chắc, sâu đậm với con cái, hiểu chúng muốn gì, cần gì. Sự thấu hiểu của các phụ huynh ESFP cũng giúp những đứa trẻ không cảm thấy bối rối khi làm sai hay khi phải đối mặt với một nan đề nào đó, bởi chúng sẵn sàng chia sẻ với cha mẹ mình để tìm sự giúp đỡ và nghe lời tâm sự thật lòng.",
+                                    "titleChild": "Tập trung gắn kết",
+                                    "content": "Tuy vậy, khi đã trở thành cha mẹ, các ESTP sẽ dần ý thức được rằng tình cảm là một yếu tố không thể thiếu trong quá trình nuôi dạy con cái trưởng thành. Thông qua những hoạt động vui chơi và học tập cùng những đứa trẻ, các bậc cha mẹ ESTP có thể xây dựng những kết nối về mặt tinh thần vững chắc với con cái mình, hiểu được những nhu cầu hoặc xa hơn là ước mơ của những đứa trẻ.",
                                 },
                             ],
                         },
                     ]
                 },
                 {
-                    "section": "Làm sao để thân thiết với ESFP",
+                    "section": "Làm sao để thân thiết với ESTP",
                     "items": [
                         {
-                            "content": 'Sự lạc quan, nhiệt tình và vui tính của ESFP luôn thu hút mọi người xung quanh, phần lớn mọi người thường cảm thấy dễ chịu khi ở cạnh ESFP. Chính bởi vậy nên Người trình diễn thường có nhiều bạn bè. Vậy làm sao để thân thiết với ESFP? Chúng tôi sẽ gợi ý một số cách để làm thân với ESFP. Cụ thể như sau:\n\n● <b>Bày tỏ sự chân thành.</b> Các ESFP là người ấm áp và luôn muốn làm cho người khác hạnh phúc. Vậy nên họ sẽ rất ấn tượng với những người có tính cách tương tự mình - giàu tình cảm, ấm áp và nồng nhiệt. Khi tiếp cận với ESFP, bạn hãy thường xuyên hỏi han ân cần và thể hiện tấm lòng của mình với họ.\n\n● <b>Nói với ESFP rằng họ là người đặc biệt.</b> Chẳng hạn khi gặp gỡ bạn bè, đừng quên gửi đến ESFP một lời mời đầy thiện chí và cho họ biết rằng, cuộc gặp mặt này phải có Người trình diễn thì mới vui được. Đặc biệt, ESFP sẽ vô cùng vui mừng nếu bạn mang theo một vài món ăn vặt mà họ thích hoặc bánh quy tự làm đến các buổi tụ tập và mời ESFP ăn vì biết đây là món họ yêu thích.\n\n● <b>Khen ngợi gu thẩm mỹ của ESFP.</b> Trong quá trình kết giao với ESFP, bạn cũng nên dành những lời khen ngợi về gu thẩm mỹ của Người trình diễn. Một người có gu thẩm mỹ phát triển rất cao như ESFP sẽ thấy hào hứng khi sở thích trang trí và phối đồ của họ tạo ra giá trị và được người khác công nhận.\n\n● <b>Rủ ESFP tham gia các cuộc vui náo nhiệt.</b> Nếu muốn rủ ESFP đi chơi, bạn có thể lựa chọn các địa điểm như lễ hội hoặc đại nhạc hội ngoài trời. Do tính cách vui vẻ, biết tận hưởng niềm vui và yêu thích giao tiếp, ESFP chắc chắn sẽ cùng bạn nhún nhảy, xem biểu diễn, chiêm ngưỡng lễ hội và tâm sự chuyện này, chuyện kia. Bạn cũng có thể rủ Người trình diễn cùng xem bóng đá hoặc bóng chày vì ESFP rất thích việc cổ vũ người khác. Những cuộc gặp gỡ như thế này giữa bạn và ESFP thường sẽ kết thúc trong cảnh tiếc nuối vì có quá nhiều điều chưa kịp nói ra. Người trình diễn khả năng cao sẽ hẹn gặp bạn thêm lần nữa.',
+                            "content": 'Là những người thân thiện, hòa đồng và nhiệt tình, các ESTP được rất nhiều người yêu mến. Kết thân với Người thực thi là điều không quá khó nếu như bạn cho họ thấy được thái độ và niềm đam mê chung về cuộc sống.\n\nĐặc biệt, để xây dựng mối quan hệ tích cực và lâu bền với ESTP, bạn cũng cần chú trọng vào việc tận hưởng trọn vẹn các khoảnh khắc trong cuộc sống với họ, vì Người thực thi luôn muốn cùng những người thân cận thực hiện điều này. Một ấn tượng tích cực mà các ESTP có thể dành cho đối phương nếu như bạn thể hiện cho họ thấy sự thẳng thắn và trung thực khi nói chuyện.\n\nMột số điều bạn cần chú ý khi kết thân với ESTP:\n\n● Thích hàn huyên tâm sự. Các ESTP rất thích hàn huyên và tâm sự về các vấn đề trong cuộc sống với người khác. Vì thế bạn có thể thiết kế những buổi hẹn hò với ESTP tại nhà hàng hoặc quán cà phê mà họ yêu thích, sau đó cùng nhau nói chuyện và thưởng thức các món ăn, đồ uống đúng sở thích.\n\n● Không nói về những chủ đề trừu tượng và khó hiểu. Các ESTP không thích bàn luận về những vấn đề khó hiểu, mang tính trừu tượng hay những câu chuyện vĩ mô về chính trị, tôn giáo, vì thế bạn nên tránh nói đến các chủ đề này. Ngoài ra, đối phương cũng đừng cố gặng hỏi liên tục những suy nghĩ trong lòng của Người thực thi nếu như họ không thực sự muốn nói ra.\n\n● <b>Tạo bất ngờ.</b> Các ESTP được đánh giá là con người của những bữa tiệc, vì thế nếu bạn bất ngờ liên lạc và mời họ đến một nơi nổi tiếng mà họ chưa tới bao giờ thì chắc chắn ESTP sẽ rất hứng thú đấy.\n\n● <b>Dành lời khen ngợi.</b> Dù không quá quan tâm đến việc người khác nghĩ gì về mình nhưng các ESTP lại rất thích được khen. Bạn có thể dành những lời khen về khả năng thẩm mỹ, thời trang của ESTP và rủ họ đi mua sắm cùng.\n\n● <b>Đừng che giấu sự nóng giận hoặc yêu cầu của bản thân.</b> Các ESTP sẽ cảm thấy mệt mỏi nếu bạn bè của họ cố tình che giấu và giả vờ như không có chuyện gì xảy ra khi cả hai trao đổi, thảo luận về một vấn đề nào đó. Vì thế nếu có nóng giận bạn hãy thật lòng thổ lộ, nếu có nhu cầu bạn hãy thẳng thắn nói ra với Người thực thi.\n\n● <b>Không trói buộc họ trong các mối quan hệ.</b> Dù là người rất tận tâm và biết chăm sóc người khác nhưng các ESTP lại không thích các mối quan hệ trói buộc quá nhiều. Vì thế khi bạn hẹn hò với ESTP, tuyệt đối không được trói buộc họ, thay vào đó hãy thể hiện một tinh thần phóng khoáng.\n\nCó thể nói bản tính hòa đồng và hướng ngoại của ESTP khiến họ không bao giờ thấy nhàm chán khi kết giao với mọi người xung quanh, đi đến đâu là có thể kết bạn đến đó. Nếu bạn để lại ấn tượng tốt cho ESTP thì có thể trở thành những người thân cận trong vòng tròn bạn bè của họ, từ đó tận hưởng sự khoan dung, tận tâm và tốt bụng từ họ.',
                         },
                     ],
                 },
@@ -4456,15 +4452,11 @@ export const mbtiData = {
                     "section": "Con đường sự nghiệp",
                     "items": [
                         {
-                            "content": "Trong công việc, những người thuộc nhóm tính cách ESFP có xu hướng thiên về thực hành hơn là lý thuyết. Đồng thời, các ESFP cũng có khả năng đưa ra quyết định rất nhanh vào những thời điểm cấp bách. Trong mắt đồng nghiệp, họ là những người đồng hành đáng tin cậy, rất quảng giao và giỏi giao tiếp.\n\nVới trí thông minh bẩm sinh cùng sự táo bạo và kỹ năng ứng biến “thần sầu” giúp các ESFP công tác tốt tại các vị trí nhân viên kinh doanh, nhân viên bán hàng, quản lý nhà hàng - khách sạn, tiếp thị hoặc các việc làm trong môi trường có tính chất cạnh tranh khốc liệt khác. Họ tự tin vào khả năng thuyết phục của bản thân và cho rằng rủi ro chỉ là một phần của cuộc việc, vì vậy họ không quá né tránh mà muốn đối mặt và giải quyết rủi ro một cách triệt để. Tính cách ấy có thể khiến các ESFP gặp nhiều rắc rối, nhưng mặt khác cũng sẽ thúc đẩy họ tiến xa hơn trong công việc.\n\n<i>“Giữa công việc an ổn nhưng nhàm chán và công việc năng động nhưng ít ổn định hơn, chắc chắn các ESFP sẽ lựa chọn vế sau.”</i>\n\nNhững môi trường quá khắt khe với đầy quy tắc và luật lệ không hề phù hợp với những người thuộc nhóm tính cách ESFP, họ muốn được làm theo cách của mình. Do đó, các ESFP rất phù hợp với công việc kinh doanh hoặc freelancer."
+                            "content": "Đứng trước ngưỡng cửa sự nghiệp cuộc đời, các ESTP sẽ ưu tiên những công việc cho phép họ thực thi nhiều hơn là lên chiến lược. Ở nơi làm việc, các ESTP rất dễ kết thân với đồng nghiệp và cấp trên nhờ tính cách vui vẻ, dễ mến của mình, mạng lưới quan hệ của họ thậm chí có thể lan sang cả những phòng ban khác, đây là một điều rất có lợi cho các ESTP trong công việc sau này."
                         },
                         {
-                            "title": "Cảm giác hồi hộp trong công việc",
-                            "content": "Những Người trình diễn luôn tìm tòi, khám phá, tràn đầy năng lượng, vì vậy họ rất phù hợp với những công việc đòi hỏi hoạt động với tần suất cao như: nhân viên cộng đồng, lái xe cứu thương, cảnh sát, bác sĩ.\n\nNhững người thuộc nhóm tính cách ESFP có con mắt quan sát tinh tường và có thể đưa ra quyết định trong một thời gian ngắn.\n\nNhững người thuộc nhóm tính cách ESFP rất thích những cảm giác mạo hiểm và hồi hộp trong công việc, thích đẩy bản thân tới giới hạn cao nhất để giành chiến thắng.\n\nDo đó, trở thành một vận động viên thể thao cũng là một lựa chọn không tồi đối với các ESFP."
-                        },
-                        {
-                            "title": "Những công việc phù hợp",
-                            "content": "Các ESFP tìm kiếm những thách thức và cảm giác phấn khích trong công việc, và còn gì tuyệt hơn khi đó lại là công việc cần tiếp xúc nhiều với con người và các hoạt động xã hội. Vì vậy, những công việc như làm thần tượng, nghệ sĩ, nhiếp ảnh gia, đạo diễn vô cùng phù hợp với những người thuộc nhóm tính cách ESFP.\n\nCác ESFP rất để tâm tới người khác và biết cách để khiến những người xung quanh hài lòng, kể cả trong những tình huống éo le nhất. Họ thích giúp đỡ người khác và sẽ vô cùng hạnh phúc nếu bản thân có thể giúp ích cho xã hội. Điều đó khiến những công việc như huấn luyện viên thể dục thể thao, huấn luyện viên cá nhân, tư vấn viên, chăm sóc khách hàng, v.vv..\n\nTính cách không thích bị bó buộc hay làm việc theo một lịch trình cứng nhắc, cố định cũng ảnh hưởng rất nhiều tới lựa chọn sự nghiệp của các ESFP. họ yêu tự do và cũng muốn làm việc trong một môi trường mở, tốt nhất là không cố định giờ giấc và đa dạng công việc cần đảm nhiệm, ví dụ như ngành thời trang, thiết kế, du lịch, v.v..\n\nNhìn chung, các ESFP và những nhóm tính cách khác nói chung cần xác định rõ hướng đi của mình trong tương lai, cũng như nắm được điểm mạnh điểm yếu của bản thân để có thể gắn bó lâu dài với công việc và ngày càng gặt hái được nhiều thành công trong sự nghiệp.\n\nDưới đây là một số nghề nghiệp mà các ESFP có thể tham khảo:\n\n● Tư vấn tâm lý/ Công tác xã hội\n\n● Nghệ sĩ, người biểu diễn và diễn viên\n\n● Thiết kế thời trang\n\n● Đại diện bán hàng\n\n● Chuyên gia tư vấn\n\n● Chăm sóc trẻ em\n\n● Nhiếp ảnh gia\n\n● Trang trí nội thất"
+                            "title": "Những nghề nghiệp phù hợp",
+                            "content": "Với sự nhanh nhạy và thông minh của mình, các ESTP rất phù hợp với các công việc như nhân viên bán hàng, đàm phán kinh doanh, Marketing hay thậm chí có thể thử sức ở mảng diễn xuất.\n\nCác ESTP là những người không sợ rủi ro và họ luôn tin tưởng vào quyết định của mình. Họ cho rằng việc thất bại ở một giai đoạn nào đó trong sự nghiệp là điều tất yếu của cuộc sống, quan trọng là cách bạn đón nhận và giải quyết vấn đề ấy. Qua cơn bĩ cực đến hồi thái lai, các ESTP tin rằng các khó khăn, thử thách là đòn bẩy để chúng ta hoàn thiện bản thân hơn mỗi ngày.\n\n<i>“Thật khó để tưởng tượng nếu một ESTP chọn công việc an toàn nhưng nhàm chán thay vì công việc thiếu ổn định nhưng thú vị.”</i>\n\nMôi trường làm việc nhiều hạn chế, quy tắc và khuôn khổ sẽ khiến các ESTP dễ sinh ra chán nản, dẫn tới hiệu suất công việc cũng theo đó đi xuống. Đây là nhóm tính cách thích sống và làm việc theo cách của riêng mình, vì vậy họ rất phù hợp với công việc kinh doanh hoặc freelancer. Sự nhanh nhạy trong việc nắm bắt tình huống và đưa ra hành động dứt khoát cũng khiến các ESTP rất phù hợp với công việc nhân viên cấp cứu, nhân viên trực tổng đài khẩn cấp, cảnh sát hoặc quân nhân.\n\nCác ESTP sẵn sàng bỏ ra rất nhiều nỗ lực để đạt tới thành công, ngắm nhìn những trái ngọt mà mình đã đạt được, vì vậy các bộ môn mang tính cạnh tranh cao như thi đấu thể thao rất phù hợp với những Người thực thi. Họ có thể thực hiện tốt vai trò của mình ở cả vị trí vận động viên lẫn huấn luyện viên. Không gì tuyệt vời và kích thích các ESTP hơn việc liên tục thử thách giới hạn của bản thân để giành được chiến thắng.\n\nCác ESTP không phải là những người có nhiều sự kiên nhẫn, nhất là đối với những công việc có tính chất lặp đi lặp lại ngày qua ngày, phải dành nhiều thời gian để tỉ mỉ nghiên cứu.\n\nNhìn chung, để đạt được thành công trên con đường sự nghiệp, trước tiên cần nắm được định hướng về con đường phát triển, biết được đâu là điểm mạnh cần phát huy và điểm yếu cần cải thiện, như vậy bạn sẽ tìm được ý nghĩa trong công việc và duy trì tình yêu với công việc trong khoảng thời gian dài.\n\nDưới đây là một số công việc phù hợp với nhóm tính cách ESTP mà bạn có thể tham khảo:\n\n● Quân nhân\n\n● Cảnh sát\n\n● Thám tử\n\n● Thẩm phán\n\n● Kế toán\n\n● Quản lý\n\n● Bán hàng\n\n● Giáo viên\n\n● Vận động viên thể thao\n\n● Huấn luyện viên thể thao"
                         },
                     ]
                 },
@@ -4472,68 +4464,84 @@ export const mbtiData = {
                     "section": "Thói quen nơi công sở",
                     "items": [
                         {
-                            "content": "Không khó để nhận ra một ESFP trong môi trường công sở. Họ luôn vui vẻ, đầy nhiệt huyết và thích giải quyết vấn đề ngay từ trong trứng nước. Tất nhiên luôn luôn có người giỏi hơn các ESFP ở nhiều lĩnh vực khác nhau, tuy nhiên các ESFP là những người nhanh nhạy nhất và luôn tìm ra những giải pháp độc đáo nhất."
+                            "content": "Ở môi trường công sở, các ESTP là những người náo nhiệt, vui vẻ, thậm chí đôi khi có thể hơi suồng sã. Trong lúc làm việc, họ thích giải quyết vấn đề một cách nhanh chóng và triệt để, tốt nhất là đủ nhanh để có thể thấy được kết quả sau cùng."
                         },
                         {
-                            "title": "ESFP khi là nhân viên",
-                            "content": 'Thử thách đầu tiên của các ESFP trong môi trường công sở (và cũng là thử thách đối với hầu hết chúng ta): trở thành nhân viên cấp dưới. Những người thuộc nhóm tính cách ESFP không thích bị chỉ đạo và áp đặt quy định lên mình, mặc dù họ đã cố sức kiềm chế, nhưng việc khó chịu ra mặt là không thể tránh khỏi. Các ESFP nổi tiếng với sự nhanh nhạy và giàu kinh nghiệm, nếu họ không được trao cho không gian để thỏa sức làm việc thì sẽ bị xuống tinh thần nghiêm trọng.\n\nNhững Người trình diễn biết rằng rủi ro luôn đi kèm với cơ hội, vì vậy họ sẵn sàng từ chối những công việc nhàn hạ để chọn những công việc thú vị hơn để được công nhận. Các ESFP sẽ không thầm lặng làm việc hay âm thầm giúp đỡ ở phía sau mà sẽ là những người tiên phong đi đầu.'
+                            "title": "ESTP khi là nhân viên",
+                            "content": 'Vị trí công việc thách thức nhất với các ESTP khi bước chân vào chốn công sở là trở thành nhân viên cấp dưới, bởi họ không thích bị cấp trên hay những phòng ban khác áp đặt quy tắc lên bản thân, không thích bị kiểm soát hay chỉ đạo trong công việc mà muốn được tự do làm theo cách mà mình muốn.\n\nCác ESTP hiểu rằng nếu họ liên tục làm theo phương pháp mà mình cho là tốt nhất thay vì phương pháp truyền thống thì có thể xảy ra rủi ro, tuy nhiên chỉ có cách đó mới khiến họ đạt được đột phá trong công việc.\n\nCác ESTP sẽ không chỉ đi lên bằng thâm niên và phát huy tính ổn định trong công việc, mà họ muốn đạt được những thành tựu to lớn hơn trên con đường sự nghiệp.'
                         },
                         {
-                            "title": "ESFP khi là đồng nghiệp",
-                            "content": "Những người thuộc nhóm tính cách ESFP là người đồng nghiệp chăm chỉ, nhưng cũng rất giỏi cân bằng thời gian dành công việc và thời gian nghỉ ngơi work - life balance. Chỉ cần có sự phối hợp từ những đồng nghiệp khác thì họ sẽ cống hiến hết mình và hoàn thành mọi nhiệm vụ được giao. Bên cạnh đó, các ESFP là những người vô cùng quảng giao và hài hước nên họ có mạng lưới quan hệ với khắp mọi phòng ban.\n\nLà một người vô cùng nghiêm túc và đầy nhiệt huyết, các ESFP sẽ cảm thấy vô cùng khó chịu nếu có đồng nghiệp nào đó xao nhãng và biểu hiện kém cỏi trong công việc. Họ không quá để ý tới cảm xúc của người khác nhưng lại rất giỏi trong việc quan sát nét mặt và nhận ra những thay đổi về thói quen, tâm trạng của đồng nghiệp. Vì vậy, họ luôn có mặt đúng thời điểm để đưa ra lời khuyên hữu ích cho những người xung quanh."
+                            "title": "ESTP khi là đồng nghiệp",
+                            "content": "Khi là đồng nghiệp, các ESTP luôn làm hết mình và chơi hết sức, miễn là có được sự ủng hộ của mọi người trong nhóm. Nhờ tính cách thân thiện, hòa đồng nhưng cũng vô cùng thú vị của mình, các ESTP là đối tượng rất được chào đón tại chốn công sở, họ dễ dàng hòa nhập và làm quen với tất cả mọi người.\n\nTuy nhiên, nếu trong số các đồng nghiệp của ESTP xuất hiện những cá nhân lười biếng, bỏ bê công việc thì các ESTP sẽ không ngần ngại chỉ trích và chỉnh đốn lại đồng nghiệp ấy.\n\nLà người có khả năng quan sát tốt, những người thuộc nhóm tính cách ESTP dễ dàng phát hiện ra những thay đổi dù là nhỏ nhất của đồng nghiệp mình chỉ qua tâm trạng hoặc hành động thường ngày."
                         },
                         {
-                            "title": "ESFP khi là cấp trên",
-                            "content": "Đây là vị trí rất phù hợp với các ESFP và họ cũng rất tự tin khi trở thành lãnh đạo. Những cấp trên là ESFP không thích áp đặt quy tắc và luật lệ, họ quan tâm tới hiệu quả thực sự của công việc, cách các vấn đề được giải quyết cũng như việc cấp dưới có đang làm việc trong một môi trường với nhiều cơ hội phát triển, thăng tiến hay không.\n\nTính cách ấy của các lãnh đạo ESFP có thể khiến không gian làm việc trở nên hơi hỗn loạn nhưng họ tự tin có thể giải quyết được vấn đề đó. Thay vì hướng tới tầm nhìn xa trong vài năm tới thì những Người trình diễn tập trung hơn vào những nhiệm vụ tại thời điểm hiện tại và ưu tiên giải quyết triệt để ngay lập tức.\n\nMỗi ngày tới công ty, trước tiên họ sẽ vạch ra kế hoạch xem trong ngày hôm đó họ cần làm gì và ưu tiên làm gì, sau đó dồn hết tâm huyết để đạt được hiệu quả tốt nhất. Tất nhiên các ESFP luôn có một tham vọng lớn hơn trong tương lai, nhưng họ sẽ không nóng vội mà sẽ bước từng bước chắc chắn cho tới khi đặt chân tới thành công."
+                            "title": "ESTP khi là cấp trên",
+                            "content": "Các ESTP cảm thấy thoải mái và phù hợp nhất ở vị trí quản lý, bởi ở vai trò này họ có đủ không gian và quyền lực để làm theo cách mình muốn. Các cấp trên ESTP không thích những quy tắc ngặt nghèo chốn công sở, họ ưu tiên năng suất và hiệu quả hoạt động lên trên cùng.\n\nMặc dù những thay đổi đi ngược lại với phương pháp truyền thống có thể gây ra một số xáo trộn không nhỏ, tuy nhiên tinh thần làm việc sôi nổi, lúc nào cũng ở trạng thái tự tin, quyết chiến quyết thắng của các lãnh đạo ESTP sẽ là nguồn cảm hứng tuyệt vời cho nhân viên cấp dưới.\n\nNhững cấp trên là ESTP không đặt ra những mục tiêu mơ hồ trong công việc mà sẽ phân tách thành từng mục tiêu cụ thể, có tính khả thi và có thể bắt tay vào thực hiện ngay lập tức."
                         },
                     ]
                 },
                 {
-                    "section": "So sánh ESFP với ISFP, ESTP",
+                    "section": "So sánh ESTP với ENTP, ISTP",
                     "items": [
                         {
-                            "content": "Khi so sánh ESFP (Người trình diễn) với những nhóm tính cách khác có sự tương đồng (I<b>SFP</b> - Người nghệ sĩ, <b>ES</b>T<b>P</b> - Người thực thi), bạn sẽ hiểu rõ hơn về đặc tính của nhóm ESFP."
+                            "content": "Chúng ta sẽ hiểu rõ hơn các đặc điểm tính cách của ESTP (Người thực thi) khi so sánh họ với những nhóm tính cách có sự tương đồng (<b>E</b>N<b>TP</b> - Người nhìn xa, I<b>STP</b> - Nhà kỹ thuật)"
                         },
                         {
                             "title": "Điểm giống nhau",
-                            "content": 'ESFP, ISFP và ESTP đều thuộc nhóm SP với S - Sensing (Giác quan) và P - Perception (Linh hoạt), cả ba nhóm tính cách này đều tiếp cận thông tin bằng các giác quan, họ phản ứng và thích nghi nhanh với sự thay đổi. Nhóm SP là những người có năng khiếu nghệ thuật, họ thông minh, hài hước, có khả năng tỏa sáng rực rỡ dù ở trong bất kỳ môi trường nào. ESFP, ISFP và ESTP khao khát sự tự do, họ tận hưởng hiện tại và không muốn nghĩ ngợi quá xa vời về tương lai.\n\nKhi đối chiếu ESFP với từng nhóm ISFP và ESTP, chúng tôi nhận thấy giữa mỗi cặp sẽ có những điểm chung riêng như sau:\n\n● E<b>SFP</b> và I<b>SFP</b>: Giàu tình cảm, biết tận hưởng cuộc sống, bị thu hút bởi những thứ mới mẻ, khao khát được học hỏi và trải nghiệm.\n\n● <b>ES</b>F<b>P</b> và <b>ES</b>T<b>P</b>: Hướng ngoại, ưa tiệc tùng, hay có hành động tự phát, thích làm những điều mình thích mà không cần suy nghĩ sâu xa.',
+                            "content": 'T - Lý trí và P - Linh hoạt: Cả ESTP, ENTP và ISTP đều là những người lý trí, họ gặp khó khăn trong việc thấu hiểu cảm xúc, không cảm nhận được nhiều giá trị trong cảm xúc. Có thể nói cả 3 nhóm tính cách này đều không quá để ý đến cảm xúc của người khác cũng như cảm xúc của chính mình. Họ linh hoạt trong mọi tình huống, thích động não và phác thảo ra nhiều lựa chọn dựa trên các quy tắc ngầm mà bản thân tự tay sắp xếp.\n\nKhi đối chiếu ESTP với từng nhóm ENTP, ISTP, chúng tôi nhận thấy mỗi cặp sẽ có những điểm chung riêng như sau:\n\n● <b>E</b>S<b>TP</b> và <b>E</b>N<b>TP</b>: Cả hai đều là những người thẳng thắn và trung thực. Họ thích đi vào vấn đề trọng tâm hơn là giải thích vòng vo. Hai nhóm MBTI này đều có khả năng đưa ra các ý tưởng một cách nhanh chóng, phù hợp với những công việc có không gian tự do, thoải mái, không có quá nhiều quy định và nguyên tắc.\n\n● E<b>STP</b> và I<b>STP</b>: Cả hai đều là những người thích thực thi, bắt tay ngay vào làm việc thay vì nói. Họ trân trọng những kinh nghiệm lẫn trải nghiệm của bản thân, ít khi suy xét đến vấn đề cảm xúc. Họ sống trọn cho cuộc sống ở thì hiện tại và tận hưởng những khoảnh khắc mà cuộc sống mang lại.',
                         },
                         {
                             "title": "Điểm khác nhau",
-                            "content": "Bảng sau đây sẽ cập nhật những điểm khác nhau giữa ESFP với ISFP, ESTP về cách tiếp nhận thông tin, khi xây dựng các mối quan hệ và trong công việc:" 
+                            "content": "Bảng so sánh sau đây sẽ cho bạn thấy rõ các điểm khác biệt giữa ESTP với ENTP, ISTP trong cách tiếp cận thông tin, công việc cũng như các mối quan hệ dù chỉ chênh nhau một chữ cái:" 
                         },
                     ],
-                    "tables": [
+                    "tables":[
                         {
-                            "headers": ["Đặc điểm", "ISFP", "ESFP", "ESTP"],
+                            "headers": ["Đặc điểm", "ENTP", "ESTP", "ISTP"],
                             "rows": [
-                                ["Diễn giải chữ viết tắt", "<b>I - Hướng nội</b><br>S - Giác quan<br>F - Cảm xúc<br>P - Linh hoạt", "<b>E - Hướng ngoại</b><br>S - Giác quan<br><b>F - Cảm xúc</b><br>P - Linh hoạt", "E - Hướng ngoại<br>S - Giác quan<br><b>T - Lý trí</b><br>P - Linh hoạt"],
-                                ["Cách tiếp cận thông tin", "Dựa trên các giác quan nhưng đưa ra quyết định dựa trên cảm nhận cá nhân", "Dựa trên các giác quan, ra quyết định dựa trên cảm xúc", "Dựa trên các giác quan nhưng đưa ra quyết định dựa trên góc nhìn thực tế và số liệu cụ thể"],
-                                ["Trong các mối quan hệ", "- Tận hưởng niềm vui khi ở nhà một mình, không giỏi từ chối người khác nên nhiều khi thành ôm đồm<br>- Giàu tình cảm, là người bầu bạn tâm sự, lắng nghe mọi người<br>- Khao khát mối quan hệ ổn định<br>- Khi yêu luôn muốn vun đắp, dành cho đối phương những gì tốt nhất, đặt nhu cầu của người yêu lên đầu tiên<br>- Giỏi kìm nén cảm xúc, né tránh xung đột, nhận phần thiệt về mình để xoa dịu bầu không khí căng thẳng", "- Thích giao lưu, đến những nơi đông đúc và náo nhiệt, nói chuyện phiếm với mọi người<br>- Giỏi giao thiệp, quảng giao, phóng khoáng, có rất nhiều bạn bè<br>- Luôn là người tạo sự vui vẻ, dẫn dắt các cuộc vui<br>- Khéo léo và tinh tế, là người chân thành trong tất cả các mối quan hệ<br>- Không giỏi giấu giếm cảm xúc, yêu thích ai sẽ công khai", "- Thẳng thắn, là người chủ động tháo gỡ các vấn đề trong một mối quan hệ<br>- Hòa đồng, dễ kết bạn nhưng không có nhiều mối quan hệ sâu sắc<br>- Thẳng thắn, hài hước, sẽ rời bỏ các mối quan hệ làm mình tổn thương<br>- Không quá để tâm đến ánh nhìn của người khác về mình<br>- Thích kết bạn với những người cùng quan điểm với mình<br>- Dễ chán, hay đứng núi này trông núi nọ, không thích các mối quan hệ quá ràng buộc, không quá chú trọng đến chuyện kết hôn"],
-                                ["Trong công việc", "- Phù hợp với môi trường làm việc mở, được tự do sáng tạo, không bị gò bó bởi các quy định và phép tắc, điển hình như: thiết kế thời trang, nhiếp ảnh gia, nhạc sĩ<br>- Có khả năng xử lý công việc nhanh và hiệu quả, mong muốn được cấp trên và đồng nghiệp đánh giá cao và ghi nhận những đóng góp của bản thân<br>- Thân thiện, hòa đồng, sẵn sàng giúp đỡ đồng nghiệp khi họ gặp khó khăn<br>- Không thích bị người khác chỉ đạo và ra lệnh nhưng vẫn nỗ lực hoàn thành công việc khi được giao phó", "- Phù hợp với các công việc đòi hỏi sự khéo léo và khả năng ứng biến nhanh, điển hình như: nhân viên kinh doanh, chuyên viên đàm phán, tiếp thị viên<br>- Tận hưởng công việc, coi công việc làm niềm vui<br>- Làm việc theo cảm hứng, không có kế hoạch, luôn hoàn thành công việc được giao do họ khá thông minh và có khả năng xử lý công việc nhanh<br>- Không né tránh vấn đề, ESFP chọn cách đối mặt và tìm phương án giải quyết tối ưu nhất", "- Nỗ lực tạo môi trường làm việc tích cực và vui vẻ<br>- Phù hợp với môi trường làm việc tự do, không bị kiểm soát. Không thích các công việc nhàm chán, lặp đi lặp lại. Một số nghề nghiệp phù hợp: nhân viên bán hàng, nhân viên kinh doanh/marketing<br>- Chịu được áp lực công việc tại các môi trường cạnh tranh cao<br>- Có xu hướng thực thi hơn là lên kế hoạch, khao khát đạt được các thành tựu to lớn trong công việc<br>- Khả năng quan sát, ghi nhớ và ứng biến trong công việc tốt<br>- Phù hợp với vai trò lãnh đạo hơn là nhân viên"]
-                            ]
-                        }
+                                ["Diễn giải chữ viết tắt", "E - Hướng ngoại<br><b>N - Trực giác</b><br>T - Lý trí<br>P - Linh hoạt", "<b>E - Hướng ngoại</b><br><b>S - Giác quan</b><br>T - Lý trí<br>P - Linh hoạt", "<b>I - Hướng nội</b><br>S - Giác quan<br>T - Lý trí<br>P - Linh hoạt"],
+                                ["Cách tiếp cận thông tin", "Thích động não và phác thảo tất cả các lựa chọn. Họ sử dụng tư duy logic để nhìn nhận vấn đề", "Sử dụng cả năm giác quan để đọc vị các vấn đề, từ đó lựa chọn cách hành xử phù hợp nhất ở từng thời điểm. Họ không tin vào trực giác", "Suy nghĩ logic, giỏi phân tích. Họ không quá tin vào lý thuyết, trừ khi tự mình trải nghiệm và chứng minh"],
+                                ["Trong các mối quan hệ", "- Thoải mái, có thể làm mọi người vui vẻ nhưng không quá để ý đến việc kết giao<br>- Không mong đợi một mối quan hệ trung thành, luôn sát cánh mà chỉ cần một người công nhận khả năng của họ và đưa ra lời khen ngợi họ<br>- Có xu hướng hòa hợp với những người có cùng hệ tư tưởng phản biện. Dành nhiều thời gian và công sức cho các buổi thảo luận và họ cũng mong đối phương có thể làm điều tương tự", "- Nhiệt tình, hồ hởi và kết giao không bao giờ nhàm chán, nhưng khó trở nên sâu sắc<br>- Là người có khiếu hài hước nhưng rất bộc trực và thẳng thắn nên nếu ai làm tổn thương ESTP thì họ sẽ rất phũ và có hành động dứt khoát<br>- Họ không sợ bị từ chối. Với họ bị từ chối là cách mở ra những cơ hội mới", "- Không quá quan tâm và lo lắng đến suy nghĩ của người khác về mình, miễn sao hai bên có chung tiếng nói<br>- Dễ dàng trong việc kết giao với mọi người nhưng không thích giam mình vào các mối quan hệ bó buộc<br>- Có xu hướng bị thu hút bởi những người có chung niềm đam mê, sở thích đặc biệt là các hoạt động thiên về sự kết hợp của các giác quan<br>- Các mối quan hệ nên phát triển từ những điều nhỏ nhất, chậm rãi nhưng chắc chắn từng bước một. Họ sẽ vun đắp và giữ gìn các mối quan hệ mà họ thấy xứng đáng. Ngược lại, họ sẽ chọn cách từ bỏ nếu nhận thấy mối quan hệ hiện tại là vô nghĩa, không đi tới đâu"],
+                                ["Trong công việc", "- Nhiệt huyết và có năng suất làm việc cao. Có thể giúp đỡ người khác về mặt chuyên môn<br>- Có thể làm việc và tỏa sáng ở nhiều vị trí như nhân viên kinh doanh, kỹ sư, diễn viên, luật sư, nhà tâm lý học, v.vv.. Họ có thể là ứng viên sáng giá cho vị trí lãnh đạo<br>- Coi trọng việc học và nghiên cứu, thích môi trường cho họ không gian tự do để thể hiện khả năng chuyên môn và toàn tâm toàn ý cống hiến<br>- Chìa khóa trong công việc của ENTP là kiên nhẫn, từng bước đạt đến vị trí mình mong muốn", "- Có xu hướng ưu tiên những công việc cho phép họ bắt tay thực thi nhiều hơn là lên chiến lược<br>- Phù hợp với các công việc như nhân viên bán hàng, nhân viên kinh doanh/Marketing<br>- ESTP không thích những công việc có nhiều quy tắc và khuôn khổ, điều này sẽ khiến họ chán nản. Họ cũng không chọn những công việc có tính chất lặp đi lặp lại hay cần thời gian nghiên cứu tỉ mỉ<br>- Họ có năng lực sinh tồn mạnh mẽ nên có thể chịu được những môi trường công việc có sự cạnh tranh cao", "- Điềm tĩnh, sở hữu \"cái đầu lạnh\" nên có năng lực trong việc khắc phục khủng hoảng<br>- Giỏi trong việc giải quyết các vấn đề mang tính thực tiễn nhưng không thích giám sát dựa trên sự cứng nhắc. Họ thích sự linh hoạt và đa dạng<br>- Đề cao sự tự do trong công việc, muốn tự do đi lại - tự do làm điều mình muốn và chịu trách nhiệm với bản thân<br>- Phù hợp với các công việc thiên về khả năng tìm tòi như kỹ sư, cơ khí, thiết kế đồ họa, pháp y hoặc công việc trong lĩnh vực kinh doanh"]
+                            ],
+                    "content": "Cả 3 nhóm ESTP, ENTP và ISTP đều là những người lý trí và không giỏi trong việc thấu hiểu cảm xúc. Các quyết định mà họ đưa ra đều dựa nhiều vào tư duy lý trí, nhưng vẫn linh hoạt tùy vào từng tình huống cụ thể.\n\nDù tồn tại nhiều điểm giống nhau nhưng ba nhóm MBTI này vẫn thể hiện những điểm khác biệt rõ rệt. ENTP hướng ngoại, thích động não và tràn đầy sự nhiệt huyết trong mọi việc, ISTP linh hoạt với những quy tắc ngầm do bản thân tự đặt ra, trong khi ESTP xem cả thế giới bên ngoài là những trải nghiệm thú vị, họ tận hưởng từng khoảnh khắc ở hiện tại.\n\nSự khác biệt này tạo nên màu sắc riêng cho các nhóm tính cách, đưa đến những lựa chọn khác nhau trong cách họ xây dựng mối quan hệ cũng như định hướng nghề nghiệp mà bản thân sẽ theo đuổi." 
+                        },
                     ],
-                    "content": "Cả ba nhóm tính cách ESFP, ISFP và ESTP đều là những người sở hữu bộ óc sáng tạo cùng khả năng ứng biến và thích nghi nhanh. Tuy nhiên, ESFP quảng giao và hướng ngoại, là người thu hút sự chú ý trong mỗi lần xuất hiện. ISFP khép mình, giàu tình cảm và khao khát sự công nhận, ESTP năng động, luôn muốn được trải nghiệm những điều mới mẻ, họ tận hưởng từng phút giây được sống trên cuộc đời này. Tuy chỉ khác nhau một chữ cái nhưng cách tiếp cận, xử lý thông tin và hướng đi của ba nhóm tính cách này lại cực kỳ khác biệt, từ đó tạo nên những màu sắc riêng." 
                 },
                 {
-                    "section": "Lời khuyên dành cho ENTP",
+                    "section": "Lời khuyên dành cho ESTP",
                     "items": [
                         {
-                            "title": "Kiềm chế tính bốc đồng",
-                            "content": 'Các ESFP có một điểm yếu là luôn hành động bốc đồng, thiếu sự kiên nhẫn. Họ luôn nóng vội khi đưa ra quyết định mà không lường trước những rủi ro có thể xảy ra. Điều này là một sự mạo hiểm, nhất là trong công việc và có thể khiến các ESFP dễ gặp thất bại. Trước khi đưa ra các quyết định quan trọng, nhất là trong công việc bạn nên tập trung suy xét kỹ càng mọi vấn đề liên quan. Bạn đừng chỉ biết nắm bắt và tận hưởng khoảnh khắc trước mắt, thay vào đó hãy suy nghĩ đến những điều lớn lao phía sau. Hãy nhìn xa trông rộng, "cân đo đong đếm" trước những rủi ro có thể xảy ra với quyết định mà bạn sắp đưa ra.',
+                            "title": "Hãy nói lên quan điểm và suy nghĩ của bản thân",
+                            "content": 'Khi thảo luận bất cứ vấn đề gì, các ESTP nên chú ý vào việc chia sẻ quan điểm và suy nghĩ của bản thân với mọi người, đó có thể là một ý tưởng hoặc nhận định của mình. Việc bộc bạch những điều này sẽ giúp bạn phát triển thế giới nội tâm, từ đó trở nên "con người" hơn mà không cần phải nhờ vào các hoạt động bên ngoài. Bạn càng sử dụng tốt khả năng suy nghĩ nội tâm thì sẽ càng thấy hạnh phúc.',
                         },
                         {
-                            "title": 'Hãy lắng nghe những góp ý từ người khác',
-                            "content": 'Trong cuộc sống hoặc công việc, bên cạnh những quan điểm đồng tình thì cũng sẽ có những ý kiến không đồng tình với bạn. Họ sẽ đưa ra lời góp ý, thậm chí là chỉ trích nhưng bạn đừng tỏ ra nóng giận. Hãy giữ bình tĩnh, lắng nghe hết tất cả những góp từ người khác và xem chúng như những lời khuyên giúp bạn hoàn thiện bản thân.',
+                            "title": 'Đừng lo lắng khi phải thể hiện cảm xúc',
+                            "content": 'Ai cũng có cảm xúc và một chút yếu đuối trong tâm hồn, vì thế bạn không cần phải chạy trốn hay cố gắng khẳng định bản thân mình chỉ vì sự trẻ con bên trong tâm hồn của mình. Bạn cũng không cần phải chứng tỏ bất cứ điều gì với bất kỳ ai. Nếu phải thể hiện cảm xúc, hãy làm điều đó và tìm những người mà bạn cảm thấy có thể sẻ chia về cảm xúc bên trong của mình, người cho bạn biết rằng bạn không đơn độc.',
                         },
                         {
-                            "title": "Đừng né tránh nỗi đau hoặc mặt tiêu cực của bản thân",
-                            "content": "Các ESFP rất tích cực, biết chăm chút bản thân và tận hưởng cuộc sống. Tuy nhiên có một mối lo ngại là họ luôn cố né tránh nỗi đau, không muốn thấy hoặc công nhận mặt tiêu cực bên trong tâm hồn của mình. Người trình diễn cần hiểu rằng, những điều tiêu cực sẽ không mất đi khi bạn né tránh, hãy nỗ lực nhìn thấu chúng. Bạn có thể chậm rãi nhìn nhận thế giới nội tâm của mình, phân tích nỗi đau bằng phương thức dễ dàng nhất. Bằng cách này bạn sẽ có đủ tự tin để vượt qua những khó khăn gặp phải trong cuộc sống."
+                            "title": "Tôn trọng nhu cầu hành động của bản thân",
+                            "content": "Các ESTP đừng tự trách mình khi không thuộc kiểu người thích ngồi yên một chỗ và làm những việc nhàn rỗi, thay vào đó hãy tích cực làm việc để theo kịp tiến độ với những người khác. Bạn có thể chọn một người đánh giá cao cuộc sống năng động của bạn, nhưng nên dành thời gian để tìm hiểu xem liệu sự xuất hiện của người đó trong cuộc sống có làm thay đổi lối sống của bạn hay không. Bạn không nên quá hấp tấp bởi cuộc sống không phải chỉ là những cuộc vui thâu đêm suốt sáng hay những cuộc thám hiểm bất tận."
                         },
                         {
-                            "title": "Luôn tin tưởng vào những điều tốt đẹp",
-                            "content": "Cuối cùng, các ESFP hãy luôn tin tưởng vào những điều tốt đẹp, một thái độ tích cực sẽ tạo nên hoàn cảnh tích cực. Bạn không nên khoác lên mình những khuyết điểm để rồi tự làm bản thân đau khổ. Nếu gặp bất cứ khó khăn hoặc nỗi sợ nào, bạn có thể tâm sự cùng những người thân thiết, họ sẽ sẵn sàng lắng nghe và cho bạn lời khuyên tốt nhất."
+                            "title": "Hãy bước ra khỏi vùng an toàn",
+                            "content": "Cách duy nhất để trưởng thành và phát triển bản thân là thoát ra khỏi vùng an toàn của mình. Nếu bạn thấy không thỏa mái với các ý tưởng hay giải pháp chỉ vì mình không biết phải hành động ra sao thì cũng đừng lo lắng. Điều này có thể tốt và mang đến cơ hội cho bạn phát triển bản thân."
+                        },
+                        {
+                            "title": "Hãy bày tỏ cảm xúc nội tâm của mình",
+                            "content": "Tìm hiểu cảm xúc của mình khi tiếp xúc với mọi người có thể khiến bạn gặp khó khăn nhưng điều này là rất quan trọng và cần thiết. Đừng bắt người khác phải tự hiểu và làm theo ý của bạn. Nếu bạn đánh giá cao ai đó, hãy nói ngay với họ mỗi khi bạn nghĩ về điều đó. Đây là cách tốt nhất để họ cảm thấy an toàn trong mối quan hệ với bạn, từ đó phát triển và duy trì sự gắn kết lâu dài."
+                        },
+                        {
+                            "title": "Hãy ý thức về sự thất bại",
+                            "content": "Ai cũng có thể gặp thất bại và bạn cũng vậy, kể cả khi chúng ta đã thực sự cố gắng, bởi vì không phải ngọn núi nào cũng có thể bị chinh phục, không phải người nào cũng được thoả mãn. Bị hạ gục đôi khi chính là cơ hội giúp bạn suy ngẫm điều gì là quan trọng trong cuộc sống, từ đó đón nhận thách thức xứng đáng hơn với kỹ năng của mình và có giá trị hơn đối với người khác trong những lần tới. Bạn có thể là người chiến thắng, thành quả bạn đạt được sẽ là của bạn."
+                        },
+                        {
+                            "title": "Nhận ra sự khác biệt ở người khác",
+                            "content": "Các ESTP cần hiểu được rằng, mỗi người đều có sự khác biệt, không chỉ khác một chút mà còn rất khác. Ai cũng có vị trí và giá trị riêng của mình. Bạn có thể học hỏi từ những người sở hữu các kỹ năng mà bạn có thể sử dụng được. Hãy cố gắng hiểu tính cách của họ và quan sát những tính cách có thể đưa bạn ra khỏi cảm xúc tiêu cực."
+                        },
+                        {
+                            "title": "Nghĩ đến những điều tốt đẹp",
+                            "content": "Cuối cùng, các ESTP không nên lo lắng về những điều tồi tệ có thể xảy ra để rồi khiến bản thân đau khổ và sợ hãi. Hãy nghĩ đến những điều tốt đẹp và chúng sẽ đến với bạn."
                         },
                     ]
                 },
