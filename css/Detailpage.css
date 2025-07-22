@@ -53,6 +53,10 @@ a {
   gap: 16%;
 }
 
+.btn-nav {
+  display: none;
+}
+
 .detail-image {
   width: 100%;
   height: 430px;
@@ -392,6 +396,7 @@ a {
   }
 
   .btn-nav img.menu {
+    display: block;
     width: 32px;
     height: 32px;
     object-fit: contain;
