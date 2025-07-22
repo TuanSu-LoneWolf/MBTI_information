@@ -2976,7 +2976,7 @@ export const mbtiData = {
                             "content": "Các ESTJ đặt niềm tin vào những giá trị truyền thống, vào những luật lệ và quy định mà xã hội đã đặt ra, bởi họ cần sự an toàn và ổn định, và nghĩ rằng những người khác cũng nên tin tưởng một trăm phần trăm như họ."
                         },
                         {
-                            "title": "Những người nổi tiếng mang tính cách ISFJ:",
+                            "title": "Những người nổi tiếng mang tính cách ESFJ:",
                             "content": "●      Hugh Jackman\n\n●      Ariana Grande\n\n●      Jennifer Lopez\n\n●      Tyra Banks\n\n●      Elton John\n\n●      Mariah Carey\n\n●      Whitney Houston\n\n●      Celine Dion"
                         }
                     ]
@@ -3189,59 +3189,51 @@ export const mbtiData = {
         },
         {
             "code": "ESTJ",
-            "name": "Người quan tâm",
-            "description": "ESFJ là nhóm tính cách nổi tiếng hòa đồng, thân thiện, hào phóng và tận tâm. Họ sẵn sàng giúp đỡ những người xung quanh như thể đó là vấn đề của chính bản thân họ. ESFJ là những người coi trọng nguyên tắc và những giá trị truyền thống, có nề nếp và yêu thương gia đình hết mực.",
-            "image": "../img/esfj.png",
+            "name": "Người giám hộ",
+            "description": "Họ là những Người giám hộ với tinh thần nỗ lực không ngừng nghỉ trong mọi khía cạnh của cuộc sống. Những người thuộc nhóm tính cách ESTJ yêu thích những giá trị truyền thống, thượng tôn pháp luật, luôn làm việc dựa trên lý thuyết thực tiễn và logic. Trong công việc, ESTJ là nhóm tính cách có phương pháp xử lý công việc nhanh và hiệu quả nhất.",
+            "image": "../img/estj.png",
             "details": [
                 {
                     "section": "Tổng quan",
                     "items": [
                         {
-                            "content": "3 tính cách đặc trưng của <b>ESFJ (Người quan tâm)</b> là: Thực tế, vị tha và hòa đồng. Có khoảng 12% dân số mang tính cách này. Các ESFJ muốn được phục vụ người khác và họ rất nghiêm túc khi đưa ra các cam kết."
+                            "content": "<b>ESTJ (Người giám hộ)</b> yêu thích những giá trị truyền thống, thượng tôn pháp luật, luôn làm việc dựa trên lý thuyết thực tiễn và logic. Trong công việc, ESTJ là nhóm tính cách có phương pháp xử lý công việc nhanh và hiệu quả nhất."
                         },
                         {
-                            "title": "ESFJ là viết tắt của những chữ cái gì?",
-                            "content": "●      <b>E - Hướng ngoại:</b> Đối với những người thuộc nhóm tính cách ESFJ, thế giới bên ngoài mới là thế giới thực. Trái ngược với tính cách I - Hướng nội luôn đắm mình trong thế giới nội tâm.\n\n●      <b>S - Giác quan:</b> Bạn tập trung vào những gì mình quan sát được bằng năm giác quan (thính giác, khứu giác, thị giác, vị giác, xúc giác). I - Trực giác (hay còn gọi là giác quan thứ sáu) sẽ được sử dụng để diễn giải ý nghĩa của sự vật, sự việc.\n\n●      <b>F - Cảm xúc:</b> Những người thuộc nhóm tính cách ESFJ đánh giá dựa trên cảm nhận cá nhân. Ngược lại, những người có T (Lý trí) trong tính cách thì đánh giá dựa trên số liệu thực và những dữ liệu đã được chứng minh.\n\n●      <b>J - Nguyên tắc:</b> Bạn dựa vào cấu trúc sẵn có để thoải mái đưa ra quan điểm mà không phải mất công suy xét nhiều. Trong khi đó, những người thiên về tính cách P - Linh hoạt lại thích môi trường tự do và họ sẽ tự sắp đặt cấu trúc bên trong cho mình."
+                            "title": "ESTJ là viết tắt của những chữ cái gì?",
+                            "content": "●      <b>E - Hướng ngoại:</b> Đối với những người mang tính cách ESTJ, thế giới bên ngoài mới là thế giới thực. Trái ngược với tính cách I - Hướng nội luôn đắm mình trong thế giới nội tâm.\n\n●      <b>S - Giác quan:</b> Các ESTJ tập trung vào những gì mình quan sát được bằng năm giác quan (thính giác, khứu giác, thị giác, vị giác, xúc giác).\n\n●      <b>T - Lý trí:</b> Bạn đưa ra quyết định dựa trên góc nhìn thực tế bằng số liệu và đo lường chính xác. Ngược lại, các F - Cảm xúc ưu tiên đưa ra quyết định dựa trên cảm nhận cá nhân.\n\n●      <b>J - Nguyên tắc:</b> Bạn dựa vào cấu trúc sẵn có để thoải mái đưa ra quan điểm mà không phải mất công suy xét nhiều. Trong khi đó, những người thiên về tính cách P - Linh hoạt lại thích môi trường tự do và họ sẽ tự sắp đặt quy tắc bên trong cho mình."
                         },
                         {
-                            "title": "Quan tâm tới mọi người",
-                            "content": 'Các ESFJ là nhóm tính cách rất quan tâm tới mọi người, sử dụng những đặc điểm S (Giác quan) và J (Nguyên tắc) để nhìn nhận cũng như đánh giá những người xung quanh, từ đó nắm được điểm mạnh điểm yếu của mỗi cá nhân. Những Người quan tâm cũng dành được nhiều thiện cảm từ những người xung quanh bởi sự tinh tế, khéo léo và an tâm mà họ mang lại.',
+                            "title": "Đề cao nguyên tắc, luật lệ",
+                            "content": 'Các ESTJ sống trong thế giới nơi mà họ đặt tất cả niềm tin vào sự thật và những điều mang tính thực tiễn. Họ tận hưởng từng giây phút của cuộc sống một cách từ từ và chậm rãi. Những Người giám hộ đề cao truyền thống và luật lệ, họ có niềm tin và đức tin của riêng mình cũng như hy vọng những người xung quanh cũng có quan điểm sống tương tự với mình. Trong công việc, họ coi trọng hiệu quả và năng suất làm việc, lúc nào cũng trong trạng thái nóng lòng nhìn thấy thành quả của mình.',
                         },
                         {
-                            "title": 'Tinh thần trách nhiệm cao',
-                            "content": "Các ESFJ là những người có tinh thần trách nhiệm cao, họ cũng rất độc lập, tỉ mẩn trong công việc và luôn hoàn thành với năng suất và hiệu quả cao nhất. Họ đánh giá cao sự an toàn và ổn định trong cuộc sống hàng ngày."
+                            "title": 'Nhìn xa trông rộng',
+                            "content": "Các ESTJ thường là những người phải chịu trách nhiệm chính trong nhiều vấn đề, bởi họ có tầm nhìn xa trông rộng, đây cũng là lý do khiến những người thuộc nhóm tính cách này rất thích hợp với vị trí lãnh đạo. Họ không chỉ tự tin mà cũng đủ dứt khoát trong việc đưa ra quyết định hay lên chiến lược cho một dự án nào đó. Điều đó khiến nhiều người cảm thấy các ESTJ có phần khắt khe và khó gần, nhất là khi cá nhân họ không thể theo kịp những tiêu chuẩn mà các ESTJ đặt ra."
                         },
                         {
-                            "title": 'Ấm áp và tốt bụng',
-                            "content": "Những người thuộc nhóm tính cách ESFJ ấm áp và tràn đầy năng lượng, họ cũng sẵn sàng bỏ thời gian và công sức để giúp đỡ người khác. Đổi lại thì những Người quan tâm cũng luôn hy vọng lòng tốt của mình sẽ được ghi nhận và đáp lại đúng cách, thay vì bị thờ ơ phớt lờ như thể việc giúp đỡ người khác là nghĩa vụ mà họ đương nhiên phải thực hiện."
+                            "title": 'Con nhà người ta',
+                            "content": "Trong mắt những người xung quanh, các ESTJ giống như là “con nhà người ta” vậy. Họ ngoan ngoãn, chăm chỉ, giỏi giang và gặt hái được nhiều thành công trong cuộc sống lẫn trong công việc."
                         },
                         {
-                            "title": 'Muốn được công nhận',
-                            "content": "Là một người có tính cách hướng ngoại, các ESFJ thường xuyên tập trung vào công việc đọc vị người khác (và họ cũng rất giỏi làm điều ấy) vì muốn được công nhận và chú ý."
+                            "title": 'Náo nhiệt và vui vẻ',
+                            "content": "Các ESTJ là những người náo nhiệt và thích tương tác với những người xung quanh. Họ đặc biệt thích tham gia vào những hoạt động tập thể trong gia đình hoặc tại nơi làm việc."
                         },
                         {
-                            "title": "Khách quan",
-                            "content": "Các ESFJ là những người không ngần ngại thể hiện quan điểm giữa một đám đông. Quan điểm của các ESFJ không dựa vào trực giác hay góc nhìn cá nhân, mà dựa vào quy tắc chung của những người xung quanh, tại nơi họ sống và làm việc."
+                            "title": "Nhưng đôi khi lại tự tạo áp lực lên bản thân",
+                            "content": "Khi tâm trạng không tốt, các ESTJ có xu hướng cô lập bản thân khỏi những người xung quanh. Những người thuộc nhóm tính cách ESTJ thường xuyên có cảm giác bị hiểu nhầm và đánh giá thấp so với năng lực thật sự của mình. Và dù bình thường họ là những người vô cùng năng nổ và hoạt ngôn, khi tâm trạng không được tốt thì các ESTJ cũng gặp rất nhiều khó khăn trong việc truyền đạt cảm xúc của mình."
                         },
                         {
-                            "title": "Quan điểm cá nhân không vững vàng",
-                            "content": "Việc sống tuân thủ theo những giá trị đạo đức cơ bản giúp các ESFJ trở thành những người tốt bụng và hào phóng, sẵn sàng giúp đỡ người khác dù có phải hy sinh thời gian, công sức hoặc thậm chí là lợi ích của cá nhân, tuy nhiên tính cách này cũng là một con dao hai lưỡi khi mang lại cho các ESFJ không ít rắc rối bởi không phải bất cứ luật lệ, quy tắc nào mà họ biết cũng đều chuẩn chỉ. Và với một người không có quan điểm cá nhân vững vàng như những Người quan tâm thì họ sẽ tin tưởng một cách vô điều kiện mà không màng tới đúng sai."
+                            "title": "Hướng về lợi ích chung",
+                            "content": "Các ESTJ coi trọng sự an toàn, ổn định và trật tự vốn có trong xã hội. Họ thúc đẩy bản thân phải hoàn thành tất cả những gì cần thiết để đạt được mục tiêu cuối cùng: xây dựng nên một xã hội giàu đẹp, văn minh, hạnh phúc."
                         },
                         {
-                            "title": "Điểm yếu trực giác",
-                            "content": "Khác với người anh em ENFJ, các ESFJ có phần thiếu hụt đặc điểm I (Trực giác), họ không giỏi cân nhắc xem những hành động của mình sẽ gây nên hậu quả gì, và chính vì không biết điều đó nên đôi khi những người thuộc nhóm tính cách ESFJ sẽ vô tình thao túng, ép buộc người khác làm những việc mà họ cho là đang tuân thủ theo các giá trị đạo đức cơ bản, trong khi thực tế lại không phải vậy."
+                            "title": "Cầu toàn",
+                            "content": "Trong cuộc sống, các ESTJ sẽ cố gắng làm tốt ở mọi lĩnh vực, từ công việc, gia đình, tình yêu, v.vv.. với tất cả tâm huyết để đạt được kết quả tốt nhất. Những Người giám hộ thường ưu tiên những công việc có tính khả thi và mang tính thực tiễn hơn là những mục tiêu có phần mơ hồ.\n\nLà những người thẳng thắn, không lòng vòng, các ESTJ sẵn sàng lên tiếng nếu thấy có điều gì đó bất bình. Họ sẽ không ngần ngại chỉ ra lỗi sai của người khác. Tuy tính cách này sẽ khiến nhiều người nghĩ rằng ESTJ là nhóm tính cách cứng nhắc, nhưng đây lại là cách tốt nhất để đưa mọi chuyện trở lại quỹ đạo vốn có."
                         },
                         {
-                            "title": "Rõ ràng, cụ thể",
-                            "content": "Các ESFJ thích những môi trường làm việc có kết cấu và sơ đồ tổ chức rõ ràng, bản thân họ cũng rất giỏi trong việc dẫn dắt và thiết lập trật tự trong công việc. Ngược lại, những gì liên quan tới những khái niệm trừu tượng, phân tích sẽ khiến họ nhanh chóng cảm thấy chán nản và sớm bỏ cuộc."
-                        },
-                        {
-                            "title": "Giá trị truyền thống",
-                            "content": "Các ESTJ đặt niềm tin vào những giá trị truyền thống, vào những luật lệ và quy định mà xã hội đã đặt ra, bởi họ cần sự an toàn và ổn định, và nghĩ rằng những người khác cũng nên tin tưởng một trăm phần trăm như họ."
-                        },
-                        {
-                            "title": "Những người nổi tiếng mang tính cách ISFJ:",
-                            "content": "●      Hugh Jackman\n\n●      Ariana Grande\n\n●      Jennifer Lopez\n\n●      Tyra Banks\n\n●      Elton John\n\n●      Mariah Carey\n\n●      Whitney Houston\n\n●      Celine Dion"
+                            "title": "Những người nổi tiếng mang tính cách ESTJ:",
+                            "content": "● Emma Watson\n● Adele\n● Estée Lauder\n● Celine Dion\n● Gordon Ramsay\n● Bruce Willis\n● Hillary Clinton\n● Sam Walton"
                         }
                     ]
                 },
@@ -3252,24 +3244,28 @@ export const mbtiData = {
                             "title": "Điểm mạnh",
                             "itemsChild": [
                                 {
-                                    "titleChild": "Gọn gàng, ngăn nắp",
-                                    "content": "Những Người quan tâm rất giỏi trong viết sắp xếp và thực hiện công việc mỗi ngày. Họ lên lịch trình và phân chia trình tự trong công việc và trong cuộc sống thường ngày một cách ngăn nắp, có khoa học.",
+                                    "titleChild": "Cống hiến",
+                                    "content": "Đối mặt với các nhiệm vụ được giao, các ESTJ luôn sẵn lòng đón nhận. Họ lấy công việc làm niềm vui miễn là công việc ấy không đi ngược lại các giá trị đạo đức của họ.",
                                 },
                                 {
-                                    "titleChild": "Tinh thần trách nhiệm cao",
-                                    "content": "Những người thuộc nhóm tính cách ESFJ sống rất trách nhiệm và luôn nỗ lực để làm trọn bổn phận của mình, cho dù đôi khi đó là trách nhiệm đến từ xã hội hơn là trách nhiệm xuất phát từ chính bản thân họ.",
+                                    "titleChild": "Ý chí mạnh mẽ",
+                                    "content": "Các ESTJ không phải là người dễ dàng thay đổi quyết định chỉ vì một số quan điểm trái chiều. Họ biết bảo vệ ý kiến của mình, và trừ khi bạn thuyết phục họ bằng những lập luận rõ ràng, chính xác thì họ sẽ bảo vệ chính kiến đến cùng.",
                                 },
                                 {
-                                    "titleChild": "Trung thành tuyệt đối",
-                                    "content": "Các ESFJ đánh giá cao sự an toàn, đó là lý do họ luôn “một lòng” với những điều quen thuộc, hầu như không bao giờ thay đổi. Điều đó khiến họ trở thành những người đồng nghiệp và bạn đời đáng tin cậy. Dù là trong gia đình hay đơn giản là trong một nhóm bạn, các ESFJ luôn là những “trụ cột” để mọi người tin tưởng và giao trọng trách.",
+                                    "titleChild": "Chính trực và trung thực",
+                                    "content": "Những người thuộc nhóm tính cách ESTJ tin tưởng vào sự thật được chứng minh hơn là những ý tưởng mơ hồ, và họ cũng sẽ đáp lại bằng sự trung thực, thẳng thắn của mình.",
                                 },
                                 {
-                                    "titleChild": "Ấm áp và đồng cảm",
-                                    "content": "Những người thuộc nhóm tính cách ESFJ biết lắng nghe cảm xúc của những người xung quanh và rất biết cư xử để không làm buồn lòng ai.",
+                                    "titleChild": "Trung thành, kiên nhẫn, đáng tin cậy",
+                                    "content": "Những Người giám hộ đề cao tính ổn định và an toàn. Ngoài ra, khi một ESTJ nói họ sẽ làm điều gì đó thì họ sẽ làm với tinh thần nghiêm túc và tập trung cao độ, điều này khiến trong mắt đồng nghiệp, gia đình và bạn bè thì các ESTJ là những người rất có trách nhiệm và có thể tin tưởng.",
                                 },
                                 {
-                                    "titleChild": "Giỏi kết giao",
-                                    "content": 'Những đặc điểm tính cách trên cộng hưởng lại khiến các ESFJ trở thành những người rất quảng giao và được yêu mến.',
+                                    "titleChild": "Trật tự và ngăn nắp",
+                                    "content": 'Sự hỗn loạn và mất trật tự khiến mọi chuyện trở nên bớt đáng tin hơn hẳn, và các ESTJ thì không thích những gì không đáng tin. Vì vậy, để giữ cho mọi thứ luôn chuẩn chỉnh và đi vào quỹ đạo, các ESTJ sẽ thiết lập luật lệ, quy tắc hoặc một số yêu cầu cơ bản lên chính bản thân mình.',
+                                },
+                                {
+                                    "titleChild": "Khả năng tổ chức tuyệt vời",
+                                    "content": 'Việc luôn đánh giá mọi thứ dựa vào sự thực và tiêu chuẩn chung khiến các ESTJ trở thành những nhà lãnh đạo đáng tin tưởng và vô cùng có năng lực, vì họ biết nhìn nhận điểm mạnh của từng cá nhân và có thể phân chia công việc cho mọi người một cách công bằng, khách quan.',
                                 },
                             ],
                         },
@@ -3277,24 +3273,28 @@ export const mbtiData = {
                             "title": "Điểm yếu",
                             "itemsChild": [
                                 {
-                                    "titleChild": "Thiếu tự tin",
-                                    "content": 'Các ESFJ quá chú trọng tới cái nhìn của mọi người xung quanh dành cho mình. Họ cũng là người dễ dao động bởi những yếu tố ngoại cảnh khi cần đưa ra một quyết định nào đó. Điểm yếu này sẽ khiến sức sáng tạo và năng lực đưa ra quyết định của các ESFJ bị hạn chế rất nhiều.',
+                                    "titleChild": "Kém linh hoạt",
+                                    "content": 'Việc luôn bám vào những điều thực tế và thực sự hiệu quả khiến các ESTJ đôi khi bỏ qua những gì có thể tạo ra hiệu quả trong tương lai. Đối với họ, tất cả những gì chưa được chứng minh đều chỉ được coi là ý kiến để tham khảo, và họ sẽ miễn cưỡng tin vào ý kiến đó cho tới khi nó được làm sáng tỏ.',
                                 },
                                 {
-                                    "titleChild": "Thiếu linh hoạt",
-                                    "content": "Những người thuộc nhóm tính cách ESFJ đề cao những giá trị truyền thống và không thích những ai đi ngược lại với số đông. Bản thân họ cũng thường xuyên ép mình đi vào những khuôn khổ được định sẵn mà dần làm mất đi màu sắc cá nhân của riêng mình.",
+                                    "titleChild": "Thích bình thường hơn là bất thường",
+                                    "content": "Những Người giám hộ đi theo lối suy nghĩ truyền thống và khi đẩy vào một tình huống bất ngờ mà chưa có sự chuẩn bị họ sẽ bị stress. Nếu có ai đó đưa ra ý tưởng mới và hiệu quả hơn ý tưởng của họ và buộc họ thoát ly khỏi vòng suy nghĩ cố hữu của mình thì họ sẽ rất lo sợ, sợ rằng ý tưởng mới đó sẽ thất bại và ảnh hưởng tới hình ảnh của họ trong mắt người khác.",
                                 },
                                 {
-                                    "titleChild": "Bảo thủ",
-                                    "content": "Các ESFJ né tránh hết mức việc phải bước ra khỏi vùng an toàn của mình, phải thay đổi, phải đổi mới, bởi họ sợ lời dị nghị của những người xung quanh, không muốn mình trở thành nhân tố khác biệt so với mọi người.",
+                                    "titleChild": "Ngoan cố",
+                                    "content": "Những người thuộc nhóm tính cách ESTJ đôi khi khá ngoan cố, họ đặt nặng vấn đề về những việc họ cho là đúng hoặc sai và áp dụng suy nghĩ đó cho tất cả mọi người. Điều đó khiến họ bỏ qua những sự việc vốn dĩ có thể thực hiện linh hoạt bằng cách này hoặc cách khác. Các ESTJ không chấp nhận những ý kiến trái chiều ấy và sẽ bắt tay vào chỉnh đốn lại cho đúng với ý họ mới thôi.",
                                 },
                                 {
-                                    "titleChild": "Dễ tổn thương",
-                                    "content": "Là một người không thích vướng vào những cuộc xung đột, các ESFJ rất dễ buồn lòng khi họ bị phê bình và khiển trách, đặc biệt là từ những người thân quen gần gũi, về lối sống, đức tin hay những giá trị truyền thống mà họ tin tưởng.",
+                                    "titleChild": "Quá đặt nặng địa vị xã hội",
+                                    "content": "Những người thuộc nhóm tính cách ESTJ tự hào khi được bạn bè, đồng nghiệp và xã hội coi trọng, nhưng đồng thời họ cũng rất để ý tới việc người khác nghĩ về mình như thế nào. Các ESTJ (nhất là những người có tính cách T trội) có thể bị cuốn vào kỳ vọng của những người xung quanh mà quên mất mong muốn thật sự của bản thân.",
                                 },
                                 {
-                                    "titleChild": "Khát khao được ghi nhận",
-                                    "content": 'Các ESFJ luôn mong muốn rằng những gì mình làm và đóng góp sẽ được ghi nhận và tuyên dương một cách xứng đáng. Hoặc không, họ sẽ tìm mọi cách để mọi người để ý tới và khen ngợi họ. Tuy nhiên điều này có thể sẽ gây khó chịu cho những người không cần tới sự hỗ trợ của các ESFJ.',
+                                    "titleChild": "Không ngơi nghỉ",
+                                    "content": 'Càng kỳ vọng nhiều thì các ESTJ càng phải làm việc nhiều để đạt được những kỳ vọng đó. Họ hiếm khi để cho bản thân được nghỉ ngơi vì sợ sẽ bị đánh giá, dù họ rất muốn được xả hơi để tham gia vào một hoạt động thú vị nào đó.',
+                                },
+                                {
+                                    "titleChild": "Hiếm khi bộc lộ cảm xúc",
+                                    "content": 'Đây hiển nhiên là điểm yếu lớn nhất của những người thuộc nhóm tính cách ESTJ: bày tỏ cảm xúc và đồng cảm với những người xung quanh. Các ESTJ quá chuyên tâm theo đuổi thứ mà họ coi là sự thật và đem lại hiệu quả mà đôi khi bỏ qua cảm nhận của người khác. Ví dụ như việc đa phần mọi người sẽ rất thích thú khi được đi trên một cung đường vòng với khung cảnh tuyệt đẹp trong chuyến dã ngoại cuối tuần, còn các ESTJ chỉ thấy họ đang tốn thêm cả giờ đồng hồ vòng vèo qua lại. Họ ước được đi theo trục đường chính ngắn nhất, tiết kiệm thời gian nhất.',
                                 },
                             ],
                         }
@@ -3304,59 +3304,59 @@ export const mbtiData = {
                     "section": "Mối quan hệ",
                     "items": [
                         {
-                            "content": 'Các ESFJ là những người bạn vô cùng trung thành, họ sẵn sàng bỏ ra hàng giờ đồng hồ để trò chuyện với những người quan trọng với mình. Họ là những người nồng nhiệt, dễ mến và yêu những giá trị truyền thống. Nếu bạn có quan điểm sống khác biệt với các ESFJ thì khả năng hai người sẽ không bao giờ có thể trở thành bạn tốt của nhau, vì những Người quan tâm không muốn bị chỉ trích, nhất là bởi những người thân quen.\n\nNhững người thuộc nhóm tính cách ESFJ luôn cố gắng giữ mối quan hệ tốt với mọi người, ở nhiều tầng lớp khác nhau, không quan trọng địa vị xã hội. Tốt bụng và chân thành là hai tính cách giúp họ có thể chiếm được cảm tình của những người xung quanh.\n\nNhìn chung, các ESFJ trân trọng tất cả những mối quan hệ cá nhân, họ cũng luôn tìm cách làm bền chặt hơn mối quan hệ giữa người với người, giúp mọi người xích lại gần nhau hơn. Họ thích giúp đỡ người khác và thích ngắm nhìn những nụ cười biết ơn trước lòng tốt của mình. Là những người khá điềm tĩnh, các ESFJ không thích vướng vào những cuộc xung đột.\n\nĐối với ESFJ, điều quý giá nhất là cảm giác an toàn mà họ có được trong tất cả các mối quan hệ, từ gia đình, bạn bè đến đồng nghiệp. Khao khát của ESFJ chính là sống bình yên bên người mà họ yêu quý và gắn bó sâu sắc với cộng đồng.'
+                            "content": 'Những người thuộc nhóm tính cách ESTJ thích kết giao với những người có cùng quan điểm sống với mình. Đối với những người khác quan điểm, các ESTJ tôn trọng ý kiến của họ nhưng cũng sẽ cố gắng hết sức để không phải tiếp xúc quá nhiều trong tương lai, tránh những tranh cãi không đáng có.\n\nCác ESTJ khá cởi mở và nhiệt tình, mặc dù vẫn luôn coi những quy tắc của mình là ưu tiên hàng đầu. Họ thích tham gia vào các hoạt động xã hội và cũng khuyến khích bạn bè, người thân tham gia cùng, đặc biệt là đối với những hoạt động thể thao.\n\nTuy không phải là “tâm điểm của bữa tiệc” nhưng các ESTJ cũng là một người vô cùng thú vị, họ có vô vàn sở thích và sẵn sàng chia sẻ với những người xung quanh. Do đó bạn hầu như sẽ không bao giờ cảm thấy nhàm chán khi đi chơi cùng các ESTJ.\n\nNhìn chung, các ESTJ là những con người nhiệt huyết, biết cân bằng giữa nhu cầu bản thân và trách nhiệm xã hội. Họ luôn nỗ lực hết mình để thực hiện những công việc được giao.'
                         },
                         {
-                            "title": "ESFJ trong tình yêu",
+                            "title": "ESTJ trong tình yêu",
                             "itemsChild": [
                                 {
-                                    "content": "Một tình yêu ấm áp và ngọt ngào là liều thuốc tốt nhất để các ESFJ cảm nhận được sự tận tâm, an toàn và hỗ trợ nhiệt tình từ người bạn đời.\n\n<i>“Những người thuộc nhóm tính cách ESFJ không có tính cách tùy tiện. Trong tình yêu họ sẽ cần nửa kia theo sát và hỗ trợ mình, mục đích cuối cùng vẫn là một đám cưới đẹp và một tổ ấm yên bình.”</i>\n\nSau khi vạch rõ mục tiêu, các ESFJ sẽ tiến hành từng bước một trong quá trình tìm kiếm và chinh phục tình yêu đích thực của đời mình một cách nghiêm túc, từ thời điểm hẹn hò tới khi tìm hiểu và đi tới hôn nhân. Tình yêu của họ được xây dựng dựa trên nguyên tắc đôi bên cùng vui vẻ và hài lòng với nhau, thống nhất trong lý tưởng tạo dựng một gia đình với sự tôn trọng, thấu hiểu lẫn nhau.\n\nCác ESFJ sẽ rất hạnh phúc nếu họ cũng cảm nhận được tình cảm mà nửa kia dành cho mình. Bởi thế mà họ đặc biệt thể hiện sự yêu thích với những ngườ",
+                                    "content": "Các ESTJ có quan điểm khá kỳ lạ trong tình yêu, hầu như không có sự thay đổi đặc biệt nào khi tiến triển qua các giai đoạn từ làm quen, tìm hiểu rồi tiến tới hôn nhân. Là những người thẳng thắn, chân thành, những người thuộc nhóm tính cách ESTJ luôn xác định rõ bản thân mình là ai, đang ở vị trí nào, mình muốn gì trong tình yêu và cần làm gì để đạt được điều ấy. Người bạn đời của các ESTJ chỉ cần đi theo những kế hoạch mà họ đã vạch sẵn ra thì mối quan hệ giữa hai người sẽ đạt được kết quả như ý.",
                                 },
                                 {
-                                    "titleChild": "Một trái tim nhạy cảm",
-                                    "content": "Những người thuộc nhóm tính cách ESFJ luôn né tránh mọi cuộc xung đột, kể cả trong gia đình. Nếu bạn đời của họ chỉ trích hoặc phê bình họ vì một lý do nào đó thì các ESFJ sẽ bị tổn thương, bởi không gì có thể làm các ESFJ đau lòng hơn khi nhận thấy người mình yêu không tôn trọng sự lựa chọn của họ. Ngược lại, chỉ cần bạn đời ở bên và cổ vũ họ thì các ESFJ có thể hiên ngang đối mặt với mọi khó khăn thử thách ngoài kia.\n\nMột tin không quá tốt là với tính cách ấy, những Người quan tâm chưa trưởng thành hoặc chưa vững vàng về mặt tinh thần có thể sẽ bị ảnh hưởng tiêu cực trong mối quan hệ tình cảm này. Họ khát khao sự công nhận của nửa kia tới nỗi đánh đổi cả những giá trị quan của bản thân. Đây là một cái bẫy mà về lâu dài có thể khiến các ESFJ bị lợi dụng tình cảm và lòng tự trọng.\n\nNgoài ra, do rất sợ bị chỉ trích và đánh giá, việc lựa chọn bạn đời của các ESFJ cũng chịu ảnh hưởng từ xã hội và những người xung quanh như bạn bè, gia đình.",
+                                    "titleChild": "Tình yêu kiên định",
+                                    "content": "Những Người giám hộ rất kiên định với tình yêu của mình. Điều đó không có nghĩa là tình yêu của họ không có tiến triển. Trong tình yêu, họ sẽ không để bản thân bị ảnh hưởng bởi tâm trạng, mục tiêu hay những thay đổi xung quanh.\n\n<i>“Một tình yêu đẹp hầu như luôn đi kèm với thách thức, khó khăn, nhưng các ESTJ sẽ không để điều đó chi phối tình cảm mà mình dành cho bạn đời. Cuối cùng, những nỗ lực của họ sẽ được đền đáp bằng một kết quả ngọt ngào.”</i>\n\nDù nghe hơi truyền thống một chút nhưng thực sự các ESTJ không phải người nhàm chán. Họ rất thích đưa người yêu ra ngoài hẹn hò, đặc biệt là tới những sự kiện ở nơi công cộng, năng lượng tích cực và sự nhiệt tình của họ khiến mọi điều họ làm trở nên vô cùng thú vị và vui vẻ.\n\nNhững người thuộc nhóm tính cách ESTJ tiếp cận tình yêu từ nhiều khía cạnh, từ vật chất tới tâm hồn, vừa gần gũi vừa tích cực, song song với đó vẫn gìn giữ những giá trị truyền thống mà họ coi trọng. Các ESTJ không thích thơ văn hay những gì sến súa vì đối với họ điều đó chỉ dành cho những cặp đôi chưa trưởng thành, nhưng ngược lại thì họ cũng đánh giá cao việc hai người thường xuyên dành cho nhau những lời khen có cánh. Về đời sống tình dục, các ESTJ gần như là nhóm tính cách ổn định nhất, họ không có yêu cầu quá cao và cũng rất dễ hài lòng với đối phương.\n\nTuy vậy, những Người giám hộ cũng gặp một vài khó khăn trong quá trình yêu đương, chủ yếu liên quan đến vấn đề cảm xúc. Họ không dễ xúc động cũng như không hay nói những lời ngọt ngào, vì họ thích thể hiện tình yêu thông qua hành động cụ thể. Nhưng đối với nửa kia của các ESTJ, điều đó đôi khi đồng nghĩa với sự vô tâm và lạnh lùng.\n\nCác ESTJ thường bị đánh giá là cộc cằn nhưng một khi họ yêu mến ai thì trân quý hết lòng. Đây là một trong những nhóm tính cách duy trì mối quan hệ hôn nhân lâu dài. Họ nhớ các ngày kỷ niệm và những sự kiện tình yêu của hai người nhưng lại không thích những thứ bất ngờ. Các ESTJ có khuynh hướng biểu hiện tình cảm bằng vật chất.",
                                 },
                                 {
-                                    "titleChild": "Xây dựng niềm tin",
-                                    "content": "ESFJ là những người ấm áp và trung thành, vì vậy họ cũng muốn được tôn trọng và tin tưởng. Họ thể hiện rất tốt ở những công việc mang tính thực tiễn như quản lý tiền bạc trong gia đình.\n\nNhững Người quan tâm khá chăm chút và có những quy tắc riêng trong việc hẹn hò. Về mặt giường chiếu, các ESFJ là những đối tác tuyệt vời bởi họ rất tập trung vào những yếu tố thực tiễn. Ngoài ra, tình dục là một trong những khía cạnh giúp họ giữ lửa tình yêu và làm bạn đời hạnh phúc. Khi cặp đôi đã tiến tới một sự hòa hợp nhất định thì các ESFJ sẽ bắt đầu trải nghiệm những điều mới lạ, thú vị trong tình yêu.",
+                                    "titleChild": "Yêu trong thầm lặng",
+                                    "content": "Những Người giám hộ thường giải quyết xung đột giữa hai người bằng những lý thuyết thực tế, đơn giản. Điều đó là hoàn toàn hợp lý, nhưng việc quá tế nhị và khéo léo lại khiến họ phải hy sinh nhiều hơn, bởi không nhiều người sẽ cảm thấy thoải mái với tính cách máy móc như vậy. Trong khi đó, các ESTJ lại không phải những người giỏi đoán cảm xúc qua nét mặt, họ sẽ không biết khi nào nửa kia của mình cảm thấy hài lòng khi nào không, hậu quả là họ sẽ tiếp tục mơ hồ cư xử theo cách của riêng mình.\n\nNhững người thuộc nhóm tính cách ESTJ sử dụng chính kiến và sự tự tin của mình để bảo vệ bạn đời. Tuy nhiên sự cứng đầu và thẳng thắn quá mức của họ đôi khi làm tổn thương “trái tim thủy tinh” của người ấy.",
                                 },
                             ],
                         },
                         {
-                            "title": "ESFJ trong tình bạn",
+                            "title": "ESTJ trong tình bạn",
                             "itemsChild": [
                                 {
-                                    "content": "Các ESFJ là người quảng giao, họ có nhiều bạn bè và sẵn sàng dành nhiều thời gian và công sức để duy trì tình bạn. Là những người trung thành và ấm áp, những người thuộc nhóm tính cách ESFJ luôn ở bên bạn bè để cổ vũ và hỗ trợ dù có chuyện gì xảy ra đi nữa. Đôi khi họ còn quan tâm tới bạn bè nhiều hơn cả bản thân mình.\n\n<i>“Những người thuộc nhóm tính cách ESFJ tôn trọng quan điểm truyền thống trong tình bạn, và họ rất vui khi được giúp đỡ và hỗ trợ bạn bè trong nhiều khía cạnh của cuộc sống.”</i>\n\nCác ESFJ rất dễ kết bạn và được nhiều người yêu mến nhờ tính cách vui vẻ, lạc quan, sẵn sàng làm mọi thứ để bạn mình được vui vẻ. Ngược lại, những Người quan tâm cũng muốn lòng tốt của mình được ghi nhận xứng đáng.\n\nNhững người thuộc nhóm tính cách ESFJ có niềm tin mãnh liệt rằng bạn bè không bao giờ sai, và họ sẽ bảo vệ bạn mình trước mọi cuộc tranh cãi, đổi lại thì họ cũng muốn bạn bè bảo vệ mình theo cách tương tự. Tuy nhiên, nếu các ESFJ chịu tiếp thu nhiều quan điểm khác nhau từ nhiều cá nhân khác nhau thì họ sẽ có thêm nhiều bạn hơn nữa.",
+                                    "content": "Những Người giám hộ là những người bạn trung thành và biết chia sẻ giá trị tích cực với những người xung quanh. Các ESTJ và bạn bè thường có nhiều hoạt động và thói quen chung, những điều này thường bắt nguồn từ tác động bên ngoài nhiều hơn là sự đồng điệu về mặt cảm xúc từ bên trong. Tuy vậy, tình bạn của các ESTJ vẫn luôn vững bền và kiên định, đong đầy sự quan tâm và tin tưởng.",
                                 },
                                 {
-                                    "titleChild": "Luôn bên bạn",
-                                    "content": "Mặt khác, những người thuộc nhóm tính cách ESFJ rất quan tâm tới bạn bè mình, hiểu rõ đâu là điều sẽ khiến bạn bè họ vui lên và đâu là động lực thúc đẩy họ tiến về phía trước. Những Người quan tâm dễ dàng nhận ra khi bạn bè họ đang gặp phải nan đề nào đó để kịp thời đưa tay ra giúp đỡ. Các ESFJ để ý rất nhiều tới việc duy trì sức nóng của tình bạn, họ luôn tìm cách truyền cảm hứng và tạo động lực cho những người xung quanh.",
+                                    "titleChild": "Nhiệt tình và vui vẻ",
+                                    "content": "Các ESTJ là những người vô cùng nhiệt tình, họ thích rủ bạn bè ra ngoài và tham gia các hoạt động thể thao. Và nếu bạn bè còn lưỡng lự thì các ESTJ có thể trở nên hơi hống hách và thúc ép một chút, nhưng đều vì muốn tốt cho bạn mà thôi. Là một người bạn của Người giám hộ, bạn có cơ hội được trải nghiệm vô vàn điều thú vị như tham gia hoạt động xã hội, đi xem bóng đá, cắm trại cuối tuần hoặc đơn giản là một bữa tiệc nướng vào một ngày Chủ nhật đẹp trời.\n\nNhững người thuộc nhóm tính cách ESTJ kết giao bạn bè dựa trên sự tin tưởng và lòng trung thành, và khi đã trở thành bạn bè của nhau thì họ sẽ không bao giờ để bạn phải buồn chán. Các ESTJ có thể không phải luôn là chủ xị của bữa tiệc, nhưng họ cực kỳ biết cách khuấy động bầu không khí.\n\nTuy là những người hướng ngoại và vui tính nhưng các ESTJ không phải lúc nào cũng kết giao bạn bè bởi họ có xu hướng tìm kiếm những người có tính cách giống mình. Những Người giám hộ khá bướng bỉnh và cứng đầu, vì vậy họ không hòa hợp được với những người có quan điểm sống khác với mình.",
+                                },
+                                {
+                                    "titleChild": "Tiếp cận ở phạm vi rộng hơn",
+                                    "content": "Thách thức của những người thuộc nhóm tính cách ESTJ trong tình bạn không phải là thiếu chuyện thú vị để làm hay thiếu bạn để chơi cùng mà là có quá nhiều bạn và quá nhiều thứ để trải nghiệm. Khi tham gia các hoạt động cộng đồng, các ESTJ phải lắng nghe rất nhiều ý kiến khác nhau từ những người khác nhau, chưa kể tới việc một người còn có nhiều quan điểm khác nhau nữa.\n\n<i>“Sẽ rất tốt cho các ESTJ nếu họ có chính kiến của riêng mình.”</i>\n\nViệc tiếp nhận nhiều ý kiến từ nhiều cá nhân không phải xấu, ngoài việc xây dựng nền tảng cũng như bảo vệ niềm tin của mình thì các ESTJ nên mở lòng để đón nhận và xem xét các ý kiến khác nhau. Giống như cách họ nghĩ rằng những người cứ ở lì dưới tầng hầm chơi điện tử cần ra ngoài nhiều hơn để ngắm nhìn thế giới, thì bản thân họ cũng nên thay đổi để thích nghi với quan điểm mới.",
                                 }
                             ],
                         },
                         {
-                            "title": "ESFJ khi làm cha mẹ",
+                            "title": "ESTJ khi làm cha mẹ",
                             "itemsChild": [
                                 {
-                                    "content": "Những người thuộc nhóm tính cách ESFJ là những bậc cha mẹ ấm áp, hiền lành, luôn sẵn sàng tạo động lực và khuyến khích con cái mình phát triển bản thân trong mọi lĩnh vực. Họ cũng sẽ thiết lập những quy tắc, quy định cơ bản cho những đứa trẻ theo cách tự nhiên nhất và thuyết phục nhất để chúng được cảm thấy thoải mái và không quá áp lực. Vì vậy, rất hiếm khi xảy ra mâu thuẫn trong gia đình của các ESFJ nếu các thành viên có quan điểm khác nhau.\n\n<i>“Con cái là một món quà tuyệt vời đối với các ESFJ, vì vậy họ luôn trân trọng và biết nắm bắt từng khoảnh khắc.”</i>\n\nMục tiêu tối cao trong quá trình nuôi dạy trẻ của các bậc phụ huynh ESFJ là đảm bảo sự an toàn và hạnh phúc cho con cái. Họ cũng rất tận hưởng việc con cái phụ thuộc vào mình, vì đối với họ gia đình là vô cùng thiêng liêng.",
+                                    "content": "Sự chăm chỉ, tôn trọng và tuân theo các giá trị truyền thống được thể hiện rõ nhất trong việc nuôi dạy con cái của các ESTJ. Những người mang tính cách ESTJ dạy dỗ con như các ông bố ở thập niên 50 - nghiêm khắc và luôn bảo vệ những quy định truyền thống trong gia đình. Các ESTJ được coi là những công dân kiểu mẫu, lịch sự và tốt bụng, vì vậy họ cũng hy vọng những đứa trẻ sẽ lấy mình làm tấm gương để noi theo.\n\n<i>“Những Người giám hộ có quan điểm sống hướng tới sự trách nhiệm và có niềm tin vững chắc rằng mình sẽ góp phần xây dựng một tổ ấm hạnh phúc.”</i>\n\nVì vậy, ngay từ khi những đứa trẻ còn nhỏ, các ESTJ đã rèn cho chúng cách trở nên độc lập và biết đóng góp cho mái nhà chung, từ những việc nhỏ nhất như dọn dẹp chén đĩa, dọn dẹp phòng ngủ, đi ngủ đúng giờ.\n\nTuy nhiên, việc nghiêm khắc uốn nắn con cái của các ESTJ có thể gặp khó khăn khi những đứa trẻ lớn lên và tiến tới độ tuổi vị thành niên. Các ESTJ muốn những đứa trẻ tuân theo luật lệ mà họ đặt ra để bảo vệ chúng, và họ sẽ không tha thứ nếu những luật lệ đó bị phá bỏ.\n\nNhững Người giám hộ không cần con cái lớn lên trở nên xuất sắc hay làm ông to bà lớn, họ chỉ muốn chúng biết cách trân trọng những người xung quanh và có trách nhiệm với những hành động của mình. Bên cạnh đó, các bậc phụ huynh ESTJ cũng muốn con họ trở nên mạnh mẽ và giỏi giang, tuy nhiên để có thể trở nên như vậy thì họ cần trao quyền lựa chọn và tự quyết cho những đứa trẻ, như vậy chúng mới có thể biết đâu là điều nên làm, đâu là điều nên tránh.",
                                 },
                                 {
-                                    "titleChild": "Quá bao bọc",
-                                    "content": "Khi những đứa trẻ lớn lên và bắt đầu bước ra ngoài để khám phá thế giới, những Người quan tâm sẽ càng yêu thương và che chở cho chúng, tuy nhiên đôi khi chính họ lại không kiểm soát được hành vi của mình và bao bọc con cái quá mức cần thiết. Các ESFJ không chỉ bảo vệ sức khỏe của những đứa trẻ mà còn rất quan tâm tới đời sống tinh thần của chúng. Họ sẵn sàng thay con cái sắp xếp giờ giấc vui chơi ngủ nghỉ, những điều rất đơn giản mà những đứa trẻ hoàn toàn có thể tự điều chỉnh để rèn tính tự lập.\n\nKhi dạy con cái những bài học về cuộc sống, các ESFJ thường ưu tiên hướng những đứa trẻ sống chan hòa và tốt bụng với mọi người, bản thân họ cũng là một tấm gương sáng để những đứa trẻ noi theo. Tuy vậy, những Người quan tâm cũng biết phân biệt đúng sai rạch ròi, trong gia đình họ thường sẽ là người đưa ra quyết định cuối cùng. Nếu những đứa trẻ phạm phải sai lầm lớn thì họ cũng sẽ nhất quyết can thiệp để dạy dỗ lại chúng.",
+                                    "titleChild": "Trung thực làm nền tảng",
+                                    "content": "Các cha mẹ ESTJ cần chuẩn bị tinh thần khi con cái họ học cách cân bằng giữa mong muốn được độc lập phát triển và đáp ứng những kỳ vọng của cha mẹ. Tuy nhiên, may mắn thay là các ESTJ có lợi thế là sự chính trực, thẳng thắn, vì vậy họ biết chính xác mình muốn gì và cần làm gì. Và con cái họ cũng sẽ hiểu được sự nỗ lực hàng ngày của cha mẹ khi muốn xây dựng cho chúng một cuộc sống tốt đẹp, không có lo âu và muộn phiền.",
                                 },
-                                {
-                                    "titleChild": "Lợi thế của việc tự lập",
-                                    "content": "Khi những đứa trẻ bước vào tuổi vị thành niên và dần rời xa khỏi vòng tay bao bọc của cha mẹ, các bậc phụ huynh ESFJ sẽ cảm thấy rất mất mát. Họ không muốn đối diện với sự thật rằng mình đang dần mất đi con cái và sẽ làm tất cả để níu kéo những đứa trẻ ở lại với mình càng lâu càng tốt.\n\nMặt khác, các ESFJ cũng có thể tự hào vì những kiến thức, kỹ năng, kinh nghiệm mà mình đã chuẩn bị kỹ càng cho con cái làm hành trang cần thiết để vững tin bước vào đời. Đổi lại, những đứa trẻ cũng cảm nhận được tình yêu thương vô bờ bến và niềm tin mãnh liệt mà cha mẹ dành cho mình. Sau này khi trở thành cha mẹ, con cái của các ESFJ sẽ càng trân trọng điều đó, và yên tâm hơn khi biết rằng cha mẹ vẫn đang dõi theo và sẵn sàng hỗ trợ bất cứ khi nào mình cần.",
-                                }
                             ],
                         },
                     ]
                 },
                 {
-                    "section": "Làm sao để thân thiết với ESFJ",
+                    "section": "Làm sao để thân thiết với ESTJ",
                     "items": [
                         {
-                            "content": "Là một người hòa đồng, các ESFJ có thể dễ dàng xây dựng mối quan hệ với những người xung quanh. Tuy nhiên, để trở nên thân thiết với nhóm tính cách này bạn cần phải thể hiện được sự chân thành, nghiêm túc và ý định xây dựng mối quan hệ bền vững.\n\nĐối với Người quan tâm, một mối quan hệ mang lại cho họ cảm giác an toàn, bình yên chính là điều quý giá nhất. Vì thế, cách tốt nhất để thân thiết với ESFJ chính là tạo cho họ sự thoải mái và nồng nhiệt.\n\nMột số điều bạn cần chú ý khi tiếp xúc với ESFJ:\n\n●      <b>Hãy lắng nghe và tương tác với họ mỗi khi trò chuyện.</b> Các ESFJ rất nhạy cảm, họ sẽ dễ cảm thấy tủi thân nếu như đối phương không tỏ thái độ gì trong mỗi cuộc trò chuyện. Vì thế khi nói chuyện với ESFJ bạn hãy tươi cười và tập trung lắng nghe, dù cho cả hai đang thảo luận bất kể chủ đề gì.\n\n●      <b>Hãy bày tỏ lòng biết ơn.</b> Các ESFJ rất quan tâm đến những người xung quanh. Họ sống tình cảm, luôn muốn phục vụ người khác và sẽ cảm động nếu nhận được những lời khen ngợi, động viên từ đối phương. Bạn hãy bày tỏ lòng biết ơn đối với sự chân thành và quan tâm mà ESFJ dành cho mình.\n\n●      <b>Hãy luôn giữ liên lạc và thăm hỏi họ.</b> Khi đã ở trong vòng tròn bạn bè với ESFJ, bạn hãy thường xuyên liên lạc và hỏi thăm họ, kể cả khi không có chuyện gì. Điều này sẽ khiến họ rất vui vì cảm thấy được quan tâm.\n\n●      <b>Tuyệt đối không cãi lý với ESFJ.</b> Khi các ESFJ nổi giận, bạn không nên cố gắng cãi lý, khuyên nhủ hay chỉ bảo họ thay vào đó chỉ cần lắng nghe và bày tỏ sự đồng cảm với họ. Bằng cách này cơn giận của ESFJ sẽ nguôi dần.\n\n●      <b>Luôn thể hiện tinh thần trách nhiệm trước mặt ESFJ.</b> Các ESFJ đánh giá cao tinh thần trách nhiệm của tất cả mọi người, vì thế bạn hãy thể hiện cho họ thấy được điều này. Bạn không nên làm những việc vi phạm quy định trước mặt ESFJ như vứt rác bừa bãi, hút thuốc ở nơi công cộng hoặc làm ồn ở rạp chiếu phim.\n\n●      <b>Hãy biết giữ lời.</b> ESFJ rất giữ lời khi đưa ra bất cứ cam kết gì và họ mong muốn đối phương cũng như vậy. Nếu phải hủy hẹn với họ bạn hãy liên lạc sớm. Họ sẽ rất thất vọng nếu đối phương hủy hẹn mà không báo trước.\n\nCó thể thấy, tính cách hòa đồng, nồng nhiệt và chân thành đã giúp các ESFJ chinh phục được nhiều người. Tuy nhiên, điều ESFJ tìm kiếm là một mối quan hệ tốt và bền vững, cả hai đều mang lại sự thoải mái cho nhau. Một khi đã trở nên thân thiết với ESFJ, bạn chắc chắn sẽ nhận được sự ấm áp và quan tâm từ họ. Các ESFJ sẽ luôn bảo vệ và phục vụ những người thân yêu bởi đối với họ đây chính là điều hạnh phúc."
+                            "content": "Các ESTJ cởi mở và nhiệt tình, nếu đối phương cho họ thấy những điểm chung, sự chân thành và tin tưởng thì việc xây dựng một mối quan hệ thân thiết là điều không quá khó. Lúc này họ sẽ nhiệt tình kết giao, thậm chí còn khuấy động bầu không khí bằng cách rủ bạn ra ngoài và tham gia nhiều hoạt động trải nghiệm thú vị.\n\nSự quan tâm từ ESTJ sẽ cho bạn thấy họ đề cao lòng trung thành và sự tin tưởng trong việc xây dựng các mối quan hệ thân thiết đến nhường nào. Một điều tối kỵ khi kết thân với ESTJ là đừng để họ chứng kiến sự bừa bãi và lộn xộn của bạn, bởi họ là những người rất ngăn nắp và trật tự.\n\nSau đây là một số cách giúp bạn có thể làm thân với ESTJ:\n\n●      <b>Hãy hỏi ESTJ những vấn đề chuyên môn.</b> Các ESTJ đúng chuẩn “con nhà người ta”, giỏi từ công việc cho đến cuộc sống, vì thế nếu gặp phải những vấn đề về chuyên môn bạn hãy yêu cầu họ giúp đỡ. Sau đó, hãy cảm ơn Người giám hộ bằng một món quà thiết thực hoặc mời họ một bữa ăn ngon.\n\n●      <b>Đừng đối thoại với ESTJ bằng các câu chuyện trừu tượng.</b> Những người mang tính cách ESTJ rất thực tế, họ tin vào sự thật và những điều mang tính thực tiễn, vì thế đừng cố đối thoại với họ bằng câu chuyện trừu tượng, phi thực tế như ma thuật, trắc nghiệm tâm lý, linh hồn. Họ sẽ không bao giờ hứng thú cùng bạn đàm đạo các chủ đề mà theo họ là gây mất thời gian này đâu.\n\n●      <b>Đừng dành lời khen quá đà cho ESTJ.</b> Những Người giám hộ có thể đánh giá cao những lời khen mà mọi người dành cho mình nhưng nếu bạn đưa ra một lời khen quá đà họ sẽ cảm thấy ngượng ngùng và cho rằng những lời nói đó là không đáng tin.\n\n●      <b>Khi ESTJ nổi giận, hãy thẳng thắn hỏi họ lý do.</b> Các ESTJ rất trung thực và thẳng thắn, nếu thấy họ nổi giận bạn nên hỏi rõ lý do vì sao. Họ sẽ chia sẻ cụ thể vấn đề của mình với bạn, từ đó có thể cùng nhau giải quyết những khúc mắc mà hai người đang gặp phải.\n\n●      <b>Đừng đánh giá sự kiên định của ESTJ là cố chấp.</b> Một trong những tính cách của Người giám hộ là luôn kiên định trong mọi việc. Dù có bị mọi người phản đối thì họ vẫn lựa chọn tiến về phía trước. Những lúc như thế này bạn nên công nhận thực lực của họ thay vì xem đó là biểu hiện của sự cố chấp.\n\nCó thể nói các ESTJ có đủ sự nhiệt tình, cởi mở và chân thành trong việc kết giao với mọi người xung quanh. Tuy nhiên họ không kết giao tùy tiện mà luôn tìm kiếm những người có chung quan điểm, mang lại sự tin tưởng cho mình. Một khi đã ở trong vòng bạn bè của ESTJ, bạn chắc chắn không bao giờ cảm thấy nhàm chán vì sẽ luôn nhận được sự quan tâm và cơ hội trải nghiệm nhiều hoạt động thú vị cùng Người giám hộ."
                         },
                     ],
                 },
@@ -3364,15 +3364,15 @@ export const mbtiData = {
                     "section": "Con đường sự nghiệp",
                     "items": [
                         {
-                            "content": "Những người thuộc nhóm tính cách ESFJ phù hợp với những công việc đòi hỏi tính thực tiễn, tiếp xúc với nhiều người hoặc ở vị trí nhà lãnh đạo. Những Người quan tâm là những người có tính tổ chức tốt, thích sự trật tự, hợp với môi trường làm việc có hệ thống phân cấp rõ ràng, nhiệm vụ cụ thể, kế hoạch dài hạn. Họ không ngại phải làm những công việc nhàm chán có tính chất lặp đi lặp lại nhiều lần."
+                            "content": "Con đường sự nghiệp của các ESTJ rất rõ ràng và dễ hiểu như chính con người họ. Mặc dù có nhiều sự lựa chọn nhưng quyết định của họ luôn hướng tới làm việc cho các tổ chức, cơ quan. Về lâu dài, cách sống theo lối truyền thống, biết trân trọng những gì nhận được của các ESTJ sẽ giúp họ phát triển tốt theo lộ trình đã đặt ra.\n\nSự trung thành của các ESTJ giúp họ gắn bó rất lâu với một tổ chức, có thể là trong vài năm liền, vì vậy họ rất hợp với công việc như luật sư, quân nhân, nhân viên y tế.\n\n<i>“Những Người giám hộ luôn biết nắm bắt cơ hội và có sự nhất quán trong công việc, vì vậy lộ trình thăng tiến của họ khá thuận lợi.”</i>"
                         },
                         {
-                            "title": "Lòng vị tha",
-                            "content": "Công việc quản trị dường như sinh ra để dành cho các ESFJ, bởi họ không chỉ có khả năng quản trị một tổ chức mà còn quản trị tốt từng cá nhân trong tổ chức ấy. Với kinh nghiệm và kỹ năng của mình, các ESFJ cũng rất phù hợp cho công việc kế toán, kiểm toán, đặc biệt là kế toán cá nhân vì khi ấy họ có thể giao tiếp và giúp đỡ nhiều người thay vì chỉ tiếp xúc với các con số như những vị trí khác, ví dụ như kế toán kho. Tuy nhiên những công việc thiên về phân tích thuần túy thường rất nhàm chán, các ESFJ cần tương tác với người khác để chắc chắn rằng mình đang làm việc hiệu quả.\n\nLà người biết lắng nghe và sẵn sàng giúp đỡ những người xung quanh, công việc trong ngành y tế cũng rất phù hợp với các ESFJ.\n\nBên cạnh đó, những người thuộc nhóm tính cách ESFJ cũng có thể tham gia vào công việc giảng dạy, bởi khi đó họ có thể vừa quản lý một lớp học vừa có thể giao tiếp, trò chuyện với các em học sinh.\n\n<i>“Điều kiện mà các ESFJ mong muốn ở công việc mơ ước là cho phép họ giúp đỡ người khác và bản thân cũng được trân trọng, đánh giá cao.”</i>\n\nNhững người thuộc nhóm tính cách ESFJ có lòng vị tha, tính cách vô tư, rộng lượng, họ chỉ cảm thấy hài lòng khi mình có thể giúp đỡ người khác hoàn thành một nhiệm vụ khó nhằn. Đây cũng là một yếu tố thúc đẩy các ESFJ thăng tiến trên con đường sự nghiệp."
+                            "title": "Con ong chăm chỉ",
+                            "content": "Các ESTJ là những nhân viên văn phòng kiểu mẫu và họ luôn cố gắng duy trì lý tưởng đó xuyên suốt hành trình sự nghiệp. Những người thuộc nhóm tính cách ESTJ có năng khiếu làm lãnh đạo trong nhiều ngành nghề khác nhau. Việc có thể quản lý con người cũng như có đủ năng lực nhìn nhận, đánh giá, thể hiện nguyên tắc và giá trị của mình giúp các ESTJ trở thành những người sếp mẫu mực và có tiếng nói.\n\nTuy nhiên họ cũng là những người lãnh đạo có phần đáng sợ, bởi các ESTJ sẽ thể hiện ra mặt việc họ bài xích tính vô tổ chức, kém cỏi, lười biếng và đặc biệt là không trung thực trong công việc. Ngược lại, một tập hồ sơ được sắp xếp hoàn chỉnh hoặc một đầu việc được hoàn thành đúng thời hạn, đúng mục tiêu, đúng ngân sách sẽ khiến các ESTJ vô cùng hài lòng. Kiểm toán viên, nhân viên tài chính, quản trị kinh doanh hoặc một số vị trí tương tự là những công việc rất phù hợp với những người thuộc nhóm tính cách ESTJ.\n\nChăm chỉ và nỗ lực là điểm mạnh trong công việc của các ESTJ, vì vậy họ cũng hợp với các công việc như nhân viên kinh doanh, nhân viên bán lẻ, nhân viên văn phòng hoặc thành lập một đại lý độc lập. Dù làm việc trong dự án lớn hay nhỏ thì các ESTJ cũng có xu hướng gắn bó tới khi dự án kết thúc. Và với tính cách ngăn nắp cẩn thận của mình thì họ sẽ giải quyết tất cả nhiệm vụ kể cả những nhiệm vụ nhỏ nhất và có độ quan trọng thấp nhất. Những phẩm chất ấy giúp các ESTJ có định hướng thăng tiến rõ ràng trong sự nghiệp."
                         },
                         {
                             "title": "Những nghề nghiệp phù hợp",
-                            "content": "Nhìn chung, dù lựa chọn nghề nghiệp gì thì các ESFJ cũng rất thoải mái khi được làm việc cùng đám đông, được tiếp xúc với nhiều người. Họ biết tận dụng và kết hợp kinh nghiệm cùng kỹ năng thực tiễn để không chỉ làm việc kiếm sống mà còn để tận hưởng công việc của mình.\n\nTrong công việc, các ESFJ muốn nhận được sự công nhận từ đồng nghiệp và cấp trên, đó không chỉ là sự công nhận trong thành tích mà còn là công nhận về sự giúp đỡ và hỗ trợ tận tình với các phòng ban liên quan. Việc ý thức được mình đang tạo ra giá trị cho tổ chức sẽ là một động lực thúc đẩy họ trên con đường sự nghiệp.\n\nXác định được định hướng lâu dài, đồng thời ý thức được những điểm mạnh và điểm yếu của bản thân là cách tốt nhất giúp bạn ngày càng đi lên trong sự nghiệp và có khả năng gắn bó lâu dài. Dưới đây là một số công việc mà những người thuộc nhóm tính cách ESFJ có thể tham khảo:\n\n●      Cố vấn/ Công tác xã hội\n\n●      Thủ thư/ Kế toán/ Kiểm toán\n\n●      Chăm sóc sức khỏe tại gia\n\n●      Y tá\n\n●      Chăm sóc trẻ em\n\n●      Lãnh đạo\n\n●      Giáo viên\n\n●      Trưởng phòng\n\n●      Trợ lý giám đốc\n\n●      Kinh doanh hộ gia đình\n\n●      Chuyên viên thẩm mỹ, làm đẹp\n\n●      Nhân viên bán hàng\n\n●      Nhân viên kinh doanh"
+                            "content": "Là những công dân kiểu mẫu với mong muốn tìm kiếm sự ổn định trong sự nghiệp, kết hợp với đức tính trung thành, đáng tin thì các ESTJ rất thích hợp với công việc như quân nhân, cảnh sát hoặc làm việc trong lĩnh vực pháp lý.\n\nViệc tôn trọng các quy định và nguyên tắc chung trong công việc, kết hợp với tính cách cần mẫn, tỉ mỉ giúp những người thuộc nhóm tính cách ESTJ có thể đảm nhiệm tốt vai trò trong ngành tài chính, kế - kiểm toán.\n\nNhìn chung, để thực hiện tốt công việc và có lộ trình phát triển về lâu về dài, các ESTJ cần xác định rõ mục tiêu cũng như những điểm mạnh, điểm yếu của bản thân trước khi bước chân vào con đường sự nghiệp.\n\nDưới đây là một số nghề nghiệp mà các ESTJ có thể tham khảo:\n\n●      Quản lý nhà hàng, khách sạn\n\n●      Quản trị kinh doanh\n\n●      Quân nhân\n\n●      Kiểm soát viên\n\n●      Cảnh sát/ Thám tử\n\n●      Kế - kiểm toán\n\n●      Nhân viên bán hàng\n\n●      Giáo viên"
                         },
                     ]
                 },
@@ -3380,72 +3380,344 @@ export const mbtiData = {
                     "section": "Thói quen nơi công sở",
                     "items": [
                         {
-                            "content": "Ở nơi làm việc, những tính cách điển hình của các ESFJ càng được bộc lộ rõ ràng. Họ làm việc dựa trên sự hài hòa, trật tự trong công việc, đồng thời đảm bảo rằng mỗi cá nhân đều nhận thức được trách nhiệm của mình, cần làm gì và làm như thế nào. Các ESFJ làm việc tốt nhất trong môi trường được phân cấp rõ ràng, và dù ở vị trí nào thì họ cũng muốn được tôn trọng và lắng nghe."
+                            "content": "Tính cách rõ ràng và nhất quán của các ESTJ được thể hiện rõ nhất tại môi trường công sở. Dù là nhân viên cấp dưới, là lãnh đạo hay trong mối quan hệ với đồng nghiệp, các ESTJ cũng có xu hướng tuân theo quy định chung và hoàn thành công việc với tiêu chuẩn cao nhất có thể."
                         },
                         {
-                            "title": "ESFJ khi là cấp dưới",
-                            "content": 'Những người thuộc nhóm tính cách ESFJ ý thức rất rõ về vai trò và trách nhiệm của mình. Họ làm việc một cách kiên nhẫn, chăm chỉ, hiệu quả cao, và đặc biệt là rất tôn trọng cấp trên. Họ không ngại khó ngại khổ mà sẽ luôn sẵn sàng cống hiến hết mình cho công việc. Các ESFJ làm việc tốt nhất ở những môi trường có tính an toàn, ổn định, có nguyên tắc và kỷ luật. Ngược lại, những nơi làm việc liên tục có sự thay đổi, chuyển giao sẽ khiến họ cảm thấy bức bối.'
+                            "title": "ESTJ khi là nhân viên",
+                            "content": 'Những Người giám hộ làm việc chăm chỉ và nghiêm chỉnh như một cuốn sách giáo khoa. Tuy đôi khi có chút cứng đầu và kém linh hoạt, nhưng nhìn chung các ESTJ luôn đặt trách nhiệm lên hàng đầu và lấy đó làm tiêu chuẩn trong công việc.\n\nNhững người thuộc nhóm tính cách ESTJ nổi tiếng với sự trung thành và tận tâm trong công việc, nhưng điều đó cũng tùy thuộc nhiều vào việc cấp trên của họ là ai. Các ESTJ sẵn sàng đưa ra ý kiến trong các cuộc họp, phân biệt đúng - sai rõ ràng để giải quyết triệt để các vấn đề tồn đọng.'
                         },
                         {
-                            "title": "ESFJ khi là đồng nghiệp",
-                            "content": "Các ESFJ không gặp khó khăn gì khi làm việc nhóm bởi họ rất thích tiếp xúc và hỗ trợ đồng nghiệp bất cứ khi nào họ cần. Những Người quan tâm cũng biết đánh giá điểm mạnh, điểm yếu của bản thân và những người trong team để phân chia công việc và hoàn thành dự án đúng hạn.\n\nTuy nhiên, nhược điểm của các ESFJ là dễ tổn thương khi bị chỉ trích. Nếu các ý kiến đóng góp của các ESFJ bị từ chối, họ sẽ rơi vào trạng thái căng thẳng, mất tinh thần."
+                            "title": "ESTJ khi là đồng nghiệp",
+                            "content": "Các ESTJ nổi tiếng là những người biết sắp xếp không gian làm việc để duy trì sự ngăn nắp, gọn gàng. Không chỉ vậy, họ còn dễ gần, thân thiện và rất thành thực, điều đó giúp những người thuộc nhóm tính cách ESTJ nhanh chóng hòa đồng và được nhiều người yêu quý. Tuy vậy nhưng các ESTJ không bao giờ có ý định lợi dụng các mối quan hệ để bước lên vị trí cao hơn. Họ cũng không thích những người sẵn sàng đưa ra những ý tưởng táo bạo vô lý để thể hiện bản thân.\n\nNhững người thuộc nhóm tính cách ESTJ thích làm việc nhóm, họ thích trở thành một phần của tập thể và tổ chức. Họ sẵn sàng nhận những lời chỉ trích và phê bình để cải thiện được những mặt yếu kém của mình. Các ESTJ cũng sẽ luôn để ý tới tiến trình của cá nhân họ và của cả đội nhóm để đảm bảo họ đang đi đúng hướng."
                         },
                         {
-                            "title": "ESFJ khi là cấp trên",
-                            "content": "Những người thuộc nhóm tính cách ESFJ rất tận hưởng việc nhận trách nhiệm quản lý đội nhóm hay tổ chức, vì đó là điểm mạnh của họ. Với cương vị là một người lãnh đạo, các ESFJ sẽ tạo động lực cho từng cá nhân phát triển năng lực, gắn kết nhân viên cấp dưới, tạo mối quan hệ hài hòa giữa các phòng ban.\n\nĐồng thời, những nhà lãnh đạo ESFJ rất đề cao việc phân chia quyền lực, sắp xếp nhân sự trong một tổ chức, và nếu một cá nhân nào đó có ý định thách thức quyền lực của họ thì các ESFJ sẽ không bao giờ tha thứ. Những Người quan tâm luôn cố gắng hết sức để hạn chế xung đột chốn công sở và đảm bảo mỗi cá nhân đều ý thức được mình đang ở vị trí nào và vai trò của họ là gì."
+                            "title": "ESTJ khi là cấp trên",
+                            "content": "Các ESTJ rất giỏi trong tổ chức đội nhóm và phân chia công việc, điều này được thể hiện rõ nhất khi họ làm cấp trên. Tuy đôi khi nhân viên của các cấp trên ESTJ sẽ thấy sếp mình có phần hống hách và giám sát quá chặt, thế nhưng tất cả những gì họ làm đều để bảo vệ đội nhóm của mình khỏi nguy cơ bị cắt giảm nhân sự nếu hoạt động không hiệu quả. Chính vì vậy, các ESTJ sẽ không tha thứ cho những cấp dưới lười biếng vô ý thức.\n\nDù là cấp trên nhưng các ESTJ rất hy vọng cấp dưới sẽ tôn trọng và nghe lời họ vô điều kiện. Họ không thích những thay đổi và muốn mọi thứ được vận hành hoàn hảo như một cuốn sách. Họ cũng thích những quy định mang tính truyền thống và cố hữu, và nếu có cấp dưới nào không tuân theo quy định của các ESTJ thì họ có khả năng sẽ “lọt vào tầm ngắm” của sếp và bị phê bình ngay lập tức."
                         },
                     ]
                 },
                 {
-                    "section": "So sánh ESFJ với INFJ, ESFJ",
+                    "section": "So sánh ESTJ với ENTJ, ISTJ",
                     "items": [
                         {
-                            "content": "Khi so sánh ESFJ (Người quan tâm) với những nhóm tính cách có sự tương đồng (<b>ESF</b>P - Người trình diễn, I<b>SFJ</b> - Người truyền cảm hứng) sẽ giúp bạn hiểu rõ hơn các đặc điểm tính cách của ESFJ."
+                            "content": "So sánh ESTJ (Người giám hộ) với các nhóm tính cách có sự tương đồng: <b>E</b>N<b>TJ</b> (Người điều hành) và I<b>STJ</b> - (Người trách nhiệm) sẽ giúp bạn làm rõ hơn đặc trưng tính cách của ESTJ."
                         },
                         {
                             "title": "Điểm giống nhau",
-                            "content": 'S - Giác quan và F - Cảm xúc: Cả ba nhóm tính cách MBTI này là những người sống theo cảm xúc. Họ có xu hướng suy nghĩ và đưa ra quyết định dựa trên cảm xúc. Tuy nhiên khi lý giải ý nghĩa của các sự vật, sự việc xung quanh cả ESFJ, ESFP và ISFJ sẽ vận dụng tất cả giác quan để thu thập dữ liệu.\n\nNếu đối chiếu ESFJ với từng nhóm ESFP, ISFJ, chúng tôi nhận thấy mỗi cặp sẽ có những điểm chung riêng như sau:\n\n●      <b>ESF</b>J và <b>ESF</b>P: Cả hai đều là những người thân thiện và vui vẻ. Họ rất phù hợp khi cùng nhau trò chuyện về những khía cạnh xã hội và các chủ đề chung.\n\n●      E<b>SFJ</b> và I<b>SFJ</b>: Cả hai đều quan tâm đến việc chăm sóc gia đình. Họ có xu hướng tìm kiếm sự an toàn và ổn định trong tất cả mọi việc. Trong các mối quan hệ hai nhóm MBTI này đều hướng đến một hệ thống có sự phân cấp rõ ràng và cho họ cơ hội tương tác xã hội.',
+                            "content": 'T - Lý trí và J - Nguyên tắc: Cả ba nhóm tính cách MBTI này đều là những con người logic, lý trí và có nguyên tắc. Họ đưa ra các phán đoán dựa chủ yếu vào lý trí và tư duy logic, họ có tiêu chuẩn giá trị riêng và cứ theo đó mà thực hiện. Cũng bởi vì thế mà cả ESTJ, ENTJ và ISTJ đều rất quyết đoán, tự tin và dứt khoát trong việc đưa ra các quyết định. Dù trong công việc hay cuộc sống hàng ngày thì họ cũng đều là những người có trách nhiệm.\n\nNếu so sánh cặp tính cách riêng lẻ: ESTJ và ISTJ, ESTJ và ENTJ, chúng tôi nhận thấy mỗi cặp có các điểm chung riêng như sau:\n\n●      <b>E</b>S<b>TJ</b> và <b>E</b>N<b>TJ</b>: Cả hai đều là những người có năng lực trực giác thấp, họ luôn phán đoán mọi việc nhờ lý trí. Năng lực quản lý bản thân của họ rất xuất sắc nhờ sự nguyên tắc vốn có trong tính cách của mình, nhưng đi kèm với đó là sự tự phụ.\n\n●      E<b>STJ</b> và I<b>STJ</b>: Cả ESTJ và ISTJ đều rất thực tế và làm việc có năng suất. Họ luôn theo đuổi con đường ngắn nhất và đạt hiệu quả tối đa. Cả hai nhóm tính cách này đều rạch ròi về thời gian và tiến độ công việc theo một trình tự cụ thể. Họ xem trọng truyền thống và lễ tiết, là những con người nhất quán và rất đáng tin cậy.',
                         },
                         {
                             "title": "Điểm khác nhau",
-                            "content": "Bên cạnh các điểm giống nhau, giữa ESFJ và ESFP, ISFJ vẫn tồn tại những điểm khác biệt trong cách tiếp cận thông tin, xây dựng mối quan hệ và công việc. Cùng theo dõi bảng sau để so sánh sự khác nhau giữa 3 nhóm MBTI này:" 
+                            "content": "Cả ESTJ, ENTJ và ISTJ đều có những điểm khác biệt trong cách tiếp nhận thông tin, xây dựng các mối quan hệ và trong công việc. Bảng so sánh sau đây sẽ giúp bạn hình dung rõ hơn những điểm khác nhau giữa ba nhóm MBTI này." 
                         },
                     ],
                     "tables": [
                         {
-                            "headers": ["Đặc điểm", "ESFP", "ESFJ", "ISFJ"],
+                            "headers": ["Đặc điểm", "ENTJ", "ESTJ", "ISTJ"],
                             "rows": [
-                                ["Diễn giải chữ viết tắt", "E - Hướng ngoại<br>S - Giác quan<br>F - Cảm xúc<br><b>P - Linh hoạt</b>", "<b>E - Hướng ngoại</b><br>S - Giác quan<br>F - Cảm xúc<br><b>J - Nguyên tắc</b>", "<b>I - Hướng nội</b><br>S - Giác quan<br>F - Cảm xúc<br>J - Nguyên tắc"],
-                                ["Cách tiếp cận thông tin", "Tận hưởng thế giới một cách hồn nhiên nhưng tiếp cận thông tin rất linh hoạt, dựa trên các quy tắc do chính họ đặt ra", "Dựa trên các số liệu cụ thể và đo lường thực tế", "Sử dụng cả năm giác quan gồm: khứu giác, thị giác, thính giác, xúc giác và vị giác để cảm nhận"],
-                                ["Trong các mối quan hệ", "- Quảng giao và nhiệt tình, đi tới đâu là có người quen tới đó<br>- Rất thẳng thắn, thậm chí đôi khi lỗ mãng, nhưng sự cởi mở của họ dễ dàng xoa dịu cơn giận của đối phương<br>- Không thích những mối quan hệ đòi hỏi phải sử dụng trực giác hay suy nghĩ nhiều", "- Chân thành và nồng nhiệt, luôn chủ động trong việc mở rộng các mối quan hệ<br>- Sẵn sàng dành nhiều thời gian và muốn phục vụ những người quan trọng<br>- Đặt ra nhiều nguyên tắc cụ thể và kế hoạch dài hạn<br>- Sẵn lòng cho đi, thích làm cho đối phương thấy thoải mái nhưng cũng mong đợi được đền đáp lại", "- Không chủ động kết thân một cách tùy hứng với ai dù là người có khả năng hòa nhập tuyệt vời<br>- Rất quan tâm và dành nhiều tình cảm cho đối phương. Họ có xu hướng đặt nhu cầu của người khác lên trên bản thân khi cả hai đã trở nên thân thiết<br>- Dễ cảm động và thấy biết ơn nếu nhận được sự quan tâm từ người khác dù khi cho đi họ không mong cầu được đáp lại"],
-                                ["Trong công việc", "- Có xu hướng thiên về công việc thực hành hơn lý thuyết<br>- Giải quyết công việc dựa trên sự ngẫu hứng nhưng đưa ra quyết định nhanh vào những thời điểm cấp bách<br>- Không né tránh các rủi ro mà chọn cách đối mặt và giải quyết triệt để<br>- Không thích hợp với môi trường công việc khắt khe, nhiều quy tắc và điều lệ", "- Làm tốt ở các vị trí như nhân viên kinh doanh/bán hàng, nhà đàm phán, tiếp thị<br>- Phù hợp với môi trường được tiếp xúc với nhiều người, có trật tự và hệ thống phân cấp rõ ràng<br>- Không ngại làm các công việc có tính chất lặp đi lặp lại nhiều lần<br>- Công việc mơ ước của ESFJ là cho phép họ giúp đỡ người khác và bản thân cũng được trân trọng, đánh giá cao", "- Có thể trở thành nhà lãnh đạo và quản trị lý tưởng<br>- Ưu tiên sự an toàn và ổn định<br>- Luôn chăm chỉ làm việc, thậm chí biến công việc thành niềm tự hào<br>- Phù hợp với các công việc cần vận dụng khả năng quan sát tốt, nhạy bén, sắp xếp, tổ chức, hoặc yêu cầu tính thẩm mỹ cao"]
+                                ["Diễn giải chữ viết tắt", "E - Hướng ngoại<br><b>N - Trực giác</b><br>T - Lý trí<br>J - Nguyên tắc", "<b>E - Hướng ngoại</b><br><b>S - Giác quan</b><br>T - Lý trí<br>J - Nguyên tắc", "<b>I - Hướng nội</b><br>S - Giác quan<br>T - Lý trí<br>J - Nguyên tắc"],
+                                ["Cách tiếp cận thông tin", "Tiếp cận thông tin dựa vào kinh nghiệm bản thân. Rất quyết đoán khi đưa ra quyết định nhưng có thể có xu hướng áp đặt.", "Dựa trên những số liệu và thông tin cụ thể mang tính thực tiễn.", "Dựa trên những thông tin thực tế thu nạp được từ các giác quan và đánh giá kỹ càng trên nhiều góc độ."],
+                                ["Trong các mối quan hệ", "- Thường kết giao với những người có chung niềm đam mê, sở thích và lối suy luận.<br>- Họ đưa ra khá nhiều tiêu chuẩn khi kết giao với người mới nhưng khi đã trở thành bạn bè thì rất chăm chút cho mối quan hệ, hành động nhiều hơn nói, chủ động quan tâm chăm sóc<br>- Coi trọng lời hứa, sẽ tìm mọi cách thực hiện lời hứa của mình.", "- Thẳng thắn nói ra những điều không hài lòng về người khác chứ không đánh giá sau lưng.<br>- Luôn nhiệt tình và nỗ lực hết mình trong các mối quan hệ. Họ hỗ trợ giúp đối phương trở thành phiên bản tốt hơn.<br>- Kết giao bạn bè dựa trên sự tin tưởng và lòng trung thành. Thích kết giao với những người có cùng quan điểm sống và hạn chế tiếp xúc với những người khác quan điểm.", "- Là những người cởi mở và nhiệt tình, rất chân thành và thẳng thắn, biết chia sẻ giá trị tích cực với những người xung quanh.<br>- Rất kiên định trong tình yêu, chú trọng việc tiến triển qua các giai đoạn từ làm quen - tìm hiểu - tiến đến hôn nhân.<br>- Không dễ dàng kết bạn, thường tiếp cận mọi người một cách chậm rãi và có phương pháp.<br>- Nghiêm túc và không thích đùa giỡn tình cảm<br>- Thấu hiểu và đồng cảm với người khác dù không hay thể hiện tình cảm ra bên ngoài.<br>- Là người trung thành, đáng tin cậy và sẵn sàng giúp đỡ người khác<br>- Không thích những mối quan hệ ngẫu nhiên mà yêu thích tiếp cận và tìm hiểu có quá trình, nhất là trong tình yêu."],
+                                ["Trong công việc", "- Táo bạo và nhiệt huyết, luôn hoàn thành các công việc được giao đúng hạn với tiêu chuẩn cao nhất.<br>- Chìa khóa dẫn đến thành công của ENTJ là trật tự và nguyên tắc. Họ không bao giờ nghĩ đến thất bại, luôn vạch rõ chiến lược thực thi.<br>- Là ứng viên sáng giá cho vị trí lãnh đạo.<br>- Phù hợp với công việc kinh doanh, luật sư, thẩm phán hoặc giáo sư đại học.", "- Ưu tiên các công việc có tính an toàn và ổn định, có xu hướng gắn bó lâu dài tại một tổ chức.<br>- Là những nhân viên chăm chỉ và nỗ lực, luôn sắp xếp và giải quyết các nhiệm vụ được giao một cách cẩn thận, bất kể là nhiệm vụ nhỏ hay quan trọng<br>- Có năng lực lãnh đạo và quản lý con người<br>- Phù hợp với các công việc như nhân viên kinh doanh, nhân viên văn phòng, nhân viên bán lẻ, cảnh sát, quân nhân hoặc công việc trong lĩnh vực pháp lý.", "- Thiên về các công việc có tính ổn định lâu dài, khao khát sự an toàn và bền vững.<br>- Giỏi sắp xếp và quản lý công việc nhưng đôi khi hơi cứng nhắc và kém linh hoạt<br>- Phát huy tốt năng lực và tạo ra năng suất tốt nhất khi làm việc một mình.<br>- Là nhân viên mẫu mực và chăm chỉ, họ coi trọng trách nhiệm và xem đó là cơ hội để chứng minh khả năng của bản thân.<br>- Phù hợp với các công việc như luật sư, quân nhân, thẩm phán, cảnh sát, kế toán, quản lý tài chính, kinh doanh, bác sĩ, v.vv.."]
                             ]
                         }
                     ],
-                    "content": "Cả ba nhóm tính cách ESFJ và ESFP, ISFJ đều là những người thiên về cảm xúc. Các quyết định họ đưa ra có thể chịu sự chi phối của cảm xúc, nhưng họ vẫn sử dụng tất cả các giác quan để đảm bảo đưa ra các quyết định phù hợp nhất. Tuy nhiên, cách tiếp cận thông tin, sự tương tác trong các mối quan hệ, công việc của ba nhóm MBTI này lại có sự khác biệt.\n\nCác ESFJ thường dựa trên số liệu cụ thể và đo lường thực tế, ISFJ sử dụng khả năng quan sát và tổ chức, trong khi ESFP có xu hướng thiên về thực hành hơn lý thuyết, họ đối mặt để giải quyết triệt để các vấn đề. Những nét riêng của mỗi nhóm sẽ tạo nên sự đa dạng trong cách họ xây dựng mối quan hệ và xác định hướng đi trong cuộc đời cho bản thân." 
+                    "content": "Cả ESTJ, ENTJ và ISTJ đều là những người nguyên tắc, lý trí và rất có trách nhiệm. Họ quyết đoán và tự tin trong tất cả mọi việc, tuy nhiên giữa họ có sự khác biệt trong cách tiếp cận thông tin. Nếu ESTJ tôn trọng sự thật và dựa vào thông tin thực tiễn để đưa ra quyết định, ISTJ cẩn trọng, ưu tiên sự chắc chắn và tư duy logic thì ENTJ lại là những người cá tính và nhạy bén trong việc tìm ra giải pháp.\n\nVì sự khác biệt này nên ESTJ, ENTJ và ISTJ cũng nhìn nhận cuộc sống, xây dựng các mối quan hệ và phát triển sự nghiệp theo cách riêng của họ, từ đó tạo nên bản sắc riêng cho từng nhóm tính cách." 
                 },
                 {
-                    "section": "Lời khuyên dành cho ESFJ",
+                    "section": "Lời khuyên dành cho ESTJ",
                     "items": [
                         {
-                            "title": "Luôn nuôi dưỡng các điểm mạnh",
-                            "content": 'Một trong những điểm mạnh trong tính cách của ESFJ là quan tâm và cho đi, hãy lan tỏa và thể hiện điều này ra thế giới xung quanh. Bạn có thể tận dụng các cơ hội để nuôi dưỡng và phát triển chúng thông qua những tình huống cụ thể xảy ra trong mối quan hệ bạn bè, gia đình và công sở. Hoặc các ESFJ cũng có thể tìm kiếm một công việc và sở thích giúp bản thân nhận ra những điểm mạnh này.',
+                            "title": "Không nên loại bỏ các ý tưởng quá sớm",
+                            "content": 'Các ESTJ không nên vội vàng bỏ qua các ý tưởng chỉ vì nghĩ rằng bản thân đã biết kết quả rồi. Thay vào đó bạn nên tìm hiểu về những ý tưởng đó, tìm hiểu càng sâu càng chi tiết thì bạn càng có nhiều góc nhìn thú vị hơn, từ đó đưa ra quyết định loại bỏ hay phát triển ý tưởng đó thành một kế hoạch hoàn chỉnh.',
                         },
                         {
-                            "title": "Biết cách chấp nhận và đối mặt với điểm yếu",
-                            "content": "Các ESFJ cần hiểu rằng, không ai là hoàn hảo cả, mỗi người đều có những điểm hạn chế riêng. Điều quan trọng là bạn nhận ra yếu điểm của mình và biết cách cải thiện chúng. Nhận ra và đối mặt với điểm yếu của bản thân không có nghĩa là phải thay đổi con người thật của mình. Ngược lại chúng sẽ giúp bạn có thêm cơ hội để phát triển bản thân, tôn vinh con người thật của mình."
+                            "title": 'Cái "bẫy giận dữ" có thể khiến bạn thất bại',
+                            "content": 'Sự kiên định đối với các nguyên tắc của ESTJ là rất đáng ngưỡng mộ tuy nhiên chúng có thể gây hại nếu bạn rơi vào cái "bẫy giận dữ". Hãy luôn nhớ rằng, cơn giận sẽ phá hoại các mối quan hệ cá nhân của Người giám hộ và gây tổn thương cho người khác. Vì thế các ESTJ nên suy xét thật kỹ sự bực bội của mình, đừng trút chúng lên đầu người khác. Kiểm soát sự bất đồng và thất vọng bằng một thái độ khách quan và bình thản nhất sẽ khiến ESTJ nhìn nhận vấn đề tốt hơn.',
                         },
                         {
-                            "title": "Đừng quá vội vàng đưa ra phán xét",
-                            "content": "Khi gặp bất cứ vấn đề gì, các ESFJ không nên vội vàng đưa ra phán xét, thay vào đó hãy cố gắng xem xét tất cả thông tin hoặc sự việc xảy ra trong một tình huống cụ thể. Mọi thứ mà bạn nhìn thấy không phải lúc nào cũng như vẻ bề ngoài của chúng. Việc nhìn nhận thế giới xung quanh một cách cẩn thận, khám phá sự thật bên trong sẽ giúp ESFJ có nhiều góc nhìn trực quan hơn. Từ đó bạn sẽ thu nhập các dữ liệu thông tin hữu ích cho việc đưa ra quyết định hoặc quan điểm của bản thân. Cách tốt nhất là đừng để bản thân rơi vào cái bẫy khi nghĩ rằng quan điểm của người khác về thế giới cũng có giá trị như quan điểm của bạn."
+                            "title": "Kiềm chế ham muốn kiểm soát người khác",
+                            "content": "Một trong những điểm yếu của ESTJ là ngoan cố và thích kiểm soát người khác. Họ luôn áp đặt suy nghĩ của mình lên người khác dù cho suy nghĩ đó là đúng hay sai. Các ESTJ cần hiểu rằng, bạn muốn sống theo ước muốn của bạn thì người khác cũng vậy, không ai có quyền áp đặt suy nghĩ của mình lên người khác. Thay vì đánh giá hoặc kiểm soát người khác, các ESTJ nên tập trung khả năng phán xét của mình để tạo ra những nguyên tắc mang tính khách quan thì sẽ tốt hơn rất nhiều."
                         },
                         {
-                            "title": "Biết cách bày tỏ nhu cầu của bản thân",
-                            "content": "Các ESFJ hãy bày tỏ những nghi ngờ, khó khăn hoặc mong muốn của bản thân cho mọi người xung quanh vì ai cũng cần hiểu bạn và nhu cầu của bạn. Nếu không chắc chắn bất cứ vấn đề gì hoặc một ai đó, ESFJ nên tham khảo ý kiến từ những người có kinh nghiệm. Bạn không nên để nỗi sợ hãi khiến bản thân rơi vào tình thế tiến thoái lưỡng nan hoặc dẫn đến thất bại. Việc bộc bạch những suy nghĩ của bản thân sẽ giúp Người quan tâm xây dựng các mối quan hệ đối tác tốt đẹp. Các ESFJ hãy làm những gì mình muốn và đừng quá bận tâm đến ánh mắt của người khác."
+                            "title": "Đừng dổ lỗi, hãy chịu trách nhiệm với bản thân",
+                            "content": "Các ESTJ đừng cố đổ những rắc rối trong cuộc sống của mình lên đầu người khác. Thay vào đó bạn hãy bình tĩnh tìm kiếm giải pháp vì chỉ có bạn mới có thể kiểm soát tốt hơn cuộc sống của mình."
                         },
                         {
-                            "title": "Đừng thu mình lại",
-                            "content": "Cuối cùng, các ESFJ nên bước ra khỏi vùng an toàn của bản thân, khám phá thế giới bên ngoài và mọi người xung quanh, từ đó mở rộng tầm nhìn, tập trung vào những ý tưởng và cơ hội mới. Bạn càng tìm kiếm những điều tốt đẹp xung quanh thì sẽ càng nhận ra mỗi người đều là một mỏ vàng có giá trị, cũng như mọi tình huống đều có thể trở nên tốt đẹp."
+                            "title": "Hãy phê bình và thấu hiểu một cách tinh tế",
+                            "content": "Các ESTJ nên xem trọng mọi điều thú vị, có thể nói là kỳ diệu trong các mối quan hệ của bản thân hơn là sự phê bình và chỉ trích. Đôi khi sự phê bình sẽ không mang lại hiệu quả đâu nhé. Bạn nên để ý đến cảm xúc của mọi người xung quanh. Khi ai đó mắc lỗi, thay vì chỉ trích, các ESTJ hãy dành thời gian lắng nghe tâm sự, thấu hiểu họ để cả hai cùng tìm ra tiếng nói chung."
+                        },
+                        {
+                            "title": "Hãy biết dành thời gian nghỉ ngơi",
+                            "content": "Cuối cùng, các ESTJ nên biết phân biệt rõ ràng giữa công việc ở công ty và các hoạt động phát triển bản thân. Bạn hãy thử nghĩ xem liệu ngoài chốn công sở, bạn đã có một cuộc sống riêng tư chưa. Nếu bạn có thể phân biệt được thời gian cho công việc và thời gian cho bản thân, bạn sẽ tích lũy được nguồn năng lượng cho một chặng đường dài với nhiều dự định trong tương lai.\n\nVì thế hãy thêm vào thời gian biểu của mình những khoảng thời gian nghỉ ngơi, có thể là tham gia hoạt động thể thao hoặc một bộ môn như yoga, thiền, v.vv.. Chúng sẽ giúp các ESTJ tìm ra sự cân bằng cho cuộc sống."
+                        },
+                    ]
+                },
+            ]
+        },
+        {
+            "code": "ENFP",
+            "name": "Người giám hộ",
+            "description": "Họ là những Người giám hộ với tinh thần nỗ lực không ngừng nghỉ trong mọi khía cạnh của cuộc sống. Những người thuộc nhóm tính cách ESTJ yêu thích những giá trị truyền thống, thượng tôn pháp luật, luôn làm việc dựa trên lý thuyết thực tiễn và logic. Trong công việc, ESTJ là nhóm tính cách có phương pháp xử lý công việc nhanh và hiệu quả nhất.",
+            "image": "../img/estj.png",
+            "details": [
+                {
+                    "section": "Tổng quan",
+                    "items": [
+                        {
+                            "content": "<b>ESTJ (Người giám hộ)</b> yêu thích những giá trị truyền thống, thượng tôn pháp luật, luôn làm việc dựa trên lý thuyết thực tiễn và logic. Trong công việc, ESTJ là nhóm tính cách có phương pháp xử lý công việc nhanh và hiệu quả nhất."
+                        },
+                        {
+                            "title": "ESTJ là viết tắt của những chữ cái gì?",
+                            "content": "●      <b>E - Hướng ngoại:</b> Đối với những người mang tính cách ESTJ, thế giới bên ngoài mới là thế giới thực. Trái ngược với tính cách I - Hướng nội luôn đắm mình trong thế giới nội tâm.\n\n●      <b>S - Giác quan:</b> Các ESTJ tập trung vào những gì mình quan sát được bằng năm giác quan (thính giác, khứu giác, thị giác, vị giác, xúc giác).\n\n●      <b>T - Lý trí:</b> Bạn đưa ra quyết định dựa trên góc nhìn thực tế bằng số liệu và đo lường chính xác. Ngược lại, các F - Cảm xúc ưu tiên đưa ra quyết định dựa trên cảm nhận cá nhân.\n\n●      <b>J - Nguyên tắc:</b> Bạn dựa vào cấu trúc sẵn có để thoải mái đưa ra quan điểm mà không phải mất công suy xét nhiều. Trong khi đó, những người thiên về tính cách P - Linh hoạt lại thích môi trường tự do và họ sẽ tự sắp đặt quy tắc bên trong cho mình."
+                        },
+                        {
+                            "title": "Đề cao nguyên tắc, luật lệ",
+                            "content": 'Các ESTJ sống trong thế giới nơi mà họ đặt tất cả niềm tin vào sự thật và những điều mang tính thực tiễn. Họ tận hưởng từng giây phút của cuộc sống một cách từ từ và chậm rãi. Những Người giám hộ đề cao truyền thống và luật lệ, họ có niềm tin và đức tin của riêng mình cũng như hy vọng những người xung quanh cũng có quan điểm sống tương tự với mình. Trong công việc, họ coi trọng hiệu quả và năng suất làm việc, lúc nào cũng trong trạng thái nóng lòng nhìn thấy thành quả của mình.',
+                        },
+                        {
+                            "title": 'Nhìn xa trông rộng',
+                            "content": "Các ESTJ thường là những người phải chịu trách nhiệm chính trong nhiều vấn đề, bởi họ có tầm nhìn xa trông rộng, đây cũng là lý do khiến những người thuộc nhóm tính cách này rất thích hợp với vị trí lãnh đạo. Họ không chỉ tự tin mà cũng đủ dứt khoát trong việc đưa ra quyết định hay lên chiến lược cho một dự án nào đó. Điều đó khiến nhiều người cảm thấy các ESTJ có phần khắt khe và khó gần, nhất là khi cá nhân họ không thể theo kịp những tiêu chuẩn mà các ESTJ đặt ra."
+                        },
+                        {
+                            "title": 'Con nhà người ta',
+                            "content": "Trong mắt những người xung quanh, các ESTJ giống như là “con nhà người ta” vậy. Họ ngoan ngoãn, chăm chỉ, giỏi giang và gặt hái được nhiều thành công trong cuộc sống lẫn trong công việc."
+                        },
+                        {
+                            "title": 'Náo nhiệt và vui vẻ',
+                            "content": "Các ESTJ là những người náo nhiệt và thích tương tác với những người xung quanh. Họ đặc biệt thích tham gia vào những hoạt động tập thể trong gia đình hoặc tại nơi làm việc."
+                        },
+                        {
+                            "title": "Nhưng đôi khi lại tự tạo áp lực lên bản thân",
+                            "content": "Khi tâm trạng không tốt, các ESTJ có xu hướng cô lập bản thân khỏi những người xung quanh. Những người thuộc nhóm tính cách ESTJ thường xuyên có cảm giác bị hiểu nhầm và đánh giá thấp so với năng lực thật sự của mình. Và dù bình thường họ là những người vô cùng năng nổ và hoạt ngôn, khi tâm trạng không được tốt thì các ESTJ cũng gặp rất nhiều khó khăn trong việc truyền đạt cảm xúc của mình."
+                        },
+                        {
+                            "title": "Hướng về lợi ích chung",
+                            "content": "Các ESTJ coi trọng sự an toàn, ổn định và trật tự vốn có trong xã hội. Họ thúc đẩy bản thân phải hoàn thành tất cả những gì cần thiết để đạt được mục tiêu cuối cùng: xây dựng nên một xã hội giàu đẹp, văn minh, hạnh phúc."
+                        },
+                        {
+                            "title": "Cầu toàn",
+                            "content": "Trong cuộc sống, các ESTJ sẽ cố gắng làm tốt ở mọi lĩnh vực, từ công việc, gia đình, tình yêu, v.vv.. với tất cả tâm huyết để đạt được kết quả tốt nhất. Những Người giám hộ thường ưu tiên những công việc có tính khả thi và mang tính thực tiễn hơn là những mục tiêu có phần mơ hồ.\n\nLà những người thẳng thắn, không lòng vòng, các ESTJ sẵn sàng lên tiếng nếu thấy có điều gì đó bất bình. Họ sẽ không ngần ngại chỉ ra lỗi sai của người khác. Tuy tính cách này sẽ khiến nhiều người nghĩ rằng ESTJ là nhóm tính cách cứng nhắc, nhưng đây lại là cách tốt nhất để đưa mọi chuyện trở lại quỹ đạo vốn có."
+                        },
+                        {
+                            "title": "Những người nổi tiếng mang tính cách ESTJ:",
+                            "content": "● Emma Watson\n● Adele\n● Estée Lauder\n● Celine Dion\n● Gordon Ramsay\n● Bruce Willis\n● Hillary Clinton\n● Sam Walton"
+                        }
+                    ]
+                },
+                {
+                    "section": "Điểm mạnh và điểm yếu",
+                    "items": [
+                        {
+                            "title": "Điểm mạnh",
+                            "itemsChild": [
+                                {
+                                    "titleChild": "Cống hiến",
+                                    "content": "Đối mặt với các nhiệm vụ được giao, các ESTJ luôn sẵn lòng đón nhận. Họ lấy công việc làm niềm vui miễn là công việc ấy không đi ngược lại các giá trị đạo đức của họ.",
+                                },
+                                {
+                                    "titleChild": "Ý chí mạnh mẽ",
+                                    "content": "Các ESTJ không phải là người dễ dàng thay đổi quyết định chỉ vì một số quan điểm trái chiều. Họ biết bảo vệ ý kiến của mình, và trừ khi bạn thuyết phục họ bằng những lập luận rõ ràng, chính xác thì họ sẽ bảo vệ chính kiến đến cùng.",
+                                },
+                                {
+                                    "titleChild": "Chính trực và trung thực",
+                                    "content": "Những người thuộc nhóm tính cách ESTJ tin tưởng vào sự thật được chứng minh hơn là những ý tưởng mơ hồ, và họ cũng sẽ đáp lại bằng sự trung thực, thẳng thắn của mình.",
+                                },
+                                {
+                                    "titleChild": "Trung thành, kiên nhẫn, đáng tin cậy",
+                                    "content": "Những Người giám hộ đề cao tính ổn định và an toàn. Ngoài ra, khi một ESTJ nói họ sẽ làm điều gì đó thì họ sẽ làm với tinh thần nghiêm túc và tập trung cao độ, điều này khiến trong mắt đồng nghiệp, gia đình và bạn bè thì các ESTJ là những người rất có trách nhiệm và có thể tin tưởng.",
+                                },
+                                {
+                                    "titleChild": "Trật tự và ngăn nắp",
+                                    "content": 'Sự hỗn loạn và mất trật tự khiến mọi chuyện trở nên bớt đáng tin hơn hẳn, và các ESTJ thì không thích những gì không đáng tin. Vì vậy, để giữ cho mọi thứ luôn chuẩn chỉnh và đi vào quỹ đạo, các ESTJ sẽ thiết lập luật lệ, quy tắc hoặc một số yêu cầu cơ bản lên chính bản thân mình.',
+                                },
+                                {
+                                    "titleChild": "Khả năng tổ chức tuyệt vời",
+                                    "content": 'Việc luôn đánh giá mọi thứ dựa vào sự thực và tiêu chuẩn chung khiến các ESTJ trở thành những nhà lãnh đạo đáng tin tưởng và vô cùng có năng lực, vì họ biết nhìn nhận điểm mạnh của từng cá nhân và có thể phân chia công việc cho mọi người một cách công bằng, khách quan.',
+                                },
+                            ],
+                        },
+                        {
+                            "title": "Điểm yếu",
+                            "itemsChild": [
+                                {
+                                    "titleChild": "Kém linh hoạt",
+                                    "content": 'Việc luôn bám vào những điều thực tế và thực sự hiệu quả khiến các ESTJ đôi khi bỏ qua những gì có thể tạo ra hiệu quả trong tương lai. Đối với họ, tất cả những gì chưa được chứng minh đều chỉ được coi là ý kiến để tham khảo, và họ sẽ miễn cưỡng tin vào ý kiến đó cho tới khi nó được làm sáng tỏ.',
+                                },
+                                {
+                                    "titleChild": "Thích bình thường hơn là bất thường",
+                                    "content": "Những Người giám hộ đi theo lối suy nghĩ truyền thống và khi đẩy vào một tình huống bất ngờ mà chưa có sự chuẩn bị họ sẽ bị stress. Nếu có ai đó đưa ra ý tưởng mới và hiệu quả hơn ý tưởng của họ và buộc họ thoát ly khỏi vòng suy nghĩ cố hữu của mình thì họ sẽ rất lo sợ, sợ rằng ý tưởng mới đó sẽ thất bại và ảnh hưởng tới hình ảnh của họ trong mắt người khác.",
+                                },
+                                {
+                                    "titleChild": "Ngoan cố",
+                                    "content": "Những người thuộc nhóm tính cách ESTJ đôi khi khá ngoan cố, họ đặt nặng vấn đề về những việc họ cho là đúng hoặc sai và áp dụng suy nghĩ đó cho tất cả mọi người. Điều đó khiến họ bỏ qua những sự việc vốn dĩ có thể thực hiện linh hoạt bằng cách này hoặc cách khác. Các ESTJ không chấp nhận những ý kiến trái chiều ấy và sẽ bắt tay vào chỉnh đốn lại cho đúng với ý họ mới thôi.",
+                                },
+                                {
+                                    "titleChild": "Quá đặt nặng địa vị xã hội",
+                                    "content": "Những người thuộc nhóm tính cách ESTJ tự hào khi được bạn bè, đồng nghiệp và xã hội coi trọng, nhưng đồng thời họ cũng rất để ý tới việc người khác nghĩ về mình như thế nào. Các ESTJ (nhất là những người có tính cách T trội) có thể bị cuốn vào kỳ vọng của những người xung quanh mà quên mất mong muốn thật sự của bản thân.",
+                                },
+                                {
+                                    "titleChild": "Không ngơi nghỉ",
+                                    "content": 'Càng kỳ vọng nhiều thì các ESTJ càng phải làm việc nhiều để đạt được những kỳ vọng đó. Họ hiếm khi để cho bản thân được nghỉ ngơi vì sợ sẽ bị đánh giá, dù họ rất muốn được xả hơi để tham gia vào một hoạt động thú vị nào đó.',
+                                },
+                                {
+                                    "titleChild": "Hiếm khi bộc lộ cảm xúc",
+                                    "content": 'Đây hiển nhiên là điểm yếu lớn nhất của những người thuộc nhóm tính cách ESTJ: bày tỏ cảm xúc và đồng cảm với những người xung quanh. Các ESTJ quá chuyên tâm theo đuổi thứ mà họ coi là sự thật và đem lại hiệu quả mà đôi khi bỏ qua cảm nhận của người khác. Ví dụ như việc đa phần mọi người sẽ rất thích thú khi được đi trên một cung đường vòng với khung cảnh tuyệt đẹp trong chuyến dã ngoại cuối tuần, còn các ESTJ chỉ thấy họ đang tốn thêm cả giờ đồng hồ vòng vèo qua lại. Họ ước được đi theo trục đường chính ngắn nhất, tiết kiệm thời gian nhất.',
+                                },
+                            ],
+                        }
+                    ]
+                },
+                {
+                    "section": "Mối quan hệ",
+                    "items": [
+                        {
+                            "content": 'Những người thuộc nhóm tính cách ESTJ thích kết giao với những người có cùng quan điểm sống với mình. Đối với những người khác quan điểm, các ESTJ tôn trọng ý kiến của họ nhưng cũng sẽ cố gắng hết sức để không phải tiếp xúc quá nhiều trong tương lai, tránh những tranh cãi không đáng có.\n\nCác ESTJ khá cởi mở và nhiệt tình, mặc dù vẫn luôn coi những quy tắc của mình là ưu tiên hàng đầu. Họ thích tham gia vào các hoạt động xã hội và cũng khuyến khích bạn bè, người thân tham gia cùng, đặc biệt là đối với những hoạt động thể thao.\n\nTuy không phải là “tâm điểm của bữa tiệc” nhưng các ESTJ cũng là một người vô cùng thú vị, họ có vô vàn sở thích và sẵn sàng chia sẻ với những người xung quanh. Do đó bạn hầu như sẽ không bao giờ cảm thấy nhàm chán khi đi chơi cùng các ESTJ.\n\nNhìn chung, các ESTJ là những con người nhiệt huyết, biết cân bằng giữa nhu cầu bản thân và trách nhiệm xã hội. Họ luôn nỗ lực hết mình để thực hiện những công việc được giao.'
+                        },
+                        {
+                            "title": "ESTJ trong tình yêu",
+                            "itemsChild": [
+                                {
+                                    "content": "Các ESTJ có quan điểm khá kỳ lạ trong tình yêu, hầu như không có sự thay đổi đặc biệt nào khi tiến triển qua các giai đoạn từ làm quen, tìm hiểu rồi tiến tới hôn nhân. Là những người thẳng thắn, chân thành, những người thuộc nhóm tính cách ESTJ luôn xác định rõ bản thân mình là ai, đang ở vị trí nào, mình muốn gì trong tình yêu và cần làm gì để đạt được điều ấy. Người bạn đời của các ESTJ chỉ cần đi theo những kế hoạch mà họ đã vạch sẵn ra thì mối quan hệ giữa hai người sẽ đạt được kết quả như ý.",
+                                },
+                                {
+                                    "titleChild": "Tình yêu kiên định",
+                                    "content": "Những Người giám hộ rất kiên định với tình yêu của mình. Điều đó không có nghĩa là tình yêu của họ không có tiến triển. Trong tình yêu, họ sẽ không để bản thân bị ảnh hưởng bởi tâm trạng, mục tiêu hay những thay đổi xung quanh.\n\n<i>“Một tình yêu đẹp hầu như luôn đi kèm với thách thức, khó khăn, nhưng các ESTJ sẽ không để điều đó chi phối tình cảm mà mình dành cho bạn đời. Cuối cùng, những nỗ lực của họ sẽ được đền đáp bằng một kết quả ngọt ngào.”</i>\n\nDù nghe hơi truyền thống một chút nhưng thực sự các ESTJ không phải người nhàm chán. Họ rất thích đưa người yêu ra ngoài hẹn hò, đặc biệt là tới những sự kiện ở nơi công cộng, năng lượng tích cực và sự nhiệt tình của họ khiến mọi điều họ làm trở nên vô cùng thú vị và vui vẻ.\n\nNhững người thuộc nhóm tính cách ESTJ tiếp cận tình yêu từ nhiều khía cạnh, từ vật chất tới tâm hồn, vừa gần gũi vừa tích cực, song song với đó vẫn gìn giữ những giá trị truyền thống mà họ coi trọng. Các ESTJ không thích thơ văn hay những gì sến súa vì đối với họ điều đó chỉ dành cho những cặp đôi chưa trưởng thành, nhưng ngược lại thì họ cũng đánh giá cao việc hai người thường xuyên dành cho nhau những lời khen có cánh. Về đời sống tình dục, các ESTJ gần như là nhóm tính cách ổn định nhất, họ không có yêu cầu quá cao và cũng rất dễ hài lòng với đối phương.\n\nTuy vậy, những Người giám hộ cũng gặp một vài khó khăn trong quá trình yêu đương, chủ yếu liên quan đến vấn đề cảm xúc. Họ không dễ xúc động cũng như không hay nói những lời ngọt ngào, vì họ thích thể hiện tình yêu thông qua hành động cụ thể. Nhưng đối với nửa kia của các ESTJ, điều đó đôi khi đồng nghĩa với sự vô tâm và lạnh lùng.\n\nCác ESTJ thường bị đánh giá là cộc cằn nhưng một khi họ yêu mến ai thì trân quý hết lòng. Đây là một trong những nhóm tính cách duy trì mối quan hệ hôn nhân lâu dài. Họ nhớ các ngày kỷ niệm và những sự kiện tình yêu của hai người nhưng lại không thích những thứ bất ngờ. Các ESTJ có khuynh hướng biểu hiện tình cảm bằng vật chất.",
+                                },
+                                {
+                                    "titleChild": "Yêu trong thầm lặng",
+                                    "content": "Những Người giám hộ thường giải quyết xung đột giữa hai người bằng những lý thuyết thực tế, đơn giản. Điều đó là hoàn toàn hợp lý, nhưng việc quá tế nhị và khéo léo lại khiến họ phải hy sinh nhiều hơn, bởi không nhiều người sẽ cảm thấy thoải mái với tính cách máy móc như vậy. Trong khi đó, các ESTJ lại không phải những người giỏi đoán cảm xúc qua nét mặt, họ sẽ không biết khi nào nửa kia của mình cảm thấy hài lòng khi nào không, hậu quả là họ sẽ tiếp tục mơ hồ cư xử theo cách của riêng mình.\n\nNhững người thuộc nhóm tính cách ESTJ sử dụng chính kiến và sự tự tin của mình để bảo vệ bạn đời. Tuy nhiên sự cứng đầu và thẳng thắn quá mức của họ đôi khi làm tổn thương “trái tim thủy tinh” của người ấy.",
+                                },
+                            ],
+                        },
+                        {
+                            "title": "ESTJ trong tình bạn",
+                            "itemsChild": [
+                                {
+                                    "content": "Những Người giám hộ là những người bạn trung thành và biết chia sẻ giá trị tích cực với những người xung quanh. Các ESTJ và bạn bè thường có nhiều hoạt động và thói quen chung, những điều này thường bắt nguồn từ tác động bên ngoài nhiều hơn là sự đồng điệu về mặt cảm xúc từ bên trong. Tuy vậy, tình bạn của các ESTJ vẫn luôn vững bền và kiên định, đong đầy sự quan tâm và tin tưởng.",
+                                },
+                                {
+                                    "titleChild": "Nhiệt tình và vui vẻ",
+                                    "content": "Các ESTJ là những người vô cùng nhiệt tình, họ thích rủ bạn bè ra ngoài và tham gia các hoạt động thể thao. Và nếu bạn bè còn lưỡng lự thì các ESTJ có thể trở nên hơi hống hách và thúc ép một chút, nhưng đều vì muốn tốt cho bạn mà thôi. Là một người bạn của Người giám hộ, bạn có cơ hội được trải nghiệm vô vàn điều thú vị như tham gia hoạt động xã hội, đi xem bóng đá, cắm trại cuối tuần hoặc đơn giản là một bữa tiệc nướng vào một ngày Chủ nhật đẹp trời.\n\nNhững người thuộc nhóm tính cách ESTJ kết giao bạn bè dựa trên sự tin tưởng và lòng trung thành, và khi đã trở thành bạn bè của nhau thì họ sẽ không bao giờ để bạn phải buồn chán. Các ESTJ có thể không phải luôn là chủ xị của bữa tiệc, nhưng họ cực kỳ biết cách khuấy động bầu không khí.\n\nTuy là những người hướng ngoại và vui tính nhưng các ESTJ không phải lúc nào cũng kết giao bạn bè bởi họ có xu hướng tìm kiếm những người có tính cách giống mình. Những Người giám hộ khá bướng bỉnh và cứng đầu, vì vậy họ không hòa hợp được với những người có quan điểm sống khác với mình.",
+                                },
+                                {
+                                    "titleChild": "Tiếp cận ở phạm vi rộng hơn",
+                                    "content": "Thách thức của những người thuộc nhóm tính cách ESTJ trong tình bạn không phải là thiếu chuyện thú vị để làm hay thiếu bạn để chơi cùng mà là có quá nhiều bạn và quá nhiều thứ để trải nghiệm. Khi tham gia các hoạt động cộng đồng, các ESTJ phải lắng nghe rất nhiều ý kiến khác nhau từ những người khác nhau, chưa kể tới việc một người còn có nhiều quan điểm khác nhau nữa.\n\n<i>“Sẽ rất tốt cho các ESTJ nếu họ có chính kiến của riêng mình.”</i>\n\nViệc tiếp nhận nhiều ý kiến từ nhiều cá nhân không phải xấu, ngoài việc xây dựng nền tảng cũng như bảo vệ niềm tin của mình thì các ESTJ nên mở lòng để đón nhận và xem xét các ý kiến khác nhau. Giống như cách họ nghĩ rằng những người cứ ở lì dưới tầng hầm chơi điện tử cần ra ngoài nhiều hơn để ngắm nhìn thế giới, thì bản thân họ cũng nên thay đổi để thích nghi với quan điểm mới.",
+                                }
+                            ],
+                        },
+                        {
+                            "title": "ESTJ khi làm cha mẹ",
+                            "itemsChild": [
+                                {
+                                    "content": "Sự chăm chỉ, tôn trọng và tuân theo các giá trị truyền thống được thể hiện rõ nhất trong việc nuôi dạy con cái của các ESTJ. Những người mang tính cách ESTJ dạy dỗ con như các ông bố ở thập niên 50 - nghiêm khắc và luôn bảo vệ những quy định truyền thống trong gia đình. Các ESTJ được coi là những công dân kiểu mẫu, lịch sự và tốt bụng, vì vậy họ cũng hy vọng những đứa trẻ sẽ lấy mình làm tấm gương để noi theo.\n\n<i>“Những Người giám hộ có quan điểm sống hướng tới sự trách nhiệm và có niềm tin vững chắc rằng mình sẽ góp phần xây dựng một tổ ấm hạnh phúc.”</i>\n\nVì vậy, ngay từ khi những đứa trẻ còn nhỏ, các ESTJ đã rèn cho chúng cách trở nên độc lập và biết đóng góp cho mái nhà chung, từ những việc nhỏ nhất như dọn dẹp chén đĩa, dọn dẹp phòng ngủ, đi ngủ đúng giờ.\n\nTuy nhiên, việc nghiêm khắc uốn nắn con cái của các ESTJ có thể gặp khó khăn khi những đứa trẻ lớn lên và tiến tới độ tuổi vị thành niên. Các ESTJ muốn những đứa trẻ tuân theo luật lệ mà họ đặt ra để bảo vệ chúng, và họ sẽ không tha thứ nếu những luật lệ đó bị phá bỏ.\n\nNhững Người giám hộ không cần con cái lớn lên trở nên xuất sắc hay làm ông to bà lớn, họ chỉ muốn chúng biết cách trân trọng những người xung quanh và có trách nhiệm với những hành động của mình. Bên cạnh đó, các bậc phụ huynh ESTJ cũng muốn con họ trở nên mạnh mẽ và giỏi giang, tuy nhiên để có thể trở nên như vậy thì họ cần trao quyền lựa chọn và tự quyết cho những đứa trẻ, như vậy chúng mới có thể biết đâu là điều nên làm, đâu là điều nên tránh.",
+                                },
+                                {
+                                    "titleChild": "Trung thực làm nền tảng",
+                                    "content": "Các cha mẹ ESTJ cần chuẩn bị tinh thần khi con cái họ học cách cân bằng giữa mong muốn được độc lập phát triển và đáp ứng những kỳ vọng của cha mẹ. Tuy nhiên, may mắn thay là các ESTJ có lợi thế là sự chính trực, thẳng thắn, vì vậy họ biết chính xác mình muốn gì và cần làm gì. Và con cái họ cũng sẽ hiểu được sự nỗ lực hàng ngày của cha mẹ khi muốn xây dựng cho chúng một cuộc sống tốt đẹp, không có lo âu và muộn phiền.",
+                                },
+                            ],
+                        },
+                    ]
+                },
+                {
+                    "section": "Làm sao để thân thiết với ESTJ",
+                    "items": [
+                        {
+                            "content": "Các ESTJ cởi mở và nhiệt tình, nếu đối phương cho họ thấy những điểm chung, sự chân thành và tin tưởng thì việc xây dựng một mối quan hệ thân thiết là điều không quá khó. Lúc này họ sẽ nhiệt tình kết giao, thậm chí còn khuấy động bầu không khí bằng cách rủ bạn ra ngoài và tham gia nhiều hoạt động trải nghiệm thú vị.\n\nSự quan tâm từ ESTJ sẽ cho bạn thấy họ đề cao lòng trung thành và sự tin tưởng trong việc xây dựng các mối quan hệ thân thiết đến nhường nào. Một điều tối kỵ khi kết thân với ESTJ là đừng để họ chứng kiến sự bừa bãi và lộn xộn của bạn, bởi họ là những người rất ngăn nắp và trật tự.\n\nSau đây là một số cách giúp bạn có thể làm thân với ESTJ:\n\n●      <b>Hãy hỏi ESTJ những vấn đề chuyên môn.</b> Các ESTJ đúng chuẩn “con nhà người ta”, giỏi từ công việc cho đến cuộc sống, vì thế nếu gặp phải những vấn đề về chuyên môn bạn hãy yêu cầu họ giúp đỡ. Sau đó, hãy cảm ơn Người giám hộ bằng một món quà thiết thực hoặc mời họ một bữa ăn ngon.\n\n●      <b>Đừng đối thoại với ESTJ bằng các câu chuyện trừu tượng.</b> Những người mang tính cách ESTJ rất thực tế, họ tin vào sự thật và những điều mang tính thực tiễn, vì thế đừng cố đối thoại với họ bằng câu chuyện trừu tượng, phi thực tế như ma thuật, trắc nghiệm tâm lý, linh hồn. Họ sẽ không bao giờ hứng thú cùng bạn đàm đạo các chủ đề mà theo họ là gây mất thời gian này đâu.\n\n●      <b>Đừng dành lời khen quá đà cho ESTJ.</b> Những Người giám hộ có thể đánh giá cao những lời khen mà mọi người dành cho mình nhưng nếu bạn đưa ra một lời khen quá đà họ sẽ cảm thấy ngượng ngùng và cho rằng những lời nói đó là không đáng tin.\n\n●      <b>Khi ESTJ nổi giận, hãy thẳng thắn hỏi họ lý do.</b> Các ESTJ rất trung thực và thẳng thắn, nếu thấy họ nổi giận bạn nên hỏi rõ lý do vì sao. Họ sẽ chia sẻ cụ thể vấn đề của mình với bạn, từ đó có thể cùng nhau giải quyết những khúc mắc mà hai người đang gặp phải.\n\n●      <b>Đừng đánh giá sự kiên định của ESTJ là cố chấp.</b> Một trong những tính cách của Người giám hộ là luôn kiên định trong mọi việc. Dù có bị mọi người phản đối thì họ vẫn lựa chọn tiến về phía trước. Những lúc như thế này bạn nên công nhận thực lực của họ thay vì xem đó là biểu hiện của sự cố chấp.\n\nCó thể nói các ESTJ có đủ sự nhiệt tình, cởi mở và chân thành trong việc kết giao với mọi người xung quanh. Tuy nhiên họ không kết giao tùy tiện mà luôn tìm kiếm những người có chung quan điểm, mang lại sự tin tưởng cho mình. Một khi đã ở trong vòng bạn bè của ESTJ, bạn chắc chắn không bao giờ cảm thấy nhàm chán vì sẽ luôn nhận được sự quan tâm và cơ hội trải nghiệm nhiều hoạt động thú vị cùng Người giám hộ."
+                        },
+                    ],
+                },
+                {
+                    "section": "Con đường sự nghiệp",
+                    "items": [
+                        {
+                            "content": "Con đường sự nghiệp của các ESTJ rất rõ ràng và dễ hiểu như chính con người họ. Mặc dù có nhiều sự lựa chọn nhưng quyết định của họ luôn hướng tới làm việc cho các tổ chức, cơ quan. Về lâu dài, cách sống theo lối truyền thống, biết trân trọng những gì nhận được của các ESTJ sẽ giúp họ phát triển tốt theo lộ trình đã đặt ra.\n\nSự trung thành của các ESTJ giúp họ gắn bó rất lâu với một tổ chức, có thể là trong vài năm liền, vì vậy họ rất hợp với công việc như luật sư, quân nhân, nhân viên y tế.\n\n<i>“Những Người giám hộ luôn biết nắm bắt cơ hội và có sự nhất quán trong công việc, vì vậy lộ trình thăng tiến của họ khá thuận lợi.”</i>"
+                        },
+                        {
+                            "title": "Con ong chăm chỉ",
+                            "content": "Các ESTJ là những nhân viên văn phòng kiểu mẫu và họ luôn cố gắng duy trì lý tưởng đó xuyên suốt hành trình sự nghiệp. Những người thuộc nhóm tính cách ESTJ có năng khiếu làm lãnh đạo trong nhiều ngành nghề khác nhau. Việc có thể quản lý con người cũng như có đủ năng lực nhìn nhận, đánh giá, thể hiện nguyên tắc và giá trị của mình giúp các ESTJ trở thành những người sếp mẫu mực và có tiếng nói.\n\nTuy nhiên họ cũng là những người lãnh đạo có phần đáng sợ, bởi các ESTJ sẽ thể hiện ra mặt việc họ bài xích tính vô tổ chức, kém cỏi, lười biếng và đặc biệt là không trung thực trong công việc. Ngược lại, một tập hồ sơ được sắp xếp hoàn chỉnh hoặc một đầu việc được hoàn thành đúng thời hạn, đúng mục tiêu, đúng ngân sách sẽ khiến các ESTJ vô cùng hài lòng. Kiểm toán viên, nhân viên tài chính, quản trị kinh doanh hoặc một số vị trí tương tự là những công việc rất phù hợp với những người thuộc nhóm tính cách ESTJ.\n\nChăm chỉ và nỗ lực là điểm mạnh trong công việc của các ESTJ, vì vậy họ cũng hợp với các công việc như nhân viên kinh doanh, nhân viên bán lẻ, nhân viên văn phòng hoặc thành lập một đại lý độc lập. Dù làm việc trong dự án lớn hay nhỏ thì các ESTJ cũng có xu hướng gắn bó tới khi dự án kết thúc. Và với tính cách ngăn nắp cẩn thận của mình thì họ sẽ giải quyết tất cả nhiệm vụ kể cả những nhiệm vụ nhỏ nhất và có độ quan trọng thấp nhất. Những phẩm chất ấy giúp các ESTJ có định hướng thăng tiến rõ ràng trong sự nghiệp."
+                        },
+                        {
+                            "title": "Những nghề nghiệp phù hợp",
+                            "content": "Là những công dân kiểu mẫu với mong muốn tìm kiếm sự ổn định trong sự nghiệp, kết hợp với đức tính trung thành, đáng tin thì các ESTJ rất thích hợp với công việc như quân nhân, cảnh sát hoặc làm việc trong lĩnh vực pháp lý.\n\nViệc tôn trọng các quy định và nguyên tắc chung trong công việc, kết hợp với tính cách cần mẫn, tỉ mỉ giúp những người thuộc nhóm tính cách ESTJ có thể đảm nhiệm tốt vai trò trong ngành tài chính, kế - kiểm toán.\n\nNhìn chung, để thực hiện tốt công việc và có lộ trình phát triển về lâu về dài, các ESTJ cần xác định rõ mục tiêu cũng như những điểm mạnh, điểm yếu của bản thân trước khi bước chân vào con đường sự nghiệp.\n\nDưới đây là một số nghề nghiệp mà các ESTJ có thể tham khảo:\n\n●      Quản lý nhà hàng, khách sạn\n\n●      Quản trị kinh doanh\n\n●      Quân nhân\n\n●      Kiểm soát viên\n\n●      Cảnh sát/ Thám tử\n\n●      Kế - kiểm toán\n\n●      Nhân viên bán hàng\n\n●      Giáo viên"
+                        },
+                    ]
+                },
+                {
+                    "section": "Thói quen nơi công sở",
+                    "items": [
+                        {
+                            "content": "Tính cách rõ ràng và nhất quán của các ESTJ được thể hiện rõ nhất tại môi trường công sở. Dù là nhân viên cấp dưới, là lãnh đạo hay trong mối quan hệ với đồng nghiệp, các ESTJ cũng có xu hướng tuân theo quy định chung và hoàn thành công việc với tiêu chuẩn cao nhất có thể."
+                        },
+                        {
+                            "title": "ESTJ khi là nhân viên",
+                            "content": 'Những Người giám hộ làm việc chăm chỉ và nghiêm chỉnh như một cuốn sách giáo khoa. Tuy đôi khi có chút cứng đầu và kém linh hoạt, nhưng nhìn chung các ESTJ luôn đặt trách nhiệm lên hàng đầu và lấy đó làm tiêu chuẩn trong công việc.\n\nNhững người thuộc nhóm tính cách ESTJ nổi tiếng với sự trung thành và tận tâm trong công việc, nhưng điều đó cũng tùy thuộc nhiều vào việc cấp trên của họ là ai. Các ESTJ sẵn sàng đưa ra ý kiến trong các cuộc họp, phân biệt đúng - sai rõ ràng để giải quyết triệt để các vấn đề tồn đọng.'
+                        },
+                        {
+                            "title": "ESTJ khi là đồng nghiệp",
+                            "content": "Các ESTJ nổi tiếng là những người biết sắp xếp không gian làm việc để duy trì sự ngăn nắp, gọn gàng. Không chỉ vậy, họ còn dễ gần, thân thiện và rất thành thực, điều đó giúp những người thuộc nhóm tính cách ESTJ nhanh chóng hòa đồng và được nhiều người yêu quý. Tuy vậy nhưng các ESTJ không bao giờ có ý định lợi dụng các mối quan hệ để bước lên vị trí cao hơn. Họ cũng không thích những người sẵn sàng đưa ra những ý tưởng táo bạo vô lý để thể hiện bản thân.\n\nNhững người thuộc nhóm tính cách ESTJ thích làm việc nhóm, họ thích trở thành một phần của tập thể và tổ chức. Họ sẵn sàng nhận những lời chỉ trích và phê bình để cải thiện được những mặt yếu kém của mình. Các ESTJ cũng sẽ luôn để ý tới tiến trình của cá nhân họ và của cả đội nhóm để đảm bảo họ đang đi đúng hướng."
+                        },
+                        {
+                            "title": "ESTJ khi là cấp trên",
+                            "content": "Các ESTJ rất giỏi trong tổ chức đội nhóm và phân chia công việc, điều này được thể hiện rõ nhất khi họ làm cấp trên. Tuy đôi khi nhân viên của các cấp trên ESTJ sẽ thấy sếp mình có phần hống hách và giám sát quá chặt, thế nhưng tất cả những gì họ làm đều để bảo vệ đội nhóm của mình khỏi nguy cơ bị cắt giảm nhân sự nếu hoạt động không hiệu quả. Chính vì vậy, các ESTJ sẽ không tha thứ cho những cấp dưới lười biếng vô ý thức.\n\nDù là cấp trên nhưng các ESTJ rất hy vọng cấp dưới sẽ tôn trọng và nghe lời họ vô điều kiện. Họ không thích những thay đổi và muốn mọi thứ được vận hành hoàn hảo như một cuốn sách. Họ cũng thích những quy định mang tính truyền thống và cố hữu, và nếu có cấp dưới nào không tuân theo quy định của các ESTJ thì họ có khả năng sẽ “lọt vào tầm ngắm” của sếp và bị phê bình ngay lập tức."
+                        },
+                    ]
+                },
+                {
+                    "section": "So sánh ESTJ với ENTJ, ISTJ",
+                    "items": [
+                        {
+                            "content": "So sánh ESTJ (Người giám hộ) với các nhóm tính cách có sự tương đồng: <b>E</b>N<b>TJ</b> (Người điều hành) và I<b>STJ</b> - (Người trách nhiệm) sẽ giúp bạn làm rõ hơn đặc trưng tính cách của ESTJ."
+                        },
+                        {
+                            "title": "Điểm giống nhau",
+                            "content": 'T - Lý trí và J - Nguyên tắc: Cả ba nhóm tính cách MBTI này đều là những con người logic, lý trí và có nguyên tắc. Họ đưa ra các phán đoán dựa chủ yếu vào lý trí và tư duy logic, họ có tiêu chuẩn giá trị riêng và cứ theo đó mà thực hiện. Cũng bởi vì thế mà cả ESTJ, ENTJ và ISTJ đều rất quyết đoán, tự tin và dứt khoát trong việc đưa ra các quyết định. Dù trong công việc hay cuộc sống hàng ngày thì họ cũng đều là những người có trách nhiệm.\n\nNếu so sánh cặp tính cách riêng lẻ: ESTJ và ISTJ, ESTJ và ENTJ, chúng tôi nhận thấy mỗi cặp có các điểm chung riêng như sau:\n\n●      <b>E</b>S<b>TJ</b> và <b>E</b>N<b>TJ</b>: Cả hai đều là những người có năng lực trực giác thấp, họ luôn phán đoán mọi việc nhờ lý trí. Năng lực quản lý bản thân của họ rất xuất sắc nhờ sự nguyên tắc vốn có trong tính cách của mình, nhưng đi kèm với đó là sự tự phụ.\n\n●      E<b>STJ</b> và I<b>STJ</b>: Cả ESTJ và ISTJ đều rất thực tế và làm việc có năng suất. Họ luôn theo đuổi con đường ngắn nhất và đạt hiệu quả tối đa. Cả hai nhóm tính cách này đều rạch ròi về thời gian và tiến độ công việc theo một trình tự cụ thể. Họ xem trọng truyền thống và lễ tiết, là những con người nhất quán và rất đáng tin cậy.',
+                        },
+                        {
+                            "title": "Điểm khác nhau",
+                            "content": "Cả ESTJ, ENTJ và ISTJ đều có những điểm khác biệt trong cách tiếp nhận thông tin, xây dựng các mối quan hệ và trong công việc. Bảng so sánh sau đây sẽ giúp bạn hình dung rõ hơn những điểm khác nhau giữa ba nhóm MBTI này." 
+                        },
+                    ],
+                    "tables": [
+                        {
+                            "headers": ["Đặc điểm", "ENTJ", "ESTJ", "ISTJ"],
+                            "rows": [
+                                ["Diễn giải chữ viết tắt", "E - Hướng ngoại<br><b>N - Trực giác</b><br>T - Lý trí<br>J - Nguyên tắc", "<b>E - Hướng ngoại</b><br><b>S - Giác quan</b><br>T - Lý trí<br>J - Nguyên tắc", "<b>I - Hướng nội</b><br>S - Giác quan<br>T - Lý trí<br>J - Nguyên tắc"],
+                                ["Cách tiếp cận thông tin", "Tiếp cận thông tin dựa vào kinh nghiệm bản thân. Rất quyết đoán khi đưa ra quyết định nhưng có thể có xu hướng áp đặt.", "Dựa trên những số liệu và thông tin cụ thể mang tính thực tiễn.", "Dựa trên những thông tin thực tế thu nạp được từ các giác quan và đánh giá kỹ càng trên nhiều góc độ."],
+                                ["Trong các mối quan hệ", "- Thường kết giao với những người có chung niềm đam mê, sở thích và lối suy luận.<br>- Họ đưa ra khá nhiều tiêu chuẩn khi kết giao với người mới nhưng khi đã trở thành bạn bè thì rất chăm chút cho mối quan hệ, hành động nhiều hơn nói, chủ động quan tâm chăm sóc<br>- Coi trọng lời hứa, sẽ tìm mọi cách thực hiện lời hứa của mình.", "- Thẳng thắn nói ra những điều không hài lòng về người khác chứ không đánh giá sau lưng.<br>- Luôn nhiệt tình và nỗ lực hết mình trong các mối quan hệ. Họ hỗ trợ giúp đối phương trở thành phiên bản tốt hơn.<br>- Kết giao bạn bè dựa trên sự tin tưởng và lòng trung thành. Thích kết giao với những người có cùng quan điểm sống và hạn chế tiếp xúc với những người khác quan điểm.", "- Là những người cởi mở và nhiệt tình, rất chân thành và thẳng thắn, biết chia sẻ giá trị tích cực với những người xung quanh.<br>- Rất kiên định trong tình yêu, chú trọng việc tiến triển qua các giai đoạn từ làm quen - tìm hiểu - tiến đến hôn nhân.<br>- Không dễ dàng kết bạn, thường tiếp cận mọi người một cách chậm rãi và có phương pháp.<br>- Nghiêm túc và không thích đùa giỡn tình cảm<br>- Thấu hiểu và đồng cảm với người khác dù không hay thể hiện tình cảm ra bên ngoài.<br>- Là người trung thành, đáng tin cậy và sẵn sàng giúp đỡ người khác<br>- Không thích những mối quan hệ ngẫu nhiên mà yêu thích tiếp cận và tìm hiểu có quá trình, nhất là trong tình yêu."],
+                                ["Trong công việc", "- Táo bạo và nhiệt huyết, luôn hoàn thành các công việc được giao đúng hạn với tiêu chuẩn cao nhất.<br>- Chìa khóa dẫn đến thành công của ENTJ là trật tự và nguyên tắc. Họ không bao giờ nghĩ đến thất bại, luôn vạch rõ chiến lược thực thi.<br>- Là ứng viên sáng giá cho vị trí lãnh đạo.<br>- Phù hợp với công việc kinh doanh, luật sư, thẩm phán hoặc giáo sư đại học.", "- Ưu tiên các công việc có tính an toàn và ổn định, có xu hướng gắn bó lâu dài tại một tổ chức.<br>- Là những nhân viên chăm chỉ và nỗ lực, luôn sắp xếp và giải quyết các nhiệm vụ được giao một cách cẩn thận, bất kể là nhiệm vụ nhỏ hay quan trọng<br>- Có năng lực lãnh đạo và quản lý con người<br>- Phù hợp với các công việc như nhân viên kinh doanh, nhân viên văn phòng, nhân viên bán lẻ, cảnh sát, quân nhân hoặc công việc trong lĩnh vực pháp lý.", "- Thiên về các công việc có tính ổn định lâu dài, khao khát sự an toàn và bền vững.<br>- Giỏi sắp xếp và quản lý công việc nhưng đôi khi hơi cứng nhắc và kém linh hoạt<br>- Phát huy tốt năng lực và tạo ra năng suất tốt nhất khi làm việc một mình.<br>- Là nhân viên mẫu mực và chăm chỉ, họ coi trọng trách nhiệm và xem đó là cơ hội để chứng minh khả năng của bản thân.<br>- Phù hợp với các công việc như luật sư, quân nhân, thẩm phán, cảnh sát, kế toán, quản lý tài chính, kinh doanh, bác sĩ, v.vv.."]
+                            ]
+                        }
+                    ],
+                    "content": "Cả ESTJ, ENTJ và ISTJ đều là những người nguyên tắc, lý trí và rất có trách nhiệm. Họ quyết đoán và tự tin trong tất cả mọi việc, tuy nhiên giữa họ có sự khác biệt trong cách tiếp cận thông tin. Nếu ESTJ tôn trọng sự thật và dựa vào thông tin thực tiễn để đưa ra quyết định, ISTJ cẩn trọng, ưu tiên sự chắc chắn và tư duy logic thì ENTJ lại là những người cá tính và nhạy bén trong việc tìm ra giải pháp.\n\nVì sự khác biệt này nên ESTJ, ENTJ và ISTJ cũng nhìn nhận cuộc sống, xây dựng các mối quan hệ và phát triển sự nghiệp theo cách riêng của họ, từ đó tạo nên bản sắc riêng cho từng nhóm tính cách." 
+                },
+                {
+                    "section": "Lời khuyên dành cho ESTJ",
+                    "items": [
+                        {
+                            "title": "Không nên loại bỏ các ý tưởng quá sớm",
+                            "content": 'Các ESTJ không nên vội vàng bỏ qua các ý tưởng chỉ vì nghĩ rằng bản thân đã biết kết quả rồi. Thay vào đó bạn nên tìm hiểu về những ý tưởng đó, tìm hiểu càng sâu càng chi tiết thì bạn càng có nhiều góc nhìn thú vị hơn, từ đó đưa ra quyết định loại bỏ hay phát triển ý tưởng đó thành một kế hoạch hoàn chỉnh.',
+                        },
+                        {
+                            "title": 'Cái "bẫy giận dữ" có thể khiến bạn thất bại',
+                            "content": 'Sự kiên định đối với các nguyên tắc của ESTJ là rất đáng ngưỡng mộ tuy nhiên chúng có thể gây hại nếu bạn rơi vào cái "bẫy giận dữ". Hãy luôn nhớ rằng, cơn giận sẽ phá hoại các mối quan hệ cá nhân của Người giám hộ và gây tổn thương cho người khác. Vì thế các ESTJ nên suy xét thật kỹ sự bực bội của mình, đừng trút chúng lên đầu người khác. Kiểm soát sự bất đồng và thất vọng bằng một thái độ khách quan và bình thản nhất sẽ khiến ESTJ nhìn nhận vấn đề tốt hơn.',
+                        },
+                        {
+                            "title": "Kiềm chế ham muốn kiểm soát người khác",
+                            "content": "Một trong những điểm yếu của ESTJ là ngoan cố và thích kiểm soát người khác. Họ luôn áp đặt suy nghĩ của mình lên người khác dù cho suy nghĩ đó là đúng hay sai. Các ESTJ cần hiểu rằng, bạn muốn sống theo ước muốn của bạn thì người khác cũng vậy, không ai có quyền áp đặt suy nghĩ của mình lên người khác. Thay vì đánh giá hoặc kiểm soát người khác, các ESTJ nên tập trung khả năng phán xét của mình để tạo ra những nguyên tắc mang tính khách quan thì sẽ tốt hơn rất nhiều."
+                        },
+                        {
+                            "title": "Đừng dổ lỗi, hãy chịu trách nhiệm với bản thân",
+                            "content": "Các ESTJ đừng cố đổ những rắc rối trong cuộc sống của mình lên đầu người khác. Thay vào đó bạn hãy bình tĩnh tìm kiếm giải pháp vì chỉ có bạn mới có thể kiểm soát tốt hơn cuộc sống của mình."
+                        },
+                        {
+                            "title": "Hãy phê bình và thấu hiểu một cách tinh tế",
+                            "content": "Các ESTJ nên xem trọng mọi điều thú vị, có thể nói là kỳ diệu trong các mối quan hệ của bản thân hơn là sự phê bình và chỉ trích. Đôi khi sự phê bình sẽ không mang lại hiệu quả đâu nhé. Bạn nên để ý đến cảm xúc của mọi người xung quanh. Khi ai đó mắc lỗi, thay vì chỉ trích, các ESTJ hãy dành thời gian lắng nghe tâm sự, thấu hiểu họ để cả hai cùng tìm ra tiếng nói chung."
+                        },
+                        {
+                            "title": "Hãy biết dành thời gian nghỉ ngơi",
+                            "content": "Cuối cùng, các ESTJ nên biết phân biệt rõ ràng giữa công việc ở công ty và các hoạt động phát triển bản thân. Bạn hãy thử nghĩ xem liệu ngoài chốn công sở, bạn đã có một cuộc sống riêng tư chưa. Nếu bạn có thể phân biệt được thời gian cho công việc và thời gian cho bản thân, bạn sẽ tích lũy được nguồn năng lượng cho một chặng đường dài với nhiều dự định trong tương lai.\n\nVì thế hãy thêm vào thời gian biểu của mình những khoảng thời gian nghỉ ngơi, có thể là tham gia hoạt động thể thao hoặc một bộ môn như yoga, thiền, v.vv.. Chúng sẽ giúp các ESTJ tìm ra sự cân bằng cho cuộc sống."
                         },
                     ]
                 },
